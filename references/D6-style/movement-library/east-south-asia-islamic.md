@@ -1,318 +1,318 @@
-# D6 · 流派库 · 东亚·南亚·伊斯兰（21 卡）
+# D6 · Movement Library · East Asia · South Asia · Islam (21 cards)
 
-> 风格流派卡语料的程序化提炼；零来源规约：不含提示词写法、不含出处链接。
-> 同一框架：一句话→核心主张→构图/光色/质感→情绪→色锚→翻车点→关联流派。
-> 用法：风格任务查卡，与 D6/art-movements 的七层拆解/翻车点相反性/混搭仲裁配合。
+> A programmatic distillation of the style-movement card corpus; zero-source rule: no prompt wording, no source links.
+> Same framework: one line → core claim → composition / light and color / texture → emotion → color anchors → failure points → related movements.
+> Use: look up a card for a style task, together with the seven-layer deconstruction / failure-point opposition / mixing arbitration in D6/art-movements.
 
-### 伊斯兰几何纹样 · Islamic Geometric（800–1700｜伊斯兰世界）
+### Islamic Geometric（800–1700 | Islamic world）
 
-> 用圆规和直尺生成无限：星形、多边形、互锁的永恒图案。
+> Generating infinity with compass and straightedge: stars, polygons, interlocking eternal patterns.
 
-- **核心主张**：以圆为基础生成星形与多边形，可无限延展；重复单元与互锁（girih）产生视觉上的无限；避免具象，抽象到什么程度都不为过；瓷砖、木雕、书籍装帧、建筑表面同一套语言
-- **构图**：中心放射或无限重复的网格，边界被刻意模糊
-- **光色**：色彩——青金蓝、绿松石、钴蓝、白、金；平涂对比明确；光影——平面无光；靠色彩的交替与线条的粗细构成节奏
-- **质感**：笔触——无笔触——几何绘图与马赛克拼贴；材质——釉面瓷砖、灰泥雕刻、木格、彩绘手抄本、地毯
-- **情绪**：秩序、无限、冥想性、智性的超越
-- **色锚**：`#1F3A8A` `#2E8B8B` `#B03A2E` `#E8DCC0` `#C9A227` `#1B4A3A`
-- **翻车点**：1）易画不出真正的几何互锁——对策：，按画面意图定制描述以避开；2）容易被加立体感和阴影——对策：显式，在画面描述中显式针对此缺陷
-- **关联流派**：阿拉伯书法、波斯细密画、包豪斯
-
----
-
-### 创作版画 · Sōsaku-hanga（1900–1970｜日本）
-
-> 一个人完成全部工序：自己画、自己刻、自己印，版画从此是个人表达。
-
-- **核心主张**：「自画自刻自印」：艺术家独立完成全流程；反对传统版画的分工制（画师/雕师/印师）；受西方表现主义与个人主义影响；木刻的刀痕与自发的力度被强调
-- **构图**：个体视角、粗犷有力、常带表现主义扭曲
-- **光色**：色彩——少套色或单色，保留木纹与刀痕；有时极简；光影——平面化，靠黑白对比与刀痕密度
-- **质感**：笔触——刀刻的棱角与飞白，手感强烈；材质——木版、和纸、水性颜料或油画颜料手印
-- **情绪**：粗粝、个人、有力、现代的自我主张
-- **色锚**：`#2B2B2B` `#8B6B4A` `#D9CFC0` `#A8432A` `#4A5A6B` `#6B7A5A`
-- **翻车点**：1）和浮世绘区分：创作版画是艺术家独立完成，浮世绘是分工生产；2）容易自动精细化——对策：在画面描述中显式针对此缺陷
-- **关联流派**：浮世绘、新版画、表现主义
+- **Core claim**: circles generate stars and polygons that can extend infinitely; repeating units and interlocking (girih) produce a visual infinity; figuration is avoided, and abstraction can go as far as it likes; tiles, wood carving, book binding, and architectural surfaces share one language
+- **Composition**: central radiation or an infinitely repeating grid, boundaries deliberately blurred
+- **Light and color**: color — lapis blue, turquoise, cobalt, white, gold; flat fills with clear contrast; light — flat, no light; rhythm comes from alternating color and line weight
+- **Texture**: brushwork — no brushwork — geometric drawing and mosaic; materials — glazed tile, stucco carving, wooden lattice, illuminated manuscript, carpet
+- **Emotion**: order, infinity, meditative, intellectual transcendence
+- **Color anchors**: `#1F3A8A` `#2E8B8B` `#B03A2E` `#E8DCC0` `#C9A227` `#1B4A3A`
+- **Failure points**: 1) it easily fails to draw true geometric interlocking — remedy: customize the description to the frame's intent and avoid it; 2) it easily gains three-dimensionality and shadow — remedy: address that defect explicitly in the frame description
+- **Related movements**: Arabic Calligraphy, Persian Miniature, Bauhaus
 
 ---
 
-### 原住民艺术 · Native Art（古代–今｜美洲 / 澳洲 / 大洋洲）
+### Sōsaku-hanga（1900–1970 | Japan）
 
-> 不是装饰，是地图、是律法、是祖先：图案本身就是知识载体。
+> One person does every stage: draws, carves, and prints — the print becomes personal expression.
 
-- **核心主张**：图案承载地理、谱系、律法与仪式知识；点画（dot painting）、图腾、树皮画等独特语汇；抽象与象征高度统一，没有「纯装饰」；与土地所有权和口述传统直接绑定
-- **构图**：俯瞰式地图构图、对称或辐射、图案无限重复
-- **光色**：色彩——澳洲原住民：赭红、土黄、白、黑；北美：绿松石、朱红、黑、米白；光影——平面化，无光影；靠图案的密度与色点区分
-- **质感**：笔触——点、线、同心圆、U 形、动物足迹的符号系统；材质——树皮、沙地、身体彩绘、织物、木雕、珠饰
-- **情绪**：神圣、集体、与土地连接的深沉感
-- **色锚**：`#A8432A` `#C9A25A` `#E8E4DA` `#2B2B2B` `#2E8B8B` `#8B5E2A`
-- **翻车点**：1）伦理提醒：原住民图案常有神圣含义与社群约定，商业挪用是敏感问题；2）容易做成泛化的「部落风」——对策：，在画面描述中显式针对此缺陷
-- **关联流派**：域外艺术、原生艺术、伊斯兰几何纹样、流派总览
-
----
-
-### 大和绘 · Yamato-e（900–1600｜日本）
-
-> 日本本土的叙事绘画：把屋顶掀掉给你看室内，用云把故事切开。
-
-- **核心主张**：吹拔屋台（掀顶俯视）：从上方看进室内；云霞作为分隔与转场，切割叙事段落；四季景物与文学典故（和歌）紧密结合；色彩浓艳、平面化，与唐绘的中国趣味对立
-- **构图**：斜向的云带切割画面、俯视视角、连续叙事展开
-- **光色**：色彩——浓艳的矿物色：朱、群青、绿青、金；平涂无过渡；光影——完全平面，无阴影
-- **质感**：笔触——细腻平涂 + 硬边轮廓；线条均匀流畅；材质——绢本或纸本着色、绘卷、屏风、金箔
-- **情绪**：叙事性、装饰、优雅、带着物语的情调
-- **色锚**：`#B03A2E` `#1F3A8A` `#3E7A6B` `#C9A227` `#E8DCC0` `#8B6B4A`
-- **翻车点**：1）容易加室内透视——对策：显式，在画面描述中显式针对此缺陷；2）必须保留俯视掀顶视角——对策：composition 写 fukinuki yatai, roofless perspective
-- **关联流派**：浮世绘、琳派、波斯细密画、流派总览
+- **Core claim**: "self-drawn, self-carved, self-printed": the artist completes the whole process alone; against the traditional division of labor (designer / carver / printer); influenced by Western Expressionism and individualism; the gouge mark and spontaneous force of the woodcut are stressed
+- **Composition**: an individual viewpoint, coarse and forceful, often with Expressionist distortion
+- **Light and color**: color — few plates or monochrome, preserving wood grain and gouge marks; sometimes extremely minimal; light — flattened, relying on black-white contrast and the density of gouge marks
+- **Texture**: brushwork — the angularity and dry-brush streaks of the gouge, a strong hand feel; materials — woodblock, washi, water-based or oil pigment hand-printed
+- **Emotion**: coarse, personal, forceful, the modern assertion of the self
+- **Color anchors**: `#2B2B2B` `#8B6B4A` `#D9CFC0` `#A8432A` `#4A5A6B` `#6B7A5A`
+- **Failure points**: 1) distinguishing it from ukiyo-e: in Sōsaku-hanga the artist completes everything; ukiyo-e is divided production; 2) it easily becomes automatically refined — remedy: address that defect explicitly in the frame description
+- **Related movements**: Ukiyo-e, Shin-hanga, Expressionism
 
 ---
 
-### 宋代院体画 · Song Academic Painting（960–1279｜中国）
+### Native Art（Ancient–present | Americas / Australia / Oceania）
 
-> 中国写实绘画的巅峰：一花一鸟一山，都被观察到极致再被提纯。
+> Not decoration but map, law, and ancestor: the pattern itself is the carrier of knowledge.
 
-- **核心主张**：格物致知：对自然的观察精确到物种级别；「形似」与「气韵」并重，写实但不琐碎；边角构图（马一角、夏半边），大量留白；诗画一律，画面背后有文学意境
-- **构图**：边角式、对角线，大面积空白，主体精简到一两个
-- **光色**：色彩——淡雅含蓄：淡墨、花青、赭石、石绿；不事浓艳；光影——无光源，用墨色浓淡与留白营造空气与空间
-- **质感**：笔触——皴法成熟（斧劈皴、披麻皴），笔法精密而有力；材质——绢本或纸本水墨淡彩、细笔、团扇与册页
-- **情绪**：清冷、精微、诗意、宇宙秩序的静观
-- **色锚**：`#3A3A38` `#5A7A8B` `#A8752A` `#7A9A7A` `#D9D5CC` `#E8E4DA`
-- **翻车点**：1）容易填满画面——对策：按画面意图定制描述以避开；2）容易做成日本水墨——对策：，按画面意图定制描述以避开
-- **关联流派**：水墨写意、工笔重彩、日本水墨画（禅画）
-
----
-
-### 工笔重彩 · Gongbi（600–1900｜中国）
-
-> 极细的线、层层罩染的色，把一朵花一只鸟画到比照片更精致。
-
-- **核心主张**：工笔：精细勾勒轮廓线（白描）后层层分染；「三矾九染」：多次薄涂叠加出厚重感；花鸟、仕女、宫廷生活为主要题材；装饰性与写实性并重，追求「形神兼备」
-- **构图**：主体居中或偏侧，折枝式构图，背景常留白或填以纹样
-- **光色**：色彩——层层罩染的浓艳色：胭脂、花青、藤黄、石绿；色不压线；光影——无光源，立体感由分染的渐变产生，极其微妙
-- **质感**：笔触——极细均匀的游丝描、铁线描；几乎看不到笔痕；材质——绢本或熟宣、矿物与植物颜料、泥金、蛤粉
-- **情绪**：精致、典雅、静谧、带着宫廷的克制
-- **色锚**：`#B03A5A` `#2B4C8B` `#E8C020` `#3E8A6B` `#C9A227` `#F2EDE4`
-- **翻车点**：1）容易画成写意——对策：按画面意图定制描述以避开；2）细节密度不足——对策：，按画面意图定制描述以避开
-- **关联流派**：青绿山水、水墨写意、宋代院体画、流派总览
+- **Core claim**: patterns carry geographic, genealogical, legal, and ritual knowledge; distinctive vocabularies such as dot painting, totem, and bark painting; abstraction and symbolism highly unified, with no "pure decoration"; directly bound to land ownership and oral tradition
+- **Composition**: a top-down map composition, symmetry or radiation, infinitely repeating pattern
+- **Light and color**: color — Australian Aboriginal: ochre red, earth yellow, white, black; North American: turquoise, vermilion, black, cream; light — flattened, no light and shade; distinction comes from pattern density and color dots
+- **Texture**: brushwork — a sign system of dots, lines, concentric circles, U shapes, animal tracks; materials — bark, sand, body paint, fabric, wood carving, beadwork
+- **Emotion**: sacred, collective, a deep sense of connection to the land
+- **Color anchors**: `#A8432A` `#C9A25A` `#E8E4DA` `#2B2B2B` `#2E8B8B` `#8B5E2A`
+- **Failure points**: 1) ethical note: Aboriginal patterns often carry sacred meaning and community protocols; commercial appropriation is a sensitive issue; 2) it easily becomes a generic "tribal style" — remedy: address that defect explicitly in the frame description
+- **Related movements**: Outsider Art, Art Brut, Islamic Geometric, movement overview
 
 ---
 
-### 敦煌壁画 · Dunhuang Murals（400–1400｜中国敦煌）
+### Yamato-e（900–1600 | Japan）
 
-> 丝绸之路上的千年颜料库：飞天、藻井、经变，土红与石青的盛大交响。
+> Japan's own narrative painting: lifting the roof to show the interior, cutting the story apart with clouds.
 
-- **核心主张**：飞天（apsaras）与伎乐天：飘带定义运动；经变画：把整部佛经铺成一幅巨型叙事；凹凸法（天竺遗法）：用色块叠晕表现体积；千年层累，不同朝代风格叠加在同一窟
-- **构图**：满壁铺陈、对称的藻井图案、围绕主尊的放射式叙事
-- **光色**：色彩——土红底 + 石青石绿 + 黑褐；因氧化变色而成就独特调子；光影——无真实光源，用色块的晕染（叠晕）暗示体积
-- **质感**：笔触——铁线描 + 凹凸晕染；粗放有力；材质——土坯墙泥壁、矿物颜料、动物胶、金箔
-- **情绪**：盛大、绚丽、宗教性的迷醉、时间侵蚀的苍古
-- **色锚**：`#A8432A` `#1F5FA8` `#3E8A6B` `#2B2318` `#C9A227` `#D9CFC0`
-- **翻车点**：1）容易做成干净的现代插画——对策：，在画面描述中显式针对此缺陷；2）色彩容易过艳——对策：明确 oxidised, earth red ground, aged
-- **关联流派**：西藏唐卡、工笔重彩、拜占庭艺术
-
----
-
-### 新版画 · Shin-hanga（1915–1960｜日本）
-
-> 浮世绘的复活：保留传统分工，但加上西方光影与浪漫情绪。
-
-- **核心主张**：保留传统分工制（画师/雕师/印师）；引入西方的透视、光影与氛围描写；题材：风景、美人、歌舞伎，带黄昏与夜景的抒情；出口欧美市场，川濑巴水与吉田博为代表
-- **构图**：写实透视与日式构图并存、孤独的旅人、雨雪夜色
-- **光色**：色彩——柔和的渐变（ぼかし）：暮色紫、月白、靛青；光影——电灯、月光、雨雾的氛围光——这是浮世绘没有的
-- **质感**：笔触——精细的雕版与渐变印刷，线条干净；材质——木版、和纸、多色渐变印刷、云母粉
-- **情绪**：抒情、孤独、怀旧、旅途的惆怅
-- **色锚**：`#3A4A6B` `#8B7A9A` `#1F3A6E` `#C9A25A` `#E8E4DA` `#5A6B5A`
-- **翻车点**：1）和浮世绘区分：新版画有西方的氛围光与渐变，浮世绘是平涂；2）容易丢掉渐变——对策：明确 bokashi gradation, atmospheric lighting
-- **关联流派**：浮世绘、创作版画、色调主义
+- **Core claim**: fukinuki yatai (roofless perspective): looking down into the interior; mist and clouds serve as division and transition, cutting narrative passages; seasonal scenery tightly bound to literary allusion (waka); rich color, flattened, in opposition to the Chinese taste of kara-e
+- **Composition**: oblique cloud bands cutting the frame, a looking-down viewpoint, continuous narrative unfolding
+- **Light and color**: color — rich mineral colors: vermilion, ultramarine, malachite, gold; flat fills with no transition; light — completely flat, no shadow
+- **Texture**: brushwork — fine flat fills plus hard-edged contours; even, fluent lines; materials — color on silk or paper, handscroll, folding screen, gold leaf
+- **Emotion**: narrative, decorative, elegant, with the mood of a tale
+- **Color anchors**: `#B03A2E` `#1F3A8A` `#3E7A6B` `#C9A227` `#E8DCC0` `#8B6B4A`
+- **Failure points**: 1) it easily gains interior perspective — remedy: address that defect explicitly in the frame description; 2) the roofless looking-down viewpoint must be kept — remedy: write fukinuki yatai, roofless perspective in the composition field
+- **Related movements**: Ukiyo-e, Rimpa, Persian Miniature, movement overview
 
 ---
 
-### 日本水墨画（禅画） · Suiboku-ga（1300–1600｜日本）
+### Song Academic Painting（960–1279 | China）
 
-> 用最少的墨画最多的空气：空白不是没画，是雾、是水、是无限。
+> The peak of Chinese realism: a flower, a bird, a mountain — observed to the limit, then purified.
 
-- **核心主张**：留白即内容，余白承载雾气、水面、天空；墨的浓淡层次（墨分五色）取代颜色；笔法即人格，禅僧的即兴泼墨；受中国宋元水墨影响后的本土化，更简、更拙
-- **构图**：大面积极简留白，主体偏置一角，常有「边角构图」
-- **光色**：色彩——只有墨的层次：焦、浓、重、淡、清；偶尔一点淡彩；光影——无光源，明暗由墨的浓淡与留白构成
-- **质感**：笔触——有力、快速、不可修改；飞白、破墨、泼墨；材质——纸本或绢本水墨、粗笔、淡彩
-- **情绪**：简淡、孤寂、出尘、禅意
-- **色锚**：`#1A1A1A` `#4A4A4A` `#8A8A85` `#D9D5CC` `#E8E4DA` `#7A8A7A`
-- **翻车点**：1）容易把留白填满——对策：按画面意图定制描述以避开；2）容易加彩色——对策：按画面意图定制描述以避开
-- **关联流派**：水墨写意、琳派、浮世绘、侘寂
-
----
-
-### 本土主义（拉丁美洲） · Indigenism（1920–1950｜墨西哥 / 秘鲁 / 安第斯）
-
-> 把原住民放回画面的中心：不是奇观，而是民族的主体。
-
-- **核心主张**：以原住民为民族认同的核心与艺术主体；与壁画运动并行，但更聚焦安第斯与中美洲；融合前哥伦布艺术的造型与色彩；常带政治解放与社会正义的诉求
-- **构图**：纪念碑式的人物、集体场景、织物纹样填充
-- **光色**：色彩——浓烈的土色与织物色：赭红、靛蓝、玉米黄、黑；光影——平面化与块面化，常无立体塑造
-- **质感**：笔触——块面明确、形体概括、带民间艺术的直接性；材质——布面油画、壁画、版画、织物
-- **情绪**：庄严、集体、有尊严的抗争与土地情感
-- **色锚**：`#A8432A` `#2B4C8B` `#E8C020` `#2B2B2B` `#5A8A4A` `#C98A4A`
-- **翻车点**：1）和壁画运动区分：本土主义更聚焦原住民身份与安第斯传统；2）避免异域化——对策：，在画面描述中显式针对此缺陷
-- **关联流派**：墨西哥壁画运动、社会现实主义、原住民艺术
+- **Core claim**: "studying things to attain knowledge": observation of nature precise to the species level; "formal likeness" and "resonant spirit" equally weighted, realistic but never petty; corner composition (Ma's one corner, Xia's half side), large negative space; poetry and painting as one, a literary mood behind the image
+- **Composition**: corner-style, diagonal, large areas of blank, the subject reduced to one or two things
+- **Light and color**: color — pale and restrained: light ink, indigo, ochre, mineral green; never rich; light — no source; ink density and negative space build air and space
+- **Texture**: brushwork — mature texture strokes (axe-cut, hemp-fiber), precise and forceful brushwork; materials — ink and light color on silk or paper, fine brush, round fan and album leaf
+- **Emotion**: cool, refined, poetic, a quiet contemplation of cosmic order
+- **Color anchors**: `#3A3A38` `#5A7A8B` `#A8752A` `#7A9A7A` `#D9D5CC` `#E8E4DA`
+- **Failure points**: 1) it easily fills the frame — remedy: customize the description to the frame's intent and avoid it; 2) it easily becomes Japanese ink wash — remedy: customize the description to the frame's intent and avoid it
+- **Related movements**: Ink Wash Xieyi, Gongbi, Suiboku-ga
 
 ---
 
-### 水墨写意 · Ink Wash Xieyi（900–1900｜中国）
+### Gongbi（600–1900 | China）
 
-> 不求形似求神韵：几笔下去，竹子的风骨就出来了。
+> Extremely fine lines, layer upon layer of glaze — a flower or a bird painted more delicately than a photograph.
 
-- **核心主张**：写意：以少胜多，笔不到意到；墨分五色，用浓淡干湿替代颜色；文人画传统：诗、书、画、印合一；笔墨即人品，讲究「气韵生动」
-- **构图**：大面积留白，主体偏侧，题跋与印章参与构图
-- **光色**：色彩——水墨为主，偶施浅绛或淡青；极少重彩；光影——无光源，虚实由墨色浓淡和留白生成
-- **质感**：笔触——书法性用笔：中锋、侧锋、皴擦点染；速度与力度可见；材质——宣纸（生纸渗墨）、绢、毛笔、墨、朱印
-- **情绪**：疏淡、孤高、文人气的清冷与自持
-- **色锚**：`#1A1A1A` `#5A5A55` `#9A968C` `#E8E4DA` `#A8432A` `#8A7A5A`
-- **翻车点**：1）容易填满留白并加彩——对策：在画面描述中显式针对此缺陷；2）容易丢掉书法性用笔——对策：，在画面描述中显式针对此缺陷
-- **关联流派**：日本水墨画（禅画）、青绿山水、宋代院体画、侘寂
-
----
-
-### 波斯细密画 · Persian Miniature（1200–1700｜伊朗 / 中亚）
-
-> 没有透视的彩色花园：金色天空、平面堆叠的空间、每一寸都画满。
-
-- **核心主张**：平面堆叠空间：远处的人不一定比近处小；金色或宝石色天空， idealized 花园与建筑；书法与绘画共存于同一页，边框装饰繁复；文学叙事（列王纪、五卷诗）为主要载体
-- **构图**：高视点俯视、多层堆叠、装饰性边框、不填满不罢休
-- **光色**：色彩——宝石般饱和：青金蓝、朱红、翠绿、金；平涂无过渡；光影——完全没有阴影与光源，一切平面化
-- **质感**：笔触——极细的笔，勾线后平涂；细节密集；材质——纸本、水彩与金箔、书法墨线、装帧皮革
-- **情绪**：华美、叙事、感官、装饰性的繁复
-- **色锚**：`#1F3A8A` `#B03A2E` `#3E8A6B` `#C9A227` `#6B3FA0` `#E8DCC0`
-- **翻车点**：1）容易加透视和阴影——对策：显式，在画面描述中显式针对此缺陷；2）容易被做成印度或阿拉伯风——对策：强调 safavid, lapis gold sky, persian manuscript
-- **关联流派**：莫卧儿细密画、伊斯兰几何纹样、阿拉伯书法、大和绘
+- **Core claim**: gongbi: fine contour drawing (baimiao) followed by layer-by-layer washes; "three alumings and nine washes": repeated thin coats build weight; flowers and birds, court ladies, and palace life are the main subjects; decorative and realistic at once, aiming at "form and spirit both"
+- **Composition**: the subject centered or offset, a broken-branch composition, the background often left blank or filled with pattern
+- **Light and color**: color — rich colors built by layering: rouge, indigo, gamboge, mineral green; color never overpowers the line; light — no source; volume comes from the extremely subtle gradient of the washes
+- **Texture**: brushwork — extremely fine, even "spring-silk" and "iron-wire" lines; brush traces almost invisible; materials — silk or sized paper, mineral and vegetable pigments, gold paint, shell white
+- **Emotion**: refined, elegant, tranquil, with courtly restraint
+- **Color anchors**: `#B03A5A` `#2B4C8B` `#E8C020` `#3E8A6B` `#C9A227` `#F2EDE4`
+- **Failure points**: 1) it easily comes out as xieyi — remedy: customize the description to the frame's intent and avoid it; 2) insufficient detail density — remedy: customize the description to the frame's intent and avoid it
+- **Related movements**: Blue-Green Landscape, Ink Wash Xieyi, Song Academic Painting, movement overview
 
 ---
 
-### 浮世绘 · Ukiyo-e（1670–1900｜日本）
+### Dunhuang Murals（400–1400 | Dunhuang, China）
 
-> 江户的平面设计：无阴影、粗轮廓、大胆裁切，直接塑造了梵高和现代海报。
+> A thousand-year pigment vault on the Silk Road: apsaras, coffered ceilings, sutra illustrations — a grand symphony of earth red and azurite.
 
-- **核心主张**：无西方透视，用层叠平面和斜线制造纵深；平涂色块 + 清晰墨线轮廓，完全没有明暗塑造；大胆的非对称裁切，主体常被画框切断；题材：美人、歌舞伎、名所风景、妖怪
-- **构图**：非对称、斜向、被裁切的前景元素（帘、枝、浪）框住主题
-- **光色**：色彩——靛蓝（普鲁士蓝）、朱红、赭黄、墨黑、米纸底；色块干净平整；光影——无阴影、无体积光；光靠颜色和留白暗示
-- **质感**：笔触——版画式的平涂 + 有力度的墨线；线条本身有粗细节奏；材质——木版画、和纸纤维、墨线、套色印刷的轻微错位
-- **情绪**：明快、装饰性、有时幽默或怪诞
-- **色锚**：`#1F3A6E` `#B03A2E` `#C9A227` `#2B2B2B` `#E8DCC0` `#4A7C6F`
-- **翻车点**：1）容易加渐变和阴影——对策：按画面意图定制描述以避开；2）容易被做成「动漫风」——对策：，按画面意图定制描述以避开
-- **关联流派**：新艺术运动、印象派
-
----
-
-### 琳派 · Rimpa（1600–1900｜日本）
-
-> 日本装饰艺术的顶点：金箔底、大胆留白、把四季压缩成一个平面。
-
-- **核心主张**：金银箔底 + 极简色块，装饰性压倒叙事；「たらし込み」：颜料在湿面上自然渗开的技术；大胆留白与截断式构图，母题常被画框切掉；四季花草、流水、鸟兽被高度图案化
-- **构图**：大胆留白、非对称、母题溢出画外、屏风式的连续展开
-- **光色**：色彩——金箔底 + 少量高纯度矿物色：朱、群青、绿青、白；光影——完全平面，无阴影无光源；金箔本身反射环境光
-- **质感**：笔触——平涂 + 渗墨效果；轮廓柔和或干脆省略；材质——金箔纸本或绢本、矿物颜料、屏风、色纸
-- **情绪**：华丽、优雅、季节感、装饰性的愉悦
-- **色锚**：`#C9A227` `#B03A2E` `#1F3A8A` `#3E7A6B` `#E8DCC0` `#2B2B2B`
-- **翻车点**：1）容易加立体和阴影——对策：显式，在画面描述中显式针对此缺陷；2）容易变成普通日本画——对策：显式，在画面描述中显式针对此缺陷
-- **关联流派**：浮世绘、日本水墨画（禅画）、新艺术运动、流派总览
+- **Core claim**: apsaras and celestial musicians: ribbons define motion; sutra illustrations: an entire Buddhist sutra laid out as one giant narrative; the "relief method" (the Indian technique): volume built by layered color washes; a thousand years of accretion, styles of different dynasties layered in the same cave
+- **Composition**: full-wall coverage, symmetrical coffered patterns, radial narrative around the main deity
+- **Light and color**: color — earth-red ground plus azurite and malachite plus black-brown; oxidation has produced a unique tonality; light — no real source; volume hinted by layered washes
+- **Texture**: brushwork — iron-wire lines plus relief shading; coarse and forceful; materials — mud-plaster wall over rammed earth, mineral pigments, animal glue, gold leaf
+- **Emotion**: grand, gorgeous, religious rapture, the antiquity of time's erosion
+- **Color anchors**: `#A8432A` `#1F5FA8` `#3E8A6B` `#2B2318` `#C9A227` `#D9CFC0`
+- **Failure points**: 1) it easily becomes a clean modern illustration — remedy: address that defect explicitly in the frame description; 2) colors easily turn too vivid — remedy: specify oxidised, earth red ground, aged
+- **Related movements**: Tibetan Thangka, Gongbi, Byzantine Art
 
 ---
 
-### 禅艺术 · Zen Art（1200–今｜日本 / 东亚）
+### Shin-hanga（1915–1960 | Japan）
 
-> 圆相、枯山水、墨迹：用最少的动作表达最完整的当下。
+> The revival of ukiyo-e: the traditional division of labor kept, with Western light and shadow and romantic mood added.
 
-- **核心主张**：圆相（ensō）：一笔画成的圆，不完美即完整；枯山水：用砂石代替水，极简到只剩关系；墨迹与即兴书写，笔迹即心迹；拒绝修饰与完成感
-- **构图**：大面积极简、不对称、留白占主导
-- **光色**：色彩——几乎无色：墨黑、砂白、石灰、苔绿；光影——极柔和或完全平面；枯山水靠砂纹的明暗
-- **质感**：笔触——一笔连续；飞白、枯笔、速度可见；材质——宣纸、墨、砂石、苔、原木、竹
-- **情绪**：静、空、不完美、当下的专注
-- **色锚**：`#1A1A1A` `#8A8A85` `#E8E4DA` `#5A7A5A` `#A89878` `#D9D5CC`
-- **翻车点**：1）和日本水墨画区分：禅艺术更强调修行行为与极简，水墨画是更大的绘画传统；2）容易加装饰——对策：显式，在画面描述中显式针对此缺陷
-- **关联流派**：日本水墨画（禅画）、侘寂、水墨写意、光与空间运动
-
----
-
-### 莫卧儿细密画 · Mughal Miniature（1550–1750｜印度）
-
-> 波斯技法遇上印度观察力：肖像精确到胡须，花园对称到强迫症。
-
-- **核心主张**：融合波斯装饰性与印度本土的自然观察；写实肖像与动物研究，精确度极高；对称的查哈巴格（四分花园）与建筑景观；金箔点缀、细腻晕染并存
-- **构图**：对称的宫廷或花园场景，或侧身肖像，边框装饰
-- **光色**：色彩——温暖而饱和：赭金、朱红、青金、草绿；比波斯更暖；光影——轻微晕染塑造体积，但无强烈光源
-- **质感**：笔触——极细笔，晕染层次比波斯细密画更柔和；材质——纸本水彩与金箔、细笔晕染、镶边册页
-- **情绪**：尊贵、精微、富丽、帝国的自信
-- **色锚**：`#C9A227` `#B03A2E` `#1F3A8A` `#5A8A4A` `#8B5E2A` `#E8DCC0`
-- **翻车点**：1）和波斯细密画混淆——对策：莫卧儿更暖、更写实、更强调肖像精确度；2）容易加透视——对策：按画面意图定制描述以避开
-- **关联流派**：波斯细密画、伊斯兰几何纹样
+- **Core claim**: keeping the traditional division of labor (designer / carver / printer); introducing Western perspective, light and shade, and atmospheric description; subjects: landscape, beauty, kabuki, with the lyricism of dusk and night; exported to Europe and America, represented by Kawase Hasui and Yoshida Hiroshi
+- **Composition**: realistic perspective coexisting with Japanese composition, a solitary traveler, rain, snow, and night
+- **Light and color**: color — soft gradation (bokashi): dusk violet, moon white, indigo; light — lamplight, moonlight, the atmospheric light of rain and mist — something ukiyo-e never had
+- **Texture**: brushwork — fine carving and gradation printing, clean lines; materials — woodblock, washi, multi-color gradation printing, mica powder
+- **Emotion**: lyrical, lonely, nostalgic, the melancholy of travel
+- **Color anchors**: `#3A4A6B` `#8B7A9A` `#1F3A6E` `#C9A25A` `#E8E4DA` `#5A6B5A`
+- **Failure points**: 1) distinguishing it from ukiyo-e: Shin-hanga has Western atmospheric light and gradation; ukiyo-e is flat; 2) it easily loses the gradation — remedy: specify bokashi gradation, atmospheric lighting
+- **Related movements**: Ukiyo-e, Sōsaku-hanga, Tonalism
 
 ---
 
-### 萨法维绘画 · Safavid Painting（1501–1736｜伊朗）
+### Suiboku-ga（1300–1600 | Japan）
 
-> 波斯细密画的高峰：塔赫马斯普的《列王纪》里，每一页都是一座花园。
+> Painting the most air with the least ink: the blank is not unpainted — it is mist, water, infinity.
 
-- **核心主张**：萨法维王朝宫廷书坊的黄金时代；《列王纪》等史诗的巨型插图项目；色彩更艳、线条更细密、装饰更繁复；单页画（muraqqa）与肖像画兴起
-- **构图**：高视点俯瞰、多层堆叠、装饰边框与书法并存
-- **光色**：色彩——青金蓝、朱红、翠绿、金；饱和度极高且平涂；光影——无阴影，平面堆叠；金箔与银箔点缀
-- **质感**：笔触——极细的毛笔，勾线后平涂；细节密度惊人；材质——纸本、水彩与金箔、泥金装饰、皮革装帧
-- **情绪**：华美、叙事、宫廷的富丽与文学性
-- **色锚**：`#1F3A8A` `#B03A2E` `#3E8A6B` `#C9A227` `#6B3FA0` `#E8DCC0`
-- **翻车点**：1）和波斯细密画区分：萨法维是其中一个王朝时期，色彩更艳、项目更大；2）容易加透视——对策：在画面描述中显式针对此缺陷
-- **关联流派**：波斯细密画、莫卧儿细密画、伊斯兰几何纹样、流派总览
-
----
-
-### 西藏唐卡 · Tibetan Thangka（1100–1900｜西藏 / 喜马拉雅）
-
-> 用矿物颜料在布上画出整个宇宙：严格的度量、饱和的色、金色的光。
-
-- **核心主张**：严格的造像度量经（iconometry），比例不可随意；中心主尊 + 环绕的坛城式构图；矿物颜料饱和持久，金线勾边；既是艺术品也是修行工具
-- **构图**：中心对称、放射状环绕、坛城（mandala）几何结构
-- **光色**：色彩——极高饱和的矿物色：朱砂红、石青、石绿、金；对比强烈；光影——无光源，用金线和色块边界区分层次
-- **质感**：笔触——极细勾线 + 平涂；金线勾边（描金）是标志；材质——棉布或丝绸、矿物颜料、动物胶、金箔、锦缎装裱
-- **情绪**：庄严、神圣、震慑、冥想性的强烈
-- **色锚**：`#B03A2E` `#1F5FA8` `#3E8A6B` `#C9A227` `#2B2B33` `#E8DCC0`
-- **翻车点**：1）容易加透视和柔和光——对策：在画面描述中显式针对此缺陷；2）色彩容易不够饱和——对策：明确 highly saturated mineral pigments, cinnabar, azurite
-- **关联流派**：敦煌壁画、拜占庭艺术、伊斯兰几何纹样
+- **Core claim**: negative space as content; the emptiness carries mist, water surface, sky; ink's tonal layers (ink in five tones) replace color; brushwork as character, the Zen monk's improvised splashed ink; localized after Chinese Song-Yuan ink wash, simpler and more awkward
+- **Composition**: large areas of extremely minimal negative space, the subject set in one corner, often a "corner composition"
+- **Light and color**: color — only ink's layers: burnt, dense, heavy, light, clear; occasionally a touch of pale color; light — no source; light and shade built from ink density and negative space
+- **Texture**: brushwork — forceful, fast, unamendable; dry-brush streaks, broken ink, splashed ink; materials — ink on paper or silk, coarse brush, pale color
+- **Emotion**: simple and pale, solitary, unworldly, Zen
+- **Color anchors**: `#1A1A1A` `#4A4A4A` `#8A8A85` `#D9D5CC` `#E8E4DA` `#7A8A7A`
+- **Failure points**: 1) it easily fills the negative space — remedy: customize the description to the frame's intent and avoid it; 2) it easily adds color — remedy: customize the description to the frame's intent and avoid it
+- **Related movements**: Ink Wash Xieyi, Rimpa, Ukiyo-e, Wabi-Sabi
 
 ---
 
-### 阿拉伯书法 · Arabic Calligraphy（700–1800｜伊斯兰世界）
+### Indigenism（1920–1950 | Mexico / Peru / Andes）
 
-> 文字即图像：一笔连绵的线条既是语言，也是最高级的装饰。
+> Putting the Indigenous back at the center of the frame: not spectacle but the subject of the nation.
 
-- **核心主张**：库法体、三一体、誊抄体等书体各有严格比例；文字可塑成动物、船只、建筑的形状（图形式书法）；与几何纹样、金箔共同构成书页装饰；书法被视为最高等的艺术形式
-- **构图**：文字本身构成构图；边框为繁复的几何与花卉纹
-- **光色**：色彩——墨黑或金 + 青金蓝与朱红装饰底；对比强烈；光影——无光影，平面
-- **质感**：笔触——芦苇笔的粗细变化；线条流畅连贯、粗细有韵律；材质——纸本、羊皮纸、金墨、泥金装饰（ilumination）
-- **情绪**：庄严、虔诚、韵律感、抽象的美
-- **色锚**：`#C9A227` `#1A1A1A` `#1F3A8A` `#B03A2E` `#2E8B8B` `#E8DCC0`
-- **翻车点**：1）容易生成乱码般的假文字——对策：说明这是装饰性书法，接受抽象化，但要写 rhythmic flowing line；2）容易缺少泥金边框——对策：，显式写出相反的画面特征
-- **关联流派**：伊斯兰几何纹样、波斯细密画、流派总览、分类索引-东亚·南亚·伊斯兰
-
----
-
-### 青绿山水 · Blue-Green Landscape（600–1600｜中国）
-
-> 用石青石绿把山水画成仙境：金碧辉煌的矿物色千年不褪。
-
-- **核心主张**：石青、石绿为主色，泥金勾线，富丽堂皇；散点透视，可游可居的连续空间；山石用勾勒填色而非皴法，装饰性强；多为宫廷或宗教用途，指向理想化的仙境
-- **构图**：高远/深远/平远三法，长卷或立轴，层层递进
-- **光色**：色彩——石青（蓝铜矿）+ 石绿（孔雀石）+ 泥金，配赭石与朱砂；光影——无光源，靠矿物色的明度与金色勾线区分层次
-- **质感**：笔触——细线勾勒轮廓后填色；山石有装饰性纹路；材质——绢本或纸本重彩、矿物颜料、泥金、青绿设色
-- **情绪**：富丽、仙气、庄严、理想化的自然
-- **色锚**：`#1F5FA8` `#3E8A6B` `#C9A227` `#A8752A` `#B03A2E` `#E8DCC0`
-- **翻车点**：1）容易做成水墨单色——对策：按画面意图定制描述以避开；2）容易加西式透视——对策：按画面意图定制描述以避开
-- **关联流派**：水墨写意、工笔重彩、宋代院体画
+- **Core claim**: Indigenous peoples as the core of national identity and the subject of art; parallel with the mural movement but more focused on the Andes and Mesoamerica; fusing pre-Columbian form and color; often carrying demands for political liberation and social justice
+- **Composition**: monumental figures, collective scenes, fabric patterns filling the frame
+- **Light and color**: color — intense earth and textile colors: ochre red, indigo, corn yellow, black; light — flattened and blocky, often without modelling
+- **Texture**: brushwork — clear blocks, summarized forms, with the directness of folk art; materials — oil on canvas, mural, print, fabric
+- **Emotion**: solemn, collective, dignified struggle and love of the land
+- **Color anchors**: `#A8432A` `#2B4C8B` `#E8C020` `#2B2B2B` `#5A8A4A` `#C98A4A`
+- **Failure points**: 1) distinguishing it from Muralism: Indigenism focuses more on Indigenous identity and Andean tradition; 2) avoid exoticization — remedy: address that defect explicitly in the frame description
+- **Related movements**: Muralism, Social Realism, Native Art
 
 ---
 
-### 韩国民画 · Minhwa（1392–1900｜朝鲜半岛）
+### Ink Wash Xieyi（900–1900 | China）
 
-> 朝鲜民间的吉祥画：老虎画得像狗，山峰像花，天真得可爱。
+> Not formal likeness but spirit: a few strokes and the bamboo's character is there.
 
-- **核心主张**：民间吉祥主题：虎、鹊、牡丹、莲花、日月、寿石；造型天真、比例自由，不追求写实；色彩明快、平涂无阴影；屏风式成套构图（十长生、册架图、花鸟图）
-- **构图**：屏风多幅并列、中心对称、母题重复排列
-- **光色**：色彩——明快平涂：朱红、靛蓝、草绿、明黄、白；对比鲜明但不刺眼；光影——完全平面，无阴影
-- **质感**：笔触——民间画工的直率用笔，勾勒后平涂，偶有墨线；材质——纸本或绢本着色、屏风、水墨淡彩
-- **情绪**：天真、吉祥、乐观、质朴的民间趣味
-- **色锚**：`#B03A2E` `#2B4C8B` `#5A9A4A` `#E8C020` `#E8DCC0` `#1A1A1A`
-- **翻车点**：1）容易把老虎画得太写实——对策：强调 naively stylised, folk painting, free proportion；2）容易丢掉屏风格式——对策：composition 写 multi-panel screen
-- **关联流派**：浮世绘、琳派、工笔重彩
+- **Core claim**: xieyi: the few defeat the many, the brush stops short and the intent arrives; ink in five tones, density and wetness replacing color; the literati tradition: poetry, calligraphy, painting, and seal as one; brush and ink are character, "resonant spirit and lively qi" is the aim
+- **Composition**: large negative space, the subject offset, inscription and seal participating in the composition
+- **Light and color**: color — mainly ink, occasionally pale ochre or light blue; heavy color very rare; light — no source; solid and void generated by ink density and negative space
+- **Texture**: brushwork — calligraphic brushwork: centered and side tip, texture-rubbing and dotting; speed and force visible; materials — xuan paper (raw paper absorbing ink), silk, brush, ink, vermilion seal
+- **Emotion**: sparse and pale, solitary and lofty, the literati's cool self-possession
+- **Color anchors**: `#1A1A1A` `#5A5A55` `#9A968C` `#E8E4DA` `#A8432A` `#8A7A5A`
+- **Failure points**: 1) it easily fills the negative space and adds color — remedy: address that defect explicitly in the frame description; 2) it easily loses calligraphic brushwork — remedy: address that defect explicitly in the frame description
+- **Related movements**: Suiboku-ga, Blue-Green Landscape, Song Academic Painting, Wabi-Sabi
+
+---
+
+### Persian Miniature（1200–1700 | Iran / Central Asia）
+
+> A colored garden with no perspective: golden sky, flat stacked space, every inch painted.
+
+- **Core claim**: flat stacked space: a distant figure is not necessarily smaller than a near one; a gold or jewel-toned sky, idealized gardens and architecture; calligraphy and painting share the page, borders elaborately decorated; literary narrative (the Shahnameh, the Khamsa) is the main vehicle
+- **Composition**: high looking-down viewpoint, multiple stacked layers, decorative borders, never satisfied until full
+- **Light and color**: color — jewel-like saturation: lapis blue, vermilion, emerald, gold; flat fills with no transition; light — no shadow and no source at all, everything flattened
+- **Texture**: brushwork — an extremely fine brush, contour first then flat fill; dense detail; materials — paper, watercolor and gold leaf, calligraphic ink lines, leather binding
+- **Emotion**: sumptuous, narrative, sensuous, decorative intricacy
+- **Color anchors**: `#1F3A8A` `#B03A2E` `#3E8A6B` `#C9A227` `#6B3FA0` `#E8DCC0`
+- **Failure points**: 1) it easily adds perspective and shadow — remedy: address that defect explicitly in the frame description; 2) it easily becomes Indian or Arab style — remedy: stress safavid, lapis gold sky, persian manuscript
+- **Related movements**: Mughal Miniature, Islamic Geometric, Arabic Calligraphy, Yamato-e
+
+---
+
+### Ukiyo-e（1670–1900 | Japan）
+
+> Edo's graphic design: no shadow, thick contours, bold cropping — it directly shaped Van Gogh and the modern poster.
+
+- **Core claim**: no Western perspective; depth made by stacked planes and oblique lines; flat color blocks plus clear ink contours, with no modelling at all; bold asymmetrical cropping, the subject often cut by the frame; subjects: beauties, kabuki, famous places, monsters
+- **Composition**: asymmetrical, oblique, cropped foreground elements (curtain, branch, wave) framing the subject
+- **Light and color**: color — indigo (Prussian blue), vermilion, ochre yellow, ink black, rice-paper ground; blocks clean and flat; light — no shadow, no volumetric light; light hinted by color and negative space
+- **Texture**: brushwork — print-like flat fill plus forceful ink lines; the lines themselves have a rhythm of thick and thin; materials — woodblock print, washi fiber, ink lines, the slight misregistration of color plates
+- **Emotion**: bright, decorative, sometimes humorous or grotesque
+- **Color anchors**: `#1F3A6E` `#B03A2E` `#C9A227` `#2B2B2B` `#E8DCC0` `#4A7C6F`
+- **Failure points**: 1) it easily adds gradients and shadows — remedy: customize the description to the frame's intent and avoid it; 2) it easily becomes "anime style" — remedy: customize the description to the frame's intent and avoid it
+- **Related movements**: Art Nouveau, Impressionism
+
+---
+
+### Rimpa（1600–1900 | Japan）
+
+> The apex of Japanese decorative art: gold-leaf ground, bold negative space, four seasons compressed onto one plane.
+
+- **Core claim**: gold and silver leaf ground plus minimal color blocks, decoration overriding narrative; "tarashikomi": pigment spreading naturally on a wet surface; bold negative space and truncated composition, motifs often cut off by the frame; seasonal flowers, flowing water, birds, and beasts highly patterned
+- **Composition**: bold negative space, asymmetry, motifs running beyond the frame, screen-like continuous unfolding
+- **Light and color**: color — gold-leaf ground plus a few high-purity mineral colors: vermilion, ultramarine, malachite, white; light — completely flat, no shadow and no source; the gold leaf itself reflects ambient light
+- **Texture**: brushwork — flat fill plus ink-spread effects; contours soft or simply omitted; materials — gold leaf on paper or silk, mineral pigments, folding screen, colored paper
+- **Emotion**: gorgeous, elegant, seasonal, decorative delight
+- **Color anchors**: `#C9A227` `#B03A2E` `#1F3A8A` `#3E7A6B` `#E8DCC0` `#2B2B2B`
+- **Failure points**: 1) it easily adds volume and shadow — remedy: address that defect explicitly in the frame description; 2) it easily becomes ordinary Japanese painting — remedy: address that defect explicitly in the frame description
+- **Related movements**: Ukiyo-e, Suiboku-ga, Art Nouveau, movement overview
+
+---
+
+### Zen Art（1200–present | Japan / East Asia）
+
+> Ensō, dry landscape, ink traces: the fewest actions expressing the most complete present moment.
+
+- **Core claim**: ensō: a circle in one stroke, imperfect and therefore complete; dry landscape (karesansui): sand and stone instead of water, reduced to bare relations; ink traces and improvised writing, the trace is the mind; refusing embellishment and finish
+- **Composition**: extremely minimal, asymmetrical, negative space dominant
+- **Light and color**: color — almost absent: ink black, sand white, lime, moss green; light — extremely soft or completely flat; the dry landscape relies on the light and shade of raked sand
+- **Texture**: brushwork — one continuous stroke; dry-brush streaks, withered brush, visible speed; materials — xuan paper, ink, sand and stone, moss, raw wood, bamboo
+- **Emotion**: still, empty, imperfect, present-moment focus
+- **Color anchors**: `#1A1A1A` `#8A8A85` `#E8E4DA` `#5A7A5A` `#A89878` `#D9D5CC`
+- **Failure points**: 1) distinguishing it from Suiboku-ga: Zen Art stresses the practice and the extreme minimalism more; ink wash is a larger painting tradition; 2) it easily adds decoration — remedy: address that defect explicitly in the frame description
+- **Related movements**: Suiboku-ga, Wabi-Sabi, Ink Wash Xieyi, Light and Space
+
+---
+
+### Mughal Miniature（1550–1750 | India）
+
+> Persian technique meets Indian observation: portraits precise to the beard, gardens symmetrical to the point of compulsion.
+
+- **Core claim**: fusing Persian decoration with Indian natural observation; highly precise realistic portraits and animal studies; symmetrical chaharbagh (four-part gardens) and architectural landscapes; gold-leaf accents and delicate washes coexisting
+- **Composition**: symmetrical court or garden scenes, or profile portraits, with decorated borders
+- **Light and color**: color — warm and saturated: ochre gold, vermilion, lapis, grass green; warmer than Persian; light — slight washes give volume, but no strong source
+- **Texture**: brushwork — an extremely fine brush, washes softer than in Persian miniature; materials — watercolor and gold leaf on paper, fine-brush washes, bordered album pages
+- **Emotion**: noble, refined, opulent, imperial confidence
+- **Color anchors**: `#C9A227` `#B03A2E` `#1F3A8A` `#5A8A4A` `#8B5E2A` `#E8DCC0`
+- **Failure points**: 1) confused with Persian Miniature — remedy: Mughal is warmer, more realistic, and stresses portrait precision more; 2) it easily adds perspective — remedy: customize the description to the frame's intent and avoid it
+- **Related movements**: Persian Miniature, Islamic Geometric
+
+---
+
+### Safavid Painting（1501–1736 | Iran）
+
+> The peak of Persian miniature: in Tahmasp's Shahnameh, every page is a garden.
+
+- **Core claim**: the golden age of the Safavid court workshop; giant illustration projects of epics such as the Shahnameh; more vivid color, finer lines, more elaborate decoration; the rise of the single-page album painting (muraqqa) and portraiture
+- **Composition**: high looking-down viewpoint, multiple stacked layers, decorative borders coexisting with calligraphy
+- **Light and color**: color — lapis blue, vermilion, emerald, gold; extremely high saturation and flat; light — no shadow, flat stacking; gold and silver leaf accents
+- **Texture**: brushwork — an extremely fine brush, contour then flat fill; astonishing detail density; materials — paper, watercolor and gold leaf, gold-paint decoration, leather binding
+- **Emotion**: sumptuous, narrative, courtly opulence and literariness
+- **Color anchors**: `#1F3A8A` `#B03A2E` `#3E8A6B` `#C9A227` `#6B3FA0` `#E8DCC0`
+- **Failure points**: 1) distinguishing it from Persian Miniature: Safavid is one dynastic period within it, with more vivid color and larger projects; 2) it easily adds perspective — remedy: address that defect explicitly in the frame description
+- **Related movements**: Persian Miniature, Mughal Miniature, Islamic Geometric, movement overview
+
+---
+
+### Tibetan Thangka（1100–1900 | Tibet / Himalaya）
+
+> Painting an entire cosmos in mineral pigment on cloth: strict iconometry, saturated color, golden light.
+
+- **Core claim**: strict iconometric canon, proportions not free to change; a central deity plus a mandala-like surrounding composition; mineral pigments saturated and lasting, gold lines outlining; both an artwork and a tool for practice
+- **Composition**: central symmetry, radial surround, mandala geometric structure
+- **Light and color**: color — extremely saturated mineral colors: cinnabar red, azurite, malachite, gold; strong contrast; light — no source; layers distinguished by gold lines and color-block boundaries
+- **Texture**: brushwork — extremely fine outlining plus flat fill; gold-line outlining (gilding) is the signature; materials — cotton or silk, mineral pigments, animal glue, gold leaf, brocade mounting
+- **Emotion**: solemn, sacred, awe-inspiring, meditative intensity
+- **Color anchors**: `#B03A2E` `#1F5FA8` `#3E8A6B` `#C9A227` `#2B2B33` `#E8DCC0`
+- **Failure points**: 1) it easily adds perspective and soft light — remedy: address that defect explicitly in the frame description; 2) the color easily lacks saturation — remedy: specify highly saturated mineral pigments, cinnabar, azurite
+- **Related movements**: Dunhuang Murals, Byzantine Art, Islamic Geometric
+
+---
+
+### Arabic Calligraphy（700–1800 | Islamic world）
+
+> The word as image: a continuous line that is both language and the highest decoration.
+
+- **Core claim**: scripts such as Kufic, Thuluth, and Naskh each have strict proportions; letters can be shaped into animals, boats, and buildings (figurative calligraphy); together with geometric patterns and gold leaf they form the decorated page; calligraphy is regarded as the highest art form
+- **Composition**: the text itself constitutes the composition; borders of elaborate geometric and floral ornament
+- **Light and color**: color — ink black or gold plus lapis and vermilion decorative grounds; strong contrast; light — no light and shade, flat
+- **Texture**: brushwork — the thick-thin variation of the reed pen; lines fluent and connected, with rhythmic weight; materials — paper, parchment, gold ink, gold-paint illumination
+- **Emotion**: solemn, devout, rhythmic, abstract beauty
+- **Color anchors**: `#C9A227` `#1A1A1A` `#1F3A8A` `#B03A2E` `#2E8B8B` `#E8DCC0`
+- **Failure points**: 1) it easily generates gibberish-like fake text — remedy: state that this is decorative calligraphy, accept abstraction, but write rhythmic flowing line; 2) it easily lacks the gilded border — remedy: state the opposite frame features explicitly
+- **Related movements**: Islamic Geometric, Persian Miniature, movement overview, category index — East Asia · South Asia · Islam
+
+---
+
+### Blue-Green Landscape（600–1600 | China）
+
+> Painting mountains and rivers as a fairy realm in azurite and malachite: mineral colors that do not fade for a thousand years.
+
+- **Core claim**: azurite and malachite as the main colors, gold-paint outlines, sumptuous; scattered perspective, a continuous space you can wander and dwell in; mountains outlined and filled rather than textured, strongly decorative; mostly for court or religious use, pointing to an idealized paradise
+- **Composition**: the three methods of high distance / deep distance / level distance, handscroll or hanging scroll, advancing layer by layer
+- **Light and color**: color — azurite (blue copper ore) plus malachite plus gold paint, with ochre and cinnabar; light — no source; layers distinguished by the value of mineral colors and gold outlines
+- **Texture**: brushwork — fine contour lines followed by color fill; the mountains carry decorative veining; materials — heavy color on silk or paper, mineral pigments, gold paint, blue-green coloring
+- **Emotion**: sumptuous, ethereal, solemn, idealized nature
+- **Color anchors**: `#1F5FA8` `#3E8A6B` `#C9A227` `#A8752A` `#B03A2E` `#E8DCC0`
+- **Failure points**: 1) it easily comes out as monochrome ink wash — remedy: customize the description to the frame's intent and avoid it; 2) it easily adds Western perspective — remedy: customize the description to the frame's intent and avoid it
+- **Related movements**: Ink Wash Xieyi, Gongbi, Song Academic Painting
+
+---
+
+### Minhwa（1392–1900 | Korean peninsula）
+
+> Korean folk painting: a tiger painted like a dog, peaks like flowers — innocently charming.
+
+- **Core claim**: folk auspicious themes: tiger, magpie, peony, lotus, sun and moon, longevity rock; naïve forms, free proportions, not aiming at realism; bright color, flat with no shadow; screen sets (ten symbols of longevity, bookshelf still life, flowers and birds)
+- **Composition**: multi-panel screens side by side, central symmetry, motifs repeated in rows
+- **Light and color**: color — bright flat fills: vermilion, indigo, grass green, bright yellow, white; distinct contrast without glare; light — completely flat, no shadow
+- **Texture**: brushwork — the folk painter's direct brush, outline then flat fill, occasionally ink lines; materials — color on paper or silk, folding screen, ink and light color
+- **Emotion**: innocent, auspicious, optimistic, plain folk delight
+- **Color anchors**: `#B03A2E` `#2B4C8B` `#5A9A4A` `#E8C020` `#E8DCC0` `#1A1A1A`
+- **Failure points**: 1) it easily paints the tiger too realistically — remedy: stress naively stylised, folk painting, free proportion; 2) it easily loses the screen format — remedy: write multi-panel screen in the composition field
+- **Related movements**: Ukiyo-e, Rimpa, Gongbi
