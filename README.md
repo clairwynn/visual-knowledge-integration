@@ -66,3 +66,13 @@ A single task usually needs only a few files: fix the function and experience ti
 - The knowledge base is self-contained, cites no external sources, and is written as an English edition alongside the preserved Chinese original in `zh/`.
 - All criteria address visual cognition; none involves parameters or syntax of any specific image-generation model.
 - File paths, section numbering, and the structure of the knowledge domains are identical between the English root and `zh/`, so either edition can be read against the other.
+
+## License
+
+This work is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**. You are free to share and adapt the material for any purpose, including commercially, provided you give appropriate credit to `clairwynn`, link to the license, and indicate whether changes were made. The full legal text is in [`LICENSE`](LICENSE); the license summary is at https://creativecommons.org/licenses/by/4.0/.
+
+Copyright (c) 2026 clairwynn.
+
+## Translation
+
+The root edition is English; the Chinese original is archived under [`zh/`](zh/) with identical structure. Terminology conventions and the bilingual mapping are documented in [`TRANSLATION-NOTES.md`](TRANSLATION-NOTES.md).
