@@ -1,68 +1,68 @@
-# D4 · 取景空间（Framing Room）
+# D4 · Framing Room
 
-> 本文件管：headroom（顶上空间）四档、lead room（视线/动势留白）三用法、 nose room、逼角构图与反惯例取景、多镜头序列的取景一致性。
-> 怎么用：主体位置定稿前的最后一道微调——四边余量各留多少、朝向侧给不给路。
+> This file covers: the four grades of headroom, the three uses of lead room (space for gaze and momentum), nose room, tight-corner framing and counter-conventional framing, and framing consistency across a sequence.
+> How to use: the last fine adjustment before the subject's position is locked — how much margin on each of the four edges, and whether the facing side gets a road.
 
-## 定义
+## Definition
 
-取景空间＝主体与画框四边之间的余量设计：头顶空间（headroom）、视线留白（lead room / look room）、动势留白（motion room）、鼻前空间（nose room）。余量不是"剩下的"，是"设计的"。
+Framing room = the margin design between the subject and the four frame edges: headroom, lead room / look room, motion room, and nose room. The margin is not "what is left over" but "what is designed".
 
-## 机制
+## Mechanism
 
-主体贴框=幽闭与紧张；余量过大=主体渺小与脱焦。而**余量的方向**携带心理语义：视线前方留白，观者跟随画中人视线"看向留白里的未来"；背后留白过多而视线前方贴墙=撞墙感（心理阻塞）。余量设计即"给不安留缝，给前路留白"。
+A subject pressed against the frame = claustrophobia and tension; excessive margin = a small, unfocused subject. And **the direction of the margin** carries psychological meaning: space ahead of the gaze lets the viewer follow the figure's look "into the future inside the emptiness"; too much space behind with the gaze pressed to the frame = a wall-hitting feel (psychological blockage). Margin design is "leave a gap for unease, leave a road for what is ahead".
 
-## 判据
+## Criteria
 
-### Headroom 四档（头顶空间，经验值）
+### The four headroom grades (rules of thumb)
 
-| 档 | 余量 | 语义 | 适用 |
+| Grade | Margin | Semantics | Use |
 |---|---|---|---|
-| 无顶（cut tight） | 发际贴框或微切 | 逼压、特写冲击 | 填充式特写 |
-| 标准 | 头顶留 5–10% 画幅 | 中性自然 | 人像默认 |
-| 宽松 | 10–20% | 环境感、从容 | 中景/全身 |
-| 压顶（headroom 过量） | >20% 且主体偏下 | 下坠、压抑、被吞没 | 仅情绪宣言用 |
+| No top (cut tight) | Hairline on the frame or slightly cropped | Pressure, close-up impact | Fill-the-frame close-up |
+| Standard | 5–10% of the frame above the head | Neutral, natural | Portrait default |
+| Generous | 10–20% | Environmental, unhurried | Medium / full shot |
+| Pressed top (excess headroom) | >20% with the subject low | Sinking, oppressive, swallowed | Emotional declaration only |
 
-判据：标准档下视线落在画面上 1/3 与眼睛线附近；压顶与无顶都是宣言，需意图背书。
+Criterion: at the standard grade the gaze sits near the upper third and the eye line; both pressed top and no top are declarations and need intent behind them.
 
-### Lead room 三用法
+### The three uses of lead room
 
-1. **视线留白（look room）**：画中人视线前方留 20–35%（经验值）余量，方向与视线一致——"他在看什么"由留白回答。视线侧贴框=心理撞墙（合法用于困局叙事）。
-2. **动势留白（motion room）**：运动体前方留白（行走/车辆/飞鸟）——"将去往哪"；运动后方贴框=加速度被画框吃掉。
-3. **对话留白**：双人相向时的中间区既是 lead room 又是关系场（留白宽=疏离，窄=紧张）。
-4. **纵向留白**：上方留白=升华与神性（悬浮、超脱感）；下方留白=漂浮与失重——纵向同样有方向语义，不只左右（与 D1/spatial-allocation 方向性留白联动）。
+1. **Look room**: 20–35% margin ahead of the figure's gaze (rule of thumb), in the direction of the look — "what he is looking at" is answered by the emptiness. The gaze side pressed to the frame = a psychological wall (legitimate for narratives of entrapment).
+2. **Motion room**: space ahead of a moving body (walker, vehicle, bird) — "where it is going"; the back pressed to the frame means the frame eats the acceleration.
+3. **Dialogue room**: the middle zone between two facing figures is both lead room and relationship field (wide emptiness = distance, narrow = tension).
+4. **Vertical room**: emptiness above = elevation and divinity (floating, transcendent); emptiness below = drifting and weightlessness — the vertical axis carries directional semantics too, not only left and right (linked to directional negative space in D1/spatial-allocation).
 
-### Nose room（侧面像的鼻前空间）
+### Nose room (space ahead of the nose in a profile)
 
-侧面特写中鼻尖朝向侧留白（与 lead room 同理）：鼻前贴框=画被"削"，心理堵塞。
+In a profile close-up, leave emptiness on the side the nose points toward (the same logic as lead room): a nose pressed to the frame means the picture is "shaved off" and psychologically blocked.
 
-### 逼角与反惯例取景（合法的"错误"）
+### Tight-corner and counter-conventional framing (legitimate "errors")
 
-- 四边全逼（无余量四边贴）：幽闭宣言。
-- 视线侧无留白：困局、抑郁叙事专用。
-- 头顶裁切至眉：叛逆/压迫宣言。
-判据：反惯例取景必须整体配套（影调、角度同步紧张），孤立使用读作失误。
+- All four edges pressed (no margin anywhere): a declaration of claustrophobia.
+- No room on the gaze side: reserved for narratives of entrapment and depression.
+- Cropping the head down to the brow: a declaration of rebellion or oppression.
+Criterion: counter-conventional framing must be supported across the frame (tonality and angle tense in step); used in isolation it reads as a mistake.
 
-### 序列取景一致性
+### Framing consistency across a sequence
 
-- 同序列景别相近的帧，headroom 档位保持一致（忽松忽紧=跳感）。
-- 朝向变化时 lead room 跟随换边（见 sequence 的朝向连续）。
+- Frames of similar shot size in one sequence keep the same headroom grade (loose then tight = a jump).
+- When facing changes, lead room follows to the other side (see facing continuity in sequence).
 
-## 边界
+## Boundaries
 
-- lead room 与负空间同源不同职：负空间管情绪量（留多少），lead room 管心理方向（留哪边）——两者配合，不重复计算。
-- 竖幅人像的 lead room 在上下轴（头顶/脚下）同样生效：脚下留白=地面感，脚下贴框=悬空。
-- 余量档位受画幅约束：竖幅头顶天然紧（画幅被身高占满），优先保头侧。
+- Lead room and negative space share a source but differ in job: negative space governs the amount of emotion (how much emptiness), lead room governs the psychological direction (which side it sits on) — they work together and are not double-counted.
+- In a vertical portrait lead room also works on the vertical axis (above the head / under the feet): emptiness under the feet = a sense of ground, feet pressed to the frame = floating.
+- Margin grades are constrained by the aspect ratio: in a vertical frame the top is naturally tight (the height is filled by the body), so protect the head side first.
 
-## 反例
+## Counterexamples
 
-- 反例 1：人物望右但右侧贴框、左侧大片空——视线撞墙，画面"憋"。修法：镜像翻转或挪主体。
-- 反例 2：全身像头顶留 30%——压顶感，人像下坠。修法：收紧到 10% 或裁到标准档。
-- 反例 3：奔跑者前方贴框——动势被截断，读作"即将撞墙"（若非此意图即事故）。
+- Counterexample 1: the figure looks right while the right edge is pressed and a large emptiness sits on the left — the gaze hits a wall and the frame feels stifled. Fix: mirror-flip or move the subject.
+- Counterexample 2: a full-body portrait with 30% headroom — a pressed-top feel, and the figure sinks. Fix: tighten to 10%, or crop to the standard grade.
+- Counterexample 3: a runner pressed against the front edge — the momentum is cut off and reads as "about to hit a wall" (an accident unless that is the intent).
 
-## 与其他文件的连接
+## Connections to other files
 
-- 留白的量与质地：见 D1/spatial-allocation
-- 视线作为隐性引导线：见 D1/visual-path
-- 头部裁切禁忌：见 D1/edges-cropping
-- 序列朝向连续：见 modes/function/sequence.md
-- 取景心理学的流派面：见 modes/schools/cinematic-director.md
+- The amount and texture of emptiness: see D1/spatial-allocation
+- The gaze as an implicit leading line: see D1/visual-path
+- Head-cropping prohibitions: see D1/edges-cropping
+- Facing continuity across a sequence: see modes/function/sequence.md
+- The school side of framing psychology: see modes/schools/cinematic-director.md

@@ -1,63 +1,63 @@
-# D4 · 透视学（Perspective）
+# D4 · Perspective
 
-> 本文件管：0/1/2/3 点透视的适用条件、灭点布局、透视缩短、透视常见错误与修法。
-> 怎么用：画面含建筑/街道/室内等强几何空间时的空间骨架设计；透视错误是"画面歪"的重灾区。
+> This file covers: the applicable conditions of 0/1/2/3-point perspective, vanishing-point layout, foreshortening, and the common perspective errors with their fixes.
+> How to use: designing the spatial skeleton when a frame contains strong geometric space (architecture, streets, interiors); perspective errors are a major source of "the frame looks crooked".
 
-## 定义
+## Definition
 
-线性透视（linear perspective）＝三维空间在二维画面上的几何投影规则：平行线向灭点（vanishing point）汇聚，物体按距离缩放。按灭点数分 0/1/2/3 点透视。
+Linear perspective = the geometric rules by which three-dimensional space is projected onto a two-dimensional frame: parallel lines converge toward a vanishing point, and objects scale with distance. Divided by the number of vanishing points into 0/1/2/3-point perspective.
 
-## 机制
+## Mechanism
 
-透视是深度最"硬"的线索（几何保证），与大气透视（D1/depth-layering）互补：几何管结构、大气管氛围。灭点的位置决定空间的"心理方向"——灭点在画面内=空间有去处（邀请进入），灭点在画外=空间延展未知（悬念或开放）。
+Perspective is depth's "hardest" cue (geometrically guaranteed), complementary to atmospheric perspective (D1/depth-layering): geometry governs structure, atmosphere governs mood. The position of the vanishing point determines the space's "psychological direction" — a vanishing point inside the frame means the space has somewhere to go (an invitation to enter), outside the frame means the extension is unknown (suspense or openness).
 
-## 判据
+## Criteria
 
-### 四种透视适用表
+### Applicability table for the four perspective types
 
-| 类型 | 结构 | 适用 | 判据 |
+| Type | Structure | Use | Criteria |
 |---|---|---|---|
-| 0 点透视 | 无汇聚（正视平面/超远焦压缩） | 平面图案、正立面、长焦压缩景 | 平行线保持平行 |
-| 1 点透视 | 一组平行线汇聚单灭点 | 街道纵深、走廊、隧道、铁路 | 灭点常与主体/视平线交点重合 |
-| 2 点透视 | 两组平行线各一灭点（视角斜看建筑） | 建筑外立面、街角 | 两灭点都在视平线上；垂直线保持垂直 |
-| 3 点透视 | 加第三组（垂直线也汇聚） | 仰视高楼/俯视深谷 | 极端视角专用；畸变宣言式使用 |
+| 0-point | No convergence (frontal plane / very long focal compression) | Flat pattern, frontal facade, long-lens compressed scene | Parallel lines stay parallel |
+| 1-point | One set of parallel lines converges to a single vanishing point | Street depth, corridor, tunnel, railway | The vanishing point often coincides with the subject or the horizon intersection |
+| 2-point | Two sets of parallel lines, one vanishing point each (viewing a building obliquely) | Building facades, street corners | Both vanishing points sit on the horizon line; verticals stay vertical |
+| 3-point | A third set added (verticals also converge) | Looking up at tall buildings / down into a valley | Extreme viewpoints only; distortion used as declaration |
 
-### 灭点布局规则
+### Vanishing-point layout rules
 
-1. 灭点与主体重合（街道尽头的人）＝聚焦最强；灭点空置＝画面"走进虚空"（悬念合法，意图要明）。
-2. 1 点透视的灭点宜偏离几何中心（居中灭点+对称街道是合法庄重解；非对称街道则灭点偏置更活）。
-3. 2 点透视的两灭点都在视平线；一个在画内一个在画外是常见自然态。
-4. 视平线（horizon line）=所有灭点所在的水平线＝观者眼高。改变视平线高度即改变"观看者身高"（低机位=灭点低、物体仰耸）。
+1. Vanishing point coinciding with the subject (a person at the end of the street) = the strongest focus; an empty vanishing point = the frame "walks into the void" (suspense is legitimate, but the intent must be clear).
+2. In 1-point perspective the vanishing point should sit off the geometric center (a centered vanishing point with a symmetrical street is a legitimate grave solution; with an asymmetrical street, an offset vanishing point is livelier).
+3. In 2-point perspective both vanishing points sit on the horizon line; one inside and one outside the frame is a common natural state.
+4. The horizon line = the horizontal line on which all vanishing points sit = the viewer's eye height. Changing the horizon's height changes "the viewer's height" (a low position = low vanishing point, objects towering upward).
 
-### 透视缩短（foreshortening）
+### Foreshortening
 
-朝向观者（或背离）的肢体/物体沿视线方向压缩——手臂指向镜头时手臂"变短变大"。判据：缩短方向与透视一致（近端大远端小），缩短体量与位置要胆大心准——半吊子的缩短读作畸形。
+A limb or object facing the viewer (or turning away) compresses along the line of sight — an arm pointing at the lens becomes "shorter and larger". Criterion: the direction of shortening matches the perspective (near end large, far end small), and the amount and position of shortening must be bold and precise — a half-hearted foreshortening reads as deformity.
 
-### 透视四错（高频错误与修法）
+### The four perspective errors (high-frequency faults and fixes)
 
-| 错 | 症状 | 修法 |
+| Error | Symptom | Fix |
 |---|---|---|
-| 灭点漂移 | 同组平行线汇向两处 | 全画面先定视平线，一切汇聚线校到线上 |
-| 垂直失守 | 2 点透视里楼体后仰 | 垂直线保持垂直（广角仰拍的后仰是 3 点透视行为，混用即歪楼） |
-| 尺度矛盾 | 近物与远物缩放不符 | 以视平线高度+地格推近远；人是最准的量尺 |
-| 贴地错位 | 物体与地面接触点错乱 | 落点沿地面网格走；影子接地（见 multi-subject 锚定） |
+| Vanishing-point drift | Parallel lines of the same set converge to two places | Fix the horizon line for the whole frame first, then correct every converging line to it |
+| Vertical failure | In 2-point perspective the building leans backward | Keep verticals vertical (the backward lean of a wide-angle upward shot is 3-point behaviour; mixing them tilts the building) |
+| Scale contradiction | Near and far objects do not scale consistently | Derive near and far from horizon height plus a ground grid; a person is the most accurate ruler |
+| Ground-contact misplacement | The contact points between objects and ground are wrong | Walk the contact points along the ground grid; shadows touch the ground (see anchoring in multi-subject) |
 
-## 边界
+## Boundaries
 
-- 透视是"西画几何体系"；东方散点/平面化透视（移动视点、无灭点）是合法并行体系——平面宣言时灭点让位于层次与留白（见 eastern-painting 流派）。
-- 鱼眼/超广的曲线畸变是透视的极端分支：作为风格宣言使用，不与线性透视混判。
-- 画面元素少时（极简、天空）透视可隐身，不必强造。
+- Perspective is a "Western painting geometry"; Eastern scattered-point or flattened perspective (a moving viewpoint, no vanishing point) is a legitimate parallel system — when the frame is a flat declaration, the vanishing point yields to layering and negative space (see the eastern-painting school).
+- Fisheye and ultra-wide curvilinear distortion are an extreme branch of perspective: use them as a stylistic declaration and do not judge them together with linear perspective.
+- When the frame has few elements (minimal, sky), perspective may stay invisible; there is no need to force it.
 
-## 反例
+## Counterexamples
 
-- 反例 1：街道 1 点透视的两侧建筑汇聚线不交于一点——空间"拧着"。修法：先画视平线，双侧线校到同一灭点。
-- 反例 2：仰视大楼（3 点透视意图）但垂直线全平行——既不庄重也不高耸，"没起来"。修法：真 3 点（垂直线向天顶汇）或退回 2 点。
-- 反例 3：桌上茶杯的落点比桌沿"悬空"——地面网格没管住它。修法：落点回到桌面平面内，补接地影。
+- Counterexample 1: the two side buildings of a 1-point street do not converge to one point — the space "twists". Fix: draw the horizon line first and correct both sides to the same vanishing point.
+- Counterexample 2: looking up at a tower (intending 3-point perspective) while all verticals stay parallel — neither grave nor towering, it "does not rise". Fix: true 3-point (verticals converging to the zenith), or retreat to 2-point.
+- Counterexample 3: a teacup on a table whose contact point floats above the table edge — the ground grid did not hold it. Fix: bring the contact point back into the tabletop plane and add a contact shadow.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 大气透视（氛围面的纵深）：见 D1/depth-layering
-- 焦段与透视结构：见 focal-length
-- 灭点作为视觉路径终点：见 D1/visual-path
-- 1 点透视的庄重用法：见 modes/schools/classical-academy.md
-- 透视错误诊断：见 D7/fault-library
+- Atmospheric perspective (the mood side of depth): see D1/depth-layering
+- Focal length and perspective structure: see focal-length
+- The vanishing point as the endpoint of a visual path: see D1/visual-path
+- The grave use of 1-point perspective: see modes/schools/classical-academy.md
+- Diagnosis of perspective errors: see D7/fault-library

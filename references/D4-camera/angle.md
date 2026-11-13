@@ -1,62 +1,62 @@
-# D4 · 机位角度语义（Camera Angle Semantics）
+# D4 · Camera Angle Semantics
 
-> 本文件管：六种基本机位角度的情绪与权力语义、角度进程、荷兰角（倾斜）的度数语义、角度选择的"先情绪后机位"决策法。
-> 怎么用：景别定了"多大"，角度定"从哪看"；机位是态度，先决定态度再定角度。
+> This file covers: the emotional and power semantics of the six basic camera angles, angle progression, the degree semantics of the Dutch angle (tilt), and the "emotion first, position second" decision method.
+> How to use: shot size fixes "how much", angle fixes "from where"; the camera position is an attitude — decide the attitude before the angle.
 
-## 定义
+## Definition
 
-机位角度（camera angle）＝视点相对于主体的位置关系，含高度轴（平/仰/俯）与地平轴（水平/倾斜）。角度是画面的"态度声明"：谁在看、以什么心理位置看。
+Camera angle = the positional relation of the viewpoint to the subject, comprising the height axis (level / low / high) and the horizon axis (level / tilted). The angle is the frame's "statement of attitude": who is looking, and from what psychological position.
 
-## 机制
+## Mechanism
 
-角度的语义来自身体经验：仰视儿童看大人（敬畏），俯视成人看儿童（怜护）。画面复用这套身体记忆——仰拍让主体获得体量与权力，俯拍让主体变得可支配与脆弱，平视是平等对话。角度是**权力的语法**。
+The semantics of angle come from bodily experience: a child looking up at an adult (awe), an adult looking down at a child (protectiveness). The frame reuses this bodily memory — a low angle gives the subject mass and power, a high angle makes the subject manageable and vulnerable, eye level is an equal conversation. Angle is **the grammar of power**.
 
-## 判据
+## Criteria
 
-### 六角度语义表（共识值）
+### Six-angle semantics table (consensus values)
 
-| 角度 | 语义 | 典型画面 | 风险 |
+| Angle | Semantics | Typical frame | Risk |
 |---|---|---|---|
-| 平视 eye level | 平等、客观、诚实 | 叙事默认档 | 最"无聊"，需靠其他维度救 |
-| 低角度/仰拍 low angle | 支配、威仪、英雄、压迫感 | 领袖、建筑、反派 | 过度=滑稽崇高；注意畸变 |
-| 高角度/俯拍 high angle | 脆弱、渺小、全知 | 弱者、群像、桌面 | 情绪反转需意图明确 |
-| 垂直俯拍（顶视/bird's-eye） | 图案、抽离、上帝视角 | 平铺美食、地图感、城市 | 人物变形、情感抽离 |
-| 贴地（虫视/worm's-eye） | 极端仰视、巨物感、异质感 | 草丛昆虫视角、纪念碑 | 畸变极大，宣言式使用 |
-| 过肩 OTS | 介入、对话、窥视 | 双人叙事 | 前景肩部要虚化不抢戏 |
+| Eye level | Equality, objectivity, honesty | The narrative default | The "most boring"; needs other dimensions to rescue it |
+| Low angle | Dominance, majesty, heroism, pressure | Leaders, architecture, villains | Overdone = comic sublime; watch distortion |
+| High angle | Vulnerability, smallness, omniscience | The weak, group portraits, tabletops | Emotional inversion needs clear intent |
+| Vertical top-down (bird's-eye) | Pattern, detachment, the god's view | Flat-lay food, map feel, city | Figures deform, emotion detaches |
+| Worm's-eye (ground level) | Extreme upward view, giant-object feel, otherness | Insects in grass, monuments | Enormous distortion; declaration-only use |
+| Over-the-shoulder OTS | Intervention, dialogue, voyeurism | Two-person narrative | The foreground shoulder must be defocused so it does not steal |
 
-### 荷兰角（Dutch angle，倾斜）
+### Dutch angle (tilt)
 
-- **度数语义（经验值）**：≤10° 微倾=不安初起；15–30°=明显失衡、紧张、主观错乱；>45°=宣言式混乱（坠落、疯癫）。日常画面 0°。
-- 地平线倾斜的画面，全片（全序）倾斜度需一致——同序列内一帧 5° 一帧 25° 即失控。
-- 倾斜角与运动方向配合：顺动势倾斜加成，逆动势倾斜读作摔。
+- **Degree semantics (rules of thumb)**: ≤10° slight tilt = unease beginning; 15–30° = clear imbalance, tension, subjective disorientation; >45° = declarative chaos (falling, madness). Everyday frames sit at 0°.
+- In a frame with a tilted horizon, the tilt must be consistent across the whole film or sequence — 5° in one frame and 25° in the next is loss of control.
+- Tilt and direction of movement work together: tilting with the momentum amplifies it, tilting against it reads as falling.
 
-### 角度进程（同一序列的角度叙事）
+### Angle progression (angle narrative within a sequence)
 
-从仰到俯的进程读作"权力/处境变化"：英雄登场用仰，英雄落幕用俯——序列中角度的变化本身就是叙事线（见 sequence）。
+A progression from low to high reads as "a change of power or circumstance": a hero enters on a low angle and exits on a high angle — the change of angle across a sequence is itself a narrative line (see sequence).
 
-### "先情绪后机位"决策法
+### The "emotion first, position second" method
 
-1. 写下对主体的态度（敬畏/怜惜/平等/窥视/压迫）；
-2. 查表取角度；
-3. 与景别（shot-size）合成完整机位：如"中景+平视=朋友叙述""全景+低角度=英雄登场"；
-4. 校验：角度语义与画面情绪目标一致（错配即事故）。
+1. Write down the attitude toward the subject (awe / tenderness / equality / voyeurism / oppression);
+2. Look up the angle in the table;
+3. Combine with the shot size (shot-size) into a complete position, e.g. "medium + eye level = a friend narrating", "full + low angle = a hero entering";
+4. Verify: the angle's semantics matches the frame's emotional target (a mismatch is an accident).
 
-## 边界
+## Boundaries
 
-- 平视不是无能：纪实与生活流刻意用平视守中立（立场选择）。
-- 仰拍的人像下颌畸变、俯拍的头大腿短是物理后果：讨好人像避开极端轴，或用焦段补偿（见 focal-length）。
-- 角度语义有文化稳定度，但可被叙事反转（用俯拍表达"被凝视的压迫感"）——反转须整体配套。
+- Eye level is not incompetence: documentary and slice-of-life work deliberately hold eye level to stay neutral (a choice of stance).
+- A low-angle portrait distorts the jaw and a high-angle one enlarges the head while shortening the legs — physical consequences: flattering portraits avoid the extreme axes or compensate with focal length (see focal-length).
+- Angle semantics are culturally stable but can be inverted by narrative (using a high angle to express "the pressure of being gazed at") — an inversion must be supported across the whole frame.
 
-## 反例
+## Counterexamples
 
-- 反例 1：想拍企业领袖却用高角度俯拍——观者心理上"俯视"了主体，权威感尽失。修法：平视微仰。
-- 反例 2：美食俯拍用了 45° 斜角还想要图案感——图案需要垂直俯拍（正顶视），斜角是"用餐者视角"，两意图混淆。
-- 反例 3：荷兰角 30° 配宁静田园——失衡语义覆盖宁静。修法：回 0°，或改叙事。
+- Counterexample 1: an attempt at a corporate leader shot with a high angle — the viewer psychologically looks down on the subject and authority evaporates. Fix: eye level with a slight upward tilt.
+- Counterexample 2: a flat-lay food shot at a 45° angle that also wants a pattern feel — pattern requires a vertical top-down (true bird's-eye); the oblique angle is the "diner's view" and the two intents are confused.
+- Counterexample 3: a 30° Dutch angle on a serene pastoral scene — the semantics of imbalance override the calm. Fix: return to 0°, or change the narrative.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 景别（第一轴）：见 shot-size
-- 焦段畸变补偿：见 focal-length
-- 视线留白（朝向第三轴）：见 framing-room
-- 朝向一致与序列轴线：见 modes/function/sequence.md
-- 角度即态度的流派展开：见 modes/schools/cinematic-director.md
+- Shot size (the first axis): see shot-size
+- Focal-length distortion compensation: see focal-length
+- Lead room (the third axis, facing): see framing-room
+- Facing consistency and the sequence axis: see modes/function/sequence.md
+- Angle as attitude, developed by the school: see modes/schools/cinematic-director.md

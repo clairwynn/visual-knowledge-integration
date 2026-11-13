@@ -1,65 +1,65 @@
-# D4 · 焦段语义（Focal Length Semantics）
+# D4 · Focal Length Semantics
 
-> 本文件管：常用焦段的空间结构效应（24/35/50/85/135 等）、透视夸张与压缩、焦段×题材配对、焦段与人像畸变。
-> 怎么用：需要指定"镜头感"时按焦段语义选择；焦段改变的不只是放大倍率，是空间关系本身。
+> This file covers: the spatial-structure effects of common focal lengths (24 / 35 / 50 / 85 / 135 and so on), perspective exaggeration and compression, focal length × subject pairing, and portrait distortion.
+> How to use: choose by focal-length semantics when a "lens feel" must be specified; a focal length changes not only magnification but the spatial relations themselves.
 
-## 定义
+## Definition
 
-焦段（focal length）＝镜头视角宽窄的度量，决定画面的透视结构：广角（≤35mm）夸张纵深与近大远小，长焦（≥85mm）压缩纵深与层距。焦段是"空间关系的语法"。
+Focal length = the measure of a lens's angle of view, which determines the frame's perspective structure: wide (≤35mm) exaggerates depth and the near-large/far-small effect, long (≥85mm) compresses depth and the distance between layers. Focal length is "the grammar of spatial relations".
 
-## 机制
+## Mechanism
 
-广角视野宽，同框内前后物尺度差被放大（近物巨大、远物飞退）——空间显得深、动感强、有介入感；长焦视野窄，前后物的尺度差被压平（远山"贴"在人身背后）——空间显得扁、凝练、有抽离感。焦段因此是构图工具：要纵深戏剧用广角，要平面压缩与背景放大用长焦。
+A wide lens has a broad view, so the scale difference between near and far objects inside the same frame is enlarged (the near object is huge, the far object flees) — space reads deep, dynamic, immersive; a long lens has a narrow view, so that scale difference is flattened (distant mountains "stick" behind a person's back) — space reads flat, condensed, detached. Focal length is therefore a compositional tool: use wide for dramatic depth, long for planar compression and an enlarged background.
 
-## 判据
+## Criteria
 
-### 焦段语义表（共识值，全幅等效口径）
+### Focal-length semantics table (consensus values, full-frame equivalent convention)
 
-| 焦段 | 视角性格 | 空间效应 | 典型题材 |
+| Focal length | Angle-of-view character | Spatial effect | Typical subjects |
 |---|---|---|---|
-| ≤24mm 超广 | 戏剧性宽广 | 强畸变、纵深感夸张、边缘拉伸 | 建筑（慎）、星野、极限运动 |
-| 24–28mm 广 | 开阔有介入 | 近大远小明显、环境参与感 | 环境叙事、定场 |
-| 35mm 小广 | "人眼+一点介入" | 自然中带张力、街拍感 | 街道、生活流、环境人像 |
-| 50mm 标准 | "人眼"中性 | 透视自然、无戏剧化 | 通用、日常叙事 |
-| 85mm 人像 | 亲和抽离 | 面部无畸变、背景柔和放大、层距压缩 | 人像（甜点位）、半身 |
-| 135–200mm 长焦 | 强抽离 | 强压缩（层叠山峦、密集城市）、背景巨大化 | 远摄、体育、压缩风景 |
-| 微距 | 微观世界 | 景深极浅、尺度消失 | 花虫、材质、产品细节 |
+| ≤24mm ultra-wide | Dramatically broad | Strong distortion, exaggerated depth, stretched edges | Architecture (with care), star fields, extreme sports |
+| 24–28mm wide | Open, immersive | Obvious near-large/far-small, environmental participation | Environmental narrative, establishing |
+| 35mm mild wide | "The eye plus a little involvement" | Natural with tension, a street feel | Streets, slice of life, environmental portrait |
+| 50mm standard | "The eye", neutral | Natural perspective, no dramatization | General, everyday narrative |
+| 85mm portrait | Approachable detachment | No facial distortion, background softly enlarged, layer distance compressed | Portraits (the sweet spot), half-body |
+| 135–200mm long | Strong detachment | Strong compression (stacked ridges, dense city), background hugely enlarged | Telephoto, sports, compressed landscape |
+| Macro | The microscopic world | Extremely shallow DoF, scale dissolves | Flowers and insects, material, product detail |
 
-### 焦段×景别常用配对（经验值）
+### Common focal length × shot size pairings (rules of thumb)
 
-- EWS/定场：24–35mm（空间交代）
-- 环境人像：35mm（人与环境各得其所）
-- 全身/半身人像：85mm（安全无畸变；50mm 次选，更环境化）
-- 面部特写：85–135mm（50mm 特写易鼻大——过近畸变）
-- 压缩群山/密集城市：135mm+
-- 桌面美食：50–100mm 微距感（俯拍+浅景深）
+- EWS / establishing: 24–35mm (declaring the space)
+- Environmental portrait: 35mm (person and environment each get their due)
+- Full-body / half-body portrait: 85mm (safe, no distortion; 50mm as second choice, more environmental)
+- Facial close-up: 85–135mm (a 50mm close-up tends to enlarge the nose — distortion from proximity)
+- Compressed mountain ranges / dense city: 135mm+
+- Tabletop food: 50–100mm with a macro feel (top-down plus shallow DoF)
 
-### 人像畸变规则（硬规则）
+### Portrait distortion rules (hard rules)
 
-- 面部特写禁用 ≤35mm 近距拍摄——鼻耳比例失真（近大远小作用于五官）。
-- 35mm 的"环境人像"安全距离：人物距边框留环境、面部不顶格。
-- 广角贴脸只有一种合法用法：风格宣言（夸张自画像、戏剧冲击），且须自觉。
+- A facial close-up must not be shot with ≤35mm at close range — the nose-to-ear ratio distorts (near-large/far-small acting on the features).
+- The safe distance for a 35mm "environmental portrait": the figure keeps distance from the frame edge and the face does not fill the frame.
+- The only legitimate use of a wide lens against the face: a stylistic declaration (an exaggerated self-portrait, dramatic impact), and it must be deliberate.
 
-### 透视锚定
+### Perspective anchoring
 
-广角画面的纵深线索靠"锚"：近景一个明确尺寸参照物（人、门、桌），否则超广画面读作空旷而无形。长焦压缩画面则要防"看不出前后"（层与层粘连），用明度/色温分层补偿（见 depth-layering）。
+A wide frame's depth cues rely on an "anchor": one object of known size in the foreground (a person, a door, a table), or an ultra-wide frame reads as empty and formless. A long-lens compressed frame must guard against "no front or back" (layers sticking together); compensate with value or color-temperature layering (see depth-layering).
 
-## 边界
+## Boundaries
 
-- 焦段语义以"全幅等效"为通用口径；不同画幅体系需换算后再套语义（换算规则进 D8 词汇，不绑定具体平台）。
-- 焦段选择在生成式语境里是"空间关系意图"的声明：不写焦段=放弃对空间结构的控制（常见 AI 味来源之一：默认中庸焦段的"中位数构图"）。
-- 微距与长焦的浅景深是物理绑定（见 dof）；超广深景深同理。
+- Focal-length semantics use "full-frame equivalent" as the common convention; other format systems must be converted before applying them (conversion rules belong to D8 vocabulary, not bound to any platform).
+- In generative contexts, choosing a focal length is a declaration of spatial-relation intent: omitting it means giving up control over the spatial structure (one common source of AI-slop: the "median composition" of a default middle focal length).
+- The shallow DoF of macro and long lenses is a physical binding (see dof); the deep DoF of ultra-wide works the same way.
 
-## 反例
+## Counterexamples
 
-- 反例 1：85mm 压缩感去拍要"辽阔"的草原——空间被压扁，辽阔尽失。修法：24–35mm+低机位。
-- 反例 2：35mm 贴脸大特写——鼻大耳小。修法：退到 85mm 语义或拉远改中景。
-- 反例 3：长焦压缩的城市夜景无明度分层——前后楼粘连成墙。修法：近暗远亮/冷暖分层。
+- Counterexample 1: using the compression of 85mm to shoot a grassland that should feel "vast" — the space is flattened and the vastness is lost. Fix: 24–35mm from a low position.
+- Counterexample 2: a 35mm close-up against the face — a large nose and small ears. Fix: retreat to 85mm semantics, or pull back to a medium shot.
+- Counterexample 3: a long-lens compressed city night with no value layering — the buildings merge into a wall. Fix: near dark and far bright, or cool-warm layering.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 景别与角度（机位另两轴）：见 shot-size、angle
-- 景深三因子：见 dof
-- 透视学：见 perspective
-- 透视锚定与纵深：见 D1/depth-layering
-- 焦段作为空间语法：见 modes/schools/optics.md
+- Shot size and angle (the other two axes of camera design): see shot-size, angle
+- The three factors of depth of field: see dof
+- The study of perspective: see perspective
+- Perspective anchoring and depth: see D1/depth-layering
+- Focal length as spatial grammar: see modes/schools/optics.md

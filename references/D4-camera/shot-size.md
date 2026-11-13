@@ -1,62 +1,62 @@
-# D4 · 景别阶梯（Shot Size）
+# D4 · Shot Size
 
-> 本文件管：从大远景到大特写的六档景别、各档的画面职能与情绪、景别选择判据、景别冲突。
-> 怎么用：决定"画多大范围"——景别是机位设计的第一轴；描述画面时先定景别再定角度。
+> This file covers: the six-step ladder from extreme wide to extreme close-up, the function and emotion of each step, selection criteria, and shot-size conflicts.
+> How to use: deciding "how much of the world to frame" — shot size is the first axis of camera design; when describing a frame, fix the shot size before the angle.
 
-## 定义
+## Definition
 
-景别（shot size）＝画面框取主体与环境相对比例的档位。六档阶梯：大远景（EWS）→远景（WS）→全景（FS）→中景（MS）→近景/特写（CU）→大特写（ECU）。
+Shot size = the grade of relative proportion between the framed subject and the environment. Six-step ladder: extreme wide (EWS) → wide (WS) → full (FS) → medium (MS) → close-up (CU) → extreme close-up (ECU).
 
-## 机制
+## Mechanism
 
-景别是**信息量的旋钮**：拉远→环境信息↑、细节信息↓、情绪客观化；推近→细节↑、环境↓、情绪主观化（越近越"共情"，越远越"旁观"）。景别选择即回答："这张画要让观众知道环境还是感受主体？"
+Shot size is **the knob of information**: pulling back raises environmental information, lowers detail information, and objectifies the emotion; pushing in raises detail, lowers environment, and subjectivizes the emotion (closer = more empathy, farther = more observation). Choosing a shot size answers: "should this frame let the viewer know the environment, or feel the subject?"
 
-## 判据
+## Criteria
 
-### 六档总表
+### The six-step table
 
-| 档 | 框取 | 职能 | 情绪温度 |
+| Step | Framing | Function | Emotional temperature |
 |---|---|---|---|
-| 大远景 EWS | 人极小，环境全貌 | 建立：世界多大、人在哪 | 客观、史诗、渺小感 |
-| 远景 WS | 人全身小占比，环境为主 | 定场：关系与地理 | 旁观、叙事开端 |
-| 全景 FS | 人全身占显著比例 | 展示：体态、动作、服装全貌 | 中性 |
-| 中景 MS | 腰上（美式变体至膝上，牛仔景至大腿中段） | 交流：肢体语言+部分环境 | 亲和（叙事主力档） |
-| 近景 CU | 胸上 | 情绪：表情为主 | 主观、共情 |
-| 大特写 ECU | 面部局部（眼/唇/手） | 强调：细节即全部 | 高压、亲密、冲击 |
+| Extreme wide EWS | Figure tiny, environment entire | Establish: how big the world is, where the person is | Objective, epic, a sense of smallness |
+| Wide WS | Full figure small in the frame, environment dominant | Set the scene: relations and geography | Observational, narrative opening |
+| Full FS | Full figure at a significant proportion | Show: posture, action, the whole costume | Neutral |
+| Medium MS | Waist up (American variant to above the knee, cowboy shot to mid-thigh) | Exchange: body language plus some environment | Approachable (the workhorse of narrative) |
+| Close-up CU | Chest up | Emotion: expression first | Subjective, empathetic |
+| Extreme close-up ECU | A part of the face (eye / lips / hand) | Emphasis: the detail is everything | High pressure, intimate, impact |
 
-### 景别选择判据
+### Selection criteria
 
-1. **信息优先级**：画面要传达的第一信息是什么？环境→EWS/WS；关系动作→MS/FS；情绪→CU；细节符号→ECU。
-2. **叙事位置**：单幅画面的"开场感"配远景，"高潮感"配特写；系列图按节奏分布景别（见 sequence）。
-3. **中景默认律**：叙事性单幅无特殊诉求时，中景是最稳的默认档（信息/情绪双达标）。
-4. 景别与占比联动：FS/MS 的人物占幅约 35–55%，CU 面部 60–70%（见 D1/spatial-allocation）。
+1. **Information priority**: what is the first thing the frame must convey? Environment → EWS/WS; relational action → MS/FS; emotion → CU; a symbolic detail → ECU.
+2. **Narrative position**: an "opening" single frame takes a wide, a "climax" takes a close-up; in a series, distribute shot sizes by rhythm (see sequence).
+3. **The medium-shot default**: for a narrative single frame with no special demand, MS is the steadiest default (adequate on both information and emotion).
+4. Shot size interacts with share: FS/MS put the figure at about 35–55% of the frame, CU puts the face at 60–70% (see D1/spatial-allocation).
 
-### 景别冲突（同帧自检）
+### Shot-size conflict (single-frame self-check)
 
-单帧内"景别语言"要一致：人物是 CU 而构图却按全景逻辑留全身空间（人小空大）＝景别错乱。判据：取景框与主体尺度匹配——CU 不要给全身留位，EWS 不要强求表情可读。
+The "shot-size language" must be consistent within one frame: the figure is a CU while the composition reserves full-body space as if for a wide (tiny figure, big emptiness) = shot-size confusion. Criterion: the framing matches the subject's scale — a CU does not reserve room for a full body, and an EWS does not demand a readable expression.
 
-### 双人景别（关系表达）
+### Two-person shot sizes (expressing relationship)
 
-- 双人同框 WS/FS：读作"关系与环境"（同行/对峙的全貌）。
-- 过肩（OTS）：前景一人肩后景一人——主观对话感，主次分明（后景者为主）。
-- 双人分切单帧（同框各半身）：对峙张力最强。
+- Two figures in one WS/FS: reads as "relationship and environment" (the whole picture of walking together or confrontation).
+- Over-the-shoulder (OTS): one figure's shoulder in the foreground, the other behind — a subjective dialogue feel, with clear hierarchy (the one behind is the lead).
+- Two figures split in one frame (each half-body): the strongest confrontational tension.
 
-## 边界
+## Boundaries
 
-- 景别阶梯是连续谱，档位是路标不是栅栏（"中近景"合法）。
-- ECU 是高压档：细节必须值得（眼中有戏/材质有信息），否则空洞；ECU 同时对边缘裁切最敏感（见 edges-cropping）。
-- EWS 的主体可读性靠剪影与色彩分离（细节不可用），眯眼测试下主体仍可辨才成立。
+- The ladder is a continuum; the steps are signposts, not fences ("medium close" is legitimate).
+- ECU is a high-pressure step: the detail must be worth it (a performance in the eye, information in the material), otherwise it is hollow; ECU is also the most sensitive to edge cropping (see edges-cropping).
+- EWS subject readability depends on silhouette and color separation (detail is unavailable); it holds only if the subject is still identifiable under the squint test.
 
-## 反例
+## Counterexamples
 
-- 反例 1：想表达孤独却用了 CU——特写是亲密档，孤独要 EWS 的渺小感（或用负空间构图改写）。
-- 反例 2：EWS 里人物表情是关键信息——距离吞掉表情。修法：换 MS，或让体态/剪影承担表达。
-- 反例 3：双人对话用双人同框 FS，谁说话谁听完全不可读。修法：OTS 或主次明度差。
+- Counterexample 1: solitude wanted but a CU used — the close-up is an intimacy step; solitude needs the smallness of an EWS (or a rewrite through negative-space composition).
+- Counterexample 2: in an EWS the figure's expression is the key information — distance swallows the expression. Fix: switch to MS, or let posture and silhouette carry the expression.
+- Counterexample 3: a two-person dialogue shot as a two-shot FS, where who speaks and who listens is completely unreadable. Fix: OTS, or a value hierarchy between the two.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 机位角度（第二轴）：见 angle
-- 取景缓冲：见 framing-room
-- 人物占比带宽：见 D1/spatial-allocation
-- 序列景别节奏：见 modes/function/sequence.md
-- 景别-情绪的流派用法：见 modes/schools/cinematic-director.md
+- Camera angle (the second axis): see angle
+- Framing buffer: see framing-room
+- Figure-share bands: see D1/spatial-allocation
+- Shot-size rhythm in a sequence: see modes/function/sequence.md
+- The school use of shot size and emotion: see modes/schools/cinematic-director.md
