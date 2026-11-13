@@ -1,63 +1,63 @@
-# D6 · AI 默认值研究（AI Defaults）
+# D6 · AI Defaults
 
-> 本文件管：生成式画面的"中位数构图"倾向证据、AI 味特征清单、各特征的成因与系统性打破法。
-> 怎么用：构思时主动绕开默认值（预防）；诊断"AI 味重"时按清单逐项检查（治疗）。
+> This file covers: the evidence for the "median composition" tendency in generative images, the AI-slop feature list, and the cause and systematic breaking method for each feature.
+> How to use: steer around the defaults at concept time (prevention); check item by item against the list when diagnosing "too much AI feel" (treatment).
 
-## 定义
+## Definition
 
-AI 默认值（AI defaults）＝生成式模型在无明确指令时倾向产出的统计中位数画面：居中主体、平视、中景、正面光、全景深、完美对称、均匀细节。AI 味（AI-slop / 塑感）＝默认值叠加过度平滑后的"无作者感"。
+AI defaults = the statistical median frame a generative model tends to produce with no explicit instruction: centered subject, eye level, medium shot, frontal light, deep DoF, perfect symmetry, even detail. AI-slop = the "authorless" look that appears when defaults stack with over-smoothing.
 
-## 机制
+## Mechanism
 
-模型从海量图片学到的是"平均构图"——平均值恰好是构图的反面（零张力、零立场）。不干预时，画面自动滑向中位数：居中、平光、无纵深、处处清晰。因此**主动构图指令本身就是去 AI 味手段**：任何一个显式的构图决策（偏置/侧光/浅景深/层次）都在把画面从中位数拉开。
+What a model learns from a mass of images is "the average composition" — and the average is exactly the opposite of composition (zero tension, zero stance). Without intervention the frame slides automatically to the median: centered, flat light, no depth, sharp everywhere. **An explicit composition instruction is therefore itself a de-slopping device**: any explicit compositional decision (offset / side light / shallow DoF / layering) pulls the frame away from the median.
 
-## 判据
+## Criteria
 
-### AI 味特征清单（诊断用，逐项核对）
+### AI-slop feature list (for diagnosis, check item by item)
 
-| # | 特征 | 成因 | 打破法 |
+| # | Feature | Cause | Breaking method |
 |---|---|---|---|
-| 1 | 居中呆照（死中心+对称对称） | 中位数构图 | 三分/偏置+方向性留白（D1） |
-| 2 | 平光无主光（阴影方向混乱或无影） | 多光源均值化 | 定唯一主光+光比 ≥2 档（D2） |
-| 3 | 全景深（处处清晰） | 无景深指令 | 指定浅/深景深及理由（D4/dof） |
-| 4 | 塑感皮肤/瓷感表面 | 过度平滑 | 微不完美（毛孔/绒毛/划痕，见 authenticity） |
-| 5 | 过度完美对称与摆放 | 数据里的摆拍偏置 | 破对称/微倾斜/物件错落（D1） |
-| 6 | 灰平对比（无黑无白） | 中间调均值 | 补两端锚点（high/low key 设计，D2/tonality） |
-| 7 | 均匀细节密度（背景与主体一样锐） | 无层次指令 | 三层纵深+背景降权（D1/depth-layering） |
-| 8 | 悬浮物（无接地影/无锚定） | 物理一致性弱 | 共享表面+接地影（D1/multi-subject） |
-| 9 | 满屏圣光/均匀发光 | "氛围"指令过泛 | 单向体积光+动机光源（D2/atmosphere） |
-| 10 | 肢体/器物小错误（多指、结构含糊） | 细节均值化 | 降低单帧元素数；显式计数（D1/multi-subject） |
-| 11 | 模板化光（千人一面的"黄金时段橙"） | 风格词流行化 | 按叙事定光（方向/光比/色温各有理由） |
-| 12 | 无声画面（谁都不知道光从哪来） | 无动机光源 | 光源可指认（D2/direction-quality） |
+| 1 | Centered passport shot (dead center plus symmetry) | Median composition | Thirds / offset plus directional negative space (D1) |
+| 2 | Flat light with no key (shadow directions confused or absent) | Multiple sources averaged out | Fix one key light plus ratio ≥2 stops (D2) |
+| 3 | Deep DoF (sharp everywhere) | No DoF instruction | Specify shallow or deep DoF and the reason (D4/dof) |
+| 4 | Plastic skin / porcelain surfaces | Over-smoothing | Controlled imperfection (pores / fine hair / scratches, see authenticity) |
+| 5 | Over-perfect symmetry and placement | Posed bias in the data | Deliberate asymmetry / slight tilt / staggered objects (D1) |
+| 6 | Gray flat contrast (no black, no white) | Mid-value averaging | Add anchors at both ends (high/low key design, D2/tonality) |
+| 7 | Even detail density (background as sharp as the subject) | No layering instruction | Three-layer depth plus background de-emphasis (D1/depth-layering) |
+| 8 | Floating objects (no contact shadow, no anchoring) | Weak physical consistency | Shared surface plus contact shadow (D1/multi-subject) |
+| 9 | Full-screen holy light / even glow | An over-broad "atmosphere" instruction | One-directional volumetric light plus motivated source (D2/atmosphere) |
+| 10 | Small limb or object errors (extra fingers, vague structure) | Detail averaged out | Reduce the element count per frame; count explicitly (D1/multi-subject) |
+| 11 | Templated light (the same "golden hour orange" for everyone) | A fashionable style word | Fix light by narrative (direction / ratio / color temperature each with a reason) |
+| 12 | Mute frame (nobody knows where the light comes from) | No motivated source | Make the source identifiable (D2/direction-quality) |
 
-### 中位数构图证据（研究结论，共识表述）
+### Median-composition evidence (research conclusion, consensus statement)
 
-对生成画面集合的观察研究指出：无构图指令时，主体位置显著聚集于画幅中心附近，景别聚集于中景段，视点聚集于平视——三者叠加构成"中位数构图"。反向推论：**任何一个轴的显式偏移**（位置/景别/角度任一）都能显著拉开与中位数的距离；三轴全偏移则画面"有作者"。
+Observational studies of generative image sets report: with no composition instruction, subject positions cluster markedly near the frame center, shot sizes cluster in the medium range, and viewpoints cluster at eye level — the three together form "median composition". The reverse inference: **an explicit offset on any one axis** (position / shot size / angle) significantly increases the distance from the median; offsetting all three makes the frame "have an author".
 
-### 预防协议（构思时执行）
+### Prevention protocol (run at concept time)
 
-1. 位置轴：主体不居中（除非居中即宣言）；
-2. 视角轴：非平视或平视+强理由；
-3. 景别轴：明确档位（不悬在"中不溜"）；
-4. 光：唯一主光+光比+方向语义；
-5. 层：三层纵深声明；
-6. 不完美：至少一处"真实的不完美"（见 authenticity）。
+1. Position axis: the subject is not centered (unless centering is the declaration);
+2. Viewpoint axis: not eye level, or eye level with a strong reason;
+3. Shot-size axis: an explicit grade (not hovering in the "in-between");
+4. Light: one key light plus ratio plus directional semantics;
+5. Layers: a declared three-layer depth;
+6. Imperfection: at least one "real imperfection" (see authenticity).
 
-## 边界
+## Boundaries
 
-- 居中对称/平视/全景深都是合法选择——AI 味的判定不是"用了它们"而是"无理由地默认了它们"。宣言式居中（庄重、仪式）不但无 AI 味，反而是强立场。
-- 特征清单是生成式画面的专用诊断；对真实摄影作品仅 1/2/5/6 项适用（其余是生成机制专属）。
-- 打法优先级：预防（构思时避开）> 修复（生成后逐项对照）。
+- Centered symmetry, eye level, and deep DoF are all legitimate choices — AI-slop is decided not by "having used them" but by "having defaulted to them with no reason". A declarative centering (gravity, ritual) is not slop at all; it is a strong stance.
+- The feature list is a dedicated diagnosis for generative images; for real photographs only items 1 / 2 / 5 / 6 apply (the rest are specific to the generation mechanism).
+- Priority of methods: prevention (avoid at concept time) > repair (check item by item after generation).
 
-## 反例
+## Counterexamples
 
-- 反例 1：单句"一个美丽的女子在花园"——所有轴默认，产出中位数构图。修法：补位置/景别/角度/光/层五轴决策。
-- 反例 2：为去 AI 味把所有特征全反（倾斜+过曝+怪色全上）——从一种无立场到另一种无立场（乱）。修法：选 2–3 轴有意偏移，其余守常。
-- 反例 3：把"居中对称的宗教感画面"当 AI 味误杀——有宣言的居中是最高级的构图之一。判据在"有无理由"。
+- Counterexample 1: a single sentence — "a beautiful woman in a garden" — every axis defaulted, producing median composition. Fix: add decisions on the five axes of position / shot size / angle / light / layers.
+- Counterexample 2: to de-slop, inverting every feature at once (tilt + overexposure + strange color all at once) — from one authorless stance to another (chaos). Fix: offset 2–3 axes deliberately and keep the rest conventional.
+- Counterexample 3: killing a "centered symmetrical religious image" as AI-slop — a declarative centering is one of the highest compositional forms. The criterion is "is there a reason".
 
-## 与其他文件的连接
+## Connections to other files
 
-- 各打破法的操作文件：D1/D2/D4 对应文件
-- 微不完美与可信度：见 authenticity
-- 潮流数媒派（反 AI 味的流派化）：见 modes/schools/digital-trend.md
-- 诊断协议整合：见 D7/cause-tree
+- The operational files for each breaking method: the corresponding D1 / D2 / D4 files
+- Controlled imperfection and authenticity: see authenticity
+- The digital-trend school (de-slopping as a school): see modes/schools/digital-trend.md
+- Integration into the diagnostic protocol: see D7/cause-tree

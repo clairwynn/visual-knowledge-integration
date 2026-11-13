@@ -1,71 +1,72 @@
-# D6 · 美学判据（Aesthetic Criteria）
+# D6 · Aesthetic Criteria
 
-> 本文件管：把"好看"操作化的多维判据体系、加权评分框架、"入门级特征"识别（award bar 思想）、判据的流派相对性。
-> 怎么用：评审画面/方案时按判据打分（compare 功能的判据源）；自检画面"够不够格"。
+> This file covers: the multi-dimensional criteria system that operationalizes "looking good", the weighted scoring framework, "entry-level feature" detection (the award-bar idea), and the school-relativity of criteria.
+> How to use: score frames or options against the criteria (the criteria source for the compare function); self-check whether a frame "qualifies".
 
-## 定义
+## Definition
 
-美学判据＝把审美判断拆解为可陈述、可比对的多维标准。"好看"不可执行，"焦点清晰、路径通畅、平衡成立、无入门级特征"可执行。
+Aesthetic criteria = decomposing an aesthetic judgment into stateable, comparable dimensions. "Looks good" is not executable; "clear focus, open path, holding balance, no entry-level features" is.
 
-## 机制
+## Mechanism
 
-审美判断=多维加权的综合直觉。把维度显式化后：①判断可复核（每个维度给证据）；②短板可定位（总分低时知道哪维拖累）；③流派差异可表达（不同流派=不同权重配置）。award bar（合格线）思想：每维先过"入门线"（低于线的特征一票否决感），再谈高分。
+An aesthetic judgment is a multi-dimensionally weighted intuition. Once the dimensions are explicit: (1) judgments become reviewable (each dimension carries evidence); (2) the weak link can be located (when the total is low you know which dimension dragged it); (3) school differences become expressible (different schools = different weight configurations). The award-bar idea: each dimension must first clear an "entry line" (a feature below it feels like an instant veto), and only then is a high score discussed.
 
-## 判据
+## Criteria
 
-### 六维判据（通用默认，与 compare 功能一致）
+### The six dimensions (the general default, consistent with the compare function)
 
-| 维度 | 问的问题 | 1 分特征 | 5 分特征 |
+| Dimension | Question asked | 1-point feature | 5-point feature |
 |---|---|---|---|
-| 焦点清晰度 | 知道看哪吗 | 多锚竞争/无锚 | 唯一强锚+引导到位 |
-| 视觉路径 | 眼睛走得通吗 | 路径断裂/出画 | 入口-主体-停留闭环 |
-| 平衡 | 坐得住吗 | 失衡无意图 | 对称稳或非对称巧 |
-| 纵深/层次 | 有空间感吗（或平面宣言成立） | 扁平无意 | 三层分明/平面自洽 |
-| 情绪传达 | 说出该说的情绪吗 | 语义打架 | 光色构图同向服务情绪 |
-| 独特性 | 有记忆点吗 | 套版中位数 | 至少一个大胆决策成立 |
+| Focus clarity | Do you know where to look | Multiple anchors competing / no anchor | One strong anchor with the lead arriving |
+| Visual path | Can the eye get through | Path broken / leaving the frame | Entry–subject–dwell closed loop |
+| Balance | Does it sit steady | Imbalance with no intent | Symmetry steady or asymmetry clever |
+| Depth / layering | Is there space (or a flat declaration that holds) | Flat with no intent | Three layers distinct / flat self-consistent |
+| Emotional delivery | Does it say the emotion it should | Semantics colliding | Light, color, and composition all serving the emotion |
+| Distinctiveness | Is there a memory point | Template median | At least one bold decision that holds |
 
-### 加权框架（按用途配权重）
+### Weighting framework (assign weights by use)
 
-- 商业图：焦点 25% / 情绪 20% / 平衡 20% / 路径 15% / 纵深 10% / 独特 10%
-- 艺术向：独特 30% / 情绪 25% / 平衡 15% / 焦点 10% / 路径 10% / 纵深 10%
-- 组图：加"序列一致性"维（权重从他维均摊）
-权重是起点配置，可按任务调，但调权要声明。
+- Commercial image: focus 25% / emotion 20% / balance 20% / path 15% / depth 10% / distinctiveness 10%
+- Art-oriented: distinctiveness 30% / emotion 25% / balance 15% / focus 10% / path 10% / depth 10%
+- Series: add a "sequence consistency" dimension (weight shared out from the others)
+Weights are a starting configuration, adjustable by task, but any adjustment must be declared.
 
-### 入门级特征（低于此线不谈风格）
+### Entry-level features (below this line, style is not discussed)
 
-1. 主体居中呆照+平光+全景深三件套（中位数构图，见 ai-defaults）；
-2. 边缘事故（半截物/相切/切线，见 D1/edges-cropping）；
-3. 关键细节被裁（切关节/切脸）；
-4. 色彩无结构（5+ 色相无和声）；
-5. 无主光（多方向阴影）；
-6. 融底（主体与背景不可分）。
-判据：出现任一项→该维直接 1–2 分，且修复优先于一切加分项。
+1. Centered passport shot + flat light + deep DoF, the three-piece set (median composition, see ai-defaults);
+2. Edge accidents (half objects / tangency / tangent lines, see D1/edges-cropping);
+3. Key detail cropped (cut joint / cut face);
+4. Color with no structure (5+ hues and no harmony);
+5. No key light (shadows in several directions);
+6. Fusion with the ground (subject and background inseparable).
 
-### 评分操作
+Criterion: any one of these appears → that dimension scores 1–2 outright, and repair takes priority over every bonus item.
 
-1. 逐维打 1–5 分，每分附一句证据（画面里的具体事实）；
-2. 加权求和得总分（5 分制下 ≥4.0 强、3.0–3.9 可用、<3.0 返修，经验线）；
-3. 输出必须含"最低维"的修复方向（短板优先）。
+### Scoring procedure
 
-## 边界
+1. Score each dimension 1–5, with one sentence of evidence per score (a specific fact in the frame);
+2. Weighted sum for the total (on a 5-point scale: ≥4.0 strong, 3.0–3.9 usable, <3.0 rework — empirical lines);
+3. The output must include a repair direction for the "lowest dimension" (weak link first).
 
-- 判据体系服务于沟通与改进，不替代审美判断：分数是讨论的起点。
-- 六维对"观念先行"画面（反美学/观念摄影）需要换权重（独特与情绪权重拉满，其余可让位）——判据相对性声明。
-- 外部自动美学评分（若有人引用）只作参考输入：此类模型训练于均值偏好，天然低估艺术意图与两极化作品——评分与证据冲突时，相信证据。
-- 客观测量（明度分布、对称度、色值统计等）只作校验信号、不作结论：纯客观测量的风格判别能力实测很低（两成以内，经验值）——正确顺序是先看图、再对数、冲突时回到画面。
-- 需要更细审美分辨率时可启用扩展维度：**节奏**（重复与变化的呼吸感）、**统一与多样**（古典"多样统一"传统：既整又不单调）——与六维并用须重新分配权重并声明。
-- 证据规则：没有画面事实的评分（"感觉不好"）无效；每分必须能指认画面里的对应特征。
+## Boundaries
 
-## 反例
+- The criteria system serves communication and improvement, not a replacement for judgment: the score is the starting point of a discussion.
+- For "concept-first" frames (anti-aesthetic, conceptual photography) the six dimensions need different weights (distinctiveness and emotion maxed, the rest may yield) — a declaration of criteria relativity.
+- External automatic aesthetic scoring (if anyone cites it) is only a reference input: such models are trained on average preference and naturally undervalue artistic intent and polarized work — when the score conflicts with evidence, believe the evidence.
+- Objective measurements (value distribution, symmetry, color statistics) are only verification signals, never conclusions: pure objective measurement has a very low empirical ability to discriminate style (within about twenty percent, rule of thumb) — the correct order is look at the frame, then check the numbers, and return to the frame when they conflict.
+- When finer aesthetic resolution is needed, extended dimensions may be enabled: **rhythm** (the breathing of repetition and variation) and **unity and variety** (the classical "variety within unity" tradition: coherent yet not monotonous) — used alongside the six, weights must be redistributed and declared.
+- Evidence rule: a score without frame facts ("feels bad") is invalid; every score must point to a corresponding feature in the frame.
 
-- 反例 1：总分 4.2 但"入门级特征"里有一条相切事故——分数虚高。修法：一票否决项先行，修复后再评。
-- 反例 2：用商业权重评观念作品——独特性被 10% 权重压死。修法：换权重配置并声明。
-- 反例 3：评分无证据（"平衡 3 分"说不出依据）——不可复核。修法：补画面事实或撤分。
+## Counterexamples
 
-## 与其他文件的连接
+- Counterexample 1: a total of 4.2 while an entry-level feature includes a tangency accident — an inflated score. Fix: apply the veto items first, then score after repair.
+- Counterexample 2: scoring a conceptual work with commercial weights — distinctiveness is crushed by a 10% weight. Fix: change the weight configuration and declare it.
+- Counterexample 3: a score with no evidence ("balance 3", with no basis) — not reviewable. Fix: supply the frame fact or withdraw the score.
 
-- 六维的操作知识：D1–D4 各文件
-- 独特性与 AI 中位数：见 ai-defaults
-- 评审功能流程：见 modes/function/compare.md
-- 多门验收线：见 D7/review-gates
-- 风格美学派：见 modes/schools/aesthetics.md
+## Connections to other files
+
+- The operational knowledge behind the six dimensions: the D1–D4 files
+- Distinctiveness and the AI median: see ai-defaults
+- The review function flow: see modes/function/compare.md
+- The multi-gate acceptance lines: see D7/review-gates
+- The aesthetic school: see modes/schools/aesthetics.md

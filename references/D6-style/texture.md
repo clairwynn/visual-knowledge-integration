@@ -1,66 +1,66 @@
-# D6 · 质感词汇（Texture）
+# D6 · Texture Vocabulary
 
-> 本文件管：材质/表面/颗粒的描述体系、质感与真实感的关系、质感密度与画面重量、质感统一。
-> 怎么用：需要"高级感/真实感/触感"时用具体质感词替换抽象形容词；质感是可信度的第一来源。
+> This file covers: the description system for material, surface, and grain; how texture relates to realness; texture density and frame weight; and texture unification.
+> How to use: replace abstract adjectives with concrete texture words when "refinement / realness / tactility" is wanted; texture is the first source of credibility.
 
-## 定义
+## Definition
 
-质感（texture）＝物体表面的物理性质（粗糙/光滑/软硬/干湿/透明度）与成像痕迹（颗粒/纹理/划痕/尘）共同构成的视觉信息层。
+Texture = the visual information layer formed jointly by an object's physical surface properties (rough / smooth, hard / soft, dry / wet, transparency) and its imaging traces (grain / weave / scratches / dust).
 
-## 机制
+## Mechanism
 
-质感是"微观对比"：硬质感靠细小高光与阴影的密度差异被感知。它承担三职：①真实感（真实世界没有无质感的表面——光滑塑料也有反光渐变）；②时间感（磨损/包浆/风化=历史信息）；③重量感（质感密度计入视觉重量六因子，见 D5/visual-weight）。抽象形容词（"高级""精致"）无法成像，质感词可以——这是"高级感"的可执行路径。
+Texture is "micro contrast": a hard surface is perceived through the density difference of tiny highlights and shadows. It carries three jobs: (1) realness (nothing in the real world is textureless — even glossy plastic has a reflective gradient); (2) a sense of time (wear / patina / weathering = historical information); (3) a sense of weight (texture density counts among the six factors of visual weight, see D5/visual-weight). Abstract adjectives ("premium", "exquisite") cannot be imaged; texture words can — which is the executable path to "refinement".
 
-## 判据
+## Criteria
 
-### 质感描述体系（抽象词→质感词转译）
+### Texture description system (translating abstract words into texture words)
 
-| 抽象词 | 质感转译（示例） |
+| Abstract word | Texture translation (examples) |
 |---|---|
-| 高级 | 哑光皮革的细孔纹、拉丝金属的定向反光、呢料的斜纹 |
-| 温暖 | 麻布的纤维感、手作陶的指痕釉、原木的开放孔纹理 |
-| 冷峻 | 抛光混凝土的气孔面、磨砂玻璃的雾面高光、 brushed 钢的冷反光 |
-| 陈旧 | 剥落漆皮的层裂、锈斑的侵蚀边缘、纸张的黄化脆边 |
-| 干净 | 无尘哑光面、均匀微光泽、锐利织物剪裁边 |
-| 蓬松 | 绒毛的逆光轮廓、羽绒的分簇、面包的撕裂气孔 |
-| 湿润 | 水膜的镜面高光、水珠的折射点、打湿布料的深色斑 |
+| Premium | Fine pore grain of matte leather, directional reflection of brushed metal, twill of wool |
+| Warm | Fibrous hand of linen, finger-marked glaze of hand-thrown pottery, open-pore grain of raw wood |
+| Austere | Pitted face of polished concrete, misty highlight of frosted glass, cold reflection of brushed steel |
+| Aged | Layer-cracked peeling paint, corroded edges of rust, yellowed brittle edges of paper |
+| Clean | Dust-free matte surface, even micro-sheen, crisp cut edge of fabric |
+| Fluffy | Backlit rim of down, clumped feathers, torn air pockets of bread |
+| Wet | Mirror highlight of a water film, refractive points of droplets, dark patches on soaked cloth |
 
-### 质感三层次（画面质感管理）
+### The three texture layers (managing the frame's texture)
 
-1. **主体质感**：主体的材质信息（最高精度）——决定"值不值得看"。
-2. **介质质感**：空气/水/玻璃的参与（雾、雨、反光）——决定氛围。
-3. **成像质感**：颗粒/噪点/胶片感/纸纹——统一画面的"托底"（也属 D3/palette-strategy 统一术）。
+1. **Subject texture**: the subject's material information (highest precision) — decides "is it worth looking at".
+2. **Medium texture**: the participation of air, water, glass (fog, rain, reflection) — decides the atmosphere.
+3. **Imaging texture**: grain, noise, film feel, paper grain — the "base" that unifies the frame (also a unification technique in D3/palette-strategy).
 
-判据：三层至少两层有质感设计；三层质感方向一致（哑光主体+颗粒成像=冷峻统一；主体哑光+画面油亮高对比=质感打架）。
+Criterion: at least two of the three layers carry designed texture; the three layers point the same way (matte subject plus grainy imaging = austere unity; matte subject in an oily high-contrast frame = texture fighting).
 
-### 质感与光的关系（硬规则）
+### Texture and light (hard rule)
 
-- 质感必须被"侧光喂"：正光（顺光）抹平质感，15–60° 侧光放大质感（细纹理用小角度掠射光）。
-- 想强调质感：硬侧光/掠射光+暗背景；想弱化质感（磨皮感）：大面柔光。
-- 逆光勾毛绒/雨丝/尘埃的轮廓——质感的高光时刻。
+- Texture must be "fed by side light": frontal light flattens texture, 15–60° side light enlarges it (fine weaves take a low grazing angle).
+- To stress texture: hard side light or grazing light plus a dark background; to weaken texture (the airbrushed look): a large soft source.
+- Backlight rims down, rain threads, and dust — texture's highlight moment.
 
-### 颗粒与成像质感
+### Grain and imaging texture
 
-- 颗粒的语义：胶片颗粒=时间与真实；数字噪点=夜与高压；无颗粒=洁净或人工。
-- 颗粒是统一剂：全画面统一颗粒让色彩与明度"服帖"（配合 D3/palette-strategy）。
-- 颗粒度克制：细颗粒高级，粗颗粒宣言；主体面部区域的颗粒弱于背景（写实战术后期惯例的通用化）。
+- Grain semantics: film grain = time and truth; digital noise = night and pressure; no grain = cleanliness or the artificial.
+- Grain is a unifier: one grain across the frame makes color and value "settle" (with D3/palette-strategy).
+- Grain restrained: fine grain is refined, coarse grain is a declaration; grain in the subject's face area is weaker than in the background (a generalized version of the standard retouching practice).
 
-## 边界
+## Boundaries
 
-- 质感密度有上限：全画面高密度纹理=噪（质感与图案的界线在重复性）；平滑场+一块质感=孤立效应（见 D5/attention）。
-- 质感描述宁具体勿堆砌：三个准确质感词好过十个形容词堆叠。
-- 风格化画面（平涂插画/像素）可以系统性无质感——风格宣言优先。
+- Texture density has a ceiling: a frame of uniformly high-density weave = noise (the line between texture and pattern is repetitiveness); a smooth field plus one textured patch = isolation effect (see D5/attention).
+- Describe texture concretely rather than piling up: three accurate texture words beat ten stacked adjectives.
+- Stylized frames (flat illustration / pixel art) may be systematically textureless — stylistic declaration takes priority.
 
-## 反例
+## Counterexamples
 
-- 反例 1：描述只写"高级的黑色西装"——无法成像。修法：转质感词（哑光羊毛的短绒面、缎面翻领的定向反光）。
-- 反例 2：正午顶光拍木雕——顺光平光抹掉所有刻痕。修法：侧光/掠射光。
-- 反例 3：画面一半胶片颗粒一半数码锐利——成像质感分裂。修法：统一颗粒档。
+- Counterexample 1: the description says only "a premium black suit" — unimplementable. Fix: translate into texture words (short nap of matte wool, directional reflection of a satin lapel).
+- Counterexample 2: shooting a wood carving under noon top light — frontal flat light erases every chisel mark. Fix: side light or grazing light.
+- Counterexample 3: half the frame with film grain and half digitally crisp — the imaging texture splits. Fix: unify the grain grade.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 质感作为重量因子：见 D5/visual-weight
-- 侧光与质感的光学面：见 D2/direction-quality
-- 颗粒作为统一剂：见 D3/palette-strategy
-- 质感与可信度：见 authenticity
-- 纪实风格的质感纪律：见 modes/schools/documentary.md
+- Texture as a weight factor: see D5/visual-weight
+- Side light and the optical side of texture: see D2/direction-quality
+- Grain as a unifier: see D3/palette-strategy
+- Texture and credibility: see authenticity
+- Texture discipline in the documentary style: see modes/schools/documentary.md
