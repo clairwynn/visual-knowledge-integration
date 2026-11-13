@@ -1,1188 +1,1188 @@
-# D6 · 流派库 · 手绘艺术风格（2/3，共 274 卡）
+# D6 · Movement Library · Hand-Drawn Art Styles (2/3, 274 cards total)
 
-> 风格流派卡语料的程序化提炼；零来源规约：不含提示词写法、不含出处链接。
-> 同一框架：一句话→核心主张→构图/光色/质感→情绪→色锚→翻车点→关联流派。
-> 用法：风格任务查卡，与 D6/art-movements 的七层拆解/翻车点相反性/混搭仲裁配合。
+> A programmatic distillation of the style-movement card corpus; zero-source rule: no prompt wording, no source links.
+> Same framework: one line → core claim → composition / light and color / texture → emotion → color anchors → failure points → related movements.
+> Use: look up a card for a style task, together with the seven-layer deconstruction / failure-point opposition / mixing arbitration in D6/art-movements.
 
-（本文件为按名称排序的第 2 段；全集索引见 movement-library/_index.md）
+(This file is the second alphabetically sorted segment; see movement-library/_index.md for the full index)
 
-### Q版轻幽默魔性漫画 · "魔性幽默漫画风"（当代｜中国）
+### Chibi Quirky Humor Comic（Contemporary | China）
 
-> 坚持伟大式轻幽默Q版漫画：纯白或浅米白背景，单个圆润Q版人物作为绝对主体，大头小身、幼态圆脸、黑点眼、小嘴、明显粉色腮红，常穿动物造型连帽服或带简单拟人元素
+> A light-humor chibi comic: plain white or light cream background, a single rounded chibi figure as the absolute subject, big head and small body, an infantile round face, black-dot eyes, a small mouth, obvious pink blush, often in an animal-shaped hoodie or with a simple anthropomorphic touch.
 
-- **构图**：留白
-- **光色**：色彩——低饱和、粉、红；光影——阴影
-- **质感**：笔触——轮廓、厚涂；材质——水彩、彩铅、拼贴
-- **情绪**：幽默、儿童
-- **色锚**：`#1A1A1A` `#FAF7F0` `#D9C7A3` `#6E5A8C` `#9AA98F` `#F2C6C2`
-- **翻车点**：1）易被误做成（需避开）：日系水彩绘本、奶油手账风、儿童绘本质感、纸张纹理、彩铅、柔光、复杂阴影、信息图、思维导图、多个小场景、照片拼贴、箭头、多个气泡、装饰性植物堆砌、大量文字；2）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；3）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: negative space
+- **Light and color**: color — low saturation, pink, red; light — shadow
+- **Texture**: brushwork — contour, impasto; materials — watercolor, colored pencil, collage
+- **Emotion**: humor, children
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#D9C7A3` `#6E5A8C` `#9AA98F` `#F2C6C2`
+- **Failure points**: 1) easily misdirected into (to avoid): Japanese watercolor storybook, creamy planner style, children's storybook texture, paper grain, colored pencil, soft glow, complex shadow, infographic, mind map, multiple small scenes, photo collage, arrows, multiple speech bubbles, piled decorative plants, heavy text; 2) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 3) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 上海月份牌复古 · "Shanghai Calendar-Poster Retro"（当代｜通用 / 地域）
+### "Shanghai Calendar-Poster Retro"（Contemporary | General / Regional）
 
-> 20–30 年代上海商业画、女性、复古广告色
+> 1920s–30s Shanghai commercial painting, women, retro advertising color.
 
-- **构图**：适合屏幕观看的构图，外轮廓强，一眼能读懂
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光到轻微塑形
-- **质感**：笔触——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹；材质——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹
-- **情绪**：复古
-- **色锚**：`#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——显式写出相反的画面特征；2）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: a composition suited to on-screen viewing, strong outer silhouette, readable at a glance
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat to slight modeling
+- **Texture**: brushwork — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture; materials — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture
+- **Emotion**: retro
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
+- **Failure points**: 1) this style is most easily rendered as 3D — state the opposite frame features explicitly; 2) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 东方女性细腻线条漫画 · "Delicate Eastern Female Comic"（当代｜中国）
+### "Delicate Eastern Female Comic"（Contemporary | China）
 
-> 东方女性漫画、细腻线条、古典氛围
+> Eastern female comic, delicate line, classical atmosphere.
 
-- **构图**：比例偏修长
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和均匀光，带淡墨晕染
-- **质感**：笔触——中国当代插画，墨线 + 数码上色，宣纸或国画纸质感；材质——中国当代插画，墨线 + 数码上色，宣纸或国画纸质感
-- **情绪**：时尚、松弛
-- **色锚**：`#1A1A1A` `#FAF7F0` `#D9C7A3` `#7C8F6A`
-- **翻车点**：1）人物姿态松弛自然，服装靠清楚剪影体现时尚感，避免模板化甜美脸；2）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；3）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: slightly elongated proportions
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft even light with faint ink wash
+- **Texture**: brushwork — contemporary Chinese illustration, ink line plus digital coloring, rice-paper or Chinese painting paper texture; materials — contemporary Chinese illustration, ink line plus digital coloring, rice-paper or Chinese painting paper texture
+- **Emotion**: fashion, relaxed
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#D9C7A3` `#7C8F6A`
+- **Failure points**: 1) keep the pose relaxed and natural, let a clear silhouette carry the fashion sense of the clothing, avoid a templated sweet face; 2) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 3) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 中世纪几何童话 · "Midcentury Geometric Fairytale"（当代｜国际）
+### "Midcentury Geometric Fairytale"（Contemporary | International）
 
-> 几何童话、现代主义色块、夸张比例、明快配色
+> Geometric fairy tale, modernist color blocks, exaggerated proportions, bright clear palette.
 
-- **构图**：海报式平衡，外轮廓清楚，大形优先
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、图形化，几乎不做体积塑造
-- **质感**：笔触——色块、几何；材质——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感
-- **情绪**：冷静、时尚、疏离
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: poster-like balance, clear outer silhouette, big shapes first
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat, graphic, almost no volume modeling
+- **Texture**: brushwork — color block, geometry; materials — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel
+- **Emotion**: cool, stylish, detached
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 中国农民画鲜艳平涂 · "Chinese Farmers Painting"（当代｜其他）
+### "Chinese Farmers Painting"（Contemporary | Other）
 
-> 错透视、鲜艳平涂、密集场景
+> Wrong perspective, vivid flat fill, dense scenes.
 
-- **构图**：错透视
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、无明显方向性
-- **质感**：笔触——平涂；材质——手绘插画，墨水与颜料在纸上
-- **情绪**：该组不共用统一情绪，以该条 traits 为准
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: wrong perspective
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat lighting, no clear direction
+- **Texture**: brushwork — flat fill; materials — hand-drawn illustration, ink and pigment on paper
+- **Emotion**: this group shares no single emotion; follow this entry's traits
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 交叉排线怪物绘本 · "Crosshatched Wild Storybook"（当代｜国际）
+### "Crosshatched Wild Storybook"（Contemporary | International）
 
-> 细线排线、怪物造型、童话荒诞、毛茸茸纹理
+> Fine crosshatching, monster shapes, fairy-tale absurdity, fuzzy texture.
 
-- **构图**：叙事性场景，圆润造型，角色与环境同框
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和环境光，轻微体积阴影
-- **质感**：笔触——排线、细线；材质——绘本插图，墨水配水彩或水粉，纸面
-- **情绪**：荒诞
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8C46A` `#9AA98F`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: narrative scene, rounded forms, characters in the same frame as their environment
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft ambient light, slight volume shadow
+- **Texture**: brushwork — hatching, fine line; materials — storybook illustration, ink with watercolor or gouache, paper
+- **Emotion**: absurd
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8C46A` `#9AA98F`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 低对比粉彩梦幻少女 · "Pastel Yami-Kawaii Girly"（当代｜日本）
+### "Pastel Yami-Kawaii Girly"（Contemporary | Japan）
 
-> Pastel Girly、梦幻、Yami-kawaii、低对比
+> Pastel girly, dreamy, yami-kawaii, low contrast.
 
-- **构图**：角色优先的构图，背景干净
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和漫射光，轻微轮廓光
-- **质感**：笔触——轮廓；材质——日系数码插画，干净线稿 + 柔和的赛璐璐或水彩上色
-- **情绪**：时尚、松弛
-- **色锚**：`#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
-- **翻车点**：1）人物姿态松弛自然，服装靠清楚剪影体现时尚感，避免模板化甜美脸；2）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；3）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: character-first composition, clean background
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft diffused light, slight rim light
+- **Texture**: brushwork — contour; materials — Japanese-style digital illustration, clean line art plus soft cel or watercolor coloring
+- **Emotion**: fashion, relaxed
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
+- **Failure points**: 1) keep the pose relaxed and natural, let a clear silhouette carry the fashion sense of the clothing, avoid a templated sweet face; 2) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 3) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 儿童式自由造型荒诞 · "Childlike Free-Line Humor"（当代｜国际）
+### "Childlike Free-Line Humor"（Contemporary | International）
 
-> 极简黑线、儿童式自由造型、荒诞动作、低细节
+> Minimal black line, childlike free shapes, absurd action, low detail.
 
-- **构图**：单人或极简场景，主体小、白底留白大
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光，没有方向性阴影（漫画是纸面印刷媒介）
-- **质感**：笔触——极简黑线；材质——钢笔 / 墨水线稿，纸面
-- **情绪**：荒诞、儿童
-- **色锚**：`#1A1A1A` `#FAF7F0` `#8FA3B8`
-- **翻车点**：1）最容易把这套画风渲染成 3D——显式写出相反的画面特征；2）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: a single figure or minimal scene, small subject, large white negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat light, no directional shadow (comics are a paper print medium)
+- **Texture**: brushwork — minimal black line; materials — pen / ink line art, paper
+- **Emotion**: absurd, children
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#8FA3B8`
+- **Failure points**: 1) this style is most easily rendered as 3D — state the opposite frame features explicitly; 2) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 八十年代剑与魔法赛璐珞 · "Classic 80s-90s Heroic Fantasy Cel Anime"（当代｜其他）
+### "Classic 80s-90s Heroic Fantasy Cel Anime"（Contemporary | Other）
 
-> 80-90年代经典剑与魔法奇幻赛璐珞动画风、纯正手绘赛璐珞质感、红发持剑女勇士与古堡阴影下的重甲战士、古典戏剧性冷暖打光
+> A classic 1980s–90s sword-and-sorcery fantasy cel animation style: authentic hand-painted cel texture, a red-haired sword-wielding warrior woman and a heavy-armored soldier under castle shadow, classical dramatic warm-cool lighting.
 
-- **构图**：外轮廓清楚、画面不拥挤
-- **光色**：色彩——红；光影——阴影
-- **质感**：笔触——手绘插画，墨水与颜料在纸上；材质——手绘插画，墨水与颜料在纸上
-- **情绪**：该组不共用统一情绪，以该条 traits 为准
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F` `#B4574A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: clear outer silhouette, uncrowded frame
+- **Light and color**: color — red; light — shadow
+- **Texture**: brushwork — hand-drawn illustration, ink and pigment on paper; materials — hand-drawn illustration, ink and pigment on paper
+- **Emotion**: this group shares no single emotion; follow this entry's traits
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F` `#B4574A`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 六七十年代复古绘本 · "Quirky 60s-70s Retro Storybook Illustration"（当代｜其他）
+### "Quirky 60s-70s Retro Storybook Illustration"（Contemporary | Other）
 
-> 60-70年代复古儿童绘本插画感、夸张大眼睛与生动面部特征、粗糙手绘线条、质朴色铅笔/蜡笔颗粒质感、暖调复古配色、简练几何轮廓与怪诞可爱的人物造型
+> A 1960s–70s retro children's storybook illustration feel: exaggerated big eyes and lively facial features, rough hand-drawn line, plain colored-pencil / crayon grain, a warm retro palette, simple geometric contours, and grotesquely cute character shapes.
 
-- **构图**：外轮廓清楚、画面不拥挤
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、无明显方向性
-- **质感**：笔触——轮廓、几何；材质——蜡笔、粗糙、颗粒
-- **情绪**：儿童、复古
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: clear outer silhouette, uncrowded frame
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat lighting, no clear direction
+- **Texture**: brushwork — contour, geometry; materials — crayon, rough, grain
+- **Emotion**: children, retro
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 冷静平涂色块正面站立 · "Retro Detached American Comic"（当代｜国际）
+### "Retro Detached American Comic"（Contemporary | International）
 
-> 黑色齐肩直发、方形眼镜、条纹上衣与绿色外套、冷静平涂色块
+> Black shoulder-length straight hair, square glasses, striped top and green coat, cool flat color blocks.
 
-- **构图**：单人或极简场景，主体小、白底留白大
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光，没有方向性阴影（漫画是纸面印刷媒介）
-- **质感**：笔触——平涂、色块；材质——钢笔 / 墨水线稿，纸面
-- **情绪**：复古
-- **色锚**：`#1A1A1A` `#FAF7F0` `#8FA3B8`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: a single figure or minimal scene, small subject, large white negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat light, no directional shadow (comics are a paper print medium)
+- **Texture**: brushwork — flat fill, color block; materials — pen / ink line art, paper
+- **Emotion**: retro
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#8FA3B8`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 几何剪影高饱和绘本 · "Bold Geometric Picturebook"（当代｜国际）
+### "Bold Geometric Picturebook"（Contemporary | International）
 
-> 几何块面、极简轮廓、高饱和色、强剪影
+> Geometric planes, minimal contour, high-saturation color, strong silhouette.
 
-- **构图**：叙事性场景，圆润造型，角色与环境同框
-- **光色**：色彩——高饱和、撞色；光影——柔和环境光，轻微体积阴影
-- **质感**：笔触——做减法、轮廓、平涂、几何；材质——绘本插图，墨水配水彩或水粉，纸面
-- **情绪**：温暖、童话、有叙述感
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8C46A` `#9AA98F` `#FF5FA2`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: narrative scene, rounded forms, characters in the same frame as their environment
+- **Light and color**: color — high saturation, clashing color; light — soft ambient light, slight volume shadow
+- **Texture**: brushwork — subtractive, contour, flat fill, geometry; materials — storybook illustration, ink with watercolor or gouache, paper
+- **Emotion**: warm, fairy-tale, narrative
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8C46A` `#9AA98F` `#FF5FA2`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 几何精密线条信息图留白 · "Geometric Diagrammatic Narrative"（当代｜国际）
+### "Geometric Diagrammatic Narrative"（Contemporary | International）
 
-> 几何精密线条、孤立小人物、公交站牌与城市方块、信息图式留白
+> Precise geometric line, an isolated small figure, bus-stop sign and city blocks, infographic negative space.
 
-- **构图**：小人物、留白
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光，没有方向性阴影（漫画是纸面印刷媒介）
-- **质感**：笔触——细线、几何；材质——钢笔 / 墨水线稿，纸面
-- **情绪**：安静
-- **色锚**：`#1A1A1A` `#FAF7F0` `#8FA3B8`
-- **翻车点**：1）最容易把这套画风渲染成 3D——显式写出相反的画面特征；2）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: tiny figures, negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat light, no directional shadow (comics are a paper print medium)
+- **Texture**: brushwork — fine line, geometry; materials — pen / ink line art, paper
+- **Emotion**: quiet
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#8FA3B8`
+- **Failure points**: 1) this style is most easily rendered as 3D — state the opposite frame features explicitly; 2) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 剪纸粗粝现代图形 · "Rough Cut-Paper Modernist Graphic"（当代｜国际）
+### "Rough Cut-Paper Modernist Graphic"（Contemporary | International）
 
-> 剪纸般粗粝几何形、强符号、极少元素
+> Coarse cut-paper geometric shapes, strong symbol, very few elements.
 
-- **构图**：海报式平衡，外轮廓清楚，大形优先
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、图形化，几乎不做体积塑造
-- **质感**：笔触——几何；材质——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感
-- **情绪**：冷静、时尚、疏离
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: poster-like balance, clear outer silhouette, big shapes first
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat, graphic, almost no volume modeling
+- **Texture**: brushwork — geometry; materials — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel
+- **Emotion**: cool, stylish, detached
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 华丽暗黑幻想人物 · "Ornate Dark-Fantasy Figure"（当代｜中国）
+### "Ornate Dark-Fantasy Figure"（Contemporary | China）
 
-> 华丽人物、暗黑幻想、装饰细节、唯美系
+> Ornate figure, dark fantasy, decorative detail, aestheticist.
 
-- **构图**：人物居中，留白多，画面轻
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和均匀光，带淡墨晕染
-- **质感**：笔触——轮廓；材质——中国当代插画，墨线 + 数码上色，宣纸或国画纸质感
-- **情绪**：幻想
-- **色锚**：`#1A1A1A` `#FAF7F0` `#D9C7A3` `#7C8F6A`
-- **翻车点**：1）表情与肢体动作要服从该风格的人格机制，避免回落为统一的标准Q版表情；2）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；3）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: figure centered, much negative space, a light frame
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft even light with faint ink wash
+- **Texture**: brushwork — contour; materials — contemporary Chinese illustration, ink line plus digital coloring, rice-paper or Chinese painting paper texture
+- **Emotion**: fantasy
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#D9C7A3` `#7C8F6A`
+- **Failure points**: 1) expression and body language must obey this style's character mechanism — avoid falling back on uniform standard chibi expressions; 2) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 3) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 即兴彩色怪物涂鸦 · "Chaotic Color Doodle Crowd"（当代｜国际）
+### "Chaotic Color Doodle Crowd"（Contemporary | International）
 
-> 即兴彩色 Doodle、怪物人物、粗轮廓、高密度快乐混乱
+> Improvised colorful doodle, monster characters, thick contour, high-density joyful chaos.
 
-- **构图**：海报式平衡，外轮廓清楚，大形优先
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、图形化，几乎不做体积塑造
-- **质感**：笔触——粗轮廓；材质——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感
-- **情绪**：冷静、时尚、疏离
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
-- **翻车点**：1）表情与肢体动作要服从该风格的人格机制，避免回落为统一的标准Q版表情；2）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；3）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: poster-like balance, clear outer silhouette, big shapes first
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat, graphic, almost no volume modeling
+- **Texture**: brushwork — thick contour; materials — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel
+- **Emotion**: cool, stylish, detached
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
+- **Failure points**: 1) expression and body language must obey this style's character mechanism — avoid falling back on uniform standard chibi expressions; 2) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 3) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 原生艺术粗线人物 · "Raw Art-Brut Figure"（当代｜国际）
+### "Raw Art-Brut Figure"（Contemporary | International）
 
-> Art Brut、粗糙线、人形符号、儿童式反精致
+> Art Brut, coarse line, human-shaped symbol, childlike anti-refinement.
 
-- **构图**：海报式平衡，外轮廓清楚，大形优先
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、图形化，几乎不做体积塑造
-- **质感**：笔触——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感；材质——反精致、粗糙
-- **情绪**：儿童
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: poster-like balance, clear outer silhouette, big shapes first
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat, graphic, almost no volume modeling
+- **Texture**: brushwork — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel; materials — anti-refined, coarse
+- **Emotion**: children
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 唯美漫画柔和插画 · "唯美漫画插画风"（当代｜中国）
+### Ethereal Manga Soft Illustration（Contemporary | China）
 
-> 夏达：编号 203 的手绘风格。
+> Xia Da: hand-drawn style no. 203.
 
-- **构图**：人物或小场景居中，留白克制
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和均匀光
-- **质感**：笔触——中国当代插画，墨线 + 数码上色，纸面质感；材质——中国当代插画，墨线 + 数码上色，纸面质感
-- **情绪**：当代、克制、带东方气味
-- **色锚**：`#1A1A1A` `#FAF7F0` `#D9C7A3` `#6E5A8C`
-- **翻车点**：1）最容易把这套画风渲染成 3D——显式写出相反的画面特征；2）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: figure or small scene centered, restrained negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft even light
+- **Texture**: brushwork — contemporary Chinese illustration, ink line plus digital coloring, paper surface; materials — contemporary Chinese illustration, ink line plus digital coloring, paper surface
+- **Emotion**: contemporary, restrained, with an Eastern flavor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#D9C7A3` `#6E5A8C`
+- **Failure points**: 1) this style is most easily rendered as 3D — state the opposite frame features explicitly; 2) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 国风幻想插画 · "国风幻想插画风"（当代｜中国）
+### Guofeng Fantasy Illustration（Contemporary | China）
 
-> 天翊羽：编号 214 的手绘风格。
+> Tian Yiyu: hand-drawn style no. 214.
 
-- **构图**：人物或小场景居中，留白克制
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和均匀光
-- **质感**：笔触——中国当代插画，墨线 + 数码上色，纸面质感；材质——中国当代插画，墨线 + 数码上色，纸面质感
-- **情绪**：当代、克制、带东方气味
-- **色锚**：`#1A1A1A` `#FAF7F0` `#D9C7A3` `#6E5A8C`
-- **翻车点**：1）最容易把这套画风渲染成 3D——显式写出相反的画面特征；2）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: figure or small scene centered, restrained negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft even light
+- **Texture**: brushwork — contemporary Chinese illustration, ink line plus digital coloring, paper surface; materials — contemporary Chinese illustration, ink line plus digital coloring, paper surface
+- **Emotion**: contemporary, restrained, with an Eastern flavor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#D9C7A3` `#6E5A8C`
+- **Failure points**: 1) this style is most easily rendered as 3D — state the opposite frame features explicitly; 2) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 圆珠笔便签小人物 · "Notebook Margin Cartoon"（当代｜通用 / 地域）
+### "Notebook Margin Cartoon"（Contemporary | General / Regional）
 
-> 圆珠笔感、小人物、箭头注释、随手草图
+> Ballpoint-pen feel, tiny figures, arrow annotations, casual sketch.
 
-- **构图**：小人物
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光到轻微塑形
-- **质感**：笔触——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹；材质——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹
-- **情绪**：轻松、网感、当下
-- **色锚**：`#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——显式写出相反的画面特征；2）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: tiny figures
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat to slight modeling
+- **Texture**: brushwork — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture; materials — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture
+- **Emotion**: relaxed, internet-native, of the moment
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
+- **Failure points**: 1) this style is most easily rendered as 3D — state the opposite frame features explicitly; 2) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 复古几何城市卡通 · "Retro Geometric City Cartoon"（当代｜国际）
+### "Retro Geometric City Cartoon"（Contemporary | International）
 
-> 几何人物、复古城市、高饱和平涂、70s–80s 商业卡通感
+> Geometric figures, retro city, high-saturation flat fill, a 1970s–80s commercial cartoon feel.
 
-- **构图**：海报式平衡，外轮廓清楚，大形优先
-- **光色**：色彩——高饱和、撞色；光影——平光、图形化，几乎不做体积塑造
-- **质感**：笔触——图标化、平涂、几何、大形；材质——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感
-- **情绪**：复古
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B` `#FF5FA2`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: poster-like balance, clear outer silhouette, big shapes first
+- **Light and color**: color — high saturation, clashing color; light — flat, graphic, almost no volume modeling
+- **Texture**: brushwork — icon-like, flat fill, geometry, big shapes; materials — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel
+- **Emotion**: retro
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B` `#FF5FA2`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 复古墨水水彩漫画绘本 · "Vintage Ink & Watercolor Comic Storybook"（当代｜其他）
+### "Vintage Ink & Watercolor Comic Storybook"（Contemporary | Other）
 
-> 经典复古手绘漫画绘本风、生动流畅的蘸水笔墨水线条、温润质朴的水彩平涂晕染、复古报刊插画排线、大眼睛与红润脸蛋的可爱人物造型、温暖怀旧的童年冒险叙事感
+> A classic retro hand-drawn comic-storybook style: lively flowing dip-pen ink line, warm plain watercolor flat washes, retro newspaper-illustration hatching, cute characters with big eyes and ruddy cheeks, and the warm nostalgic feel of a childhood adventure.
 
-- **构图**：外轮廓清楚、画面不拥挤
-- **光色**：色彩——红；光影——平光、无明显方向性
-- **质感**：笔触——排线、平涂；材质——水彩
-- **情绪**：怀旧、复古
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F` `#B4574A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: clear outer silhouette, uncrowded frame
+- **Light and color**: color — red; light — flat lighting, no clear direction
+- **Texture**: brushwork — hatching, flat fill; materials — watercolor
+- **Emotion**: nostalgic, retro
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F` `#B4574A`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 复古波普社论人物 · "Retro Pop Editorial Figure"（当代｜国际）
+### "Retro Pop Editorial Figure"（Contemporary | International）
 
-> 复古社论、强轮廓、波普色彩、海报化人物
+> Retro editorial, strong contour, pop color, poster-like figure.
 
-- **构图**：海报式平衡，外轮廓清楚，大形优先
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、图形化，几乎不做体积塑造
-- **质感**：笔触——轮廓；材质——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感
-- **情绪**：复古
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: poster-like balance, clear outer silhouette, big shapes first
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat, graphic, almost no volume modeling
+- **Texture**: brushwork — contour; materials — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel
+- **Emotion**: retro
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 大块面剪影动作喜剧 · "Stylized Cinematic Action-Comedy Character"（当代｜其他）
+### "Stylized Cinematic Action-Comedy Character"（Contemporary | Other）
 
-> 风格化大块面剪影动画插画风、夸张强壮的胡子大叔与市井风情、干练几何块面平涂与微颗粒光影、充满动势与幽默张力的街头角色原画
+> A stylized big-plane silhouette animation illustration style: an exaggerated strong bearded man and street-life flavor, crisp geometric flat fill with subtly grainy light and shadow, a street character concept painting full of momentum and comic tension.
 
-- **构图**：外轮廓清楚、画面不拥挤
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、无明显方向性
-- **质感**：笔触——平涂、几何；材质——颗粒
-- **情绪**：幽默
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: clear outer silhouette, uncrowded frame
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat lighting, no clear direction
+- **Texture**: brushwork — flat fill, geometry; materials — grain
+- **Emotion**: humor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 夸张大头松散黑线冷面 · "Geometric Fashion Deadpan"（当代｜国际）
+### "Geometric Fashion Deadpan"（Contemporary | International）
 
-> 夸张大头、松散黑色短线、冷面人物、横条纹上衣、灰黑与浅色块
+> Exaggerated big head, loose short black line, deadpan figure, horizontal striped top, gray-black and pale color blocks.
 
-- **构图**：单人或极简场景，主体小、白底留白大
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光，没有方向性阴影（漫画是纸面印刷媒介）
-- **质感**：笔触——色块；材质——钢笔 / 墨水线稿，纸面
-- **情绪**：幽默、冷面、时尚
-- **色锚**：`#1A1A1A` `#FAF7F0` `#8FA3B8`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: a single figure or minimal scene, small subject, large white negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat light, no directional shadow (comics are a paper print medium)
+- **Texture**: brushwork — color block; materials — pen / ink line art, paper
+- **Emotion**: humor, deadpan, fashion
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#8FA3B8`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 女生日常博客漫画 · "Friendly Girl-Diary Cartoon"（当代｜日本）
+### "Friendly Girl-Diary Cartoon"（Contemporary | Japan）
 
-> 女生日常博客漫画、简单可亲、生活感
+> Girls' everyday blog comic, simple and approachable, a lived-in feel.
 
-- **构图**：角色优先的构图，背景干净
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和漫射光，轻微轮廓光
-- **质感**：笔触——轮廓；材质——日系数码插画，干净线稿 + 柔和的赛璐璐或水彩上色
-- **情绪**：时尚、日常、松弛
-- **色锚**：`#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
-- **翻车点**：1）人物姿态松弛自然，服装靠清楚剪影体现时尚感，避免模板化甜美脸；2）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；3）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: character-first composition, clean background
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft diffused light, slight rim light
+- **Texture**: brushwork — contour; materials — Japanese-style digital illustration, clean line art plus soft cel or watercolor coloring
+- **Emotion**: fashion, everyday, relaxed
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
+- **Failure points**: 1) keep the pose relaxed and natural, let a clear silhouette carry the fashion sense of the clothing, avoid a templated sweet face; 2) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 3) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 安静低饱和日系社论 · "Quiet Low-Saturation Japanese Editorial"（当代｜日本）
+### "Quiet Low-Saturation Japanese Editorial"（Contemporary | Japan）
 
-> 安静平面人物、低饱和、留白、日系现代社论
+> Quiet flat figure, low saturation, negative space, Japanese modern editorial.
 
-- **构图**：留白
-- **光色**：色彩——低饱和、点色；光影——柔和漫射光，轻微轮廓光
-- **质感**：笔触——轮廓；材质——日系数码插画，干净线稿 + 柔和的赛璐璐或水彩上色
-- **情绪**：安静
-- **色锚**：`#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8` `#9AA98F`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: negative space
+- **Light and color**: color — low saturation, spot color; light — soft diffused light, slight rim light
+- **Texture**: brushwork — contour; materials — Japanese-style digital illustration, clean line art plus soft cel or watercolor coloring
+- **Emotion**: quiet
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8` `#9AA98F`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 密集小动物粗黑线夸张 · "Dense Silent Physical Comedy"（当代｜国际）
+### "Dense Silent Physical Comedy"（Contemporary | International）
 
-> 密集小动物和小人物、粗黑线、夸张鼻子与张嘴大笑、四肢向外伸展
+> Dense small animals and tiny figures, thick black line, exaggerated nose and open-mouthed laughter, limbs stretched outward.
 
-- **构图**：小人物
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光，没有方向性阴影（漫画是纸面印刷媒介）
-- **质感**：笔触——粗黑线；材质——钢笔 / 墨水线稿，纸面
-- **情绪**：冷面、尴尬或荒诞的幽默
-- **色锚**：`#1A1A1A` `#FAF7F0` `#8FA3B8`
-- **翻车点**：1）最容易把这套画风渲染成 3D——显式写出相反的画面特征；2）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: tiny figures
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat light, no directional shadow (comics are a paper print medium)
+- **Texture**: brushwork — thick black line; materials — pen / ink line art, paper
+- **Emotion**: deadpan, awkward, or absurd humor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#8FA3B8`
+- **Failure points**: 1) this style is most easily rendered as 3D — state the opposite frame features explicitly; 2) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 帕塔蓬节奏战鼓卡通 · "Patapon Remastered"（当代｜其他）
+### "Patapon Remastered"（Contemporary | Other）
 
-> Patapon Remastered：编号 263 的手绘风格。
+> Patapon Remastered: hand-drawn style no. 263.
 
-- **构图**：外轮廓清楚、画面不拥挤
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、无明显方向性
-- **质感**：笔触——手绘插画，墨水与颜料在纸上；材质——手绘插画，墨水与颜料在纸上
-- **情绪**：该组不共用统一情绪，以该条 traits 为准
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: clear outer silhouette, uncrowded frame
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat lighting, no clear direction
+- **Texture**: brushwork — hand-drawn illustration, ink and pigment on paper; materials — hand-drawn illustration, ink and pigment on paper
+- **Emotion**: this group shares no single emotion; follow this entry's traits
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 平静冷面荒诞涂鸦 · "Deadpan Doodle"（当代｜通用 / 地域）
+### "Deadpan Doodle"（Contemporary | General / Regional）
 
-> 人物不演、表情平静、荒谬场景制造笑点
+> Characters who do not perform, calm expressions, absurd scenes doing the work of the punchline.
 
-- **构图**：适合屏幕观看的构图，外轮廓强，一眼能读懂
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光到轻微塑形
-- **质感**：笔触——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹；材质——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹
-- **情绪**：平静
-- **色锚**：`#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: a composition suited to on-screen viewing, strong outer silhouette, readable at a glance
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat to slight modeling
+- **Texture**: brushwork — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture; materials — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture
+- **Emotion**: calm
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 当代都市科技商业人物 · "Contemporary Urban-Tech Character Illustration"（当代｜中国）
+### "Contemporary Urban-Tech Character Illustration"（Contemporary | China）
 
-> 当代商业人物、都市/科技、清晰平面语言
+> Contemporary commercial figure, urban / tech, a clear graphic language.
 
-- **构图**：人物居中，留白多，画面轻
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和均匀光，带淡墨晕染
-- **质感**：笔触——轮廓；材质——中国当代插画，墨线 + 数码上色，宣纸或国画纸质感
-- **情绪**：含蓄、诗性、有东方气息
-- **色锚**：`#1A1A1A` `#FAF7F0` `#D9C7A3` `#7C8F6A`
-- **翻车点**：1）表情与肢体动作要服从该风格的人格机制，避免回落为统一的标准Q版表情；2）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；3）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: figure centered, much negative space, a light frame
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft even light with faint ink wash
+- **Texture**: brushwork — contour; materials — contemporary Chinese illustration, ink line plus digital coloring, rice-paper or Chinese painting paper texture
+- **Emotion**: reserved, poetic, with an Eastern flavor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#D9C7A3` `#7C8F6A`
+- **Failure points**: 1) expression and body language must obey this style's character mechanism — avoid falling back on uniform standard chibi expressions; 2) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 3) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 怪诞古典漫画肖像 · "Grotesque Classical-Comic Portrait"（当代｜国际）
+### "Grotesque Classical-Comic Portrait"（Contemporary | International）
 
-> 扭曲五官、怪表情、古典人物与漫画混合
+> Distorted features, grotesque expression, classical figures mixed with comics.
 
-- **构图**：海报式平衡，外轮廓清楚，大形优先
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、图形化，几乎不做体积塑造
-- **质感**：笔触——轮廓；材质——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感
-- **情绪**：冷静、时尚、疏离
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
-- **翻车点**：1）表情与肢体动作要服从该风格的人格机制，避免回落为统一的标准Q版表情；2）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；3）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: poster-like balance, clear outer silhouette, big shapes first
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat, graphic, almost no volume modeling
+- **Texture**: brushwork — contour; materials — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel
+- **Emotion**: cool, stylish, detached
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
+- **Failure points**: 1) expression and body language must obey this style's character mechanism — avoid falling back on uniform standard chibi expressions; 2) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 3) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 手帐小人物生活涂鸦 · "Notebook Lifestyle Doodle"（当代｜日本）
+### "Notebook Lifestyle Doodle"（Contemporary | Japan）
 
-> 手帐式小人物、小物罗列、文字注记、生活记录
+> Planner-style tiny figures, small objects listed out, text notes, a record of life.
 
-- **构图**：小人物
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和漫射光，轻微轮廓光
-- **质感**：笔触——轮廓；材质——手帐
-- **情绪**：生活记录
-- **色锚**：`#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
-- **翻车点**：1）表情与肢体动作要服从该风格的人格机制，避免回落为统一的标准Q版表情；2）最容易把这套画风渲染成 3D——显式写出相反的画面特征；3）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: tiny figures
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft diffused light, slight rim light
+- **Texture**: brushwork — contour; materials — planner
+- **Emotion**: a record of life
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
+- **Failure points**: 1) expression and body language must obey this style's character mechanism — avoid falling back on uniform standard chibi expressions; 2) this style is most easily rendered as 3D — state the opposite frame features explicitly; 3) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 抽象连续线人物 · "Abstract Continuous-Line Figure"（当代｜国际）
+### "Abstract Continuous-Line Figure"（Contemporary | International）
 
-> 连续线、抽象人体、几何变形、符号化
+> Continuous line, abstract body, geometric distortion, symbolization.
 
-- **构图**：海报式平衡，外轮廓清楚，大形优先
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、图形化，几乎不做体积塑造
-- **质感**：笔触——连续线、几何；材质——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感
-- **情绪**：冷静、时尚、疏离
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: poster-like balance, clear outer silhouette, big shapes first
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat, graphic, almost no volume modeling
+- **Texture**: brushwork — continuous line, geometry; materials — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel
+- **Emotion**: cool, stylish, detached
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 故意画坏荒诞粗糙黑线 · "Deliberately Bad Absurd Doodle"（当代｜国际）
+### "Deliberately Bad Absurd Doodle"（Contemporary | International）
 
-> 故意画坏、粗糙黑线、幼稚造型、荒诞文字、强 meme 感
+> Deliberately badly drawn, rough black line, infantile shapes, absurd text, a strong meme feel.
 
-- **构图**：单人或极简场景，主体小、白底留白大
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光，没有方向性阴影（漫画是纸面印刷媒介）
-- **质感**：笔触——黑线、轮廓；材质——粗糙
-- **情绪**：meme、冷脸、荒诞、尴尬、幼稚
-- **色锚**：`#1A1A1A` `#FAF7F0` `#8FA3B8`
-- **翻车点**：1）表情偏冷脸、尴尬或突然夸张，姿态要有明确喜剧节奏，避免统一的可爱微笑；2）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；3）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: a single figure or minimal scene, small subject, large white negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat light, no directional shadow (comics are a paper print medium)
+- **Texture**: brushwork — black line, contour; materials — rough
+- **Emotion**: meme, deadpan, absurd, awkward, infantile
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#8FA3B8`
+- **Failure points**: 1) expressions lean deadpan, awkward, or suddenly exaggerated, and the pose needs a clear comic rhythm — avoid a uniform cute smile; 2) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 3) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 断裂细瘦情绪人物 · "Angular Expressive Figure Line"（当代｜国际）
+### "Angular Expressive Figure Line"（Contemporary | International）
 
-> 断裂敏感线条、细瘦人体、扭曲姿态、强情绪
+> Broken sensitive line, thin lean body, twisted pose, strong emotion.
 
-- **构图**：海报式平衡，外轮廓清楚，大形优先
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、图形化，几乎不做体积塑造
-- **质感**：笔触——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感；材质——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感
-- **情绪**：冷静、时尚、疏离
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: poster-like balance, clear outer silhouette, big shapes first
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat, graphic, almost no volume modeling
+- **Texture**: brushwork — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel; materials — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel
+- **Emotion**: cool, stylish, detached
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 新国潮平面工笔 · "New-Guochao Flat Gongbi"（当代｜通用 / 地域）
+### "New-Guochao Flat Gongbi"（Contemporary | General / Regional）
 
-> 工笔结构 + 平面色块 + 金色/传统纹样
+> Gongbi structure plus flat color blocks plus gold / traditional pattern.
 
-- **构图**：适合屏幕观看的构图，外轮廓强，一眼能读懂
-- **光色**：色彩——金色；光影——平光到轻微塑形
-- **质感**：笔触——色块；材质——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹
-- **情绪**：轻松、网感、当下
-- **色锚**：`#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A` `#C9A227`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: a composition suited to on-screen viewing, strong outer silhouette, readable at a glance
+- **Light and color**: color — gold; light — flat to slight modeling
+- **Texture**: brushwork — color block; materials — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture
+- **Emotion**: relaxed, internet-native, of the moment
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A` `#C9A227`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 新艺术海报人物 · "Flat Belle-Époque Poster Figure"（当代｜国际）
+### "Flat Belle-Époque Poster Figure"（Contemporary | International）
 
-> 海报式人物、简化轮廓、平面色块、都市生活
+> Poster-style figure, simplified contour, flat color block, urban life.
 
-- **构图**：海报式平衡，外轮廓清楚，大形优先
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、图形化，几乎不做体积塑造
-- **质感**：笔触——轮廓、色块；材质——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感
-- **情绪**：冷静、时尚、疏离
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: poster-like balance, clear outer silhouette, big shapes first
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat, graphic, almost no volume modeling
+- **Texture**: brushwork — contour, color block; materials — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel
+- **Emotion**: cool, stylish, detached
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 日式低饱和生活插画 · "Japanese Magazine Essay Illustration"（当代｜通用 / 地域）
+### "Japanese Magazine Essay Illustration"（Contemporary | General / Regional）
 
-> 细线、低饱和、穿搭、美食、轻生活场景
+> Fine line, low saturation, outfits, food, light lifestyle scenes.
 
-- **构图**：适合屏幕观看的构图，外轮廓强，一眼能读懂
-- **光色**：色彩——低饱和；光影——平光到轻微塑形
-- **质感**：笔触——细线；材质——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹
-- **情绪**：轻松、网感、当下
-- **色锚**：`#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A` `#9AA98F`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: a composition suited to on-screen viewing, strong outer silhouette, readable at a glance
+- **Light and color**: color — low saturation; light — flat to slight modeling
+- **Texture**: brushwork — fine line; materials — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture
+- **Emotion**: relaxed, internet-native, of the moment
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A` `#9AA98F`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 日式脱力极细线漫画 · "Japanese Deadpan Loose-Line Cartoon"（当代｜通用 / 地域）
+### "Japanese Deadpan Loose-Line Cartoon"（Contemporary | General / Regional）
 
-> 极细线、松垮人体、无力表情、社畜/日常梗
+> Extremely fine line, slack bodies, powerless expressions, office-worker / everyday gags.
 
-- **构图**：适合屏幕观看的构图，外轮廓强，一眼能读懂
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光到轻微塑形
-- **质感**：笔触——细线；材质——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹
-- **情绪**：日常
-- **色锚**：`#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: a composition suited to on-screen viewing, strong outer silhouette, readable at a glance
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat to slight modeling
+- **Texture**: brushwork — fine line; materials — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture
+- **Emotion**: everyday
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 时尚穿搭速写少女 · "Fashion Diary Sketch Girl"（当代｜日本）
+### "Fashion Diary Sketch Girl"（Contemporary | Japan）
 
-> 女孩穿搭速写、手绘服装、Instagram 日记感
+> Girl's outfit sketch, hand-drawn clothing, an Instagram diary feel.
 
-- **构图**：角色优先的构图，背景干净
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和漫射光，轻微轮廓光
-- **质感**：笔触——手绘笔压、轮廓、速写；材质——日系数码插画，干净线稿 + 柔和的赛璐璐或水彩上色
-- **情绪**：时尚、松弛
-- **色锚**：`#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
-- **翻车点**：1）人物姿态松弛自然，服装靠清楚剪影体现时尚感，避免模板化甜美脸；2）最容易把这套画风渲染成 3D——显式写出相反的画面特征；3）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: character-first composition, clean background
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft diffused light, slight rim light
+- **Texture**: brushwork — hand-drawn pen pressure, contour, sketch; materials — Japanese-style digital illustration, clean line art plus soft cel or watercolor coloring
+- **Emotion**: fashion, relaxed
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
+- **Failure points**: 1) keep the pose relaxed and natural, let a clear silhouette carry the fashion sense of the clothing, avoid a templated sweet face; 2) this style is most easily rendered as 3D — state the opposite frame features explicitly; 3) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 昭和家庭日常漫画 · "Showa Everyday Family Comic"（当代｜日本）
+### "Showa Everyday Family Comic"（Contemporary | Japan）
 
-> 昭和家庭漫画、简洁线条、日常观察
+> Showa-era family comic, concise line, everyday observation.
 
-- **构图**：角色优先的构图，背景干净
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和漫射光，轻微轮廓光
-- **质感**：笔触——日系数码插画，干净线稿 + 柔和的赛璐璐或水彩上色；材质——日系数码插画，干净线稿 + 柔和的赛璐璐或水彩上色
-- **情绪**：日常
-- **色锚**：`#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: character-first composition, clean background
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft diffused light, slight rim light
+- **Texture**: brushwork — Japanese-style digital illustration, clean line art plus soft cel or watercolor coloring; materials — Japanese-style digital illustration, clean line art plus soft cel or watercolor coloring
+- **Emotion**: everyday
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 朋克墨线文字社论 · "Punk Ink-and-Text Editorial"（当代｜国际）
+### "Punk Ink-and-Text Editorial"（Contemporary | International）
 
-> 黑墨速写、朋克线稿、文字并置、粗粝社论
+> Black-ink sketch, punk line art, text juxtaposed, a coarse editorial.
 
-- **构图**：海报式平衡，外轮廓清楚，大形优先
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、图形化，几乎不做体积塑造
-- **质感**：笔触——手绘笔压、线稿、轮廓、速写；材质——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感
-- **情绪**：冷静、时尚、疏离
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
-- **翻车点**：1）表情与肢体动作要服从该风格的人格机制，避免回落为统一的标准Q版表情；2）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；3）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: poster-like balance, clear outer silhouette, big shapes first
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat, graphic, almost no volume modeling
+- **Texture**: brushwork — hand-drawn pen pressure, line art, contour, sketch; materials — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel
+- **Emotion**: cool, stylish, detached
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
+- **Failure points**: 1) expression and body language must obey this style's character mechanism — avoid falling back on uniform standard chibi expressions; 2) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 3) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 松散弹性墨线儿童表情 · "Elastic Sunday Strip"（当代｜国际）
+### "Elastic Sunday Strip"（Contemporary | International）
 
-> 松散弹性墨线、夸张儿童表情、强肢体动作、少量透明水彩
+> Loose elastic ink line, exaggerated childlike expressions, strong body language, a little transparent watercolor.
 
-- **构图**：留白
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光，没有方向性阴影（漫画是纸面印刷媒介）
-- **质感**：笔触——手绘笔压、墨线、轮廓；材质——透明叠染、水彩、纸纹
-- **情绪**：儿童
-- **色锚**：`#1A1A1A` `#FAF7F0` `#8FA3B8`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat light, no directional shadow (comics are a paper print medium)
+- **Texture**: brushwork — hand-drawn pen pressure, ink line, contour; materials — transparent layered washes, watercolor, paper texture
+- **Emotion**: children
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#8FA3B8`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 极小几何冷面文学梗 · "Geometric Literary Deadpan"（当代｜国际）
+### "Geometric Literary Deadpan"（Contemporary | International）
 
-> 极小几何人物、极简场景、文学/科技梗、冷面幽默
+> Tiny geometric figures, minimal scene, literary / tech gags, deadpan humor.
 
-- **构图**：单人或极简场景，主体小、白底留白大
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光，没有方向性阴影（漫画是纸面印刷媒介）
-- **质感**：笔触——做减法、轮廓、几何；材质——钢笔 / 墨水线稿，纸面
-- **情绪**：幽默、冷面、冷脸、尴尬
-- **色锚**：`#1A1A1A` `#FAF7F0` `#8FA3B8`
-- **翻车点**：1）表情偏冷脸、尴尬或突然夸张，姿态要有明确喜剧节奏，避免统一的可爱微笑；2）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；3）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: a single figure or minimal scene, small subject, large white negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat light, no directional shadow (comics are a paper print medium)
+- **Texture**: brushwork — subtractive, contour, geometry; materials — pen / ink line art, paper
+- **Emotion**: humor, deadpan, deadpan face, awkward
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#8FA3B8`
+- **Failure points**: 1) expressions lean deadpan, awkward, or suddenly exaggerated, and the pose needs a clear comic rhythm — avoid a uniform cute smile; 2) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 3) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 极端几何自然角色 · "Ultra-Geometric Nature Character"（当代｜国际）
+### "Ultra-Geometric Nature Character"（Contemporary | International）
 
-> 极端几何化动物与人物、Flat Shape、装饰性强
+> Extremely geometric animals and figures, flat shape, highly decorative.
 
-- **构图**：海报式平衡，外轮廓清楚，大形优先
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、图形化，几乎不做体积塑造
-- **质感**：笔触——几何；材质——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感
-- **情绪**：冷静、时尚、疏离
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: poster-like balance, clear outer silhouette, big shapes first
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat, graphic, almost no volume modeling
+- **Texture**: brushwork — geometry; materials — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel
+- **Emotion**: cool, stylish, detached
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 极简反逻辑日常漫画 · "Yuru-Surreal Minimal Everyday Cartoon"（当代｜日本）
+### "Yuru-Surreal Minimal Everyday Cartoon"（Contemporary | Japan）
 
-> ゆるシュール、极简人物、反逻辑日常
+> Yuru-suru, minimal figures, anti-logic everyday life.
 
-- **构图**：角色优先的构图，背景干净
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和漫射光，轻微轮廓光
-- **质感**：笔触——做减法、轮廓；材质——日系数码插画，干净线稿 + 柔和的赛璐璐或水彩上色
-- **情绪**：日常
-- **色锚**：`#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
-- **翻车点**：1）表情与肢体动作要服从该风格的人格机制，避免回落为统一的标准Q版表情；2）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；3）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: character-first composition, clean background
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft diffused light, slight rim light
+- **Texture**: brushwork — subtractive, contour; materials — Japanese-style digital illustration, clean line art plus soft cel or watercolor coloring
+- **Emotion**: everyday
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
+- **Failure points**: 1) expression and body language must obey this style's character mechanism — avoid falling back on uniform standard chibi expressions; 2) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 3) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 极简女生日常细线 · "Minimal Daily-Life Girl Line"（当代｜日本）
+### "Minimal Daily-Life Girl Line"（Contemporary | Japan）
 
-> 极简女生日常、细线、低干扰构图
+> Minimal girls' everyday life, fine line, low-interference composition.
 
-- **构图**：角色优先的构图，背景干净
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和漫射光，轻微轮廓光
-- **质感**：笔触——做减法、细线、轮廓；材质——日系数码插画，干净线稿 + 柔和的赛璐璐或水彩上色
-- **情绪**：时尚、日常、松弛
-- **色锚**：`#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
-- **翻车点**：1）人物姿态松弛自然，服装靠清楚剪影体现时尚感，避免模板化甜美脸；2）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；3）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: character-first composition, clean background
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft diffused light, slight rim light
+- **Texture**: brushwork — subtractive, fine line, contour; materials — Japanese-style digital illustration, clean line art plus soft cel or watercolor coloring
+- **Emotion**: fashion, everyday, relaxed
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
+- **Failure points**: 1) keep the pose relaxed and natural, let a clear silhouette carry the fashion sense of the clothing, avoid a templated sweet face; 2) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 3) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 极简毛笔白底漫画 · "Kobayashi Manga Minimal Ink Style"（当代｜其他）
+### "Kobayashi Manga Minimal Ink Style"（Contemporary | Other）
 
-> 白底中国式极简手绘漫画
+> White-ground Chinese-style minimal hand-drawn comic.
 
-- **构图**：大面积留白
-- **光色**：色彩——白底、黄、红；光影——平光、无明显方向性
-- **质感**：笔触——高度概括、毛笔、线稿、平涂；材质——手绘插画，墨水与颜料在纸上
-- **情绪**：讽刺
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F` `#E8C46A` `#B4574A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: large areas of negative space
+- **Light and color**: color — white ground, yellow, red; light — flat lighting, no clear direction
+- **Texture**: brushwork — highly summarized, brush, line art, flat fill; materials — hand-drawn illustration, ink and pigment on paper
+- **Emotion**: satire
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F` `#E8C46A` `#B4574A`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 极简温暖叙事插画 · "极简温暖叙事风"（当代｜中国）
+### Minimal Warm Narrative Illustration（Contemporary | China）
 
-> Tango：编号 207 的手绘风格。
+> Tango: hand-drawn style no. 207.
 
-- **构图**：人物或小场景居中，留白克制
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和均匀光
-- **质感**：笔触——中国当代插画，墨线 + 数码上色，纸面质感；材质——中国当代插画，墨线 + 数码上色，纸面质感
-- **情绪**：当代、克制、带东方气味
-- **色锚**：`#1A1A1A` `#FAF7F0` `#D9C7A3` `#6E5A8C`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: figure or small scene centered, restrained negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft even light
+- **Texture**: brushwork — contemporary Chinese illustration, ink line plus digital coloring, paper surface; materials — contemporary Chinese illustration, ink line plus digital coloring, paper surface
+- **Emotion**: contemporary, restrained, with an Eastern flavor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#D9C7A3` `#6E5A8C`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 极简诗意手写绘本 · "Minimal Poetic Picturebook Doodle"（当代｜国际）
+### "Minimal Poetic Picturebook Doodle"（Contemporary | International）
 
-> 极简人物、手写感、松散涂色、诗意荒诞
+> Minimal figures, a handwritten feel, loose coloring, poetic absurdity.
 
-- **构图**：叙事性场景，圆润造型，角色与环境同框
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和环境光，轻微体积阴影
-- **质感**：笔触——做减法、轮廓、手写；材质——绘本插图，墨水配水彩或水粉，纸面
-- **情绪**：冷脸、荒诞、尴尬
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8C46A` `#9AA98F`
-- **翻车点**：1）表情偏冷脸、尴尬或突然夸张，姿态要有明确喜剧节奏，避免统一的可爱微笑；2）最容易把这套画风渲染成 3D——显式写出相反的画面特征；3）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: narrative scene, rounded forms, characters in the same frame as their environment
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft ambient light, slight volume shadow
+- **Texture**: brushwork — subtractive, contour, handwriting; materials — storybook illustration, ink with watercolor or gouache, paper
+- **Emotion**: deadpan, absurd, awkward
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8C46A` `#9AA98F`
+- **Failure points**: 1) expressions lean deadpan, awkward, or suddenly exaggerated, and the pose needs a clear comic rhythm — avoid a uniform cute smile; 2) this style is most easily rendered as 3D — state the opposite frame features explicitly; 3) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 极简黑线时尚人物 · "Minimal Fashion Line Figure"（当代｜日本）
+### "Minimal Fashion Line Figure"（Contemporary | Japan）
 
-> 极简黑线、时尚人物、无阴影、大白底
+> Minimal black line, fashion figure, no shadow, large white ground.
 
-- **构图**：角色优先的构图，背景干净
-- **光色**：色彩——白底；光影——无阴影
-- **质感**：笔触——极简黑线、做减法、轮廓；材质——日系数码插画，干净线稿 + 柔和的赛璐璐或水彩上色
-- **情绪**：时尚、松弛
-- **色锚**：`#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
-- **翻车点**：1）人物姿态松弛自然，服装靠清楚剪影体现时尚感，避免模板化甜美脸；2）最容易把这套画风渲染成 3D——显式写出相反的画面特征；3）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: character-first composition, clean background
+- **Light and color**: color — white ground; light — no shadow
+- **Texture**: brushwork — minimal black line, subtractive, contour; materials — Japanese-style digital illustration, clean line art plus soft cel or watercolor coloring
+- **Emotion**: fashion, relaxed
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
+- **Failure points**: 1) keep the pose relaxed and natural, let a clear silhouette carry the fashion sense of the clothing, avoid a templated sweet face; 2) this style is most easily rendered as 3D — state the opposite frame features explicitly; 3) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 柔和水彩中国氛围 · "Soft Chinese Watercolor Atmosphere"（当代｜中国）
+### "Soft Chinese Watercolor Atmosphere"（Contemporary | China）
 
-> 柔和水彩、中国元素、朦胧光线
+> Soft watercolor, Chinese motifs, hazy light.
 
-- **构图**：留白
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和均匀光，带淡墨晕染
-- **质感**：笔触——轮廓；材质——透明叠染、柔和水彩、纸纹
-- **情绪**：含蓄、诗性、有东方气息
-- **色锚**：`#1A1A1A` `#FAF7F0` `#D9C7A3` `#7C8F6A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft even light with faint ink wash
+- **Texture**: brushwork — contour; materials — transparent layered washes, soft watercolor, paper texture
+- **Emotion**: reserved, poetic, with an Eastern flavor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#D9C7A3` `#7C8F6A`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 梦境青春绘本色彩 · "Dreamy Youth Picturebook Color"（当代｜中国）
+### "Dreamy Youth Picturebook Color"（Contemporary | China）
 
-> 绘本色彩、梦境、青春情绪、柔和人物
+> Picturebook color, dream, youthful emotion, soft figures.
 
-- **构图**：人物居中，留白多，画面轻
-- **光色**：色彩——点色；光影——柔和均匀光，带淡墨晕染
-- **质感**：笔触——轮廓；材质——中国当代插画，墨线 + 数码上色，宣纸或国画纸质感
-- **情绪**：青春
-- **色锚**：`#1A1A1A` `#FAF7F0` `#D9C7A3` `#7C8F6A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: figure centered, much negative space, a light frame
+- **Light and color**: color — spot color; light — soft even light with faint ink wash
+- **Texture**: brushwork — contour; materials — contemporary Chinese illustration, ink line plus digital coloring, rice-paper or Chinese painting paper texture
+- **Emotion**: youth
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#D9C7A3` `#7C8F6A`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 正负形高对比剪影 · "High-Contrast Negative-Space Figure"（当代｜国际）
+### "High-Contrast Negative-Space Figure"（Contemporary | International）
 
-> 极简剪影、正负形、高对比色、强视觉切割
+> Minimal silhouette, figure-ground, high-contrast color, strong visual cutting.
 
-- **构图**：大面积留白
-- **光色**：色彩——黑白；光影——高对比
-- **质感**：笔触——做减法、轮廓；材质——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感
-- **情绪**：冷静、时尚、疏离
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: large areas of negative space
+- **Light and color**: color — black and white; light — high contrast
+- **Texture**: brushwork — subtractive, contour; materials — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel
+- **Emotion**: cool, stylish, detached
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 民俗妖怪黑白漫画 · "Folklore Monster Ink Cartoon"（当代｜日本）
+### "Folklore Monster Ink Cartoon"（Contemporary | Japan）
 
-> 朴拙漫画线、民俗怪谈、妖怪造型、黑白纹理
+> Plain manga line, folklore ghost stories, monster shapes, black-and-white texture.
 
-- **构图**：角色优先的构图，背景干净
-- **光色**：色彩——黑白；光影——柔和漫射光，轻微轮廓光
-- **质感**：笔触——日系数码插画，干净线稿 + 柔和的赛璐璐或水彩上色；材质——日系数码插画，干净线稿 + 柔和的赛璐璐或水彩上色
-- **情绪**：纤细、情绪化、空气感
-- **色锚**：`#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: character-first composition, clean background
+- **Light and color**: color — black and white; light — soft diffused light, slight rim light
+- **Texture**: brushwork — Japanese-style digital illustration, clean line art plus soft cel or watercolor coloring; materials — Japanese-style digital illustration, clean line art plus soft cel or watercolor coloring
+- **Emotion**: delicate, emotional, airy
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 水墨新国风插画 · "水墨新国风插画"（当代｜中国）
+### Ink New-Guofeng Illustration（Contemporary | China）
 
-> 锋鸟：编号 204 的手绘风格。
+> Fengniao: hand-drawn style no. 204.
 
-- **构图**：人物或小场景居中，留白克制
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和均匀光
-- **质感**：笔触——中国当代插画，墨线 + 数码上色，纸面质感；材质——中国当代插画，墨线 + 数码上色，纸面质感
-- **情绪**：当代、克制、带东方气味
-- **色锚**：`#1A1A1A` `#FAF7F0` `#D9C7A3` `#6E5A8C`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: figure or small scene centered, restrained negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft even light
+- **Texture**: brushwork — contemporary Chinese illustration, ink line plus digital coloring, paper surface; materials — contemporary Chinese illustration, ink line plus digital coloring, paper surface
+- **Emotion**: contemporary, restrained, with an Eastern flavor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#D9C7A3` `#6E5A8C`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 水粉彩铅温暖绘本 · "Warm Gouache & Colored Pencil Storybook Character"（当代｜其他）
+### "Warm Gouache & Colored Pencil Storybook Character"（Contemporary | Other）
 
-> 温暖水粉与彩色铅笔手绘绘本风、细腻柔和的铅笔颗粒质感与排线肌理、圆润饱满的卡通面部轮廓、大黑框眼镜与可爱红鼻头、治愈温馨的现代儿童插画质感
+> A warm gouache and colored-pencil hand-drawn storybook style: fine soft pencil grain and hatching texture, rounded full cartoon facial contours, big black-framed glasses and a cute red nose, the healing warm texture of modern children's illustration.
 
-- **构图**：外轮廓清楚、画面不拥挤
-- **光色**：色彩——粉、红；光影——平光、无明显方向性
-- **质感**：笔触——排线、轮廓；材质——颗粒
-- **情绪**：儿童、治愈
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F` `#F2C6C2` `#B4574A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: clear outer silhouette, uncrowded frame
+- **Light and color**: color — pink, red; light — flat lighting, no clear direction
+- **Texture**: brushwork — hatching, contour; materials — grain
+- **Emotion**: children, healing
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F` `#F2C6C2` `#B4574A`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 法式咖啡馆钢笔速写 · "French Café Sketch"（当代｜通用 / 地域）
+### "French Café Sketch"（Contemporary | General / Regional）
 
-> 钢笔速写、细长人物、咖啡馆日常、少量淡彩
+> Pen sketch, slender figures, café everyday life, a little light wash.
 
-- **构图**：适合屏幕观看的构图，外轮廓强，一眼能读懂
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光到轻微塑形
-- **质感**：笔触——钢笔速写；材质——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹
-- **情绪**：日常
-- **色锚**：`#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: a composition suited to on-screen viewing, strong outer silhouette, readable at a glance
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat to slight modeling
+- **Texture**: brushwork — pen sketch; materials — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture
+- **Emotion**: everyday
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 波普成人讽刺漫画 · "Bold Pop Satire Cartoon"（当代｜国际）
+### "Bold Pop Satire Cartoon"（Contemporary | International）
 
-> 粗黑轮廓、圆凸大眼、扁平人物、极少阴影、成人讽刺
+> Thick black contour, bulging round eyes, flat figures, minimal shadow, adult satire.
 
-- **构图**：单人或极简场景，主体小、白底留白大
-- **光色**：色彩——撞色；光影——阴影
-- **质感**：笔触——粗黑轮廓、平涂、大形；材质——钢笔 / 墨水线稿，纸面
-- **情绪**：讽刺
-- **色锚**：`#1A1A1A` `#FAF7F0` `#8FA3B8`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: a single figure or minimal scene, small subject, large white negative space
+- **Light and color**: color — clashing color; light — shadow
+- **Texture**: brushwork — thick black contour, flat fill, big shapes; materials — pen / ink line art, paper
+- **Emotion**: satire
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#8FA3B8`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 流畅单线动态人物 · "Fluid Single-Line Motion Figure"（当代｜国际）
+### "Fluid Single-Line Motion Figure"（Contemporary | International）
 
-> 单线人物、流畅连续线、极简动态
+> Single-line figure, flowing continuous line, minimal motion.
 
-- **构图**：海报式平衡，外轮廓清楚，大形优先
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、图形化，几乎不做体积塑造
-- **质感**：笔触——连续线；材质——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感
-- **情绪**：冷静、时尚、疏离
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: poster-like balance, clear outer silhouette, big shapes first
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat, graphic, almost no volume modeling
+- **Texture**: brushwork — continuous line; materials — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel
+- **Emotion**: cool, stylish, detached
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 清秀线稿年轻女性 · "Clean Young-Lifestyle Manga Line"（当代｜日本）
+### "Clean Young-Lifestyle Manga Line"（Contemporary | Japan）
 
-> 清秀线稿、年轻女性、轻宅生活感
+> Clean line art, young women, a light homebody-life feel.
 
-- **构图**：角色优先的构图，背景干净
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和漫射光，轻微轮廓光
-- **质感**：笔触——线稿、轮廓；材质——日系数码插画，干净线稿 + 柔和的赛璐璐或水彩上色
-- **情绪**：时尚、松弛
-- **色锚**：`#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
-- **翻车点**：1）人物姿态松弛自然，服装靠清楚剪影体现时尚感，避免模板化甜美脸；2）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；3）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: character-first composition, clean background
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft diffused light, slight rim light
+- **Texture**: brushwork — line art, contour; materials — Japanese-style digital illustration, clean line art plus soft cel or watercolor coloring
+- **Emotion**: fashion, relaxed
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
+- **Failure points**: 1) keep the pose relaxed and natural, let a clear silhouette carry the fashion sense of the clothing, avoid a templated sweet face; 2) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 3) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 清雅水墨古风人物 · "Elegant Soft Ink Ancient Figure"（当代｜中国）
+### "Elegant Soft Ink Ancient Figure"（Contemporary | China）
 
-> 清雅水墨、古风人物、柔和情绪
+> Elegant ink, ancient-style figure, soft emotion.
 
-- **构图**：人物居中，留白多，画面轻
-- **光色**：色彩——点色；光影——柔和均匀光，带淡墨晕染
-- **质感**：笔触——手绘笔压、轮廓；材质——水墨
-- **情绪**：含蓄、诗性、有东方气息
-- **色锚**：`#1A1A1A` `#FAF7F0` `#D9C7A3` `#7C8F6A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: figure centered, much negative space, a light frame
+- **Light and color**: color — spot color; light — soft even light with faint ink wash
+- **Texture**: brushwork — hand-drawn pen pressure, contour; materials — ink
+- **Emotion**: reserved, poetic, with an Eastern flavor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#D9C7A3` `#7C8F6A`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 温柔自然梦境插画 · "Gentle Nature Dreambook Illustration"（当代｜中国）
+### "Gentle Nature Dreambook Illustration"（Contemporary | China）
 
-> 温柔手绘、人与自然、植物动物、梦境色彩
+> Gentle hand drawing, people and nature, plants and animals, dream colors.
 
-- **构图**：人物居中，留白多，画面轻
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和均匀光，带淡墨晕染
-- **质感**：笔触——轮廓；材质——中国当代插画，墨线 + 数码上色，宣纸或国画纸质感
-- **情绪**：温柔
-- **色锚**：`#1A1A1A` `#FAF7F0` `#D9C7A3` `#7C8F6A`
-- **翻车点**：1）表情与肢体动作要服从该风格的人格机制，避免回落为统一的标准Q版表情；2）最容易把这套画风渲染成 3D——显式写出相反的画面特征；3）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: figure centered, much negative space, a light frame
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft even light with faint ink wash
+- **Texture**: brushwork — contour; materials — contemporary Chinese illustration, ink line plus digital coloring, rice-paper or Chinese painting paper texture
+- **Emotion**: gentle
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#D9C7A3` `#7C8F6A`
+- **Failure points**: 1) expression and body language must obey this style's character mechanism — avoid falling back on uniform standard chibi expressions; 2) this style is most easily rendered as 3D — state the opposite frame features explicitly; 3) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 爆发式夸张圆眼甩动 · "Explosive Webcomic Exaggeration"（当代｜国际）
+### "Explosive Webcomic Exaggeration"（Contemporary | International）
 
-> 粗黑线、夸张圆眼、张大嘴、头发和四肢大幅甩动
+> Thick black line, exaggerated round eyes, wide-open mouth, hair and limbs flung far out.
 
-- **构图**：单人或极简场景，主体小、白底留白大
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光，没有方向性阴影（漫画是纸面印刷媒介）
-- **质感**：笔触——粗黑线、色块；材质——钢笔 / 墨水线稿，纸面
-- **情绪**：冷面、尴尬或荒诞的幽默
-- **色锚**：`#1A1A1A` `#FAF7F0` `#8FA3B8`
-- **翻车点**：1）最容易把这套画风渲染成 3D——显式写出相反的画面特征；2）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: a single figure or minimal scene, small subject, large white negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat light, no directional shadow (comics are a paper print medium)
+- **Texture**: brushwork — thick black line, color block; materials — pen / ink line art, paper
+- **Emotion**: deadpan, awkward, or absurd humor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#8FA3B8`
+- **Failure points**: 1) this style is most easily rendered as 3D — state the opposite frame features explicitly; 2) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 玩具式现代拼贴 · "Playful Modernist Collage Character"（当代｜国际）
+### "Playful Modernist Collage Character"（Contemporary | International）
 
-> 拼贴、玩具式图形、几何人物、现代主义幽默
+> Collage, toy-like shapes, geometric figures, modernist humor.
 
-- **构图**：海报式平衡，外轮廓清楚，大形优先
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、图形化，几乎不做体积塑造
-- **质感**：笔触——几何；材质——拼贴
-- **情绪**：幽默
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
-- **翻车点**：1）最容易把这套画风渲染成 3D——显式写出相反的画面特征；2）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: poster-like balance, clear outer silhouette, big shapes first
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat, graphic, almost no volume modeling
+- **Texture**: brushwork — geometry; materials — collage
+- **Emotion**: humor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
+- **Failure points**: 1) this style is most easily rendered as 3D — state the opposite frame features explicitly; 2) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 生物符号点色人物 · "Biomorphic Symbolic Character"（当代｜国际）
+### "Biomorphic Symbolic Character"（Contemporary | International）
 
-> 生物符号、原始线条、红蓝黄点色、自由空间
+> Biomorphic symbol, primitive line, red-blue-yellow spot color, free space.
 
-- **构图**：海报式平衡，外轮廓清楚，大形优先
-- **光色**：色彩——点色、蓝、黄、红；光影——平光、图形化，几乎不做体积塑造
-- **质感**：笔触——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感；材质——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感
-- **情绪**：冷静、时尚、疏离
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B` `#E8C46A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: poster-like balance, clear outer silhouette, big shapes first
+- **Light and color**: color — spot color, blue, yellow, red; light — flat, graphic, almost no volume modeling
+- **Texture**: brushwork — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel; materials — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel
+- **Emotion**: cool, stylish, detached
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B` `#E8C46A`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 电影级2D动画角色 · "Modern Cinematic 2D Character Animation"（当代｜其他）
+### "Modern Cinematic 2D Character Animation"（Contemporary | Other）
 
-> 现代电影级2D动画角色插画风、灵动深邃的大眼睛与微卷盘发墨镜、细腻柔和的室内环境光影与利落干净的动画清线造型
+> A modern cinematic 2D animation character illustration style: lively deep big eyes with a loose bun and sunglasses, fine soft indoor light and shadow, and crisp clean animation line work.
 
-- **构图**：外轮廓清楚、画面不拥挤
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、无明显方向性
-- **质感**：笔触——手绘插画，墨水与颜料在纸上；材质——手绘插画，墨水与颜料在纸上
-- **情绪**：该组不共用统一情绪，以该条 traits 为准
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: clear outer silhouette, uncrowded frame
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat lighting, no clear direction
+- **Texture**: brushwork — hand-drawn illustration, ink and pigment on paper; materials — hand-drawn illustration, ink and pigment on paper
+- **Emotion**: this group shares no single emotion; follow this entry's traits
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 童趣水彩绘本 · "童趣水彩绘本风"（当代｜中国）
+### Childlike Watercolor Picturebook（Contemporary | China）
 
-> 张旺：编号 209 的手绘风格。
+> Zhang Wang: hand-drawn style no. 209.
 
-- **构图**：人物或小场景居中，留白克制
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和均匀光
-- **质感**：笔触——中国当代插画，墨线 + 数码上色，纸面质感；材质——中国当代插画，墨线 + 数码上色，纸面质感
-- **情绪**：当代、克制、带东方气味
-- **色锚**：`#1A1A1A` `#FAF7F0` `#D9C7A3` `#6E5A8C`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: figure or small scene centered, restrained negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft even light
+- **Texture**: brushwork — contemporary Chinese illustration, ink line plus digital coloring, paper surface; materials — contemporary Chinese illustration, ink line plus digital coloring, paper surface
+- **Emotion**: contemporary, restrained, with an Eastern flavor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#D9C7A3` `#6E5A8C`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 粉色浪漫水墨晕染 · "Romantic Pink Watercolor Sumi-e Wash"（当代｜其他）
+### "Romantic Pink Watercolor Sumi-e Wash"（Contemporary | Other）
 
-> 浪漫粉调新东风水墨晕染风、柔和半透明水粉水彩层次、写意书法墨色点缀、轻盈梦幻的落樱花瓣与东方抒情写意
+> A romantic pink new-Eastern sumi-e wash style: soft translucent gouache-watercolor layers, freehand calligraphic ink accents, light dreamlike falling cherry petals, and Eastern lyrical freehand expression.
 
-- **构图**：外轮廓清楚、画面不拥挤
-- **光色**：色彩——粉；光影——平光、无明显方向性
-- **质感**：笔触——手绘插画，墨水与颜料在纸上；材质——水彩、水墨
-- **情绪**：该组不共用统一情绪，以该条 traits 为准
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F` `#F2C6C2`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: clear outer silhouette, uncrowded frame
+- **Light and color**: color — pink; light — flat lighting, no clear direction
+- **Texture**: brushwork — hand-drawn illustration, ink and pigment on paper; materials — watercolor, ink
+- **Emotion**: this group shares no single emotion; follow this entry's traits
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F` `#F2C6C2`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 粗糙黑线心理情绪自嘲 · "Raw Emotional Internet Doodle"（当代｜国际）
+### "Raw Emotional Internet Doodle"（Contemporary | International）
 
-> 粗糙黑线、极简人体、心理情绪、自嘲式互联网漫画
+> Rough black line, minimal body, psychological emotion, self-deprecating internet comic.
 
-- **构图**：单人或极简场景，主体小、白底留白大
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光，没有方向性阴影（漫画是纸面印刷媒介）
-- **质感**：笔触——做减法、黑线、轮廓；材质——纸纹、粗糙、颗粒
-- **情绪**：冷面、尴尬或荒诞的幽默
-- **色锚**：`#1A1A1A` `#FAF7F0` `#8FA3B8`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: a single figure or minimal scene, small subject, large white negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat light, no directional shadow (comics are a paper print medium)
+- **Texture**: brushwork — subtractive, black line, contour; materials — paper texture, rough, grain
+- **Emotion**: deadpan, awkward, or absurd humor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#8FA3B8`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 粗针马海毛定格人偶 · "Chunky Knit Mohair Stop-Motion Puppet"（当代｜其他）
+### "Chunky Knit Mohair Stop-Motion Puppet"（Contemporary | Other）
 
-> 定格动画式粗针马海毛毛衣人偶风、逼真细腻的毛圈毛线编织与毛绒长毛纤维肌理、冷脸呆萌的死鱼眼黑框眼镜宅男造型、夸张长款大衣与修长小腿、微缩实体手办质感
+> A stop-motion-style chunky-knit mohair sweater puppet style: lifelike fine looped-yarn knit and long fuzzy fiber texture, a deadpan dead-fish-eyed young man in black-framed glasses, an exaggerated long coat and long thin calves, the substance of a miniature physical figurine.
 
-- **构图**：外轮廓清楚、画面不拥挤
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、无明显方向性
-- **质感**：笔触——手绘插画，墨水与颜料在纸上；材质——手绘插画，墨水与颜料在纸上
-- **情绪**：冷脸
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: clear outer silhouette, uncrowded frame
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat lighting, no clear direction
+- **Texture**: brushwork — hand-drawn illustration, ink and pigment on paper; materials — hand-drawn illustration, ink and pigment on paper
+- **Emotion**: deadpan
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 粗黑轮廓扁平色块讽刺 · "Bold Flat Everyday Satire"（当代｜国际）
+### "Bold Flat Everyday Satire"（Contemporary | International）
 
-> 粗黑轮廓、扁平色块、现代人物、互联网生活讽刺
+> Thick black contour, flat color blocks, modern figures, satire of internet life.
 
-- **构图**：单人或极简场景，主体小、白底留白大
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光，没有方向性阴影（漫画是纸面印刷媒介）
-- **质感**：笔触——粗黑轮廓、扁平色块、大形；材质——钢笔 / 墨水线稿，纸面
-- **情绪**：冷脸、尴尬、讽刺
-- **色锚**：`#1A1A1A` `#FAF7F0` `#8FA3B8`
-- **翻车点**：1）表情偏冷脸、尴尬或突然夸张，姿态要有明确喜剧节奏，避免统一的可爱微笑；2）最容易把这套画风渲染成 3D——显式写出相反的画面特征；3）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: a single figure or minimal scene, small subject, large white negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat light, no directional shadow (comics are a paper print medium)
+- **Texture**: brushwork — thick black contour, flat color block, big shapes; materials — pen / ink line art, paper
+- **Emotion**: deadpan, awkward, satire
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#8FA3B8`
+- **Failure points**: 1) expressions lean deadpan, awkward, or suddenly exaggerated, and the pose needs a clear comic rhythm — avoid a uniform cute smile; 2) this style is most easily rendered as 3D — state the opposite frame features explicitly; 3) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 红蓝套印国潮青年刊 · "Red-Blue Riso Guochao"（当代｜通用 / 地域）
+### "Red-Blue Riso Guochao"（Contemporary | General / Regional）
 
-> 红蓝套印、错版颗粒、中国元素、青年 Zine
+> Red-blue spot printing, misregistered grain, Chinese motifs, a youth zine.
 
-- **构图**：适合屏幕观看的构图，外轮廓强，一眼能读懂
-- **光色**：色彩——蓝、红；光影——平光到轻微塑形
-- **质感**：笔触——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹；材质——zine、颗粒
-- **情绪**：轻松、网感、当下
-- **色锚**：`#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A` `#3B4E6B` `#B4574A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: a composition suited to on-screen viewing, strong outer silhouette, readable at a glance
+- **Light and color**: color — blue, red; light — flat to slight modeling
+- **Texture**: brushwork — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture; materials — zine, grain
+- **Emotion**: relaxed, internet-native, of the moment
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A` `#3B4E6B` `#B4574A`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 细黑线柔和水彩点染 · "Watercolor Handwritten Life Notes"（当代｜国际）
+### "Watercolor Handwritten Life Notes"（Contemporary | International）
 
-> 极简女性人物、细黑线、细长四肢、柔和水彩点染
+> Minimal female figure, fine black line, long slender limbs, soft watercolor dabbing.
 
-- **构图**：留白
-- **光色**：色彩——白底、红；光影——平光，没有方向性阴影（漫画是纸面印刷媒介）
-- **质感**：笔触——细黑线；材质——柔和水彩、纸张质感
-- **情绪**：冷面、尴尬或荒诞的幽默
-- **色锚**：`#1A1A1A` `#FAF7F0` `#8FA3B8` `#B4574A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: negative space
+- **Light and color**: color — white ground, red; light — flat light, no directional shadow (comics are a paper print medium)
+- **Texture**: brushwork — fine black line; materials — soft watercolor, paper texture
+- **Emotion**: deadpan, awkward, or absurd humor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#8FA3B8` `#B4574A`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 自然主义水彩动物绘本 · "Naturalist Watercolor Animal Storybook"（当代｜国际）
+### "Naturalist Watercolor Animal Storybook"（Contemporary | International）
 
-> 精细水彩、自然主义动物、古典绘本、柔和纸张感
+> Fine watercolor, naturalist animals, classical storybook, soft paper feel.
 
-- **构图**：叙事性场景，圆润造型，角色与环境同框
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和环境光，轻微体积阴影
-- **质感**：笔触——绘本插图，墨水配水彩或水粉，纸面；材质——水彩
-- **情绪**：温暖、童话、有叙述感
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8C46A` `#9AA98F`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: narrative scene, rounded forms, characters in the same frame as their environment
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft ambient light, slight volume shadow
+- **Texture**: brushwork — storybook illustration, ink with watercolor or gouache, paper; materials — watercolor
+- **Emotion**: warm, fairy-tale, narrative
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8C46A` `#9AA98F`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 荒诞冷笑话极简漫画 · "Minimal Absurd Short-Gag Cartoon"（当代｜日本）
+### "Minimal Absurd Short-Gag Cartoon"（Contemporary | Japan）
 
-> 荒诞短漫画、冷笑话、极简小人物
+> Absurd short comic, cold gag, minimal tiny figures.
 
-- **构图**：小人物
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和漫射光，轻微轮廓光
-- **质感**：笔触——做减法、轮廓；材质——日系数码插画，干净线稿 + 柔和的赛璐璐或水彩上色
-- **情绪**：冷脸、荒诞、尴尬
-- **色锚**：`#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
-- **翻车点**：1）表情偏冷脸、尴尬或突然夸张，姿态要有明确喜剧节奏，避免统一的可爱微笑；2）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；3）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: tiny figures
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft diffused light, slight rim light
+- **Texture**: brushwork — subtractive, contour; materials — Japanese-style digital illustration, clean line art plus soft cel or watercolor coloring
+- **Emotion**: deadpan, absurd, awkward
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
+- **Failure points**: 1) expressions lean deadpan, awkward, or suddenly exaggerated, and the pose needs a clear comic rhythm — avoid a uniform cute smile; 2) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 3) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 蓝橙撞色颗粒社论 · "Blue-Orange Grainy Chinese Editorial"（当代｜中国）
+### "Blue-Orange Grainy Chinese Editorial"（Contemporary | China）
 
-> 蓝橙撞色、颗粒色块、中国现代社论
+> Blue-orange clashing color, grainy color blocks, modern Chinese editorial.
 
-- **构图**：留白
-- **光色**：色彩——撞色、蓝；光影——柔和均匀光，带淡墨晕染
-- **质感**：笔触——轮廓、色块；材质——颗粒
-- **情绪**：含蓄、诗性、有东方气息
-- **色锚**：`#1A1A1A` `#FAF7F0` `#D9C7A3` `#7C8F6A` `#3B4E6B`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: negative space
+- **Light and color**: color — clashing color, blue; light — soft even light with faint ink wash
+- **Texture**: brushwork — contour, color block; materials — grain
+- **Emotion**: reserved, poetic, with an Eastern flavor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#D9C7A3` `#7C8F6A` `#3B4E6B`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 诗意几何符号人物 · "Poetic Geometric Symbol Figure"（当代｜国际）
+### "Poetic Geometric Symbol Figure"（Contemporary | International）
 
-> 细线几何、童真符号、诗意色块、抽象人物
+> Fine-line geometry, childlike symbol, poetic color block, abstract figure.
 
-- **构图**：海报式平衡，外轮廓清楚，大形优先
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、图形化，几乎不做体积塑造
-- **质感**：笔触——细线、色块、几何；材质——现代平面插画，平涂色块 + 手绘边缘，带孔版印刷感
-- **情绪**：冷静、时尚、疏离
-- **色锚**：`#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: poster-like balance, clear outer silhouette, big shapes first
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat, graphic, almost no volume modeling
+- **Texture**: brushwork — fine line, color block, geometry; materials — modern graphic illustration, flat color blocks plus hand-drawn edges, with a stencil-print feel
+- **Emotion**: cool, stylish, detached
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#B4574A` `#3B4E6B`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 诗意青春清透插画 · "诗意青春插画风"（当代｜中国）
+### Poetic Youth Clarity Illustration（Contemporary | China）
 
-> 寂地：编号 202 的手绘风格。
+> Jidi: hand-drawn style no. 202.
 
-- **构图**：人物或小场景居中，留白克制
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和均匀光
-- **质感**：笔触——中国当代插画，墨线 + 数码上色，纸面质感；材质——中国当代插画，墨线 + 数码上色，纸面质感
-- **情绪**：当代、克制、带东方气味
-- **色锚**：`#1A1A1A` `#FAF7F0` `#D9C7A3` `#6E5A8C`
-- **翻车点**：1）最容易把这套画风渲染成 3D——显式写出相反的画面特征；2）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: figure or small scene centered, restrained negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft even light
+- **Texture**: brushwork — contemporary Chinese illustration, ink line plus digital coloring, paper surface; materials — contemporary Chinese illustration, ink line plus digital coloring, paper surface
+- **Emotion**: contemporary, restrained, with an Eastern flavor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#D9C7A3` `#6E5A8C`
+- **Failure points**: 1) this style is most easily rendered as 3D — state the opposite frame features explicitly; 2) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 透明水彩杂志人物 · "Transparent Watercolor Magazine Figure"（当代｜日本）
+### "Transparent Watercolor Magazine Figure"（Contemporary | Japan）
 
-> 简线人物、透明水彩、干净女性杂志感
+> Simple-line figure, transparent watercolor, a clean women's-magazine feel.
 
-- **构图**：留白
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和漫射光，轻微轮廓光
-- **质感**：笔触——轮廓；材质——透明叠染、水彩、纸纹
-- **情绪**：纤细、情绪化、空气感
-- **色锚**：`#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
-- **翻车点**：1）最容易把这套画风渲染成 3D——显式写出相反的画面特征；2）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft diffused light, slight rim light
+- **Texture**: brushwork — contour; materials — transparent layered washes, watercolor, paper texture
+- **Emotion**: delicate, emotional, airy
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8`
+- **Failure points**: 1) this style is most easily rendered as 3D — state the opposite frame features explicitly; 2) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 都市时尚动态剪影 · "Chic Urban Editorial Motion Character"（当代｜其他）
+### "Chic Urban Editorial Motion Character"（Contemporary | Other）
 
-> 现代都市时尚编辑插画风、优雅舒展的动态剪影、松弛大方的服饰垂坠感、哑光粉彩与柔和铅笔微颗粒纹理、暖色提亮撞色、兼具高级时尚感与动画角色设计的清爽气质
+> A modern urban fashion-editorial illustration style: elegant extended motion silhouettes, the relaxed generous drape of clothing, matte pastel and soft pencil micro-grain textures, warm-color highlights against clashing color, and the crisp quality of both high fashion and animation character design.
 
-- **构图**：外轮廓清楚、画面不拥挤
-- **光色**：色彩——粉彩、撞色、暖色；光影——平光、无明显方向性
-- **质感**：笔触——手绘插画，墨水与颜料在纸上；材质——颗粒
-- **情绪**：时尚、松弛
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F` `#F0D3C0` `#E8C46A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: clear outer silhouette, uncrowded frame
+- **Light and color**: color — pastel, clashing color, warm color; light — flat lighting, no clear direction
+- **Texture**: brushwork — hand-drawn illustration, ink and pigment on paper; materials — grain
+- **Emotion**: fashion, relaxed
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F` `#F0D3C0` `#E8C46A`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 钢笔淡彩古典绘本 · "Classic Pen-and-Light-Wash Storybook"（当代｜国际）
+### "Classic Pen-and-Light-Wash Storybook"（Contemporary | International）
 
-> 钢笔速写、淡水彩、古典角色、优雅而轻松
+> Pen sketch, light watercolor, classical characters, elegant and easy.
 
-- **构图**：叙事性场景，圆润造型，角色与环境同框
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——柔和环境光，轻微体积阴影
-- **质感**：笔触——钢笔速写；材质——水彩
-- **情绪**：温暖、童话、有叙述感
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8C46A` `#9AA98F`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: narrative scene, rounded forms, characters in the same frame as their environment
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — soft ambient light, slight volume shadow
+- **Texture**: brushwork — pen sketch; materials — watercolor
+- **Emotion**: warm, fairy-tale, narrative
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8C46A` `#9AA98F`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 随手黑线社论涂鸦 · "Editorial Doodle"（当代｜通用 / 地域）
+### "Editorial Doodle"（Contemporary | General / Regional）
 
-> 随手黑线、少量点色、人物 + 概念、白底
+> Casual black line, a little spot color, figure plus concept, white ground.
 
-- **构图**：适合屏幕观看的构图，外轮廓强，一眼能读懂
-- **光色**：色彩——白底、点色；光影——平光到轻微塑形
-- **质感**：笔触——黑线；材质——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹
-- **情绪**：轻松、网感、当下
-- **色锚**：`#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——显式写出相反的画面特征；2）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: a composition suited to on-screen viewing, strong outer silhouette, readable at a glance
+- **Light and color**: color — white ground, spot color; light — flat to slight modeling
+- **Texture**: brushwork — black line; materials — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture
+- **Emotion**: relaxed, internet-native, of the moment
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
+- **Failure points**: 1) this style is most easily rendered as 3D — state the opposite frame features explicitly; 2) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 韩系奶油色生活涂鸦 · "Korean Lifestyle Doodle"（当代｜通用 / 地域）
+### "Korean Lifestyle Doodle"（Contemporary | General / Regional）
 
-> 柔软细线、奶油色、年轻人物、Instagram 日常
+> Soft fine line, cream color, young figures, Instagram everyday life.
 
-- **构图**：适合屏幕观看的构图，外轮廓强，一眼能读懂
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光到轻微塑形
-- **质感**：笔触——细线；材质——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹
-- **情绪**：日常
-- **色锚**：`#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: a composition suited to on-screen viewing, strong outer silhouette, readable at a glance
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat to slight modeling
+- **Texture**: brushwork — fine line; materials — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture
+- **Emotion**: everyday
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 风格化3D卡通人格 · "Stylized 3D Cartoon Personality"（当代｜其他）
+### "Stylized 3D Cartoon Personality"（Contemporary | Other）
 
-> 奇想风格化3D卡通美学、夸张头身比例、富有表现力的大眼、独特剪影轮廓与精细触感材质纹理
+> A whimsical stylized 3D cartoon aesthetic: exaggerated head-to-body ratio, expressive big eyes, a distinctive silhouette, and fine tactile material texture.
 
-- **构图**：外轮廓清楚、画面不拥挤
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光、无明显方向性
-- **质感**：笔触——轮廓；材质——手绘插画，墨水与颜料在纸上
-- **情绪**：该组不共用统一情绪，以该条 traits 为准
-- **色锚**：`#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F`
-- **翻车点**：1）最容易把这套画风渲染成 3D——在画面描述中显式针对此缺陷；2）手绘的线宽易被统一成矢量描边——显式写出相反的画面特征
+- **Composition**: clear outer silhouette, uncrowded frame
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat lighting, no clear direction
+- **Texture**: brushwork — contour; materials — hand-drawn illustration, ink and pigment on paper
+- **Emotion**: this group shares no single emotion; follow this entry's traits
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#E8DFC8` `#9AA98F`
+- **Failure points**: 1) this style is most easily rendered as 3D — address that defect explicitly in the frame description; 2) hand-drawn line weight easily gets unified into vector outlines — state the opposite frame features explicitly
 
 ---
 
-### 马克笔叠色糖果粉彩 · "Copic Pastel"（当代｜通用 / 地域）
+### "Copic Pastel"（Contemporary | General / Regional）
 
-> 马克笔叠色、柔和糖果色、纸面笔触
+> Marker layering, soft candy color, paper-surface brushstroke.
 
-- **构图**：适合屏幕观看的构图，外轮廓强，一眼能读懂
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光到轻微塑形
-- **质感**：笔触——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹；材质——马克笔
-- **情绪**：轻松、网感、当下
-- **色锚**：`#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: a composition suited to on-screen viewing, strong outer silhouette, readable at a glance
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat to slight modeling
+- **Texture**: brushwork — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture; materials — marker
+- **Emotion**: relaxed, internet-native, of the moment
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 高饱和潮流世代少女 · "High-Saturation Gen-Z Fashion Girl"（当代｜日本）
+### "High-Saturation Gen-Z Fashion Girl"（Contemporary | Japan）
 
-> 潮流女孩、高饱和、Z 世代、Graphic Fashion
+> Trend girl, high saturation, Gen Z, graphic fashion.
 
-- **构图**：角色优先的构图，背景干净
-- **光色**：色彩——高饱和、撞色；光影——柔和漫射光，轻微轮廓光
-- **质感**：笔触——轮廓、平涂；材质——日系数码插画，干净线稿 + 柔和的赛璐璐或水彩上色
-- **情绪**：潮流
-- **色锚**：`#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8` `#FF5FA2`
-- **翻车点**：1）最容易把这套画风渲染成 3D——按画面意图定制描述以避开；2）手绘的线宽易被统一成矢量描边——在画面描述中显式针对此缺陷
+- **Composition**: character-first composition, clean background
+- **Light and color**: color — high saturation, clashing color; light — soft diffused light, slight rim light
+- **Texture**: brushwork — contour, flat fill; materials — Japanese-style digital illustration, clean line art plus soft cel or watercolor coloring
+- **Emotion**: trend
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#F2C6C2` `#8FA3B8` `#FF5FA2`
+- **Failure points**: 1) this style is most easily rendered as 3D — customize the description to the frame's intent and avoid it; 2) hand-drawn line weight easily gets unified into vector outlines — address that defect explicitly in the frame description
 
 ---
 
-### 黑墨主体单色点睛 · "Ink with Flat Spot Color"（当代｜通用 / 地域）
+### "Ink with Flat Spot Color"（Contemporary | General / Regional）
 
-> 黑墨主体 + 单一强调色、极简但醒目
+> Black-ink subject plus a single accent color, minimal but striking.
 
-- **构图**：适合屏幕观看的构图，外轮廓强，一眼能读懂
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光到轻微塑形
-- **质感**：笔触——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹；材质——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹
-- **情绪**：轻松、网感、当下
-- **色锚**：`#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——显式写出相反的画面特征；2）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: a composition suited to on-screen viewing, strong outer silhouette, readable at a glance
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat to slight modeling
+- **Texture**: brushwork — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture; materials — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture
+- **Emotion**: relaxed, internet-native, of the moment
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
+- **Failure points**: 1) this style is most easily rendered as 3D — state the opposite frame features explicitly; 2) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 黑白钢笔冷面幽默 · "Black-White Pen Deadpan Humor"（当代｜通用 / 地域）
+### "Black-White Pen Deadpan Humor"（Contemporary | General / Regional）
 
-> 极简黑线、冷脸人物、大留白、视觉梗
+> Minimal black line, deadpan figure, large negative space, visual gag.
 
-- **构图**：大留白
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光到轻微塑形
-- **质感**：笔触——极简黑线；材质——混合手绘媒介：马克笔、彩铅、数码涂鸦，带颗粒或纸纹
-- **情绪**：冷脸
-- **色锚**：`#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
-- **翻车点**：1）最容易把这套画风渲染成 3D——显式写出相反的画面特征；2）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: large negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat to slight modeling
+- **Texture**: brushwork — minimal black line; materials — mixed hand-drawn media: marker, colored pencil, digital doodle, with grain or paper texture
+- **Emotion**: deadpan face
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#FF5FA2` `#E8C46A`
+- **Failure points**: 1) this style is most easily rendered as 3D — state the opposite frame features explicitly; 2) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
 
 ---
 
-### 黑色密排线粗重轮廓 · "Underground Crosshatched Grotesque Cartoon"（当代｜国际）
+### "Underground Crosshatched Grotesque Cartoon"（Contemporary | International）
 
-> 黑色密排线、粗重轮廓、坐姿人物、夸张而不修饰的人体比例
+> Dense black hatching, heavy contour, seated figure, exaggerated unretouched body proportions.
 
-- **构图**：单人或极简场景，主体小、白底留白大
-- **光色**：色彩——组级底色（该条 traits 未标注具体用色）；光影——平光，没有方向性阴影（漫画是纸面印刷媒介）
-- **质感**：笔触——排线、轮廓；材质——钢笔 / 墨水线稿，纸面
-- **情绪**：冷面、尴尬或荒诞的幽默
-- **色锚**：`#1A1A1A` `#FAF7F0` `#8FA3B8`
-- **翻车点**：1）最容易把这套画风渲染成 3D——显式写出相反的画面特征；2）手绘的线宽易被统一成矢量描边——按画面意图定制描述以避开
+- **Composition**: a single figure or minimal scene, small subject, large white negative space
+- **Light and color**: color — group base tone (this entry's traits do not specify colors); light — flat light, no directional shadow (comics are a paper print medium)
+- **Texture**: brushwork — hatching, contour; materials — pen / ink line art, paper
+- **Emotion**: deadpan, awkward, or absurd humor
+- **Color anchors**: `#1A1A1A` `#FAF7F0` `#8FA3B8`
+- **Failure points**: 1) this style is most easily rendered as 3D — state the opposite frame features explicitly; 2) hand-drawn line weight easily gets unified into vector outlines — customize the description to the frame's intent and avoid it
