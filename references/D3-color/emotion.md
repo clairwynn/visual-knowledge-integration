@@ -1,73 +1,73 @@
-# D3 · 色彩情绪（Color Emotion）
+# D3 · Color Emotion
 
-> 本文件管：色相-情绪映射、冷暖分区叙事（teal-orange 类双区策略）、色彩的时间语义、情绪-和声联动决策。
-> 怎么用：从情绪目标反推色彩策略；或从既有画面读出色彩在"说什么"。
+> This file covers: the hue-to-emotion mapping, cool-warm zoning narrative (the teal-and-orange two-zone strategy), the temporal semantics of color, and the emotion-to-harmony decision chain.
+> How to use: derive a color strategy backwards from an emotional target; or read what the color is "saying" in an existing frame.
 
-## 定义
+## Definition
 
-色彩情绪＝色相与配色结构携带的稳定情绪联想。三层结构：单色相的语义、冷暖对峙的叙事、整体色调的时间/文化语义。
+Color emotion = the stable emotional associations carried by hues and by color structures. Three layers: the semantics of a single hue, the narrative of a cool-warm confrontation, and the temporal or cultural semantics of an overall tone.
 
-## 机制
+## Mechanism
 
-色彩情绪有生理底（暖=火/日光=活动，冷=夜/水=静息）与文化层（白=丧或纯、红=吉或危）双重来源。画面色彩策略的起点是"叙事温度"：谁热谁冷、哪里过去哪里现在——冷暖分区是画面里最基本的无声叙事。
+Color emotion has a physiological base (warm = fire and daylight = activity; cool = night and water = rest) and a cultural layer (white = mourning or purity; red = auspiciousness or danger). The starting point of any color strategy is "narrative temperature": who is warm and who is cool, where is the past and where the present — cool-warm zoning is the most basic silent narrative in a frame.
 
-## 判据
+## Criteria
 
-### 色相-情绪速查表（统计倾向，经验值）
+### Hue-to-emotion quick table (statistical tendencies, rules of thumb)
 
-| 色相 | 正向语义 | 负向语义 |
+| Hue | Positive semantics | Negative semantics |
 |---|---|---|
-| 红 | 热烈、爱、生命、喜庆 | 危险、血、暴力 |
-| 橙 | 温暖、活力、丰收 | 燥、廉价（高饱和大面积） |
-| 黄 | 明快、希望、阳光 | 警示、病态（偏绿黄） |
-| 绿 | 生机、自然、安全 | 毒、诡异（偏冷荧绿） |
-| 蓝 | 冷静、信任、辽阔 | 忧郁、疏离 |
-| 紫 | 高贵、神秘、浪漫 | 腐朽、诡异（暗紫） |
-| 粉 | 柔软、青春、甜 | 幼稚、矫饰 |
-| 黑白灰 | 克制、庄重、真实 | 死寂、冷漠 |
-| 金 | 华贵、神圣 | 俗（高饱和平铺） |
+| Red | Ardor, love, life, festivity | Danger, blood, violence |
+| Orange | Warmth, vitality, harvest | Dryness, cheapness (high saturation over large areas) |
+| Yellow | Brightness, hope, sunlight | Warning, sickness (greenish yellow) |
+| Green | Vitality, nature, safety | Poison, eeriness (cool fluorescent green) |
+| Blue | Calm, trust, expanse | Melancholy, detachment |
+| Purple | Nobility, mystery, romance | Decay, eeriness (dark purple) |
+| Pink | Softness, youth, sweetness | Childishness, affectation |
+| Black, white, gray | Restraint, gravity, truth | Deadness, coldness |
+| Gold | Luxury, the sacred | Vulgarity (high saturation laid flat) |
 
-文化语境翻转须显式声明（如红色在喜与危之间的切换）。
+A cultural inversion must be declared explicitly (e.g. red switching between auspiciousness and danger).
 
-### 冷暖分区叙事（双区策略）
+### Cool-warm zoning narrative (the two-zone strategy)
 
-画面划分暖区/冷区，各承担叙事职能：
-- **经典配比**：冷底（环境、天空、阴影）60–70% + 暖区（主体、光源、肤色）30–40%——主体自动因"暖前冷后"浮出（teal-orange 类即此结构的工业化版本）。
-- **反转用法**：暖底冷主体（酷热中的异类）——异质感即叙事。
-- **分区线**：冷暖交界线宜与构图结构重合（地平线、光界、门框），色彩分区与空间分区同构时叙事最强。
-- 判据：两区各自内部保持统一（每区 1–2 色相），交界干净；三区以上温度即乱。
+Divide the frame into a warm zone and a cool zone, each carrying a narrative function:
+- **Classic ratio**: cool ground (environment, sky, shadow) at 60–70% plus warm zone (subject, light source, skin) at 30–40% — the subject floats out automatically through "warm advances, cool recedes" (teal-and-orange grading is the industrial version of this structure).
+- **Inverted use**: warm ground with a cool subject (the anomaly inside the heat) — the sense of otherness is the narrative.
+- **Zoning line**: the cool-warm boundary should coincide with a compositional structure (horizon, light boundary, door frame); color zoning and spatial zoning being isomorphic gives the strongest narrative.
+- Criteria: each zone stays internally unified (1–2 hues per zone), the boundary clean; three or more temperature zones read as chaos.
 
-### 色彩的时间语义
+### Temporal semantics of color
 
-| 色调 | 时间读数 |
+| Tone | Time reading |
 |---|---|
-| 蓝青低饱和 | 夜、凌晨、冬 |
-| 暖金低角度 | 黄昏、秋、下午 |
-| 高明度高亮度低饱和 | 晨、雾、春 |
-| 高饱和高对比 | 正午、夏、高潮段 |
-| 褪色/降饱和 | 回忆、过去（配颗粒更佳） |
-| 荧光/超饱和 | 未来、合成、非现实 |
+| Blue-cyan, low saturation | Night, pre-dawn, winter |
+| Warm gold at a low angle | Dusk, autumn, afternoon |
+| High value, high brightness, low saturation | Morning, fog, spring |
+| High saturation, high contrast | Noon, summer, the climax |
+| Faded / desaturated | Memory, the past (better with grain) |
+| Fluorescent / ultra-saturated | Future, synthetic, non-real |
 
-### 情绪→和声联动（决策链）
+### Emotion-to-harmony linkage (decision chain)
 
-1. 情绪目标 → 2. 选主色相（查表）→ 3. 选冷暖结构（单区/双区）→ 4. 选和声（平稳叙事→邻近/单色；冲突→互补）→ 5. 套配比（见 proportions）。
+1. Emotional target → 2. Choose the main hue (consult the table) → 3. Choose the cool-warm structure (single zone or two zones) → 4. Choose the harmony (steady narrative → analogous or monochromatic; conflict → complementary) → 5. Apply proportions (see proportions).
 
-## 边界
+## Boundaries
 
-- 色彩情绪是统计联想：同一红色在"婚礼"与"事故"叙事里语义相反——叙事语境是语义的最终裁决者。
-- 高饱和大底色是最常见的"廉价感"来源（尤其橙、绿荧光）；情绪要浓，先调明度与饱和的层级而非面积。
-- 褪色回忆调的颗粒与降饱和是配套的，只降饱和不加颗粒会读作"没调好"。
+- Color emotion is a statistical association: the same red means opposite things in a wedding narrative and an accident narrative — narrative context is the final arbiter of meaning.
+- A large high-saturation ground is the most common source of cheapness (especially orange and fluorescent green); if the emotion needs to be strong, build hierarchy in value and saturation first, not in area.
+- A faded memory tone needs grain and desaturation as a pair; desaturating without grain reads as "poorly graded".
 
-## 反例
+## Counterexamples
 
-- 反例 1：宁静冬晨配满屏高饱和橙——时间语义打架。修法：橙只留日出一角的 10%。
-- 反例 2：冷暖分区线乱（暖块散落冷区各处）——分区失效读作脏。修法：暖元素归拢到主体一侧/光源侧。
-- 反例 3：恐怖主题用了明快互补色却无反转声明——色彩在说节日，画面在说惊悚。修法：整体降明度，保留局部血红做反差。
+- Counterexample 1: a quiet winter morning filled with high-saturation orange — temporal semantics collide. Fix: keep orange only in a 10% corner at sunrise.
+- Counterexample 2: the cool-warm zoning line is messy (warm patches scattered through the cool zone) — zoning fails and reads as dirty. Fix: gather the warm elements on the subject side or the light-source side.
+- Counterexample 3: a horror subject using bright complementary colors with no declared inversion — the color says festival while the frame says thriller. Fix: lower overall value and keep a local blood-red as the contrast.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 和声结构：见 harmony；配比：见 proportions
-- 暖冷与色彩重量：见 weight-contrast
-- 色温的光学面：见 D2/light-fundamentals
-- 色调统一技术：见 palette-strategy
-- 时间色调与风格谱系：见 D6/art-movements
+- Harmony structure: see harmony; proportions: see proportions
+- Warm-cool and color weight: see weight-contrast
+- The optical side of color temperature: see D2/light-fundamentals
+- Tone-unification techniques: see palette-strategy
+- Temporal tone and the style lineage: see D6/art-movements

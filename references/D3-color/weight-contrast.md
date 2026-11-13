@@ -1,63 +1,64 @@
-# D3 · 色彩重量与图底（Color Weight & Figure-Ground）
+# D3 · Color Weight and Figure-Ground
 
-> 本文件管：色彩如何影响视觉重量（暖前冷后、明重暗轻、饱和增重）、色彩图底关系的建立与失败、回声色相。
-> 怎么用：配平画面时把色彩重量计入杠杆；诊断"主体不突出"时查色彩图底。
+> This file covers: how color affects visual weight (warm advances, cool recedes; light and dark weight; saturation adds weight), how a color figure-ground relation is built or fails, and echo hue.
+> How to use: count color weight into the lever when balancing a frame; check color figure-ground when diagnosing "the subject does not stand out".
 
-## 定义
+## Definition
 
-色彩重量（color weight）＝色相/明度/饱和度对视觉重量（见 D5/visual-weight）的贡献；色彩图底（color figure-ground）＝主体与背景靠色彩关系（而非轮廓）建立的"浮起/沉底"关系。
+Color weight = the contribution of hue, value, and saturation to visual weight (see D5/visual-weight); color figure-ground = the "floating up / sinking back" relation that the subject and background build through color relations rather than outline.
 
-## 机制
+## Mechanism
 
-三对稳定感知规律（共识值）：
-1. **暖前冷后**：暖色（红橙黄）被感知为靠近，冷色（蓝绿紫）后退——红苹果能从灰绿背景里"浮"出来。
-2. **明重暗轻（视背景而定）**：亮部在暗底上显重、暗部在亮底上显重——重量的本质是"与底的差"。
-3. **饱和增重**：高饱和>低饱和；纯色>浊色。
-色彩重量叠加进六因子杠杆（尺寸/明度/饱和/冷暖/质感/位置），配平时可"以小配大"：一小块高饱和暖色可配一大块低饱和冷灰。
+Three stable perceptual rules (consensus values):
+1. **Warm advances, cool recedes**: warm colors (red, orange, yellow) are perceived as nearer, cool colors (blue, green, purple) recede — a red apple "floats" out of a gray-green background.
+2. **Light or dark weights, depending on the ground**: a bright area reads heavy on a dark ground, a dark area reads heavy on a bright ground — weight is essentially "the difference from the ground".
+3. **Saturation adds weight**: high saturation over low; pure color over muddy color.
 
-## 判据
+Color weight folds into the six-factor lever (size / value / saturation / warm-cool / texture / position), so balancing can "counterbalance large with small": a small high-saturation warm patch can balance a large low-saturation cool gray.
 
-### 色彩重量因子表
+## Criteria
 
-| 因子 | 重 | 轻 |
+### Color-weight factor table
+
+| Factor | Heavy | Light |
 |---|---|---|
-| 色温 | 暖 | 冷 |
-| 明度 | 与底差大者 | 与底差小者 |
-| 饱和度 | 高饱和 | 低饱和 |
-| 纯度 | 纯色 | 浊色/灰调 |
+| Color temperature | Warm | Cool |
+| Value | Larger difference from the ground | Smaller difference from the ground |
+| Saturation | High | Low |
+| Purity | Pure color | Muddy or grayed color |
 
-### 图底建立三法
+### Three ways to build figure-ground
 
-1. **色相差分离**：主体色相与背景色相在环上相距 >90°（经验值）→ 立即浮出。
-2. **明度差分离**：≥2 档明度差（同 D2/tonality 判据）→ 最稳的分离。
-3. **饱和差分离**：高饱和主体+低饱和背景（或反向）→ "彩与灰"的经典分离。
+1. **Hue separation**: subject and background hues more than 90° apart on the wheel (rule of thumb) → it floats immediately.
+2. **Value separation**: ≥2 stops of value difference (the same criterion as D2/tonality) → the steadiest separation.
+3. **Saturation separation**: high-saturation subject against a low-saturation background (or the reverse) → the classic "color against gray" separation.
 
-**图底失败三征**：主体色相≈背景色相＋明度差 <1 档＋饱和度接近——三近叠加即"融底"（对应 D7/fault-library 融壁故障的色彩面）。
+**Three signs of figure-ground failure**: subject hue ≈ background hue, value difference <1 stop, and saturation close — the three proximities together mean "fusion with the ground" (the color side of the fusion fault in D7/fault-library).
 
-### 回声色相（echo hue）
+### Echo hue
 
-强调色在画面远端以 ≤2% 面积再现→色彩关系闭环（对角呼应）。作用：①视线被小回声点轻轻拉回，形成第二落点；②画面色彩"有安排感"。判据：回声点不与主体强调点竞争（面积/饱和都要弱一级）。
+The accent reappears at the far end of the frame at ≤2% area → the color relation closes (a diagonal echo). Effects: (1) the gaze is gently pulled back by a small echo point, creating a second landing point; (2) the frame's color reads as "arranged". Criterion: the echo point must not compete with the accent on the subject (both area and saturation one grade weaker).
 
-### 背景色呼应（色彩统一术）
+### Background echo (a color-unification technique)
 
-主体色在背景中以低饱和/低明度变体存在（橙衣人+暖灰墙），主体既突出又不孤立——"孤色"（画面唯一一个某色相）会显贴纸感，背景呼应是解药。
+The subject's color exists in the background as a lower-saturation or lower-value variant (a person in orange against a warm gray wall): the subject stands out without being isolated — an "orphan color" (the only instance of a hue in the frame) reads like a sticker, and background echo is the antidote.
 
-## 边界
+## Boundaries
 
-- 暖前冷后有例外（冷色在暖雾中仍可前突，靠明度差）；规律是统计倾向，配平时以实测的"与底的差"为准。
-- 图底关系是动态的：观者也可能把大块冷色读为"图"（如蓝天为图）——设计意图与感知可能反转，眯眼测试实测。
-- 无彩画面里重量回归明度单因子：黑白片的配平只看明度与位置。
+- Warm-advance/cool-recede has exceptions (a cool color can still advance inside warm haze, given a value gap); the rule is a statistical tendency, so balance by the measured "difference from the ground".
+- Figure-ground is dynamic: the viewer may also read a large cool mass as the figure (e.g. blue sky as figure) — design intent and perception can invert; measure with the squint test.
+- In an achromatic frame weight returns to the single factor of value: balancing a black-and-white image looks only at value and position.
 
-## 反例
+## Counterexamples
 
-- 反例 1：红裙子人站在橙红墙前——色相近+饱和近，人贴墙。修法：墙转灰绿/压暗，或人逆光变剪影。
-- 反例 2：想突出主体却在四周放了一圈同饱和强调色——强调泛滥即无强调。修法：保主体一处，其余降级。
-- 反例 3：冷色小物配暖色大底想"以小配大"，但小物与底明度相同——冷重规律失效，画面失衡。修法：拉开明度差。
+- Counterexample 1: a person in a red dress against an orange-red wall — hues close, saturation close, the figure sticks to the wall. Fix: turn the wall gray-green or darken it, or put the figure in backlight as a silhouette.
+- Counterexample 2: wanting the subject to stand out but placing a ring of equally saturated accents around it — when accents flood, nothing is emphasized. Fix: keep one on the subject and demote the rest.
+- Counterexample 3: a small cool object set against a large warm ground to "counterbalance large with small", but the small object shares the ground's value — the cool-is-heavy rule fails and the frame goes off balance. Fix: open the value difference.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 视觉重量六因子总表：见 D5/visual-weight
-- 明度差的影调面：见 D2/tonality
-- 强调色的配比纪律：见 proportions
-- 融壁故障：见 D7/fault-library
-- 配平操作：见 D1/balance
+- The master table of the six visual-weight factors: see D5/visual-weight
+- The tonal side of value difference: see D2/tonality
+- Proportion discipline for accents: see proportions
+- Fusion-with-wall fault: see D7/fault-library
+- Counterbalancing operations: see D1/balance

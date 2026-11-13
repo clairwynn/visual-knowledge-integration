@@ -1,64 +1,64 @@
-# D3 · 色彩配比（Color Proportions）
+# D3 · Color Proportions
 
-> 本文件管：60-30-10 主导配比及其变体、主导色-辅色-强调色三角色、配比的构图化（色块与位置）。
-> 怎么用：定色板时先分角色再配比；配比失衡是"色彩打架"的第一病因。
+> This file covers: the 60-30-10 dominant ratio and its variants, the three roles of dominant / secondary / accent color, and the compositional side of proportion (color blocks and their positions).
+> How to use: when building a palette, assign roles first and then proportions; a failed proportion is the first cause of "colors fighting".
 
-## 定义
+## Definition
 
-色彩配比＝画面中各颜色所占面积的比例结构。经典框架为 **60-30-10**：主导色约 60%、辅色约 30%、强调色约 10%。
+Color proportion = the area ratio among the colors present in the frame. The classic framework is **60-30-10**: dominant about 60%, secondary about 30%, accent about 10%.
 
-## 机制
+## Mechanism
 
-主导色建立画面的"底色世界"（观者的色彩预期），辅色支撑层次，强调色是"例外"——强调色之所以有强调力，正因为它稀缺（孤立效应，见 D5/attention）。比例即语法：强调色一旦泛滥（30%+），画面失去焦点；辅色超过主导色，底色世界崩塌，色彩开始"打架"。
+The dominant color establishes the frame's "ground world" (the viewer's color expectation), the secondary color supports hierarchy, and the accent is the "exception" — an accent has emphasis precisely because it is scarce (isolation effect, see D5/attention). Proportion is grammar: once an accent floods the frame (30%+), the focus is lost; once the secondary exceeds the dominant, the ground world collapses and the colors begin to "fight".
 
-## 判据
+## Criteria
 
-### 60-30-10 主框架
+### The 60-30-10 main framework
 
-| 角色 | 占比 | 职能 | 常见载体 |
+| Role | Share | Function | Common carriers |
 |---|---|---|---|
-| 主导色 | ~60% | 定基调、铺底 | 背景、天空、墙面、大面积服装 |
-| 辅色 | ~30% | 支撑与过渡 | 地面、家具、次级服装、中间调物 |
-| 强调色 | ~10% | 点睛、聚焦 | 唇色、标志、花、灯光、小道具 |
+| Dominant | ~60% | Set the key, lay the ground | Background, sky, wall, large clothing areas |
+| Secondary | ~30% | Support and transition | Ground, furniture, secondary clothing, mid-value objects |
+| Accent | ~10% | Punctuation, focus | Lip color, logo, flowers, lamplight, small props |
 
-变体（合法调整）：
-- **70-20-10**：更沉稳，商业与极简常用。
-- **50-30-20**：更活泼，但强调色权重上升需克制使用。
-- **双色系（80-20）**：近乎单色的画面，强调色即唯一焦点（与 minimalist 流派合流）。
-- **单色+点缀（90-10）**：无彩底+一点色，强调力最强的配方。
+Variants (legitimate adjustments):
+- **70-20-10**: more settled; common in commercial and minimal work.
+- **50-30-20**: livelier, but the accent's weight rises and must be used with restraint.
+- **Two-color (80-20)**: a nearly monochrome frame where the accent is the only focus (merges with the minimalist school).
+- **Monochrome plus accent (90-10)**: achromatic ground plus one spot of color — the strongest emphasis recipe.
 
-### 三角色的位置学（配比的构图面）
+### Position rules for the three roles (the compositional side of proportion)
 
-- 主导色宜与背景/大面重合（成为"空气"）；
-- 强调色宜落在主体上或第一落点附近（色块为构图服务，不漂浮）；
-- 强调色若出现在边缘角落→视线被拽离主体（色块抢戏，见 D7/fault-library）。
-- 回声色相（echo）：强调色在画面另一处以极小面积再现一次，色彩关系立即"闭环"（经验值，点缀 ≤2%）。
+- The dominant should coincide with the background or a large area (it becomes "air").
+- The accent should land on the subject or near the first landing point (a color block serves composition; it does not float).
+- An accent placed in an edge corner pulls the gaze away from the subject (a block stealing the scene, see D7/fault-library).
+- Echo hue: the accent reappears once at a very small area elsewhere in the frame, and the color relation closes immediately (rule of thumb: punctuation ≤2%).
 
-### 和谐度量化思想（判色板用）
+### Quantitative idea of harmony (for judging a palette)
 
-按画面实际出现的活跃色相数估和谐类型（经验分仅供参考）：
-- 单色系（1 个色相）→ 内聚安全，风险是单调（加明度/饱和层级解）；
-- 邻近系（2–3 相邻色相）→ 自然和谐（0.8 级）；
-- 三分/互补系（相隔色相）→ 高张力高兴趣（0.85–0.9 级），需靠配比压制冲突；
-- 无彩系（黑白灰）→ 冷静克制（0.7 级）；
-- 5 色相以上无结构 → 混乱风险（除非图案/民族风宣言）。
+Estimate the harmony type from the number of active hues actually present (the scores below are indicative only):
+- Monochromatic (1 hue) → cohesive and safe; the risk is monotony (solve with value and saturation layers).
+- Analogous (2–3 adjacent hues) → natural harmony (grade 0.8).
+- Triadic / complementary (hues far apart) → high tension and high interest (grade 0.85–0.9), requiring proportion to suppress conflict.
+- Achromatic (black, white, gray) → cool and restrained (grade 0.7).
+- Five or more hues with no structure → chaos risk (unless it is a pattern or folk declaration).
 
-## 边界
+## Boundaries
 
-- 配比按"感知面积"计不按像素计：高饱和小块在感知上远大于其物理面积（估重时对饱和色乘权重）。
-- 黑白灰是无彩角色，可充当任意一角（最常见：无彩底+有彩强调）。
-- 60-30-10 是起点不是铁律：单色画、互补对峙画都有各自的面积逻辑，但"角色分明"这条不变。
+- Proportions are counted by perceived area, not pixels: a small highly saturated patch reads far larger than its physical area (apply a weight multiplier to saturated colors when estimating).
+- Black, white, and gray are achromatic roles and may take any of the three positions (most common: achromatic ground plus chromatic accent).
+- 60-30-10 is a starting point, not an iron law: monochrome paintings and complementary confrontations each have their own area logic, but "distinct roles" never changes.
 
-## 反例
+## Counterexamples
 
-- 反例 1：强调色（红）出现在背景角落与主体上各一块且都很大——视线拉锯。修法：只保主体上那块，角落块降饱和或删除。
-- 反例 2：辅色（黄）面积压过主导色（灰蓝）——画面底色读成黄色，主导色失效。修法：黄缩到 30% 内或换主导。
-- 反例 3：全画面 5+ 色相均匀分布——彩旗感。修法：归入 60-30-10 结构或退为邻近色系。
+- Counterexample 1: the accent (red) appears both in a background corner and on the subject, both large — the gaze is pulled in two directions. Fix: keep only the block on the subject; desaturate or delete the corner block.
+- Counterexample 2: the secondary (yellow) area exceeds the dominant (gray-blue) — the frame's ground reads as yellow and the dominant fails. Fix: shrink yellow to within 30%, or change the dominant.
+- Counterexample 3: five or more hues spread evenly across the frame — a bunting effect. Fix: fold them into a 60-30-10 structure, or retreat to an analogous scheme.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 七种和声体系：见 harmony
-- 色彩的重量与配平：见 weight-contrast
-- 色相情绪与冷暖叙事：见 emotion
-- 色板纪律与统一技术：见 palette-strategy
-- 商业色板纪律：见 modes/schools/commercial.md、graphic-constructivism.md
+- The seven harmony systems: see harmony
+- Color weight and counterbalancing: see weight-contrast
+- Hue emotion and cool-warm narrative: see emotion
+- Palette discipline and unification techniques: see palette-strategy
+- Commercial palette discipline: see modes/schools/commercial.md, graphic-constructivism.md

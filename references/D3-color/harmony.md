@@ -1,59 +1,59 @@
-# D3 · 色彩和声（Color Harmony）
+# D3 · Color Harmony
 
-> 本文件管：七种和声体系的结构、画面效果与适用场景、和声与配比的配合、和声失效的诊断。
-> 怎么用：定色板第二步——在配比框架内选和声结构；诊断"色彩打架"时对照七系检查。
+> This file covers: the structure, frame effect, and applicable scenes of the seven harmony systems; how harmony works with proportion; and diagnosing a failed harmony.
+> How to use: step two of palette building — choose a harmony structure inside the proportion framework; when diagnosing "colors fighting", check against the seven systems.
 
-## 定义
+## Definition
 
-色彩和声（color harmony）＝画面色相之间的结构关系。七种基本和声：互补、邻近、三分配、分裂互补、单色、无彩、（自由）复杂。
+Color harmony = the structural relation among the hues in a frame. Seven basic harmonies: complementary, analogous, triadic, split-complementary, monochromatic, achromatic, and (free) polychromatic.
 
-## 机制
+## Mechanism
 
-和声是色相环上的几何关系：相邻=平稳（变化小），对峙=张力（变化大）。画面选哪种和声，本质是选"色彩变化的温度"——叙事平稳的画面用邻近系，冲突叙事用互补系。和声不决定美丑，决定**色彩关系的可读性**；混乱不是某种和声，而是没有和声。
+Harmony is geometry on the hue wheel: adjacent = steady (small change), opposed = tension (large change). Choosing a harmony is essentially choosing "the temperature of color change" — a steady narrative uses the analogous scheme, a conflict narrative the complementary one. Harmony does not decide beauty; it decides **the readability of the color relations**. Chaos is not a kind of harmony — it is the absence of harmony.
 
-## 判据
+## Criteria
 
-### 七系总表
+### The seven systems
 
-| 和声 | 色相环结构 | 画面效果 | 适用 | 风险 |
+| Harmony | Hue-wheel structure | Frame effect | Use | Risk |
 |---|---|---|---|---|
-| 单色 monochromatic | 1 色相，靠明度/饱和分层 | 极内聚、安静、高级感 | 极简、情绪片、海报 | 单调；需 3 级以上明度层次 |
-| 邻近 analogous | 相邻 2–3 色相（≤60°） | 自然、和谐、过渡柔 | 风景、生活、食物 | 平淡；靠明度差与一点互补点缀破 |
-| 互补 complementary | 对角 2 色（~180°） | 最强张力、互相激活 | 冲突叙事、运动、节日 | 等面积互补=打架；必须分主次 |
-| 分裂互补 split-complementary | 1 色+对角两侧 | 张力略降、更耐看 | 人物+环境、品牌感 | 配比失守则乱 |
-| 三分配 triadic | 环上等距 3 色 | 丰富、活泼、插画感 | 童趣、信息图、民俗 | 高失控风险；靠大主导压制 |
-| 无彩 achromatic | 黑白灰 | 冷峻、克制、时间感 | 纪实、严肃叙事、质感片 | 无记忆点；留一点有彩强调更佳 |
-| 复杂 polychromatic | 4+ 色相自由组合 | 繁盛、民俗、狂欢 | 节庆、市场、巴洛克 | 无结构即混乱；需统一明度或饱和压场 |
+| Monochromatic | 1 hue, layered by value / saturation | Extremely cohesive, quiet, refined | Minimal, mood pieces, posters | Monotony; needs three or more value levels |
+| Analogous | 2–3 adjacent hues (≤60°) | Natural, harmonious, soft transition | Landscape, life, food | Blandness; break it with a value gap and one complementary punctuation |
+| Complementary | 2 hues opposite (~180°) | The strongest tension, mutual activation | Conflict narrative, motion, festivals | Equal-area complementaries = fighting; hierarchy is mandatory |
+| Split-complementary | 1 hue plus the two flanking its opposite | Tension slightly lowered, more durable | Figure plus environment, brand feel | Fails the moment proportion slips |
+| Triadic | 3 hues evenly spaced on the wheel | Rich, lively, illustrative | Playful, infographics, folk | High risk of losing control; suppress with a large dominant |
+| Achromatic | Black, white, gray | Austere, restrained, a sense of time | Documentary, serious narrative, texture pieces | No memory point; keep one small chromatic accent |
+| Polychromatic | 4+ hues freely combined | Exuberant, folk, carnival | Festivals, markets, Baroque | No structure means chaos; unify value or saturation to hold it |
 
-### 和声×配比的配合规则
+### Rules for harmony × proportion
 
-1. 张力越强的和声，越依赖配比压制：互补系必须 60-30-10 级分明（等量互补是经典事故）；三分配的主导色应 ≥60%。
-2. 邻近/单色系靠**明度层级**出层次（同色相内拉开 3 级明度）。
-3. 无彩系允许一个有彩强调点（全局唯一）——瞬间成为画眼。
-4. 复杂系的自救：统一明度带或统一饱和带（"都调暗"或"都调灰"），乱色即服帖。
+1. The stronger the harmony's tension, the more it depends on proportion to suppress it: complementary schemes need 60-30-10 clarity (equal complementary areas are the classic accident); a triadic dominant should be ≥60%.
+2. Analogous and monochromatic schemes build hierarchy through **value levels** (open three levels within the same hue).
+3. Achromatic schemes allow one chromatic accent (the only one in the frame) — it becomes the eye of the picture instantly.
+4. Self-rescue for polychromatic: unify the value band or the saturation band ("all darker" or "all grayer"), and the wild colors settle.
 
-### 互补对的处理（高张力场景）
+### Handling a complementary pair (high-tension scenes)
 
-- 主从分明：主导互补色 ≥60%，对峙色 ≤30% 且落在主体。
-- 明度错开：两互补色不同明度档（亮橙对深蓝，而非等值橙蓝）。
-- 面积悬殊+位置主次：大冷底+小暖点（或反之）是安全配方（teal-orange 类电影配色即冷暖互补的工业化变体）。
+- Clear hierarchy: the dominant complementary ≥60%, the opposing hue ≤30% and placed on the subject.
+- Open the values: the two complementaries sit at different value levels (bright orange against deep blue, not orange and blue at equal value).
+- Disparate areas plus primary-secondary position: a large cool ground with a small warm point (or the reverse) is the safe recipe (teal-and-orange cinematic grading is the industrial variant of cool-warm complementarity).
 
-## 边界
+## Boundaries
 
-- 和声结构判断按"实际感知色相"（受光影响的最终色），不按物体"本色"——夕阳下的绿叶读作暖棕。
-- 和声是画面级选择，不是物件级：单件物品撞色没问题，全局无结构才是病。
-- 无彩+强调是"伪无彩"（仍属两色结构），按互补逻辑管理强调点。
+- Harmony is judged on the **actually perceived hue** (the final color after light), not the object's "local color" — green leaves under a setting sun read warm brown.
+- Harmony is a frame-level choice, not an object-level one: a single object clashing is fine; the disease is the absence of global structure.
+- Achromatic plus accent is "pseudo-achromatic" (still a two-color structure); manage the accent by complementary logic.
 
-## 反例
+## Counterexamples
 
-- 反例 1：红绿互补各占一半且同饱和——圣诞彩旗感，互相抵消。修法：绿扩到 70% 暗调底，红缩到主体 10%。
-- 反例 2：单色画面只用了 1 档明度——糊成一片。修法：同色相内拉 3 级明度。
-- 反例 3：三分配三色均匀铺满——马戏团。修法：定一色主导 60%，另两色降饱和降面积。
+- Counterexample 1: red and green complementaries each taking half, at equal saturation — a Christmas-bunting effect, canceling each other out. Fix: expand green to a 70% dark ground and shrink red to 10% on the subject.
+- Counterexample 2: a monochromatic frame using only one value level — it blurs into one field. Fix: open three value levels within the hue.
+- Counterexample 3: a triadic scheme with the three colors spread evenly — a circus. Fix: fix one color as the 60% dominant and reduce the other two in saturation and area.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 配比框架：见 proportions
-- 色彩重量（为什么暖色显重）：见 weight-contrast
-- 冷暖分区叙事（teal-orange 展开）：见 emotion
-- 色板统一技术：见 palette-strategy
-- 色彩和谐检测的流派化：见 modes/schools/aesthetics.md
+- The proportion framework: see proportions
+- Color weight (why warm reads heavy): see weight-contrast
+- Cool-warm zoning narrative (teal-and-orange developed): see emotion
+- Palette unification techniques: see palette-strategy
+- The school treatment of color-harmony detection: see modes/schools/aesthetics.md

@@ -1,63 +1,63 @@
-# D3 · 色板策略（Palette Strategy）
+# D3 · Palette Strategy
 
-> 本文件管：有限色板纪律、色板的三档来源法、色调统一技术、跨图（序列）色板一致性。
-> 怎么用：开工前先写死色板（3–5 色），再画/再构思；序列组图用统一色板防串色。
+> This file covers: the discipline of a limited palette, the three starting points for building one, tone-unification techniques, and palette consistency across a sequence.
+> How to use: write the palette down (3–5 colors) before starting to draw or to conceive; use a unified palette across a series to prevent color drift.
 
-## 定义
+## Definition
 
-色板策略（palette strategy）＝在动手前为画面（或整个序列）规定有限的颜色集合（通常 3–5 个色相角色）及其配比，用纪律换统一。
+Palette strategy = fixing, before execution, a limited set of colors (usually 3–5 hue roles) and their proportions for a frame or for an entire sequence — trading discipline for unity.
 
-## 机制
+## Mechanism
 
-无限颜色的画面必然"彩旗化"——观者的色彩预期无法建立。有限色板让每种颜色获得"角色感"（哪个是空气、哪个是焦点），色彩从装饰升级为结构。色板不是限制而是语法：3 个角色的语言足够讲绝大多数画面。
+A frame with unlimited colors inevitably turns into bunting — the viewer's color expectation cannot form. A limited palette gives each color a "role" (which is the air, which is the focus), and color upgrades from decoration to structure. The palette is not a restriction but a grammar: the language of three roles can tell almost any frame.
 
-## 判据
+## Criteria
 
-### 色板三档来源法（定色板的三种起点）
+### Three starting points for a palette
 
-1. **从情绪来**：情绪目标→主色相（D3/emotion 表）→配和声→补齐三角色。
-2. **从场景来**：场景的物理色（题材的"本色"：森林=绿系、海=蓝系）→取其主色做主导，加互补/邻近补角色。
-3. **从参照来**：从一张参照画面抽取 3–5 色（按面积排序即为天然配比）——抽取后重设配比以服务本画面意图，不要照抄。流派 DNA 卡的典型色锚（见 D6/art-movements 扩展卡）同样可作起点。
+1. **From emotion**: emotional target → main hue (the table in D3/emotion) → choose a harmony → fill in the three roles.
+2. **From the scene**: the scene's physical colors (the subject's "local color": forest = greens, sea = blues) → take its main color as the dominant → add complementary or analogous colors to fill the roles.
+3. **From a reference**: extract 3–5 colors from a reference frame (sorted by area, they are a natural proportion) — then reset the proportions to serve this frame's intent; do not copy. The typical color anchors of a movement's DNA card (see the extended cards in D6/art-movements) can also serve as a starting point.
 
-### 有限色板纪律（硬规则）
+### Limited-palette discipline (hard rules)
 
-1. 色板写死（3–5 色，含角色标注：主导/辅/强调/无彩底），画面内出现的新色相须能归入板内某色的变体（明度/饱和变化）。
-2. **角色克制**：强调色 ≤2 处（经验值）——主体一处+回声一处（见 weight-contrast 回声色相）。
-3. 新增色相的准入条件：服务叙事且替换掉板内某色（置换不叠加）。
-4. 无彩（黑白灰）不计入色相数，可自由用作底与过渡。
+1. The palette is written down (3–5 colors, with roles labeled: dominant / secondary / accent / achromatic ground); any new hue appearing in the frame must be assignable to a variant of a palette color (a change in value or saturation).
+2. **Role restraint**: the accent appears in ≤2 places (rule of thumb) — one on the subject plus one echo (see echo hue in weight-contrast).
+3. Admission condition for a new hue: it serves the narrative and replaces one palette color (replace, never add).
+4. Achromatic colors (black, white, gray) are not counted in the hue total and may be used freely as ground and transition.
 
-### 色调统一技术（画面"服帖"的手法）
+### Tone-unification techniques (how to make a frame "settle")
 
-| 技术 | 操作 | 效果 |
+| Technique | Operation | Effect |
 |---|---|---|
-| 明度归档 | 全画面明度压进 2–3 个档带 | 版画感、设计感 |
-| 饱和归档 | 全画面饱和压进同一带（都低或都中） | 电影感、高级感 |
-| 统一色罩 | 一层微弱主色罩全画面（暖罩/冷罩） | 时间统一（黄昏罩橙、夜罩青） |
-| 背景呼应 | 主体色以低饱和变体出现在背景 | 孤色解药（见 weight-contrast） |
-| 颗粒/纹理统一 | 统一颗粒或纸纹覆盖 | 物理介质感，色彩被"托住" |
+| Value consolidation | Press the whole frame's value into 2–3 bands | Print-like, designed feel |
+| Saturation consolidation | Press the whole frame's saturation into one band (all low or all mid) | Cinematic, refined |
+| Unified color cast | A faint dominant tint over the whole frame (warm or cool) | Unified sense of time (orange cast at dusk, cyan cast at night) |
+| Background echo | The subject's color appears in the background as a low-saturation variant | The antidote to orphan color (see weight-contrast) |
+| Grain / texture unification | A single grain or paper texture over everything | A physical-medium feel; the color is "held up" |
 
-### 序列色板一致性（组图防串色）
+### Palette consistency across a sequence (preventing color drift)
 
-- 全序列共用一块色板（角色与配比可微调，色相不换）；
-- 单图允许一个"序列级强调色"贯穿（成为系列签名色）；
-- 逐图检查：把 N 张图并排缩略，任何一张的颜色跳队即修（见 modes/function/sequence.md 终检）。
+- The whole sequence shares one palette (roles and proportions may be fine-tuned; hues are not swapped);
+- A single frame may carry one "sequence-level accent" throughout (it becomes the signature color of the series);
+- Check frame by frame: line up the N images as thumbnails; any image whose color breaks ranks gets fixed (see the final check in modes/function/sequence.md).
 
-## 边界
+## Boundaries
 
-- 色板纪律对"复杂系"题材（民俗、节庆、市场）做例外：复杂系靠明度/饱和归档统一，不靠减色相。
-- 色板在构思阶段是"色彩策略"，在成品阶段可从画面反向抽取校验（实际色板超出策略即失守）。
-- 单幅与序列的色板粒度不同：单幅 3–5 色，序列全板 4–6 色共享。
+- Palette discipline makes an exception for "polychromatic" subjects (folk, festival, market): polychromatic schemes unify through value or saturation consolidation, not by removing hues.
+- At concept stage the palette is a "color strategy"; at finished stage it can be extracted from the frame in reverse for verification (if the actual palette exceeds the strategy, discipline has failed).
+- Palette granularity differs between a single frame and a sequence: 3–5 colors for a single frame, a shared 4–6 color board for a sequence.
 
-## 反例
+## Counterexamples
 
-- 反例 1：画到一半随手加了第六个色相的强调色——色板失守，前期统一感崩塌。修法：新色并入最近板内色的变体。
-- 反例 2：序列八张图八种色调——像八个人的作品。修法：全序统一色罩+签名色。
-- 反例 3：色板定了却让强调色出现在三处——强调稀释。修法：只保主体处+一处 ≤2% 回声。
+- Counterexample 1: halfway through, a sixth hue is added as an accent — the palette fails and the earlier unity collapses. Fix: fold the new color into a variant of the nearest palette color.
+- Counterexample 2: eight images in a sequence with eight different tones — it looks like eight people's work. Fix: one unified cast plus a signature color across the whole sequence.
+- Counterexample 3: the palette is fixed but the accent appears in three places — emphasis diluted. Fix: keep it only on the subject plus one echo at ≤2%.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 配比与和声（色板的内部结构）：见 proportions、harmony
-- 情绪反推：见 emotion
-- 序列一致性终检：见 modes/function/sequence.md
-- 商业色板与品牌纪律：见 modes/schools/commercial.md
-- 风格谱系中的典型色板：见 D6/art-movements
+- Proportions and harmony (the palette's internal structure): see proportions, harmony
+- Deriving from emotion: see emotion
+- Sequence-consistency final check: see modes/function/sequence.md
+- Commercial palettes and brand discipline: see modes/schools/commercial.md
+- Typical palettes in the style lineage: see D6/art-movements
