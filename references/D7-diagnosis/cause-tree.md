@@ -1,108 +1,108 @@
-# D7 · 弱构图成因树（Weak Composition Cause Tree）
+# D7 · Weak Composition Cause Tree
 
-> 本文件管：画面"弱/平/乱/怪"的七大成因分类树，每支的症状特征、指向检查与对应处方入口。
-> 怎么用：诊断修复功能的定位骨架——拿到症状先入树，顺支而下找到根因，再带出处方。
+> This file covers the seven-branch taxonomy of why a frame reads weak, flat, messy, or odd — the symptom signature, the pointing check, and the prescription entry for each branch.
+> How to use: the locating skeleton of the diagnosis-and-repair function — take the symptom into the tree, follow the branch down to the root cause, then carry out a prescription.
 
-## 定义
+## Definition
 
-弱构图成因树＝把"画面不好"的全部常见原因组织为七类主支：**主体不清、层级缺乏、平衡失效、路径混乱、纵深扁平、边缘事故、风格冲突**。每支可继续细分到可操作根因。
+The weak composition cause tree organizes every common reason a frame fails into seven main branches: **unclear subject, missing hierarchy, failed balance, confused path, flat depth, edge accident, style conflict**. Each branch subdivides into operable root causes.
 
-## 机制
+## Mechanism
 
-"不好看"是果不是因。同一句"感觉不对"背后可能是七种完全不同的病，处方互不相同（甚至相反：太平要加张力，太乱要做减法）。树的价值观：**先定位后开方**——跳过定位直接改画面是诊断的头号错误。
+Ugly is an effect, not a cause. The same sentence — "it feels wrong" — may hide seven completely different diseases whose prescriptions differ, sometimes opposing: too flat needs tension added, too messy needs subtraction. The tree's value statement: **locate before prescribing** — skipping location and changing the frame directly is the number-one diagnostic error.
 
-## 七支总树
+## The seven-branch tree
 
 ```
-画面弱/平/乱/怪
-├─ A 主体不清（不知道看哪）
-├─ B 层级缺乏（都重要=都不重要）
-├─ C 平衡失效（不稳/头重脚轻）
-├─ D 路径混乱（乱/散/断）
-├─ E 纵深扁平（平/贴/纸片）
-├─ F 边缘事故（难受但说不出）
-└─ G 风格冲突（违和/漂移/廉价）
+Frame weak / flat / messy / odd
+├─ A Unclear subject (don't know where to look)
+├─ B Missing hierarchy (everything important = nothing important)
+├─ C Failed balance (unstable / top-heavy)
+├─ D Confused path (messy / scattered / broken)
+├─ E Flat depth (flat / pasted / cardboard)
+├─ F Edge accident (uncomfortable but unstatable)
+└─ G Style conflict (incongruous / drifting / cheap)
 ```
 
-### A 主体不清支
+### Branch A: unclear subject
 
-| 症状 | 细分根因 | 检查 | 处方入口 |
+| Symptom | Sub-root cause | Check | Prescription entry |
 |---|---|---|---|
-| 一眼不知看哪 | 第一落点被杂物抢占 | attention 强锚点计数 | 压制干扰锚/加重主体 |
-| 主体在但没突出 | 分离失败（明度/色/虚化三手段全缺） | figure-ground 五判据 | 补分离手段 1–2 项 |
-| 主体淹没在同类里 | 相似+接近吞没 | gestalt 分组检查 | 破相似（朝向/大小/明度） |
-| 画面无主体 | 责任分散（多主体无主次） | multi-subject 权重序 | 定主次+拉开 1–2 档 |
+| No idea where to look | First fixation seized by clutter | Attention strong-anchor count | Suppress competing anchors / weight the subject |
+| Subject present but not prominent | Separation failed — all three means of value, color, defocus missing | Five figure-ground criteria | Add 1–2 separation means |
+| Subject drowned among similars | Similarity plus proximity swallowing it | Gestalt grouping check | Break the similarity — facing, size, value |
+| Frame has no subject | Responsibility dispersed, multiple subjects with no hierarchy | Multi-subject weight order | Fix hierarchy and open 1–2 steps |
 
-### B 层级缺乏支
+### Branch B: missing hierarchy
 
-| 症状 | 细分根因 | 检查 | 处方入口 |
+| Symptom | Sub-root cause | Check | Prescription entry |
 |---|---|---|---|
-| 平淡无重点 | 全元素同权重（明度/饱和/尺寸拉不开） | 重量六因子标定 | 建立 1–2 档权重差 |
-| 信息过载 | 元素过多无分组 | gestalt 组数（>7 组） | 减法/成组 |
-| 主次反复横跳 | 强锚 ≥2 个同级 | 焦点唯一性检查 | 降次锚 ≥1 档 |
+| Flat, no emphasis | All elements at one weight — value, saturation, size not opened up | Six-factor weight calibration | Establish a 1–2 step weight difference |
+| Information overload | Too many elements, no grouping | Gestalt group count, above 7 | Subtract or group |
+| Emphasis jumping back and forth | Two or more equally strong anchors | Focus uniqueness check | Demote the secondary anchor ≥1 step |
 
-### C 平衡失效支
+### Branch C: failed balance
 
-| 症状 | 细分根因 | 检查 | 处方入口 |
+| Symptom | Sub-root cause | Check | Prescription entry |
 |---|---|---|---|
-| 画面向一侧倒 | 重量差 ≥2 档无意图 | 杠杆清点（balance 四步） | 配平（位置/明度/色重） |
-| 头重脚轻 | 上部重下部空 | 上下重量清点 | 下部加锚/上缘减重 |
-| 视觉悬空 | 主体无支撑（无地面/影子） | 接地检查 | 接地影/共享表面 |
-| 中心塌陷 | 四角过重把视线钉在角上 | 四角检查 | 角部减负 |
+| Frame falls to one side | Weight difference ≥2 steps with no intent | Lever inventory, the four balance steps | Counterbalance by position, value, color weight |
+| Top-heavy | Heavy top, empty bottom | Top-bottom weight inventory | Anchor the bottom / lighten the top edge |
+| Visually floating | Subject unsupported, no ground or shadow | Grounding check | Contact shadow / shared surface |
+| Center collapse | Corners too heavy, pinning the gaze there | Corner check | Reduce corner load |
 
-### D 路径混乱支
+### Branch D: confused path
 
-| 症状 | 细分根因 | 检查 | 处方入口 |
+| Symptom | Sub-root cause | Check | Prescription entry |
 |---|---|---|---|
-| 乱、散 | 多条强路径竞争 | 视线出口计数+路径清点 | 降级次路径/汇合于主体 |
-| 视线出画 | 引导线指向画外/朝向出画无回收 | 出口计数 | 折返/换指向/补留白 |
-| 无路可走 | 无引导结构、无梯度 | 路径三要素（入口-路-终点） | 建一条主路（线/光带/朝向链） |
-| 进不了画面 | 入口是边角杂物/第一落点错误 | 第一注视点比对 | 移锚点/压角部 |
+| Messy, scattered | Several strong paths competing | Exit count plus path inventory | Demote secondary paths / converge on the subject |
+| Gaze leaves the frame | Leading lines or facing point out with no recovery | Exit count | Turn back / change direction / add lead room |
+| No road at all | No leading structure, no gradient | The three path elements: entry, route, endpoint | Build one main route — line, light band, facing chain |
+| Cannot enter the frame | Entry is edge clutter, first fixation wrong | First fixation comparison | Move the anchor / reduce corner load |
 
-### E 纵深扁平支
+### Branch E: flat depth
 
-| 症状 | 细分根因 | 检查 | 处方入口 |
+| Symptom | Sub-root cause | Check | Prescription entry |
 |---|---|---|---|
-| 平/贴 | 两层结构（无前景层） | 层次数数 | 加前景锚 |
-| 主体贴背景 | 融底（明度/色相/饱和三近） | figure-ground 三近检查 | 拉明度差/换背景/加影 |
-| 空间读反 | 大气透视倒挂（远比近清晰/暖） | 透视四向表 | 按近实远虚重排 |
-| 纸片感 | 全景深+无遮挡+无尺度参照 | 纵深线索四类清点 | 补 2 类线索（遮挡/尺度/大气/虚实） |
+| Flat, pasted | Only two layers, no foreground layer | Layer count | Add a foreground anchor |
+| Subject stuck to background | Tonal fusion — value, hue, saturation all close | The three-closeness figure-ground check | Widen the value gap / change the background / add a shadow |
+| Space read backwards | Atmospheric perspective inverted — the far sharper or warmer than the near | Perspective direction table | Reorder to near-sharp, far-soft |
+| Cardboard feel | Full depth plus no occlusion plus no scale reference | Four depth-cue classes inventory | Add 2 cue classes — occlusion, scale, atmosphere, sharp-soft |
 
-### F 边缘事故支
+### Branch F: edge accident
 
-| 症状 | 细分根因 | 检查 | 处方入口 |
+| Symptom | Sub-root cause | Check | Prescription entry |
 |---|---|---|---|
-| 隐性难受 | 半截物入侵 | 边缘四查 | 入画或出画 |
-| "长角"类粘连 | 相切不良合并 | 轮廓检查 | 拉开或叠压 |
-| 被切的关键信息 | 切线/切关节 | 裁切禁忌表 | 移框或挪主体 |
-| 二次裁切毁图 | 关键元素出安全区 | 安全区检查 | 收进中央 80% |
+| Unexplained discomfort | Half objects intruding | Four edge checks | Bring them in or take them out |
+| "Horns" and sticking | Tangential merge | Outline check | Separate or overlap |
+| Key information cut | Cut line or cut joint | Cropping prohibition table | Move the frame or the subject |
+| Re-crop destroys the image | Key elements outside the safe area | Safe-area check | Bring them inside the central 80% |
 
-### G 风格冲突支
+### Branch G: style conflict
 
-| 症状 | 细分根因 | 检查 | 处方入口 |
+| Symptom | Sub-root cause | Check | Prescription entry |
 |---|---|---|---|
-| 违和感 | 三层 DNA 异源混搭 | art-movements 混搭规则 | 定主家只借一层 |
-| 序列漂移 | 逐图风格参数滑动 | 序列一致性终检 | 冻结 DNA/色板/影调 |
-| 廉价感 | 高饱和大底色/空洞留白/无主光 | ai-defaults+palette | 质感化留白/降饱和/定主光 |
-| 中位数感 | 位置/景别/角度三轴全默认 | ai-defaults 预防六轴 | 任一轴显式偏移 |
+| Incongruity | Three-layer DNA mixed from foreign sources | Hybrid rules in art-movements | Fix the host school, borrow one layer only |
+| Sequence drift | Style parameters sliding frame by frame | Sequence consistency final check | Freeze DNA, palette, tonality |
+| Cheapness | High-saturation large ground / hollow blank / no key light | ai-defaults plus palette | Texture the blank / reduce saturation / set a key light |
+| Median feel | Position, shot size, and angle all default | Six prevention axes of ai-defaults | Offset at least one axis explicitly |
 
-## 使用协议
+## Usage protocol
 
-1. **症状入树**：用户描述（或自检发现）的问题先归入 A–G 之一（可多支，取最痛的一支先治）。
-2. **顺支而下**：按支内细分表核对，找到根因（可多根因）。
-3. **带出处方**：每个根因都有处方入口（对应知识文件），处方分级见 prescriptions。
-4. **复诊**：修复后跑 D5/tests 三项自检确认；同支复发的，怀疑定位错了层级（症状不是根因），换支再查。
+1. **Symptom into the tree**: assign the problem reported by the user, or found in self-check, to one of A–G. Several may hold; treat the most painful first.
+2. **Follow the branch down**: check against the branch's sub-table and find the root cause or causes.
+3. **Carry out a prescription**: every root cause has a prescription entry pointing at a knowledge file; see prescriptions for leveling.
+4. **Recheck**: after repair run the three self-check items of D5/tests; if the same branch recurs, suspect that the level of location was wrong — the symptom is not the cause — and recheck another branch.
 
-## 边界
+## Boundaries
 
-- 多支并发是常态（弱构图常 3–4 支同时成立）：修复顺序按"结构性>表面性"（A/E/F 先于 B/C/D/G——主体与空间定了才谈层级与风格）。
-- 用户报的症状与树支不匹配时（说"乱"实为"失衡"）：以自检实测为准，不跟口供走。
-- 树不覆盖的"不好"（题材本身无感、时机错过）：构图层之外的原因，如实说明边界。
+- Multiple branches firing together is normal; weak compositions often have three or four. Repair order runs structure first, surface second: A, E, F before B, C, D, G — fix subject and space before discussing hierarchy and style.
+- When the reported symptom does not match the branch, for example "messy" that is actually "unbalanced", observation governs and testimony does not.
+- What the tree does not cover — a subject that simply does not move anyone, a missed moment — lies outside composition; state that boundary honestly.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 处方分级与写法：见 prescriptions
-- 故障模式速查（症状级）：见 fault-library
-- 各支的机理与判据：A/B→D5；C/D/E/F→D1；G→D6
-- 判图流程总协议：见 protocol
-- 诊断功能流程：见 modes/function/diagnose.md
+- Prescription levels and wording: see prescriptions
+- Fault patterns at symptom level: see fault-library
+- Mechanism and criteria per branch: A and B to D5; C, D, E, F to D1; G to D6
+- Overall review flow: see protocol
+- Diagnostic function flow: see modes/function/diagnose.md

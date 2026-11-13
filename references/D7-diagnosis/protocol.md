@@ -1,77 +1,77 @@
-# D7 · 判图协议（Review Protocol）
+# D7 · Review Protocol
 
-> 本文件管：六步判图法的完整流程——从整体印象到可执行建议的标准顺序，以及每步的输出要求。
-> 怎么用：评审/诊断任何画面（或画面方案）时的主流程；compare 功能的评分前流程；防"看一眼就下结论"。
+> This file covers the complete six-step image review method — the standard order from overall impression to executable advice, and the output requirement of each step.
+> How to use: the main flow when reviewing or diagnosing any frame or frame option; the pre-scoring flow of the compare function; the defense against "one glance, one conclusion".
 
-## 定义
+## Definition
 
-判图协议（review protocol）＝按固定顺序检视图面的六步程序：**整体印象 → 主体识别 → 路径追踪 → 平衡检查 → 边角扫描 → 判据核对**。顺序本身是纪律：先整体后局部、先形式后语义、终结于可执行输出。
+The review protocol is a six-step procedure examining a frame in a fixed order: **overall impression → subject identification → path tracing → balance check → edge scan → criteria check**. The order is itself the discipline: whole before part, form before semantics, ending in executable output.
 
-## 机制
+## Mechanism
 
-无协议的判图有两个系统性偏差：①首因偏差——第一印象定案，后面全是在找支持证据；②细节淹没——盯着局部（一张脸、一个瑕疵）错过结构问题。六步协议强制"先睁眼看整体（快），再程序化查局部（慢）"，两阶段互补。
+Review without a protocol has two systematic biases: first, primacy bias — the first impression decides and everything after hunts for supporting evidence; second, detail drowning — fixation on a local feature, a face or a flaw, misses a structural problem. The six-step protocol forces "open the eyes on the whole first, fast, then examine the parts procedurally, slow"; the two phases complement each other.
 
-## 六步流程
+## The six steps
 
-### 第 1 步：整体印象（FIRST IMPRESSION，≤5 秒）
+### Step 1: First impression (≤5 seconds)
 
-- 看什么：视线第一去哪？情绪冲击是什么？有没有"不对劲"的直觉？
-- 记录：第一落点、第一情绪词、直觉疑点（哪怕说不清）。
-- 输出：三行以内的印象速记。**此步的结论不直接进入最终诊断**，只作为后五步的对照（若最后结论与第一印象矛盾，优先复查矛盾点）。
+- What to look at: where does the gaze go first? What is the emotional impact? Is there an intuitive sense that something is off?
+- Record: first fixation, first emotional word, intuitive doubts even if unstatable.
+- Output: an impression note of three lines or fewer. **The conclusion of this step does not enter the final diagnosis directly**; it serves only as a control for the next five steps — if the final conclusion contradicts the first impression, recheck the contradiction point first.
 
-### 第 2 步：主体识别（SUBJECT）
+### Step 2: Subject identification
 
-- 看什么：画面主体是什么？是否唯一？靠什么成立（位置/明度/色/虚化/面孔）？
-- 工具：attention 权重序、figure-ground 五判据。
-- 输出：主体判词——"主体是 X，由 A+B 手段支撑/主体不清，原因是 C"。
+- What to look at: what is the subject? Is it unique? What makes it hold — position, value, color, defocus, face?
+- Tools: the attention weight order; the five figure-ground criteria.
+- Output: a subject verdict — "the subject is X, held by means A and B" or "the subject is unclear, because of C".
 
-### 第 3 步：路径追踪（PATH）
+### Step 3: Path tracing
 
-- 看什么：眼睛实际怎么走（入口→路→终点→停留）？有无竞争路径与画外出口？
-- 工具：visual-path 三要素、视线出口计数。
-- 输出：路径判词——"入画经 X 到主体 Y，停留于 Z；出口 n 条（明细）"。
+- What to look at: how does the eye actually travel — entry, route, endpoint, dwell? Are there competing paths and exits out of frame?
+- Tools: the three elements of visual-path; exit counting.
+- Output: a path verdict — "the eye enters via X, reaches subject Y, dwells at Z; n exits, itemized".
 
-### 第 4 步：平衡检查（BALANCE）
+### Step 4: Balance check
 
-- 看什么：左右/上下的重量分布？支点在哪？失衡是否有意图？
-- 工具：visual-weight 六因子快速标定（只标主元素）。
-- 输出：平衡判词——"非对称配平成立/失衡 ≥2 档无意图，偏侧 X"。
+- What to look at: the distribution of weight left-right and top-bottom? Where is the fulcrum? Is the imbalance intentional?
+- Tools: quick calibration with the six factors of visual-weight, only on the main elements.
+- Output: a balance verdict — "asymmetric counterbalance holds" or "imbalance ≥2 steps with no intent, leaning to X".
 
-### 第 5 步：边角扫描（EDGES）
+### Step 5: Edge scan
 
-- 看什么：四边四角（边缘四查：入侵/相切/切线/角部负载）+ 安全区。
-- 工具：edges-cropping 四查。
-- 输出：边角判词——干净列出事故清单或"四边干净"。
+- What to look at: the four edges and four corners — the four edge checks of intrusion, tangency, cut line, corner load — plus the safe area.
+- Tools: the four edge checks of edges-cropping.
+- Output: an edge verdict — a clean list of accidents, or "four edges clean".
 
-### 第 6 步：判据核对（CRITERIA & VERDICT）
+### Step 6: Criteria and verdict
 
-- 做什么：按画面用途选判据集（六维或流派权重，见 aesthetic-criteria）打分；汇总前五步发现，形成诊断（入 cause-tree 定根因）与建议（prescriptions 分级）。
-- 输出：完整判词——六步摘要+评分（如适用）+诊断+分级处方+验证判据。
+- What to do: choose the criteria set by use — six dimensions or school weights, see aesthetic-criteria — and score; gather the findings of the previous five steps into a diagnosis, entering the cause tree for the root cause, and advice, leveled per prescriptions.
+- Output: the complete verdict — six-step summary plus scores where applicable, plus diagnosis, leveled prescriptions, and verification criteria.
 
-## 协议纪律
+## Protocol discipline
 
-1. **顺序不可跳**：任何一步的发现都必须按序记录（跳步=回到首因偏差）。
-2. **快慢分离**：第 1 步限时 5 秒；第 2–5 步逐项过；第 6 步汇总。
-3. **证据规则**：每条判词附画面事实（"右下角半截椅子"而非"边角有点乱"）。
-4. **两轮制**：第一轮判"事实"（画面里有什么问题），第二轮判"等级"（哪些致命哪些可忍）——两轮分开防混淆。
-5. 描述性画面（尚未生成的方案）同样适用：闭眼想象执行六步（生成前模拟判图）。
+1. **The order cannot be skipped**: findings from any step must be recorded in sequence; skipping returns you to primacy bias.
+2. **Fast and slow separated**: Step 1 is capped at 5 seconds; Steps 2–5 go item by item; Step 6 consolidates.
+3. **Evidence rule**: every verdict attaches a fact of the frame — "half a chair in the lower right corner", not "the edges look messy".
+4. **Two rounds**: round one judges facts, what is wrong in the frame; round two judges severity, which faults are fatal and which tolerable. Keep the rounds apart to avoid confusion.
+5. Descriptive frames, options not yet produced, are equally covered: imagine the execution and run the six steps with eyes closed — a simulated review before generation.
 
-## 边界
+## Boundaries
 
-- 协议服务于构图判断；曝光/对焦等技术质量与题材语义层（"这张照片值不值得拍"）在协议之外（判词可附带一句，不展开）。
-- 快速场景（会话内即时反馈）允许压缩版：1+2+6 三步走，但压缩版结论标注"初判"。
-- 串扰防护：多图评审时逐图独立走完整协议，禁止跨图合并印象。
+- The protocol serves composition judgment; exposure and focus quality, and subject-matter semantics such as whether the photograph was worth taking, sit outside it. The verdict may carry one sentence, not an expansion.
+- In fast contexts, immediate feedback inside a session, a compressed version of steps 1 + 2 + 6 is permitted, but its conclusion is labeled "preliminary".
+- Cross-talk protection: in multi-image review, run the complete protocol independently per image; never merge impressions across images.
 
-## 反例
+## Counterexamples
 
-- 反例 1：第一眼觉得"背景乱"就定案，实际是平衡失效导致视线总被推到背景——首因偏差。修法：走完六步，从第 4 步找到真根因。
-- 反例 2：六步全过但结论是"挺好的"——第 6 步缺判据集，没有可比较的标准。修法：先选判据集再收尾。
-- 反例 3：判词全是没有事实的形容词——不可复核。修法：每条判词落到画面具体位置。
+- Counterexample 1: deciding at first glance that "the background is messy", when balance failure is actually pushing the gaze into the background — primacy bias. Fix: walk all six steps and find the true root cause at Step 4.
+- Counterexample 2: all six steps walked and the conclusion is "it's quite good" — Step 6 lacked a criteria set, so there was no comparable standard. Fix: choose the criteria set before closing.
+- Counterexample 3: verdicts made entirely of adjectives with no facts — not reviewable. Fix: land every verdict on a specific location in the frame.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 症状→根因：见 cause-tree
-- 处方：见 prescriptions
-- 评分判据：见 D6/aesthetic-criteria
-- 自检工具：见 D5/tests
-- 评审对比功能：见 modes/function/compare.md
+- Symptom to root cause: see cause-tree
+- Prescriptions: see prescriptions
+- Scoring criteria: see D6/aesthetic-criteria
+- Self-check tools: see D5/tests
+- Review and comparison function: see modes/function/compare.md
