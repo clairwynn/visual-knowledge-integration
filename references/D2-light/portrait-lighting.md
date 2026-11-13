@@ -1,67 +1,67 @@
-# D2 · 五种经典人像布光（Portrait Lighting）
+# D2 · The Five Classic Portrait Lighting Setups
 
-> 本文件管：Loop/Rembrandt/Butterfly/Split/Clamshell 五种布光的精确角度、光比、阴影签名（辨认判据）、脸型适配与禁忌。
-> 怎么用：人像画面的光型选择与校验——按"情绪→光型"选，再用阴影签名核对结果是否符合该光型。
+> This file covers: the precise angle, ratio, shadow signature (identification criterion), face-shape fit, and prohibitions of the five setups — Loop, Rembrandt, Butterfly, Split, Clamshell.
+> How to use: selecting and verifying the lighting pattern of a portrait — choose by "emotion → ratio → pattern", then check the result against the shadow signature.
 
-## 定义
+## Definition
 
-五种经典布光＝以主光横向角、俯角、光比三元组定义的标准人像光位。每种光型有唯一的"阴影签名"（脸上阴影的形状特征），签名既是设计目标也是验收判据。
+The five classic setups = standard portrait light positions defined by a triple of key-light horizontal angle, vertical angle, and ratio. Each pattern has a unique "shadow signature" (the shape feature of the shadow on the face); the signature is both the design target and the acceptance criterion.
 
-## 机制
+## Mechanism
 
-鼻梁与眉骨是脸部的天然遮光体：主光位置变化时，鼻子投下的影随之移动——五种布光的区别，本质就是鼻影落在了哪。因此布光校验不看灯（画面里没有灯），只看阴影形状。
+The nose bridge and brow ridge are the face's natural light blockers: as the key light moves, the shadow cast by the nose moves with it — the difference between the five setups is essentially where the nose shadow lands. Lighting verification therefore does not look at the lamp (there is no lamp in the picture) but only at the shadow shape.
 
-## 判据
+## Criteria
 
-### 参数总表（共识值，摄影教材口径）
+### Master parameter table (consensus values, photography-textbook convention)
 
-| 光型 | 横向角 | 俯角 | 光比 | 阴影签名 | 适用 |
+| Pattern | Horizontal angle | Vertical angle | Ratio | Shadow signature | Use |
 |---|---|---|---|---|---|
-| Loop 环形光 | 30–35° | ~30° | 2:1–4:1 | 鼻侧小水滴状影指向嘴角，不与脸颊影相连 | 企业头像、生活方式、万能默认 |
-| Rembrandt 伦勃朗光 | 45° | 45° | 4:1–8:1 | 暗颊出现闭合光三角（约眼宽、鼻长），三角不得下裂、不与鼻梁亮区连通 | 戏剧肖像、艺术感、视觉收窄宽脸 |
-| Butterfly 蝶形光 | 0° 正中轴 | 40–45° | 1:1–2:1 | 鼻下对称蝶形短影，长度≈到上唇距离的 1/2–2/3，绝不触唇 | 时尚、美妆、经典 Glamour |
-| Split 分割光 | 90°（与耳平齐） | 与视线齐平 | 8:1+ | 面部中线垂直分割，半亮半暗硬边界 | 高反差性格刻画、瘦圆脸 |
-| Clamshell 蚌壳光 | 0° 上下同轴 | 上灯俯 45°/下板仰 45° | 下补光比上灯低 1.5–2 档 | 无鼻影（被下板填充），眼下阴影消除，虹膜上下双眼神光 | 护肤/化妆品商业、洁净感 |
+| Loop | 30–35° | ~30° | 2:1–4:1 | A small teardrop shadow beside the nose pointing toward the mouth corner, not connected to the cheek shadow | Corporate headshot, lifestyle, universal default |
+| Rembrandt | 45° | 45° | 4:1–8:1 | A closed light triangle on the shadowed cheek (about eye-width and nose-length); the triangle must not split downward or connect to the bright area along the nose bridge | Dramatic portrait, artistic feel, visually narrows a wide face |
+| Butterfly | 0°, center axis | 40–45° | 1:1–2:1 | A symmetrical short butterfly shadow under the nose, length ≈ 1/2–2/3 of the distance to the upper lip; never touches the lip | Fashion, beauty, classic glamour |
+| Split | 90° (level with the ear) | Level with the gaze | 8:1+ | A vertical division along the facial midline, half bright and half dark with a hard boundary | High-contrast character portrayal, slims a round face |
+| Clamshell | 0°, top and bottom coaxial | Top light down 45° / bottom board up 45° | Bottom fill 1.5–2 stops below the top light | No nose shadow (filled by the bottom board), shadow under the eyes removed, twin catchlights above and below the iris | Skincare / cosmetics commercial, clean feel |
 
-### 情绪→光比→光型决策链
+### Emotion → ratio → pattern decision chain
 
-- 亲和/日常（2:1）→ Loop 或 Butterfly
-- 编辑/质感（4:1）→ Loop 强端或 Rembrandt 弱端
-- 戏剧/深度（8:1）→ Rembrandt 或 Split
-- 极简洁净（1:1–2:1 无影）→ Clamshell
-- 分裂/冲突（8:1+ 硬边）→ Split
+- Approachable / everyday (2:1) → Loop or Butterfly
+- Editorial / texture (4:1) → the strong end of Loop or the weak end of Rembrandt
+- Dramatic / depth (8:1) → Rembrandt or Split
+- Minimal and clean (1:1–2:1, shadowless) → Clamshell
+- Divided / conflict (8:1+, hard boundary) → Split
 
-### 验收判据（按阴影签名核对）
+### Acceptance criteria (verify by shadow signature)
 
-1. Loop：鼻影是否为水滴状且指向嘴角？与颊影是否分离？分离失效即滑向 Split。
-2. Rembrandt：暗颊三角是否闭合？三角下裂（与鼻影断开）=光位过高或过侧，修正。
-3. Butterfly：蝶影是否触及上唇？触唇=俯角过低，抬高。
-4. Split：亮暗分界是否过鼻梁中线？偏移即回 Loop。
-5. Clamshell：眼下是否有残留阴影？有=下补光不足。
+1. Loop: is the nose shadow teardrop-shaped and pointing toward the mouth corner? Is it separated from the cheek shadow? If separation fails it slides into Split.
+2. Rembrandt: is the triangle on the shadowed cheek closed? A triangle splitting downward (disconnected from the nose shadow) = light positioned too high or too far to the side; correct it.
+3. Butterfly: does the butterfly shadow touch the upper lip? Touching = vertical angle too low; raise it.
+4. Split: does the light-dark boundary pass the nose-bridge midline? Any offset means it has reverted to Loop.
+5. Clamshell: is there residual shadow under the eyes? If so, the bottom fill is insufficient.
 
-### 脸型适配与禁忌（经验值）
+### Face-shape fit and prohibitions (rules of thumb)
 
-- 圆脸：Split/Rembrandt 有即时收窄效果；Butterfly 会加宽观感。
-- 深眼窝/眉骨突出：禁 Butterfly——眼部黑坑。
-- 眼神光（catchlight）：Loop 在 10 点或 2 点位；Clamshell 上下双光点；无眼神光的人像读作"死目"，商业人像必查。
-- 窗光复现：全部五种光型可用单侧窗光复现——Loop=与窗成 30° 坐、鼻转向窗；Rembrandt=垂直于窗、头转离光至鼻影连颊影；Butterfly=正对高窗低凳；Split=肩对窗、脸转向镜头。
+- Round face: Split and Rembrandt narrow instantly; Butterfly widens the reading.
+- Deep-set eyes / prominent brow: Butterfly is prohibited — black pits at the eyes.
+- Catchlight: Loop at the 10 o'clock or 2 o'clock position; Clamshell carries two, above and below; a portrait with no catchlight reads as "dead eyes" — always check in commercial portraits.
+- Window-light reproduction: all five setups can be reproduced with single-side window light — Loop = sit at 30° to the window and turn the nose toward it; Rembrandt = perpendicular to the window, turn the head away from the light until the nose shadow joins the cheek shadow; Butterfly = face a high window from a low stool; Split = shoulder to the window, face turned to the lens.
 
-## 边界
+## Boundaries
 
-- 五型是主光逻辑；完整人像常加轮廓光/发光做头发与背景分离（暗发+暗背景必须补轮廓光，否则头肩融进背景）。
-- 角度数值为摄影棚口径；画面构思场景中按"横向角-俯角-光比"三元组转译为自然光源位置（太阳/窗/篝火的方位与高度）。
-- 强调"阴影签名可辨识"：画面里人脸的阴影形状说不清属于哪种光型，多半是无主光的平光或意外光，属构图事故而非风格。
+- The five patterns are key-light logic; a complete portrait often adds a rim light or hair light to separate hair and background (dark hair on a dark background must have a rim light, or head and shoulders fuse into the background).
+- The angle values follow studio convention; when conceiving a scene, translate the "horizontal angle–vertical angle–ratio" triple into the position and height of a natural source (sun / window / campfire).
+- Insist on "the shadow signature must be identifiable": if the shadow shape on a face cannot be attributed to any pattern, it is most likely flat lighting with no key or accidental light — a compositional accident, not a style.
 
-## 反例
+## Counterexamples
 
-- 反例 1：想要戏剧感却给了 Clamshell——无影洁净与戏剧意图相反。修法：换 Rembrandt 并把光比推到 8:1。
-- 反例 2：Rembrandt 的光三角连到了亮侧——不再是伦勃朗光而是漏光事故。降主光角度或压侧补光。
-- 反例 3：暗发人物配深色背景无轮廓光——头肩融壁（见 D7/fault-library）。加逆光勾边或提亮背景 1–2 档。
+- Counterexample 1: drama wanted but Clamshell given — shadowless cleanliness contradicts the dramatic intent. Fix: switch to Rembrandt and push the ratio to 8:1.
+- Counterexample 2: the Rembrandt triangle connects to the bright side — no longer Rembrandt but a light-leak accident. Lower the key angle or reduce the side fill.
+- Counterexample 3: a dark-haired figure on a dark background with no rim light — head and shoulders fuse with the wall (see D7/fault-library). Add a backlight rim or lift the background 1–2 stops.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 四变量总框架：见 light-fundamentals
-- 光比与影调整体（high/low key）：见 tonality
-- 头肩取景与 facial 占比：见 D1/spatial-allocation、D4/framing-room
-- 融壁故障：见 D7/fault-library
-- 写实感的"不完美"光纪律：见 D6/authenticity
+- The overall four-variable framework: see light-fundamentals
+- Ratio and overall tonality (high / low key): see tonality
+- Head-and-shoulders framing and facial share: see D1/spatial-allocation, D4/framing-room
+- Fusion-with-wall fault: see D7/fault-library
+- The "imperfect" light discipline of realism: see D6/authenticity

@@ -1,64 +1,64 @@
-# D2 · 大气与体积（Atmosphere & Volumetric Light）
+# D2 · Atmosphere and Volumetric Light
 
-> 本文件管：体积光/丁达尔现象、雾与霾的纵深用法、大气透视的光学面、动机光与氛围光的区别。
-> 怎么用：需要"空气感、光束、雾、氛围纵深"时查本文件；防止氛围元素变成廉价滤镜。
+> This file covers: volumetric light / the Tyndall effect, fog and haze used for depth, the optical side of atmospheric perspective, and the difference between motivated and ambient light.
+> How to use: consult when "air, beams, fog, atmospheric depth" are wanted; to keep atmospheric elements from turning into a cheap filter.
 
-## 定义
+## Definition
 
-大气与体积＝光在介质（雾、尘、水汽、烟）中的可见化：光束（volumetric light / 丁达尔效应）、光雾（haze）、景深雾（aerial haze）。它们让"空气"成为画面的一个层次。
+Atmosphere and volume = making light visible inside a medium (fog, dust, water vapour, smoke): light beams (volumetric light / Tyndall effect), haze, and aerial haze. They turn "air" into a layer of the picture.
 
-## 机制
+## Mechanism
 
-介质散射让光路本身可见（光束），并让远物衰减（雾=天然的大气透视，见 D1/depth-layering）。因此大气元素一石三鸟：①把无形的光画出来（体积光束是"光的形状"）；②给纵深加梯度（越远越糊越灰）；③情绪化（神圣/神秘/暮色/污染感取决于介质与色温）。
+Scattering by the medium makes the light path itself visible (the beam) and attenuates distant objects (fog = natural atmospheric perspective, see D1/depth-layering). Atmospheric elements therefore hit three targets at once: (1) they draw invisible light (a volumetric shaft is "the shape of light"); (2) they add a gradient to depth (farther is hazier and grayer); (3) they emotionalize (sacred / mysterious / dusk / polluted, depending on medium and color temperature).
 
-## 判据
+## Criteria
 
-### 体积光的成立条件
+### Conditions under which volumetric light holds
 
-1. **必须有遮挡物**：光束是光被物体（树冠、窗棂、云隙、人群）切割后露出的路径——无遮挡的"满屏光雾"不成立。
-2. **必须有介质**：光束出现在纯清空气里是失真；场景应含雾/尘/水汽/烟的视觉暗示。
-3. **必须单方向**：光束方向=光源方向，全画面一致；多方向光束=无主光事故。
-4. **强度克制**：光束是画眼不是主菜——占画面 10–20%（经验值），覆盖全画的"圣光"即廉价（AI 味特征之一，见 D6/ai-defaults）。
+1. **There must be a blocker**: a beam is the path revealed after light is cut by objects (tree crowns, window mullions, gaps in clouds, a crowd) — a full-screen glow with no blocker does not hold.
+2. **There must be a medium**: a beam in perfectly clear air is an implausibility; the scene must carry visual hints of fog, dust, water vapour, or smoke.
+3. **There must be one direction**: the beam direction equals the light-source direction and is consistent across the frame; beams in several directions = a no-key-light accident.
+4. **Intensity must be restrained**: the beam is the eye of the picture, not the main dish — 10–20% of the frame (rule of thumb); "holy light" covering the whole frame is cheap (one of the AI-slop signatures, see D6/ai-defaults).
 
-### 雾的三种用法
+### Three uses of fog
 
-| 用法 | 操作 | 效果 |
+| Use | Operation | Effect |
 |---|---|---|
-| 纵深雾 | 远层衰减（明度升、对比降、色偏灰蓝），近层保持 | 空间深度+1（aerial haze） |
-| 情绪雾 | 均匀薄雾覆盖全画面 | 静谧、不确定、记忆感 |
-| 提纯雾 | 雾压暗背景细节，只留剪影层级 | 极简剪影、孤独感 |
+| Depth fog | Attenuate the far layer (value rises, contrast drops, hue drifts gray-blue), keep the near layer | Spatial depth +1 (aerial haze) |
+| Mood fog | An even thin fog over the whole frame | Quiet, uncertain, a memory feel |
+| Purifying fog | Fog darkens background detail, leaving only silhouette grading | Minimal silhouette, solitude |
 
-### 介质×色温情绪表（经验值）
+### Medium × color-temperature emotion table (rules of thumb)
 
-| 介质 | 色温 | 情绪 |
+| Medium | Color temperature | Emotion |
 |---|---|---|
-| 晨雾 | 冷蓝→暖金的过渡 | 希望、苏醒 |
-| 尘（逆光室内） | 暖金 | 时间、旧物、教室/仓库 |
-| 水汽（浴室/厨房） | 中性 | 生活、私密 |
-| 烟 | 暖橙或冷青 | 危险、战后、叙事余波 |
-| 夜雾+冷色 | 蓝青 | 孤寂、悬疑 |
+| Morning mist | A transition from cool blue to warm gold | Hope, waking |
+| Dust (indoors, backlit) | Warm gold | Time, old objects, classroom or warehouse |
+| Water vapour (bathroom / kitchen) | Neutral | Life, intimacy |
+| Smoke | Warm orange or cool cyan | Danger, aftermath of war, narrative residue |
+| Night fog plus cool light | Blue-cyan | Solitude, suspense |
 
-### 动机光 vs 氛围光
+### Motivated light versus ambient light
 
-- **动机光（motivated）**：场景内有可指认的光源（窗/灯/火），光束从那里来——写实体系的合法性来源。
-- **氛围光（unmotivated but intentional）**：无明确光源的氛围照明（梦境、回忆、风格化）——合法但需风格宣言；写实画面中滥用即失真。
+- **Motivated**: the scene contains an identifiable source (window, lamp, fire) and the beam comes from there — the source of legitimacy in a realistic system.
+- **Ambient (unmotivated but intentional)**: atmosphere lighting with no clear source (dream, memory, stylization) — legitimate but requires a stylistic declaration; abused inside a realistic frame it becomes an implausibility.
 
-## 边界
+## Boundaries
 
-- 大气元素会吃对比：雾中画面信息密度天然下降，主体分离要改用明度差与位置（雾天别指望虚化分离，全景深雾反而更雾更平）。
-- 夜景+体积光+湿地面反光是"高级夜感"三件套，但三者齐上易过载——主体仍须唯一（一个光源一个主角）。
-- 神圣感光束与"廉价圣光"的分界在克制（占比）与动机（有没有光源出处）。
+- Atmospheric elements eat contrast: information density in a foggy frame naturally drops, so separate the subject by value difference and position instead (do not count on defocus in fog — deep DoF in fog only makes it foggier and flatter).
+- Night scene plus volumetric light plus wet-ground reflection is the "premium night" trio, but all three at once easily overloads — the subject must still be unique (one source, one protagonist).
+- The line between a sacred beam and a "cheap holy light" is restraint (share) and motive (whether the source has a place in the scene).
 
-## 反例
+## Counterexamples
 
-- 反例 1：万里无云晴天画面里出现三道平行光束——无介质无遮挡，光束悬浮。修法：加树/窗/烟尘，或删光束。
-- 反例 2：雾天画面远处比近处更清晰更饱和——大气倒挂（见 depth-layering 反例）。
-- 反例 3：光束从两个方向射入同一房间——双主光事故。修法：留一道，另一道降为环境反光。
+- Counterexample 1: three parallel beams in a cloudless sunny frame — no medium, no blocker, the beams float. Fix: add trees, a window, or smoke and dust, or remove the beams.
+- Counterexample 2: in a foggy frame the distance is sharper and more saturated than the foreground — atmospheric inversion (see the counterexample in depth-layering).
+- Counterexample 3: beams entering the same room from two directions — a double-key accident. Fix: keep one, demote the other to ambient bounce.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 大气透视的结构面：见 D1/depth-layering
-- 光束作为视觉路径：见 D1/visual-path（光带即隐性引导线）
-- 体积光在 low key 中的用法：见 tonality
-- 圣光过载的 AI 味判据：见 D6/ai-defaults
-- 光的氛围叙事：见 modes/schools/cinematic-director.md、eastern-painting.md（雾留白）
+- The structural side of atmospheric perspective: see D1/depth-layering
+- The beam as a visual path: see D1/visual-path (a band of light is an implicit leading line)
+- Volumetric light used in low key: see tonality
+- AI-slop criteria for overloaded holy light: see D6/ai-defaults
+- Atmospheric narrative of light: see modes/schools/cinematic-director.md, eastern-painting.md (fog as negative space)

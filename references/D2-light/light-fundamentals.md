@@ -1,86 +1,86 @@
-# D2 · 光线四变量（Light Fundamentals）
+# D2 · Light Fundamentals: The Four Variables
 
-> 本文件管：光的方向、质量、光比、色温四变量的矩阵语义，以及"光线为构图服务"的思考框架。
-> 怎么用：任何画面的光设计先过四变量，每变量做一个显式选择；人像专属布光见 portrait-lighting。
+> This file covers: the matrix semantics of light's four variables — direction, quality, ratio, color temperature — and the framework of "light serves composition".
+> How to use: any frame's light design passes through the four variables first, with an explicit choice for each; portrait-specific lighting setups are in portrait-lighting.
 
-## 定义
+## Definition
 
-一束光由四个独立变量完全描述：**方向**（从哪来）、**质量**（硬还是软）、**光比**（亮暗差几档）、**色温**（偏冷还是偏暖）。画面里的光感，就是四变量各自选择后的叠加结果。
+A beam of light is fully described by four independent variables: **direction** (where it comes from), **quality** (hard or soft), **ratio** (how many stops between light and shadow), and **color temperature** (cooler or warmer). The light feel of a frame is the compound of the four choices made.
 
-## 机制
+## Mechanism
 
-光在构图中的三重身份：①**塑形**——方向决定阴影形状，阴影是三维感的来源；②**分离**——主体与背景的明度差是最强分离手段（比虚化更先被感知）；③**导演注意力**——最亮处与最高对比处是第一落点的常客（见 D5/attention）。因此光不是氛围装饰，而是构图工具：定完构图型后，用光去加固它。
+Light plays three roles in composition: (1) **modelling** — direction determines shadow shape, and shadow is the source of three-dimensionality; (2) **separation** — the value difference between subject and background is the strongest separation device (perceived earlier than defocus); (3) **directing attention** — the brightest area and the area of highest contrast are frequent first landing points (see D5/attention). Light is therefore not atmospheric decoration but a compositional tool: once the composition type is fixed, use light to reinforce it.
 
-## 判据
+## Criteria
 
-### 变量一：方向
+### Variable one: direction
 
-| 方向 | 语义 | 构图职能 |
+| Direction | Semantics | Compositional function |
 |---|---|---|
-| 顺光（来自相机侧） | 平、诚实、无隐私 | 减少阴影， flatten；注意会抹掉立体感 |
-| 45° 侧前光 | 自然、体积感标准位 | 塑形默认值；写实感来源 |
-| 正侧光（90°） | 戏剧、切割、质感放大 | 明暗分界过脸/过物＝强造型；宜配深背景 |
-| 逆光 | 轮廓、剪影、神圣/神秘 | 勾边分离主体；剪影时主体变形状宣言 |
-| 顶光 | 压迫、正午、审讯感 | 眼窝阴影重，慎用于人像讨好 |
-| 底光 | 恐怖、反常 | 极少用，出现即戏剧宣言 |
-| 窗光/单侧自然光 | 安静、生活、古典画意 | 单光源叙事的默认选择 |
+| Front light (from the camera side) | Flat, honest, no privacy | Reduces shadow, flattens; beware that it erases volume |
+| 45-degree side-front | Natural, the standard position for volume | The default for modelling; the source of realism |
+| Side light (90°) | Dramatic, cutting, texture enlarged | A light-dark border across a face or object = strong modelling; best with a dark background |
+| Backlight | Outline, silhouette, sacred or mysterious | Rim separation of the subject; in silhouette the subject becomes a declaration of shape |
+| Top light | Oppressive, noon, interrogating | Heavy eye-socket shadow; use with care when flattering a portrait |
+| Bottom light | Horrific, aberrant | Rarely used; its appearance is a dramatic declaration |
+| Window light / single-side natural light | Quiet, lived-in, painterly | The default choice for single-source narrative |
 
-### 变量二：质量（硬光/软光）
+### Variable two: quality (hard versus soft)
 
-- **硬光**（小而远的光源：正午日、裸灯）：阴影边缘锐利、质感放大、冲突感。判据：阴影有清晰边界。
-- **软光**（大而近的光源：阴天、大窗、柔光箱）：阴影羽化、质感柔化、亲和感。判据：阴影边界渐变。
-- 光源尺寸与距离的实践：近大光=柔过渡；远小光=硬镜面高光。想要柔：光源靠近且变大；想要硬：光源远且小。
-- **平方反比实践**：光源距离加倍，照度降为四分之一（暗 2 档）——近灯衰减快（亮部过渡柔、暗部沉得快），远灯衰减慢（高光更硬更镜面）。挪灯即改对比：这是不动画面布局就能调反差的杠杆。
-- 构图联动：硬光强化线条与结构（配对角/建筑）；软光强化形态与氛围（配人像/静物）。
+- **Hard light** (a small, distant source: noon sun, bare bulb): sharp shadow edges, enlarged texture, a sense of conflict. Criterion: the shadow has a clear boundary.
+- **Soft light** (a large, close source: overcast sky, big window, softbox): feathered shadows, softened texture, approachability. Criterion: the shadow boundary is a gradient.
+- Practice with source size and distance: a large close source = soft transition; a small distant source = hard specular highlight. Want soft: bring the source closer and make it larger; want hard: move it farther and make it smaller.
+- **Inverse-square in practice**: double the distance and illuminance falls to one quarter (2 stops darker) — a close lamp falls off fast (soft highlight transition, shadows sinking quickly), a distant lamp falls off slowly (harder, more specular highlights). Moving the lamp changes contrast: this is the lever for adjusting contrast without touching the layout.
+- Composition linkage: hard light strengthens lines and structure (pair with diagonal or architecture); soft light strengthens form and atmosphere (pair with portrait or still life).
 
-### 变量三：光比（主光与暗部的亮度差）
+### Variable three: ratio (brightness difference between key and shadow)
 
-| 光比 | 档数 | 情绪 | 适用 |
+| Ratio | Stops | Emotion | Use |
 |---|---|---|---|
-| 1:1 | 0 档 | 平、坦白 | 证件感、电商白底 |
-| 2:1 | 1 档 | 柔和开放 | 生活方式、亲和商业 |
-| 4:1 | 2 档 | 编辑质感（甜点位） | 杂志人像、品牌片 |
-| 8:1 | 3 档 | 明暗对照、戏剧 | 低调时尚、悬疑 |
-| 16:1+ | 4 档+ | 黑色电影、神秘 | 极暗调叙事 |
+| 1:1 | 0 stops | Flat, candid | ID-photo feel, e-commerce white background |
+| 2:1 | 1 stop | Soft and open | Lifestyle, approachable commercial |
+| 4:1 | 2 stops | Editorial texture (the sweet spot) | Magazine portrait, brand film |
+| 8:1 | 3 stops | Chiaroscuro, dramatic | Low-key fashion, suspense |
+| 16:1+ | 4 stops+ | Film noir, mysterious | Very dark narrative |
 
-每差 1 档即一档反差；光比是"情绪的量化杠杆"。
+Each additional stop is one grade of contrast; the ratio is "the quantitative lever of emotion".
 
-### 变量四：色温
+### Variable four: color temperature
 
-| 色温 | 读感 | 常见场景 |
+| Color temperature | Reading | Common scene |
 |---|---|---|
-| 2000–3000K（暖） | 烛光/钨丝、亲密、怀旧 | 晚餐、灯火、黄昏 |
-| 4000–5000K（中性） | 清晨/日常 | 生活流、办公 |
-| 5500–6500K（日光/冷） | 清爽、 clinical | 白昼户外、科技感 |
-| 7000K+（蓝调） | 夜、冷、孤 | 蓝调时刻、月光、冷藏感 |
+| 2000–3000K (warm) | Candle / tungsten, intimate, nostalgic | Dinner, lamplight, dusk |
+| 4000–5000K (neutral) | Morning, everyday | Lifestyle, office |
+| 5500–6500K (daylight / cool) | Fresh, clinical | Daylight outdoors, tech feel |
+| 7000K+ (blue hour) | Night, cold, solitary | Blue hour, moonlight, refrigerated feel |
 
-- 混合色温（暖窗光+冷夜色）＝画面自带层次与时间感，是高级感的常用配方（冷暖分区叙事见 D3/emotion）。
-- 单一画面主色温只定一个，混合光须有主次。
+- Mixed color temperature (warm window light plus cool night) = the frame carries its own layering and sense of time, a common recipe for sophistication (cool-warm zoning narrative in D3/emotion).
+- One dominant color temperature per frame; mixed light must have a clear hierarchy.
 
-### 四变量决策顺序
+### Decision order of the four variables
 
-1. 先定**光在叙事里的角色**（谁被照亮、谁藏在暗里）——这是构图决策。
-2. 再定方向（阴影往哪倒、能否分离主体与背景）。
-3. 再定质量（质感诉求）。
-4. 再定光比（情绪强度）。
-5. 最后定色温（时间与情感底色）。
+1. First fix **light's role in the narrative** (who is lit, who hides in shadow) — this is a composition decision.
+- 2. Then direction (which way shadows fall, whether subject and background can be separated).
+- 3. Then quality (the texture requirement).
+- 4. Then ratio (emotional intensity).
+- 5. Last, color temperature (the time and emotional undertone).
 
-## 边界
+## Boundaries
 
-- "漂亮的光"不等于"对的光"：方向与光比必须服务构图意图（分离谁、藏谁、指向谁），否则只是好看的装饰。
-- 多光源画面仍要有唯一主光；无主光的多点亮＝无影无体积（AI 味特征之一，见 D6/ai-defaults）。
-- 逆光画面若主体无补光，面部信息归零——这是剪影宣言而非失误；若既想要面部又逆光，需要反射面/环境反光补足（写实性约束）。
+- "Beautiful light" is not "right light": direction and ratio must serve the compositional intent (separate whom, hide whom, point at whom), otherwise it is only decoration.
+- A multi-source frame still needs exactly one key light; several sources with no key = no shadow and no volume (one of the AI-slop signatures, see D6/ai-defaults).
+- In a backlit frame with no fill on the subject, facial information goes to zero — that is a silhouette declaration, not a mistake; if both face and backlight are wanted, reflected surfaces or ambient bounce must supply the fill (a realism constraint).
 
-## 反例
+## Counterexamples
 
-- 反例 1：主体与环境同亮度同方向无阴影——平光糊成一片，分离全靠虚化硬撑。修法：给 45° 侧光制造体积，或压暗背景拉开光比。
-- 反例 2：想要温柔氛围却用了正午顶光——眼窝鼻下死黑，人像显凶。修法：改大面积柔光（窗/阴天）。
-- 反例 3：画面里三四盏灯各亮各的——无主光，体积感崩塌。修法：定一盏主光，其余降为轮廓/氛围光。
+- Counterexample 1: subject and environment share the same brightness, the same direction, and no shadow — flat light blurs into one field and separation rests entirely on defocus. Fix: add a 45-degree side light to build volume, or darken the background to open the ratio.
+- Counterexample 2: a gentle mood wanted but noon top light used — dead black under the brow and nose, and the portrait reads harsh. Fix: switch to a large soft source (window / overcast).
+- Counterexample 3: three or four lamps each lighting on its own — no key light, volume collapses. Fix: appoint one key light and demote the rest to rim or ambient.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 五种经典人像布光的具体角度：见 portrait-lighting
-- 明度分层与影调（high/low key）：见 tonality
-- 方向与质量的语义展开：见 direction-quality
-- 冷暖与情绪配色：见 D3/emotion
-- 光线作为流派语言：见 modes/schools/cinematic-director.md
+- Specific angles of the five classic portrait setups: see portrait-lighting
+- Value layering and tonality (high / low key): see tonality
+- Semantics of direction and quality developed further: see direction-quality
+- Cool-warm and emotional color: see D3/emotion
+- Light as a school's language: see modes/schools/cinematic-director.md

@@ -1,64 +1,64 @@
-# D2 · 影调（Tonality）
+# D2 · Tonality
 
-> 本文件管：high key / low key / 中间调的画面功能、明度层级设计、主体-背景明度差判据、影调与情绪的映射。
-> 怎么用：定画面"亮还是暗、暗到什么程度、亮暗怎么分家"；眯眼测试是本文件的主力自检工具。
+> This file covers: the compositional function of high key / low key / mid-key, value-hierarchy design, the subject-background value-difference criterion, and the mapping of tonality to emotion.
+> How to use: to fix "is the frame bright or dark, how dark, and where the bright and dark separate"; the squint test is this file's main self-check tool.
 
-## 定义
+## Definition
 
-影调（tonality）＝画面明度的整体结构与分布。三种基本结构：**high key**（大面积亮部+少量暗）、**low key**（大面积暗部+少量亮）、**中间调**（明度居中分布）。影调是画面情绪的"底色"，先于色彩被感知（明度对比强于色相对比，见 D5/visual-weight）。
+Tonality = the overall structure and distribution of value in the frame. Three basic structures: **high key** (a large bright field plus a little dark), **low key** (a large dark field plus a little bright), and **mid-key** (value distributed around the middle). Tonality is the frame's emotional ground, perceived before color (value contrast outranks hue contrast, see D5/visual-weight).
 
-## 机制
+## Mechanism
 
-人眼先读明度后读颜色（视网膜的感光分工）。影调决定了三件事：①情绪底色（亮=开放/轻，暗=内敛/重）；②信息层级的骨架（最亮与最暗处自动成为注意锚点）；③分离手段（主体与背景的明度差是最强的"抠出来"手段，比虚化更先被感知）。低照度画面里，"哪里有光"就是构图本身。
+The eye reads value before color (a division of labour in the retina's photoreceptors). Tonality decides three things: (1) the emotional ground (bright = open and light; dark = inward and heavy); (2) the skeleton of information hierarchy (the brightest and darkest points automatically become attention anchors); (3) the means of separation (the value difference between subject and background is the strongest "cut-out" device, perceived earlier than defocus). In low-illumination frames, "where the light is" is the composition itself.
 
-## 判据
+## Criteria
 
-### 三种影调结构
+### The three tonal structures
 
-| 影调 | 明度分布 | 情绪 | 设计要点 |
+| Tonality | Value distribution | Emotion | Design points |
 |---|---|---|---|
-| High key | 大面积 7–10 档亮区 | 轻盈、洁净、乐观、安全 | 暗部极少但必须存在（纯白无暗=失重）；暗部承担锚点职能 |
-| Low key | 大面积 0–3 档暗区 | 深沉、戏剧、私密、紧张 | 亮部极少且即焦点（光即构图）；暗部要有层次（纯黑一片=信息死亡） |
-| 中间调 | 4–6 档为主 | 日常、叙事、写实 | 靠对比分布而非整体明度出情绪 |
+| High key | A large bright field across zones 7–10 | Light, clean, optimistic, safe | Shadows are few but must exist (pure white with no dark = weightless); the dark area carries the anchor function |
+| Low key | A large dark field across zones 0–3 | Deep, dramatic, private, tense | Highlights are few and are the focus (light is the composition); the dark must have layers (solid black = information death) |
+| Mid-key | Mostly zones 4–6 | Everyday, narrative, realistic | Emotion comes from contrast distribution rather than overall value |
 
-### 明度层级设计（四层法，经验值）
+### Value-hierarchy design (the four-layer method, rules of thumb)
 
-任何影调的画面都可按四层明度设计：①主体层（画面最亮或最高对比处）②陪体层（中间调）③背景层（次暗/次亮）④点缀层（极小面积的反向明度——high key 里的一抹深、low key 里的一星亮，承担"画眼"）。
-判据：四层中至少三层可辨（眯眼测试后）；点缀层面积 ≤5%（经验值）。
+Any tonal frame can be designed in four value layers: (1) subject layer (the brightest or highest-contrast area); (2) companion layer (mid-value); (3) background layer (second-darkest or second-brightest); (4) accent layer (a very small area of reversed value — a touch of dark in high key, a spark of light in low key, carrying the "eye of the picture").
+Criteria: at least three of the four layers are distinguishable (after the squint test); the accent layer takes ≤5% (rule of thumb).
 
-### 主体-背景明度差（核心分离判据）
+### Subject-background value difference (the core separation criterion)
 
-- 主体与直接背景的明度差 ≥2 档（经验值）才成立分离；<1 档即"融壁"（见 D7/fault-library）。
-- 亮主配暗背景，或暗主配亮背景；同明度时必须切换分离手段（色相差/轮廓光/景深虚化）。
-- low key 人像的经验配方：面部高光与环境暗部差 ≥3 档，主体不失焦。
+- Separation holds only when the value difference between subject and its immediate background is ≥2 stops (rule of thumb); <1 stop is "fusion with the wall" (see D7/fault-library).
+- Bright subject against a dark background, or dark subject against a bright one; at equal value the separation device must change (hue difference / rim light / defocus).
+- Empirical low-key portrait recipe: at least 3 stops between facial highlight and ambient shadow, with the subject kept sharp.
 
-### 影调-情绪速查
+### Tonality-to-emotion quick table
 
-| 目标情绪 | 影调 | 光位配合 |
+| Target emotion | Tonality | Light-position pairing |
 |---|---|---|
-| 清晨、希望、洁净 | high key | 大面积柔光+顺侧光 |
-| 温暖回忆 | 中间调偏亮 | 暖色温窗光 |
-| 孤独、内省 | low key | 单侧窄光源，大面积暗 |
-| 紧张、悬疑 | low key | 硬光+深长阴影+高光比 |
-| 神圣、超越 | low key 极端 | 单束定向光（体积光，见 atmosphere） |
-| 压抑、闷 | 中间调偏灰 | 平光低反差（注意：灰平=AI 味风险区，见 D6/ai-defaults） |
+| Morning, hope, cleanliness | High key | Large soft light plus front-side light |
+| Warm memory | Mid-key, brighter | Warm-temperature window light |
+| Solitude, introspection | Low key | Narrow single-side source, large dark field |
+| Tension, suspense | Low key | Hard light plus deep long shadows plus high ratio |
+| Sacred, transcendent | Extreme low key | A single directional shaft (volumetric light, see atmosphere) |
+| Oppression, stifling | Mid-key toward gray | Flat low-contrast light (note: gray and flat is the AI-slop risk zone, see D6/ai-defaults) |
 
-## 边界
+## Boundaries
 
-- high/low key 是"分布结构"，不是"亮度滤镜"：low key 不等于欠曝一片黑，high key 不等于过曝一片白——结构里必须有层级与锚点。
-- 影调与色温独立：low key 可以是暖暗（烛光戏剧）或冷暗（月夜孤寂），先定影调再定色温。
-- 中间调画面最容易"灰平"（无黑无白两头缺失）：直方图思想的两端检查——画面里有没有接近纯黑/纯白的锚点，没有则加。
+- High and low key are "distribution structures", not "brightness filters": low key does not mean an underexposed black field, high key does not mean an overexposed white one — the structure must hold hierarchy and anchors.
+- Tonality and color temperature are independent: low key can be warm-dark (candlelit drama) or cool-dark (moonlit solitude); fix tonality first, then color temperature.
+- Mid-key frames most easily go "gray and flat" (missing at both ends): the two-ends check of the histogram idea — does the frame hold anchors near pure black or pure white? If not, add them.
 
-## 反例
+## Counterexamples
 
-- 反例 1：low key 画面整片死黑无细节——暗部失去层次，画面"塌掉"。修法：给暗部补微弱层次（墙纹/雾/反光），保持至少一档可辨。
-- 反例 2：high key 画面无一处暗点——视觉无处落脚，白茫茫。修法：加一个深色锚点（眼、纽扣、影子）。
-- 反例 3：主体与背景同为中灰——轮廓消失。修法：明度差拉开或改背景明度。
+- Counterexample 1: a low-key frame that is dead black throughout with no detail — the dark loses its layers and the frame "collapses". Fix: add faint layers to the dark (wall texture / fog / reflection) and keep at least one distinguishable stop.
+- Counterexample 2: a high-key frame with no dark point anywhere — the eye has nowhere to rest, white on white. Fix: add one dark anchor (eye, button, shadow).
+- Counterexample 3: subject and background both mid-gray — the outline disappears. Fix: open the value difference or change the background value.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 光比作为影调的实现杠杆：见 light-fundamentals、portrait-lighting
-- 明度作为视觉重量因子：见 D5/visual-weight
-- 眯眼测试操作：见 D5/tests
-- 灰平与 AI 味：见 D6/ai-defaults
-- 光影即台词的流派用法：见 modes/schools/cinematic-director.md
+- Lighting ratio as the lever that realizes tonality: see light-fundamentals, portrait-lighting
+- Value as a factor of visual weight: see D5/visual-weight
+- Squint test operation: see D5/tests
+- Gray-flat and AI-slop: see D6/ai-defaults
+- Light and shadow as dialogue, as a school uses it: see modes/schools/cinematic-director.md

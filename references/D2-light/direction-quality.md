@@ -1,66 +1,66 @@
-# D2 · 方向与质量语义（Direction & Quality Semantics）
+# D2 · Direction and Quality Semantics
 
-> 本文件管：各光方向/质量组合的深层语义、45° 方向性光的写实功能、光位与画面动势的配合、方向性光的动机性检查。
-> 怎么用：light-fundamentals 定了基本方向后，用本文件细化语义组合；校验"光是否在说画面想说的话"。
+> This file covers: the deeper semantics of direction × quality combinations, the realism function of 45-degree directional light, how light position works with the frame's momentum, and the motivated-light check.
+> How to use: after light-fundamentals has fixed the basic direction, use this file to refine the semantic combination; to verify that "the light is saying what the frame wants to say".
 
-## 定义
+## Definition
 
-光的方向与质量不只是物理参数，而是语义单元：观众对"光从哪来、硬还是软"有稳定的情绪联想。本文件给方向×质量的语义矩阵与写实性判据。
+Direction and quality are not merely physical parameters but semantic units: viewers hold stable emotional associations about "where the light comes from and whether it is hard or soft". This file gives the semantics matrix of direction × quality and the realism criteria.
 
-## 机制
+## Mechanism
 
-光的方向决定阴影的"书写方向"——阴影是光的笔迹，笔迹的情绪被观者无意识解码（侧光切割=冲突，逆光藏脸=神秘）。质量则决定笔触（硬=版画，软=水彩）。方向写"关系"（谁亮谁暗=谁强谁弱），质量写"质地"（世界是坚硬还是温柔）。
+Direction determines the "writing direction" of shadow — shadow is light's handwriting, and the emotion of that handwriting is decoded unconsciously (a side-light cut = conflict; a hidden face in backlight = mystery). Quality determines the brushstroke (hard = woodcut, soft = watercolor). Direction writes "relation" (who is bright and who is dark = who is strong and who is weak); quality writes "texture" (whether the world is hard or tender).
 
-## 判据
+## Criteria
 
-### 方向×质量语义矩阵
+### Direction × quality semantics matrix
 
-| 组合 | 语义 | 典型画面 |
+| Combination | Semantics | Typical frame |
 |---|---|---|
-| 45° 侧前+软 | 自然、可靠、日常 | 生活人像、美食 |
-| 45° 侧前+硬 | 坚定、写实、雕塑感 | 职业肖像、建筑细节 |
-| 正侧 90°+硬 | 冲突、审判、分割 | 性格刻画、悬疑 |
-| 正侧 90°+软 | 忧郁、过渡、黄昏感 | 文艺情绪片 |
-| 逆光+硬 | 剪影、轮廓宣言 | 日落剪影、背面人像 |
-| 逆光+软（雾化） | 神圣、朦胧、回忆 | 窗光、晨雾、逆光发丝 |
-| 顶光+硬 | 压迫、暴露、正午残酷 | 苦难叙事、审讯感 |
-| 顶光+软 | 中性日常 | 街拍、办公场景 |
-| 底光+硬 | 反常、恐怖 | 恐怖题材专用 |
-| 环绕光（无方向感） | 平、无信息 | 仅电商白底可用 |
+| 45-degree side-front + soft | Natural, reliable, everyday | Lifestyle portrait, food |
+| 45-degree side-front + hard | Resolute, realistic, sculptural | Corporate portrait, architectural detail |
+| Side 90 degrees + hard | Conflict, judgment, division | Character portrayal, suspense |
+| Side 90 degrees + soft | Melancholy, transition, dusk feel | Literary mood pieces |
+| Backlight + hard | Silhouette, declaration of outline | Sunset silhouette, portrait from behind |
+| Backlight + soft (hazed) | Sacred, misty, memory | Window light, morning mist, backlit hair |
+| Top light + hard | Oppressive, exposed, noon cruelty | Narratives of hardship, interrogating feel |
+| Top light + soft | Neutral, everyday | Street photography, office scenes |
+| Bottom light + hard | Aberrant, horrific | Reserved for horror |
+| Wraparound light (no directional sense) | Flat, no information | Only usable on e-commerce white backgrounds |
 
-### 45° 方向性光的写实功能（经验值）
+### The realism function of 45-degree directional light (rules of thumb)
 
-45° 侧前光被称为"写实默认光"：①它同时给亮面/暗面/过渡区三段明度，体积感完整；②阴影长度自然（不夸张不消失）；③符合古典画室与日常窗光的经验记忆——观者觉得"真实但不平淡"。写实向画面的安全起点，平淡风险由光比与场景调节。
+45-degree side-front light is called the "realism default": (1) it gives three value bands at once — lit side, shadow side, transition zone — so volume is complete; (2) shadow length is natural (neither exaggerated nor absent); (3) it matches the remembered experience of the classical studio and of everyday window light — the viewer finds it "true but not dull". It is the safe starting point for realism-oriented frames; the risk of dullness is managed through ratio and setting.
 
-### 光位与动势配合
+### Light position and momentum working together
 
-- 画面对角动势朝右→光从左来：阴影向右延伸，与动势同向，势上加势。
-- 光从动势反向来：逆势光制造抵抗感（逆风前行）——高级用法，需意图明确。
-- 侧光与画面轴线：正侧光会"切"画面为亮暗两半，半分构图时可用（分割叙事：亮世界/暗世界），非分割叙事则避开正侧。
+- A diagonal momentum running to the right, with light coming from the left: shadows extend rightward, the same direction as the momentum, momentum compounding momentum.
+- Light coming against the momentum: counter-momentum light creates a sense of resistance (walking into the wind) — an advanced move that requires clear intent.
+- Side light and the frame's axis: a true side light "cuts" the frame into a bright and a dark half, usable when the composition is a half-split (division narrative: bright world / dark world); avoid side light when the narrative is not about division.
 
-### 动机光源检查（motivated lighting）
+### Motivated-light check
 
-画面里每个光源都应能在场景内找到"出处"（窗、灯、火、天）或至少不与场景矛盾（暗夜里一束顶光而无光源=失真，除非风格宣言）。判据：
-1. 主光方向有场景出处；
-2. 色温与出处一致（窗光偏蓝白、灯偏暖、火偏橙）；
-3. 阴影方向全画面一致（多影多方向=无主光事故，见 D6/ai-defaults）。
+Every light source in the frame should have a "source" findable within the scene (window, lamp, fire, sky), or at least not contradict the scene (a shaft of top light in a dark night with no source = implausible unless it is a stylistic declaration). Criteria:
+1. The key light's direction has a source in the scene;
+2. Color temperature matches that source (window light bluish-white, lamps warm, fire orange);
+3. Shadow direction is consistent across the whole frame (multiple shadows in multiple directions = no-key-light accident, see D6/ai-defaults).
 
-## 边界
+## Boundaries
 
-- 语义矩阵是统计联想不是法律：特定文化语境/叙事可以反转（如用软光拍恐怖的"温柔陷阱"）——反转须自觉。
-- 环境光复杂的夜景（霓虹街）允许多光源多色温，但须保持"主光唯一"原则：谁照亮主体谁说了算。
-- 硬光不是"质量差"：硬软无高下，只有配不配。
+- The semantics matrix is a statistical association, not a law: a specific cultural context or narrative may invert it (e.g. shooting horror with soft light, a "gentle trap") — inversion must be deliberate.
+- A night scene with complex ambient light (a neon street) may carry multiple sources and multiple color temperatures, but the "single key light" principle holds: whoever lights the subject has the say.
+- Hard light is not "bad quality": hard and soft are equals, and the only question is fit.
 
-## 反例
+## Counterexamples
 
-- 反例 1：清晨宁静画面配正午顶光硬影——时间语义打架。修法：低角度暖侧光+长影。
-- 反例 2：人物阴影朝左而桌上杯子影子朝右——全画面阴影方向不一致（无主光事故）。修法：定唯一主光方向，全部影子统一。
-- 反例 3：逆光人像想要面部细节但无任何补光来源——既非剪影宣言又有脸部死黑。修法：转 45° 位，或加环境反射（雪地/白墙/反光板语义）。
+- Counterexample 1: a quiet early-morning frame paired with noon top light and hard shadows — the temporal semantics collide. Fix: a low-angle warm side light with long shadows.
+- Counterexample 2: the person's shadow falls to the left while the cup on the table casts to the right — shadow directions are inconsistent across the frame (a no-key-light accident). Fix: fix one key-light direction and unify every shadow.
+- Counterexample 3: a backlit portrait wanting facial detail with no fill source at all — neither a silhouette declaration nor acceptable, just a dead-black face. Fix: rotate to 45 degrees, or add ambient bounce (snow, white wall, reflector semantics).
 
-## 与其他文件的连接
+## Connections to other files
 
-- 基础四变量：见 light-fundamentals
-- 人像五光型：见 portrait-lighting
-- 动机光源与体积光的场景化：见 atmosphere
-- 阴影方向一致性与 AI 味：见 D6/ai-defaults
-- 光的叙事用法：见 modes/schools/cinematic-director.md、documentary.md
+- The basic four variables: see light-fundamentals
+- The five portrait lighting patterns: see portrait-lighting
+- Motivated light and volumetric light in scene: see atmosphere
+- Shadow-direction consistency and AI-slop: see D6/ai-defaults
+- Narrative use of light: see modes/schools/cinematic-director.md, documentary.md
