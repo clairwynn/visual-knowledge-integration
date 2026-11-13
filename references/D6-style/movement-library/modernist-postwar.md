@@ -1,363 +1,363 @@
-# D6 · 流派库 · 现代主义与战后（24 卡）
+# D6 · Movement Library · Modernism and Postwar (24 cards)
 
-> 风格流派卡语料的程序化提炼；零来源规约：不含提示词写法、不含出处链接。
-> 同一框架：一句话→核心主张→构图/光色/质感→情绪→色锚→翻车点→关联流派。
-> 用法：风格任务查卡，与 D6/art-movements 的七层拆解/翻车点相反性/混搭仲裁配合。
+> A programmatic distillation of the style-movement card corpus; zero-source rule: no prompt wording, no source links.
+> Same framework: one line → core claim → composition / light and color / texture → emotion → color anchors → failure points → related movements.
+> Use: look up a card for a style task, together with the seven-layer deconstruction / failure-point opposition / mixing arbitration in D6/art-movements.
 
-### 俄耳甫斯主义 · Orphism（1912–1915｜法国）
+### Orphism（1912–1915 | France）
 
-> 把立体主义变成音乐：纯粹的色彩圆盘与棱镜光谱。
+> Turning Cubism into music: pure color discs and prismatic spectra.
 
-- **核心主张**：纯色彩构成画面，比立体主义更抽象、更明亮；圆盘、同心圆、棱镜色散作为核心母题；色彩被赋予类似音乐的结构与节奏；从分析立体主义的灰褐走向光谱色
-- **构图**：同心圆、圆盘、旋转的几何结构
-- **光色**：色彩——光谱式鲜艳色：橙红、青蓝、黄绿，圆盘式并置；光影——光由色彩自身发射，如棱镜分解后的纯色
-- **质感**：笔触——平滑的几何色块与弧线，边缘清晰；材质——布面油画、平涂色块、几何弧线
-- **情绪**：明快、律动、音乐性、乐观的抽象
-- **色锚**：`#F26522` `#29ABE2` `#8CC63F` `#F2C230` `#9B59B6` `#F2EDE4`
-- **翻车点**：1）容易做成普通抽象——对策：，在画面描述中显式针对此缺陷；2）色彩容易脏——对策：明确 spectral, pure, no muddy mixtures
-- **关联流派**：立体主义、野兽派、青骑士
-
----
-
-### 包豪斯 · Bauhaus（1919–1933｜德国）
-
-> 形式追随功能：去掉一切装饰，只留下原色、几何与网格。
-
-- **核心主张**：功能主义：装饰即罪恶（Loos 语）；三原色 + 黑白灰，几乎不用间色；基本几何形：圆、方、三角；网格系统、无衬线字体、不对称但平衡的版式
-- **构图**：网格化、不对称平衡、大量留白、字号层级明确
-- **光色**：色彩——红黄蓝三原色 + 黑、白、灰；高纯度平涂；光影——完全平面，无光影无体积
-- **质感**：笔触——零笔触：印刷/丝网/几何硬边；材质——纸张、丝网印、钢管、玻璃、混凝土
-- **情绪**：理性、冷静、实用、乌托邦式的乐观
-- **色锚**：`#D32027` `#F2C300` `#1B4F9C` `#111111` `#FFFFFF` `#BFBFBF`
-- **翻车点**：1）容易加渐变和投影——对策：显式，在画面描述中显式针对此缺陷；2）三原色常被扩成彩虹色——对策：明确 primary red yellow blue ONLY
-- **关联流派**：装饰艺术、立体主义
+- **Core claim**: pure color constructs the frame, more abstract and brighter than Cubism; discs, concentric circles, and prismatic dispersion as core motifs; color given a structure and rhythm akin to music; from Analytic Cubism's gray-brown to spectral color
+- **Composition**: concentric circles, discs, rotating geometric structures
+- **Light and color**: color — spectral vivid color: orange-red, cyan-blue, yellow-green, juxtaposed in disc form; light — light emitted by color itself, like pure color split by a prism
+- **Texture**: brushwork — smooth geometric blocks and arcs, clear edges; materials — oil on canvas, flat color blocks, geometric arcs
+- **Emotion**: bright, rhythmic, musical, optimistic abstraction
+- **Color anchors**: `#F26522` `#29ABE2` `#8CC63F` `#F2C230` `#9B59B6` `#F2EDE4`
+- **Failure points**: 1) it easily becomes ordinary abstraction — remedy: address that defect explicitly in the frame description; 2) colors easily turn muddy — remedy: specify spectral, pure, no muddy mixtures
+- **Related movements**: Cubism, Fauvism, Der Blaue Reiter
 
 ---
 
-### 大地艺术 · Land Art（1968–1980｜美国 / 英国）
+### Bauhaus（1919–1933 | Germany）
 
-> 走出美术馆，在沙漠和盐湖上挖出巨大的几何形状——只能从空中看见。
+> Form follows function: strip every ornament, leaving only primaries, geometry, and the grid.
 
-- **核心主张**：作品在自然中，尺幅巨大，无法被收藏；只有照片和影像留作记录；几何干预自然地貌，强调时间与侵蚀；反商业、反博物馆体制
-- **构图**：航拍俯瞰、巨大几何形（螺旋、直线、圆）嵌入地貌
-- **光色**：色彩——自然材料的本色：土黄、盐白、岩灰、沥青黑；光影——自然光为主，航拍视角下的长阴影强化几何形状
-- **质感**：笔触——无笔触；推土机与工程机械的作业痕迹；材质——泥土、盐湖、岩石、玄武岩、混凝土、钢管
-- **情绪**：宏大、崇高、时间感、人类尺度的渺小
-- **色锚**：`#C98A4A` `#E8E4DA` `#8A7A6A` `#2B2B33` `#4A7C9E` `#A8432A`
-- **翻车点**：1）容易做成普通风景——对策：，在画面描述中显式针对此缺陷；2）只存描述，不收作品图
-- **关联流派**：观念艺术、极简主义（艺术）、哈德逊河派
-
----
-
-### 抽象表现主义 · Abstract Expressionism（1943–1960｜美国）
-
-> 画布变成行动的场地：笔触记录的是身体的运动，不是图像。
-
-- **核心主张**：行动绘画（action painting）：过程即作品；尺幅巨大，观者被画面包围；无中心、无焦点、满幅构图（all-over）；抽象但承载强烈情绪与存在主义焦虑
-- **构图**：满幅铺陈、无中心、无留白、边缘被突破
-- **光色**：色彩——两极：要么全黑白的书法性笔触，要么大面积的强烈色域；光影——无光源，画面自身是光的场域
-- **质感**：笔触——滴洒、泼溅、横扫、厚涂；身体动作的痕迹；材质——巨大画布、工业油漆、厚涂与未打底画布
-- **情绪**：激烈、宏大、焦虑、原始的爆发
-- **色锚**：`#111111` `#D9CFC0` `#B03A2E` `#1F3A6B` `#C9A227` `#8A8A85`
-- **翻车点**：1）容易做成随意涂鸦——对策：，在画面描述中显式针对此缺陷；2）只存描述，不收作品图
-- **关联流派**：色域绘画、表现主义、达达主义
+- **Core claim**: functionalism: ornament is crime (Loos's phrase); three primaries plus black, white, gray, almost no secondary colors; basic geometry: circle, square, triangle; grid systems, sans-serif type, asymmetrical but balanced layout
+- **Composition**: gridded, asymmetrical balance, generous negative space, clear type hierarchy
+- **Light and color**: color — red-yellow-blue primaries plus black, white, gray; high-purity flat fill; light — completely flat, no light and shade, no volume
+- **Texture**: brushwork — zero brushwork: print / screen / geometric hard edge; materials — paper, screen print, steel tube, glass, concrete
+- **Emotion**: rational, cool, practical, utopian optimism
+- **Color anchors**: `#D32027` `#F2C300` `#1B4F9C` `#111111` `#FFFFFF` `#BFBFBF`
+- **Failure points**: 1) it easily gains gradients and drop shadows — remedy: address that defect explicitly in the frame description; 2) the three primaries are often expanded into a rainbow — remedy: specify primary red yellow blue ONLY
+- **Related movements**: Art Deco, Cubism
 
 ---
 
-### 新表现主义 · Neo-Expressionism（1978–1990｜德国 / 美国 / 意大利）
+### Land Art（1968–1980 | United States / United Kingdom）
 
-> 在观念艺术之后重新拿起画笔：大幅、粗野、情绪外露的形象回归。
+> Out of the gallery, carving huge geometric shapes into desert and salt lake — visible only from the air.
 
-- **核心主张**：回归具象与绘画性，反对极简与观念的冷；粗野、快速、近乎暴力的笔触；神话、历史、身体、政治作为题材；大尺幅，强调物质性与手感
-- **构图**：失衡、粗暴、形象在画面中被撕扯
-- **光色**：色彩——泥泞的强烈色：土黄、暗红、脏绿，暴力地堆叠；光影——无统一光源，明暗为情绪服务
-- **质感**：笔触——极厚 impasto、刮擦、倾倒；材料本身可见；材质——巨大画布、厚涂颜料、现成材料拼贴
-- **情绪**：愤怒、痛苦、狂躁、历史的重量
-- **色锚**：`#A8432A` `#C9A227` `#4A5A3A` `#2B2B33` `#8B5E2A` `#D9CFC0`
-- **翻车点**：1）容易清理画面——对策：显式，在画面描述中显式针对此缺陷；2）只存描述，不收作品图
-- **关联流派**：表现主义、抽象表现主义、达达主义
-
----
-
-### 未来主义 · Futurism（1909–1920｜意大利 / 俄罗斯）
-
-> 把速度画出来：一个动作同时画出它的所有瞬间，像频闪摄影。
-
-- **核心主张**：同时性（simultaneity）：同一物体画出多个时间切片；力线（lines of force）表达运动的方向与能量；崇拜机器、速度、战争与都市；分割主义技法 + 立体主义形式的融合
-- **构图**：放射状、螺旋、被速度拉长的对角线
-- **光色**：色彩——高饱和的橙、红、蓝、绿，色彩如光一样发散；光影——光被画成放射状的力线；物体边缘不断重复
-- **质感**：笔触——分割主义的短笔触 + 立体主义的几何面；材质——布面油画、几何化的形体分解
-- **情绪**：狂热、速度、暴力、现代的亢奋
-- **色锚**：`#E85D2A` `#C1272D` `#1F5FD6` `#3E9B6B` `#C9A227` `#2B2B33`
-- **翻车点**：1）容易做成普通运动模糊——对策：，在画面描述中显式针对此缺陷；2）容易和立体主义混淆——对策：未来主义有更强的速度与色彩
-- **关联流派**：立体主义、构成主义、表现主义
+- **Core claim**: the work is in nature, enormous in scale, impossible to collect; only photographs and films remain as records; geometric intervention in natural landform, stressing time and erosion; anti-commercial, anti-museum
+- **Composition**: aerial top-down view, huge geometric shapes (spiral, straight line, circle) embedded in the landform
+- **Light and color**: color — the natural colors of materials: earth yellow, salt white, rock gray, asphalt black; light — mainly natural light; long shadows from the aerial viewpoint strengthen the geometry
+- **Texture**: brushwork — no brushwork; the working traces of bulldozers and engineering machinery; materials — earth, salt lake, rock, basalt, concrete, steel pipe
+- **Emotion**: vast, sublime, a sense of time, the smallness of the human scale
+- **Color anchors**: `#C98A4A` `#E8E4DA` `#8A7A6A` `#2B2B33` `#4A7C9E` `#A8432A`
+- **Failure points**: 1) it easily becomes an ordinary landscape — remedy: address that defect explicitly in the frame description; 2) keep it descriptive only — no artwork images
+- **Related movements**: Conceptual Art, Minimalism (art), Hudson River School
 
 ---
 
-### 极简主义（艺术） · Minimalism（1960–1975｜美国）
+### Abstract Expressionism（1943–1960 | United States）
 
-> 去掉一切：不叙事、不隐喻、不修饰，只留下物本身。
+> The canvas becomes an arena: the brushstroke records the body's movement, not an image.
 
-- **核心主张**：减法到只剩最基本的几何体与工业材料；拒绝叙事、象征与艺术家手迹；强调物体与观众所处的真实空间关系；重复与序列（seriality）代替构图
-- **构图**：单一几何体、重复序列、对称或严格等距排列
-- **光色**：色彩——工业色：灰、黑、白、荧光灯管的冷白，或单一鲜艳工业漆；光影——真实光线作用于真实物体表面，而非画出来的光
-- **质感**：笔触——零笔触，工业制造的光滑表面；材质——胶合板、有机玻璃、荧光灯管、耐候钢、工业漆
-- **情绪**：冷静、中立、去情绪化、现象学的在场
-- **色锚**：`#8A8A85` `#111111` `#FFFFFF` `#C9CFD4` `#F2C230` `#4A7C9E`
-- **翻车点**：1）容易加质感与细节——对策：按画面意图定制描述以避开；2）只存描述，不收作品图
-- **关联流派**：风格派、至上主义、色域绘画、极简主义设计
-
----
-
-### 构成主义 · Constructivism（1915–1935｜俄国 / 苏联）
-
-> 艺术走出画框，去做海报、建筑和宣传：把画面变成工程。
-
-- **核心主张**：艺术进入生产：海报、书籍、舞台、建筑；摄影蒙太奇与极端视角（仰视、斜角）；红黑白三色 + 粗壮无衬线字体的宣传美学；几何元素承担信息功能而非装饰
-- **构图**：强烈对角线、极端仰视透视、倾斜的网格
-- **光色**：色彩——红、黑、白为主，偶尔加灰；极简高对比；光影——摄影蒙太奇的硬光；平面设计部分完全无光影
-- **质感**：笔触——零笔触：照相拼贴、几何色块、模板字；材质——海报印刷、照片蒙太奇、钢材、玻璃、木构
-- **情绪**：激进、工业、乌托邦、宣传的号召力
-- **色锚**：`#C1272D` `#111111` `#F2EDE4` `#8A8A85` `#C9A227` `#1F5FD6`
-- **翻车点**：1）容易加装饰——对策：按画面意图定制描述以避开；2）把构成主义和至上主义混淆：构成主义有信息功能和社会目的，至上主义纯粹形而上
-- **关联流派**：至上主义、包豪斯、风格派
+- **Core claim**: action painting: the process is the work; enormous scale, the viewer surrounded by the frame; no center, no focus, all-over composition; abstract but carrying intense emotion and existential anxiety
+- **Composition**: all-over application, no center, no negative space, edges broken through
+- **Light and color**: color — two extremes: either all-black-and-white calligraphic brushwork, or large areas of intense color field; light — no source; the frame itself is a field of light
+- **Texture**: brushwork — dripping, splashing, sweeping, impasto; traces of bodily action; materials — huge canvas, industrial paint, impasto on unprimed canvas
+- **Emotion**: intense, grand, anxious, primal eruption
+- **Color anchors**: `#111111` `#D9CFC0` `#B03A2E` `#1F3A6B` `#C9A227` `#8A8A85`
+- **Failure points**: 1) it easily becomes random scribbling — remedy: address that defect explicitly in the frame description; 2) keep it descriptive only — no artwork images
+- **Related movements**: Color Field, Expressionism, Dada
 
 ---
 
-### 欧普艺术 · Op Art（1960–1975｜欧美）
+### Neo-Expressionism（1978–1990 | Germany / United States / Italy）
 
-> 用几何图案骗你的眼睛：画面不动，但你觉得它在抖、在转、在陷进去。
+> Picking the brush back up after Conceptual Art: large, coarse, emotionally exposed figures return.
 
-- **核心主张**：利用视觉错觉：摩尔纹、闪烁、深度反转；黑白高对比条纹与网格是经典手法；观众的眼睛成为作品的组成部分；与设计、时尚、平面广告高度互通
-- **构图**：重复的网格、同心圆、波浪条纹，满幅铺陈
-- **光色**：色彩——常为纯黑白，或极高对比的互补色（红/绿、蓝/橙）；光影——无真实光影，错觉本身制造出「光」
-- **质感**：笔触——零笔触，机械般精确的几何线条；材质——布面丙烯、丝网印、印刷品、装置
-- **情绪**：眩晕、眩晕后的愉悦、视觉的亢奋
-- **色锚**：`#111111` `#FFFFFF` `#D32027` `#1B7A4A` `#1B4F9C` `#F2A93B`
-- **翻车点**：1）易很难做出真正的错觉——对策：，显式写出相反的画面特征；2）容易画成普通条纹——对策：强调 optical illusion, perceptual effect
-- **关联流派**：波普艺术、伊斯兰几何纹样、包豪斯
-
----
-
-### 波普艺术 · Pop Art（1955–1970｜英国 / 美国）
-
-> 把广告、漫画和罐头汤搬进美术馆：商业图像就是时代的神话。
-
-- **核心主张**：挪用大众媒介图像（广告、漫画、商品）；丝网印刷、机械复制，取消手工痕迹；鲜艳的平涂色块 + 粗黑轮廓；讽刺消费社会，同时拥抱它
-- **构图**：重复网格（同一图像反复排列）、特写裁切
-- **光色**：色彩——高饱和平涂：荧光粉、亮黄、青蓝、正红，常并置夸张；光影——无光影，平涂色块 + 黑色轮廓线
-- **质感**：笔触——零笔触（丝网印），或刻意的商业插画式平涂；材质——丝网印、丙烯、商业印刷品、拼贴
-- **情绪**：明快、讽刺、冷感、消费主义的眩晕
-- **色锚**：`#F23D8E` `#F2C230` `#29ABE2` `#D32027` `#111111` `#FFFFFF`
-- **翻车点**：1）容易加手工笔触——对策：在画面描述中显式针对此缺陷；2）只存描述，不收作品图
-- **关联流派**：达达主义、欧普艺术、观念艺术
+- **Core claim**: returning to figuration and painterliness against the coldness of Minimalism and Conceptual Art; coarse, fast, almost violent brushwork; myth, history, the body, and politics as subjects; large scale, stressing materiality and the hand
+- **Composition**: unbalanced, rough, figures torn across the frame
+- **Light and color**: color — muddy intense color: earth yellow, dark red, dirty green, violently stacked; light — no unified source; light and shade serve emotion
+- **Texture**: brushwork — extremely thick impasto, scraping, pouring; the material itself visible; materials — huge canvas, thick paint, collage of found materials
+- **Emotion**: anger, pain, frenzy, the weight of history
+- **Color anchors**: `#A8432A` `#C9A227` `#4A5A3A` `#2B2B33` `#8B5E2A` `#D9CFC0`
+- **Failure points**: 1) it easily cleans the frame up — remedy: address that defect explicitly in the frame description; 2) keep it descriptive only — no artwork images
+- **Related movements**: Expressionism, Abstract Expressionism, Dada
 
 ---
 
-### 照相写实主义 · Photorealism（1968–1985｜美国）
+### Futurism（1909–1920 | Italy / Russia）
 
-> 照着照片画到比照片还清楚：把摄影的冷感放大到令人不安。
+> Painting speed: one action draws all of its instants at once, like stroboscopic photography.
 
-- **核心主张**：以照片为唯一依据，追求摄影般的清晰与客观；常放大到巨大尺幅，暴露照片的缺陷（失焦、过曝）；取消个人笔触与情感表达；玻璃反射、霓虹、镀铬、都市街景是常见母题
-- **构图**：摄影取景框、浅景深、裁切随意
-- **光色**：色彩——摄影式的准确色，高饱和的都市霓虹与镀铬反光；光影——完全复制照片的光：闪光灯、橱窗反光、夜间霓虹
-- **质感**：笔触——肉眼不可见，极致平滑；或刻意保留喷枪的均匀；材质——布面油画或丙烯、喷枪、极致平滑的表面
-- **情绪**：冷静、疏离、消费社会的空洞、技术性的震撼
-- **色锚**：`#29ABE2` `#F23D8E` `#C9CFD4` `#2B2B33` `#C9A227` `#E8E4DA`
-- **翻车点**：1）容易加绘画感——对策：显式，在画面描述中显式针对此缺陷；2）和超现实主义区分：照相写实没有荒诞元素，只有客观记录
-- **关联流派**：波普艺术、现实主义、超现实主义
-
----
-
-### 立体主义 · Cubism（1907–1920｜法国 / 西班牙）
-
-> 把对象拆成几何面，再在同一个平面上同时展示所有视角。
-
-- **核心主张**：多视点同时并置，取消单一透视；形体被分解为几何切面（facet）；分析立体主义近乎单色，综合立体主义引入拼贴；画面是「建构」出来的，不是「看」到的
-- **构图**：中心发散、碎片化、网格化；主体与背景互相渗透
-- **光色**：色彩——分析期：赭、灰、褐、墨绿等有限色；综合期：拼贴纸的平色块；光影——没有真实光源，明暗只用来区分切面
-- **质感**：笔触——平涂的几何块面，边缘清晰；拼贴元素有硬边；材质——报纸拼贴、沙砾肌理、木纹纸、平面色块
-- **情绪**：理性、冷静、智性、去情绪化
-- **色锚**：`#8A7A63` `#6E6E6E` `#4A3B2A` `#5A6B4A` `#C9C0A8` `#2B2B33`
-- **翻车点**：1）容易把 cubism 做成「几何风格插画」——对策：，按画面意图定制描述以避开；2）容易被加上景深和光影，这在立体主义里是错的
-- **关联流派**：表现主义、超现实主义、包豪斯
+- **Core claim**: simultaneity: the same object drawn in multiple time slices; lines of force express the direction and energy of movement; worship of the machine, speed, war, and the metropolis; a fusion of Divisionist technique and Cubist form
+- **Composition**: radial, spiral, diagonals stretched by speed
+- **Light and color**: color — high-saturation orange, red, blue, green, color radiating like light; light — light painted as radial lines of force; object edges repeatedly duplicated
+- **Texture**: brushwork — Divisionist short strokes plus Cubist geometric facets; materials — oil on canvas, geometrized decomposition of form
+- **Emotion**: frenzy, speed, violence, the exhilaration of modernity
+- **Color anchors**: `#E85D2A` `#C1272D` `#1F5FD6` `#3E9B6B` `#C9A227` `#2B2B33`
+- **Failure points**: 1) it easily becomes ordinary motion blur — remedy: address that defect explicitly in the frame description; 2) it is easily confused with Cubism — remedy: Futurism has stronger speed and color
+- **Related movements**: Cubism, Constructivism, Expressionism
 
 ---
 
-### 立体未来主义 · Cubo-Futurism（1912–1915｜俄国）
+### Minimalism (art)（1960–1975 | United States）
 
-> 把立体主义的碎面和未来主义的动势焊在一起，俄国先锋派最快的一步。
+> Remove everything: no narrative, no metaphor, no embellishment — only the object itself.
 
-- **核心主张**：立体主义的几何碎面 + 未来主义的运动轨迹；金属与机械的冷调，质感偏硬；字母、数字进入画面（zaum 诗的视觉化）；比意大利未来主义更几何、更少宣言气
-- **构图**：主体被分解后重新排布，常带对角线运动
-- **光色**：色彩——钢灰、赭石、暗红、蓝；青铜与铁的冷调；光影——硬朗的切面光，靠面块明暗而非渐变
-- **质感**：笔触——平面化的几何色块，边缘锋利；材质——布面油画、拼贴、纸本
-- **情绪**：速度、机械、冷峻的现代性
-- **色锚**：`#6B7280` `#A65A2E` `#8C2F26` `#2E4A6B` `#C9A227` `#E8E4DC`
-- **翻车点**：1）容易用动态模糊做速度——对策：在画面描述中显式针对此缺陷；2）和纯立体主义混淆——对策：强调 diagonal dynamism, machine-age speed
-- **关联流派**：立体主义、未来主义、构成主义
-
----
-
-### 至上主义 · Suprematism（1915–1925｜俄国）
-
-> 绘画的终点：一个黑方块就够了，所有形象都是多余的。
-
-- **核心主张**：非具象的极致：基本几何形在纯白空间里漂浮；黑方块、红方块、白底上的黑方块三部曲；取消重力与透视，形体在无限中悬浮；绘画作为「纯粹感受」的直接表达
-- **构图**：对角线、悬浮、无重力感、非对称
-- **光色**：色彩——极简：黑、红、白、黄、蓝，纯平涂无渐变；光影——完全没有，纯色块在白色虚空中
-- **质感**：笔触——硬边几何，无笔触无肌理；材质——布面油画、硬边平涂、哑光表面
-- **情绪**：绝对、冷峻、乌托邦、形而上
-- **色锚**：`#111111` `#C1272D` `#F2EDE4` `#F2C230` `#1F5FD6` `#8A8A85`
-- **翻车点**：1）容易加渐变和立体感——对策：显式，在画面描述中显式针对此缺陷；2）容易被做成包豪斯设计——对策：显式，在画面描述中显式针对此缺陷
-- **关联流派**：构成主义、包豪斯、极简主义（艺术）
+- **Core claim**: subtraction down to the most basic geometric solids and industrial materials; rejecting narrative, symbol, and the artist's hand; stressing the real spatial relation between object and viewer; repetition and seriality instead of composition
+- **Composition**: a single geometric solid, repeated series, symmetry or strictly equal spacing
+- **Light and color**: color — industrial color: gray, black, white, the cold white of fluorescent tubes, or a single vivid industrial paint; light — real light acting on real surfaces rather than painted light
+- **Texture**: brushwork — zero brushwork, the smooth surface of industrial manufacture; materials — plywood, plexiglass, fluorescent tubes, weathering steel, industrial paint
+- **Emotion**: cool, neutral, de-emotionalized, phenomenological presence
+- **Color anchors**: `#8A8A85` `#111111` `#FFFFFF` `#C9CFD4` `#F2C230` `#4A7C9E`
+- **Failure points**: 1) it easily gains texture and detail — remedy: customize the description to the frame's intent and avoid it; 2) keep it descriptive only — no artwork images
+- **Related movements**: De Stijl, Suprematism, Color Field, Minimalist Design
 
 ---
 
-### 色域绘画 · Color Field（1948–1970｜美国）
+### Constructivism（1915–1935 | Russia / Soviet Union）
 
-> 把颜色铺满整张画布，让你站在它面前被颜色淹没。
+> Art steps out of the frame to make posters, buildings, and propaganda: turning the image into engineering.
 
-- **核心主张**：大面积单一色域，取消笔触与形象；色彩关系本身即内容（罗斯科、纽曼）；尺幅巨大，制造沉浸式的身体体验；与抽象表现主义同源但转向平静与冥想
-- **构图**：满幅或对称的色块分割，无中心焦点
-- **光色**：色彩——柔和的边缘模糊的大色块；罗斯科式的层叠色晕；光影——色彩自身发光，边缘互相渗透产生光晕
-- **质感**：笔触——被抹平或被染色（staining），几乎看不到手；材质——巨大画布、稀释丙烯渗染、多层薄涂
-- **情绪**：沉静、崇高、冥想的重量、情绪压迫
-- **色锚**：`#8B3A3A` `#2B3A5A` `#C9A227` `#4A3A3A` `#D9A25A` `#8A7A7A`
-- **翻车点**：1）容易加笔触和细节——对策：显式，在画面描述中显式针对此缺陷；2）只存描述，不收作品图
-- **关联流派**：抽象表现主义、极简主义（艺术）、色调主义
-
----
-
-### 表现主义 · Expressionism（1905–1930｜德国 / 奥地利 / 挪威）
-
-> 把内心的扭曲直接画出来：歪斜的线、尖叫的颜色、被挤压的空间。
-
-- **核心主张**：主观情绪压倒客观再现，比例被故意扭曲；颜色不描述物体，直接表达情绪（桥社 / 青骑士）；线条粗硬、有棱角，空间被压扁；城市焦虑、性、死亡、精神危机是母题
-- **构图**：倾斜、挤压、视角扭曲，人物被拉长或压扁
-- **光色**：色彩——刺目、不和谐：酸绿、毒黄、血红、瘀青紫并置；光影——硬边、无过渡；光像刀切开画面
-- **质感**：笔触——粗野、快速、有力；木刻式的硬线条；材质——粗布、厚涂、木刻版画的刀痕质感
-- **情绪**：焦虑、愤怒、不安、被压抑的欲望
-- **色锚**：`#A8C020` `#E8C020` `#B01E2E` `#4A2B5A` `#1E1E1E` `#3A6B7A`
-- **翻车点**：1）容易把 expressionism 理解成「表现力强」——对策：在画面描述中显式针对此缺陷；2）注意区分抽象表现主义（Abstract Expressionism），那是完全不同的东西
-- **关联流派**：后印象派、立体主义、超现实主义
+- **Core claim**: art enters production: posters, books, stage, architecture; photomontage and extreme viewpoints (low angle, oblique); a propaganda aesthetic of red, black, and white plus heavy sans-serif type; geometric elements carry information rather than decorate
+- **Composition**: strong diagonals, extreme low-angle perspective, tilted grids
+- **Light and color**: color — mainly red, black, white, occasionally gray; minimal high contrast; light — the hard light of photomontage; the graphic-design part has no light and shade at all
+- **Texture**: brushwork — zero brushwork: photo collage, geometric blocks, stencil lettering; materials — poster printing, photomontage, steel, glass, timber
+- **Emotion**: radical, industrial, utopian, the rallying power of propaganda
+- **Color anchors**: `#C1272D` `#111111` `#F2EDE4` `#8A8A85` `#C9A227` `#1F5FD6`
+- **Failure points**: 1) it easily adds decoration — remedy: customize the description to the frame's intent and avoid it; 2) confusing Constructivism with Suprematism: Constructivism has an informational function and social purpose; Suprematism is purely metaphysical
+- **Related movements**: Suprematism, Bauhaus, De Stijl
 
 ---
 
-### 装饰艺术 · Art Deco（1920–1939｜法国 / 美国）
+### Op Art（1960–1975 | Europe and America）
 
-> 把机器时代变成奢侈品：几何、对称、金属、速度感。
+> Fooling the eye with geometric pattern: the frame does not move, yet you feel it vibrate, rotate, sink.
 
-- **核心主张**：几何化：扇形、放射线、阶梯状、锯齿形；对称与重复，强烈的建筑感；奢华材质：黑漆、镀铬、象牙、鲨鱼皮；摩登都市、爵士、速度与工业崇拜
-- **构图**：严格对称、中央放射、阶梯式上升、纵向拔高
-- **光色**：色彩——高对比金属色 + 深底：黑金、铬银、祖母绿、酒红、象牙白；光影——硬朗的几何光斑，放射状光晕，金属高光
-- **质感**：笔触——无笔触，硬边几何平涂（海报/插画媒介）；材质——黑漆、镀铬、磨砂玻璃、象牙、几何图案镶嵌
-- **情绪**：摩登、奢华、自信、冷艳、带未来感
-- **色锚**：`#111111` `#C9A227` `#B8B8B8` `#0F5C4A` `#7A1F2B` `#EDE3CE`
-- **翻车点**：1）最容易和 Art Nouveau 混淆——对策：明确 geometric, stepped, zigzag, symmetrical；2）不，显式写出相反的画面特征
-- **关联流派**：新艺术运动、包豪斯、流派总览、分类索引-现代主义与战后
-
----
-
-### 观念艺术 · Conceptual Art（1965–1980｜欧美）
-
-> 想法比物体重要：作品可以是一段文字、一次行动、一份说明书。
-
-- **核心主张**：观念本身即作品，物质形态可被省略；文字、指令、档案、文件成为主要媒介；质疑艺术制度、作者身份与市场；去技能化（deskilling）：不需要手工技巧
-- **构图**：文献式排版、说明文字、极简的图示
-- **光色**：色彩——常为档案的中性色：白纸、灰、黑；或照片的记录色；光影——记录性摄影的平光，无审美化处理
-- **质感**：笔触——无；文字排版、打字机、复印件；材质——文字、照片、复印件、档案文件、录像
-- **情绪**：冷静、智性、质疑、去审美化
-- **色锚**：`#E8E4DA` `#8A8A85` `#111111` `#5A6B7A` `#B03A2E` `#D9CFC0`
-- **翻车点**：1）容易把它做得太好看到失去观念性——对策：按画面意图定制描述以避开；2）只存描述，不收作品图
-- **关联流派**：极简主义（艺术）、达达主义、波普艺术
+- **Core claim**: exploiting optical illusion: moiré, flicker, depth reversal; high-contrast black-and-white stripes and grids are the classic devices; the viewer's eye becomes part of the work; highly interchangeable with design, fashion, and graphic advertising
+- **Composition**: repeating grids, concentric circles, wave stripes, all-over application
+- **Light and color**: color — often pure black and white, or extremely high-contrast complementaries (red/green, blue/orange); light — no real light and shade; the illusion itself produces "light"
+- **Texture**: brushwork — zero brushwork, mechanically precise geometric lines; materials — acrylic on canvas, screen print, printed matter, installation
+- **Emotion**: dizziness, pleasure after dizziness, visual exhilaration
+- **Color anchors**: `#111111` `#FFFFFF` `#D32027` `#1B7A4A` `#1B4F9C` `#F2A93B`
+- **Failure points**: 1) it is hard to produce a true illusion — remedy: state the opposite frame features explicitly; 2) it easily becomes ordinary stripes — remedy: stress optical illusion, perceptual effect
+- **Related movements**: Pop Art, Islamic Geometric, Bauhaus
 
 ---
 
-### 超扁平 · Superflat（1990–今｜日本）
+### Pop Art（1955–1970 | United Kingdom / United States）
 
-> 把动漫、浮世绘和消费文化压成同一个平面：可爱与暴力没有边界。
+> Moving ads, comics, and canned soup into the gallery: commercial imagery is the myth of the age.
 
-- **核心主张**：消除高雅与低俗、艺术与动漫的界限；极致的平面性，继承浮世绘的装饰传统；可爱（kawaii）与黑暗、情色、暴力并置；高饱和平涂 + 明确的轮廓线
-- **构图**：满版、重复、图案化；人物与图案无层级差别
-- **光色**：色彩——高饱和平涂：荧光粉、亮蓝、柠檬黄；对比强烈；光影——完全平面，无体积光；靠色块区分
-- **质感**：笔触——零笔触，数码或喷绘般的均匀平涂 + 硬轮廓；材质——丙烯、数码打印、雕塑、周边商品
-- **情绪**：可爱与不安并存、消费主义的眩晕、虚无
-- **色锚**：`#F23D8E` `#29ABE2` `#F2E33D` `#111111` `#7B3FA0` `#FFFFFF`
-- **翻车点**：1）容易加立体和阴影——对策：按画面意图定制描述以避开；2）只存描述，不收作品图
-- **关联流派**：浮世绘、波普艺术、日式动画赛璐璐
-
----
-
-### 超现实主义 · Surrealism（1924–1950｜法国 / 西班牙 / 比利时）
-
-> 用最写实的手法画最不可能的事，让梦看起来像照片。
-
-- **核心主张**：逼真的技法 + 荒诞的组合（dislocation）；物体脱离原有语境，产生「不可思议」；空间和尺度被玩弄：漂浮、融化、无限延伸；弗洛伊德式的欲望、潜意识与自动书写
-- **构图**：空旷背景 + 孤立物体；极端纵深或完全平面
-- **光色**：色彩——达利式的清澈蓝天 + 焦黄荒地；马格利特式的冷静均匀色；光影——清晰、锐利、不真实的完美光照；像广告摄影一样干净
-- **质感**：笔触——极度平滑写实（达利、马格利特），或自动主义的有机形态（米罗、马松）；材质——光滑油画表面、摄影般的清晰度、怪异材质的错置
-- **情绪**：怪诞、不安、幽默、迷幻、冷静的疯狂
-- **色锚**：`#7BA8C9` `#D4B483` `#4A4A52` `#C25B3A` `#2E4A3A` `#EDE6D6`
-- **翻车点**：1）容易把 surreal 做成「奇幻特效大片」——对策：，显式写出相反的画面特征；2）必须保留超高写实度：不写 hyper-realistic 就变成抽象幻想画
-- **关联流派**：象征主义、立体主义、表现主义
+- **Core claim**: appropriating mass-media imagery (advertising, comics, commodities); screen printing and mechanical reproduction, erasing the hand; vivid flat color blocks plus thick black contours; satirizing consumer society while embracing it
+- **Composition**: repeating grids (the same image arranged over and over), close-up cropping
+- **Light and color**: color — high-saturation flat fill: fluorescent pink, bright yellow, cyan-blue, true red, often juxtaposed with exaggeration; light — no light and shade; flat blocks plus black contour lines
+- **Texture**: brushwork — zero brushwork (screen print), or deliberately commercial illustration-style flat fill; materials — screen print, acrylic, commercial printed matter, collage
+- **Emotion**: bright, satirical, cool, the dizziness of consumerism
+- **Color anchors**: `#F23D8E` `#F2C230` `#29ABE2` `#D32027` `#111111` `#FFFFFF`
+- **Failure points**: 1) it easily gains hand-made brushwork — remedy: address that defect explicitly in the frame description; 2) keep it descriptive only — no artwork images
+- **Related movements**: Dada, Op Art, Conceptual Art
 
 ---
 
-### 达达主义 · Dada（1916–1924｜苏黎世 / 巴黎 / 纽约）
+### Photorealism（1968–1985 | United States）
 
-> 反艺术：既然理性导致了战争，那就用荒诞把它拆掉。
+> Painting from a photograph until it is clearer than the photograph: enlarging photography's coldness to the point of unease.
 
-- **核心主张**：反艺术、反理性、反资产阶级；现成品（readymade）：把日常物搬到展厅；拼贴与偶然性（随机剪贴、掷骰子作画）；挑衅与嘲讽代替审美
-- **构图**：刻意的混乱、偶然排布、元素互相不对齐
-- **光色**：色彩——杂乱的现成印刷品色彩：报纸灰、票据色、旧照片的褐；光影——无统一光源；照片拼贴各元素自带不同光线
-- **质感**：笔触——无笔触——剪贴、拼接、现成物；材质——报纸剪贴、照片蒙太奇、现成品、印刷品
-- **情绪**：荒诞、挑衅、虚无、黑色幽默
-- **色锚**：`#D9CFC0` `#8B7A5A` `#111111` `#B03A2E` `#5A6B7A` `#E8DCC0`
-- **翻车点**：1）容易把它做得太好看——对策：在画面描述中显式针对此缺陷；2）容易做成普通拼贴——对策：，在画面描述中显式针对此缺陷
-- **关联流派**：超现实主义、波普艺术、观念艺术
-
----
-
-### 野兽派 · Fauvism（1905–1908｜法国）
-
-> 把颜色从描述里解放出来：草地可以是红的，脸可以是绿的。
-
-- **核心主张**：纯色直接挤出，不做混色与明暗过渡；色彩完全主观，与物体真实颜色无关；笔触粗放、快速、有装饰性；空间被压平，靠色块的冷暖推拉
-- **构图**：平面化、装饰性、视角略随意
-- **光色**：色彩——极高纯度的大色块：朱红、钴蓝、翠绿、橙黄直接对撞；光影——没有光影塑造，明暗完全被色彩替代
-- **质感**：笔触——宽大、果断、可见；有时直接留出画布白；材质——布面油画、厚涂纯色、可见画布纹理
-- **情绪**：欢愉、强烈、感官的爆发、生命力
-- **色锚**：`#D62828` `#1F5FD6` `#2E9B5B` `#F2A93B` `#8B3FA0` `#F2EDE4`
-- **翻车点**：1）容易加明暗塑造——对策：显式，在画面描述中显式针对此缺陷；2）纯度容易不够——对策：明确 pure unmixed colour, maximum saturation
-- **关联流派**：后印象派、表现主义、俄耳甫斯主义
+- **Core claim**: the photograph as the sole basis, pursuing photographic clarity and objectivity; often enlarged to huge scale, exposing the photograph's defects (defocus, overexposure); erasing personal brushwork and emotional expression; glass reflections, neon, chrome, and urban streets are common motifs
+- **Composition**: the photographic viewfinder, shallow depth of field, casual cropping
+- **Light and color**: color — photographically accurate color, high-saturation urban neon and chrome reflections; light — fully copying the photograph's light: flash, shop-window reflection, night neon
+- **Texture**: brushwork — invisible to the eye, extremely smooth; or deliberately keeping the airbrush's evenness; materials — oil or acrylic on canvas, airbrush, extremely smooth surface
+- **Emotion**: cool, detached, the emptiness of consumer society, technical shock
+- **Color anchors**: `#29ABE2` `#F23D8E` `#C9CFD4` `#2B2B33` `#C9A227` `#E8E4DA`
+- **Failure points**: 1) it easily gains a painterly feel — remedy: address that defect explicitly in the frame description; 2) distinguishing it from Surrealism: Photorealism has no absurd element, only objective record
+- **Related movements**: Pop Art, Realism, Surrealism
 
 ---
 
-### 青骑士 · Der Blaue Reiter（1911–1914｜德国 / 慕尼黑）
+### Cubism（1907–1920 | France / Spain）
 
-> 从具象滑向抽象的路上：颜色和形状要直接作用于灵魂。
+> Breaking the object into geometric facets, then showing all viewpoints at once on one plane.
 
-- **核心主张**：色彩与形式被赋予精神性（康定斯基《论艺术的精神》）；从具象逐步解离为抽象的过渡形态；木刻与版画的粗粝语言
-- **构图**：中心松动、元素漂浮、边界解体
-- **光色**：色彩——浓烈的蓝、黄、红原色并置，或完全抽象的色斑；光影——无真实光源，色彩自身发光
-- **质感**：笔触——自由、表现性；后期是完全的抽象色块与线条；材质——布面油画、木刻版画、水彩
-- **情绪**：精神性、内省、神秘、向上的冲动
-- **色锚**：`#1F3FA8` `#E8C020` `#C1272D` `#2E7A5B` `#4A3A6B` `#F2EDE4`
-- **翻车点**：1）容易被做成普通抽象画——对策：，按画面意图定制描述以避开；2）注意和桥社（Die Brücke）区分：青骑士更精神化、更接近抽象
-- **关联流派**：表现主义、野兽派、至上主义
+- **Core claim**: multiple viewpoints juxtaposed simultaneously, single perspective abolished; form decomposed into geometric facets; Analytic Cubism nearly monochrome, Synthetic Cubism introducing collage; the frame is "constructed", not "seen"
+- **Composition**: central radiation, fragmentation, grid; subject and background interpenetrating
+- **Light and color**: color — Analytic period: limited colors such as ochre, gray, brown, dark green; Synthetic period: the flat color blocks of collage paper; light — no real source; light and shade only distinguish facets
+- **Texture**: brushwork — flat geometric facets, clear edges; collage elements have hard edges; materials — newspaper collage, sand texture, wood-grain paper, flat color blocks
+- **Emotion**: rational, cool, intellectual, de-emotionalized
+- **Color anchors**: `#8A7A63` `#6E6E6E` `#4A3B2A` `#5A6B4A` `#C9C0A8` `#2B2B33`
+- **Failure points**: 1) it easily turns Cubism into a "geometric style illustration" — remedy: customize the description to the frame's intent and avoid it; 2) it easily gains depth of field and light and shade, which is wrong in Cubism
+- **Related movements**: Expressionism, Surrealism, Bauhaus
 
 ---
 
-### 风格派 · De Stijl（1917–1931｜荷兰）
+### Cubo-Futurism（1912–1915 | Russia）
 
-> 只用直线、直角和三原色，把世界简化成一个网格。
+> Welding Cubism's fractured facets to Futurism's momentum — the fastest step of the Russian avant-garde.
 
-- **核心主张**：新造型主义（Nieuwe Beelding）：只允许直线与直角；红黄蓝 + 黑白灰，绝不用间色与曲线；平面被黑线分割成不对称的矩形平衡；绘画、家具、建筑共用同一套形式语言
-- **构图**：不对称的矩形网格、黑线分割、动态平衡
-- **光色**：色彩——三原色 + 黑、白、灰；极高纯度平涂；光影——完全没有，纯平面
-- **质感**：笔触——零笔触；黑线是网格的骨架；材质——布面油画、木构家具、彩色玻璃、混凝土
-- **情绪**：理性、秩序、平衡、冷静的和谐
-- **色锚**：`#D32027` `#F2C300` `#1B4F9C` `#111111` `#FFFFFF` `#BFBFBF`
-- **翻车点**：1）容易加曲线和对角线——对策：在画面描述中显式针对此缺陷；2）容易被做成包豪斯——对策：包豪斯允许对角线和圆形，风格派只允许直角
-- **关联流派**：包豪斯、至上主义、构成主义、极简主义（艺术）
+- **Core claim**: Cubist geometric facets plus Futurist movement trajectories; a cool metallic and mechanical tonality, hard in texture; letters and numbers enter the frame (the visual side of zaum poetry); more geometric and less manifesto-driven than Italian Futurism
+- **Composition**: the subject decomposed and re-arranged, often with diagonal movement
+- **Light and color**: color — steel gray, ochre, dark red, blue; the cool tonality of bronze and iron; light — hard facet light, relying on plane brightness rather than gradient
+- **Texture**: brushwork — flattened geometric blocks, sharp edges; materials — oil on canvas, collage, paper
+- **Emotion**: speed, machine, austere modernity
+- **Color anchors**: `#6B7280` `#A65A2E` `#8C2F26` `#2E4A6B` `#C9A227` `#E8E4DC`
+- **Failure points**: 1) it easily uses motion blur for speed — remedy: address that defect explicitly in the frame description; 2) confusing it with pure Cubism — remedy: stress diagonal dynamism, machine-age speed
+- **Related movements**: Cubism, Futurism, Constructivism
+
+---
+
+### Suprematism（1915–1925 | Russia）
+
+> The endpoint of painting: one black square is enough; every image is superfluous.
+
+- **Core claim**: the extreme of non-figuration: basic geometric shapes floating in pure white space; the triptych of black square, red square, black square on white; gravity and perspective abolished, forms suspended in infinity; painting as the direct expression of "pure feeling"
+- **Composition**: diagonal, suspended, weightless, asymmetrical
+- **Light and color**: color — extremely minimal: black, red, white, yellow, blue, pure flat fill with no gradient; light — none at all, pure color blocks in a white void
+- **Texture**: brushwork — hard-edge geometry, no brushwork and no texture; materials — oil on canvas, hard-edge flat fill, matte surface
+- **Emotion**: absolute, austere, utopian, metaphysical
+- **Color anchors**: `#111111` `#C1272D` `#F2EDE4` `#F2C230` `#1F5FD6` `#8A8A85`
+- **Failure points**: 1) it easily adds gradients and volume — remedy: address that defect explicitly in the frame description; 2) it easily becomes Bauhaus design — remedy: address that defect explicitly in the frame description
+- **Related movements**: Constructivism, Bauhaus, Minimalism (art)
+
+---
+
+### Color Field（1948–1970 | United States）
+
+> Spreading color across the whole canvas so that you stand before it and are submerged.
+
+- **Core claim**: large areas of a single color field, brushwork and image abolished; color relations themselves are the content (Rothko, Newman); enormous scale producing an immersive bodily experience; sharing roots with Abstract Expressionism but turning toward calm and meditation
+- **Composition**: all-over or symmetrically divided color blocks, no central focus
+- **Light and color**: color — soft, edge-blurred large blocks; Rothko-like layered halos; light — color itself glows, edges interpenetrating to produce halation
+- **Texture**: brushwork — smoothed out or stained, the hand almost invisible; materials — huge canvas, thinned acrylic staining, many thin coats
+- **Emotion**: still, sublime, meditative weight, emotional pressure
+- **Color anchors**: `#8B3A3A` `#2B3A5A` `#C9A227` `#4A3A3A` `#D9A25A` `#8A7A7A`
+- **Failure points**: 1) it easily gains brushwork and detail — remedy: address that defect explicitly in the frame description; 2) keep it descriptive only — no artwork images
+- **Related movements**: Abstract Expressionism, Minimalism (art), Tonalism
+
+---
+
+### Expressionism（1905–1930 | Germany / Austria / Norway）
+
+> Painting inner distortion directly: skewed lines, screaming color, compressed space.
+
+- **Core claim**: subjective emotion overrides objective depiction, proportions deliberately distorted; color does not describe objects but expresses emotion directly (Die Brücke / Der Blaue Reiter); lines coarse and angular, space flattened; urban anxiety, sex, death, and mental crisis as motifs
+- **Composition**: tilted, compressed, distorted viewpoint, figures elongated or flattened
+- **Light and color**: color — glaring, dissonant: acid green, poison yellow, blood red, bruise violet juxtaposed; light — hard-edged, no transition; light cuts the frame like a knife
+- **Texture**: brushwork — coarse, fast, forceful; woodcut-like hard lines; materials — coarse cloth, impasto, the gouge texture of woodcut
+- **Emotion**: anxiety, anger, unease, repressed desire
+- **Color anchors**: `#A8C020` `#E8C020` `#B01E2E` `#4A2B5A` `#1E1E1E` `#3A6B7A`
+- **Failure points**: 1) it easily reads Expressionism as "strongly expressive" — remedy: address that defect explicitly in the frame description; 2) be careful to distinguish Abstract Expressionism, which is something entirely different
+- **Related movements**: Post-Impressionism, Cubism, Surrealism
+
+---
+
+### Art Deco（1920–1939 | France / United States）
+
+> Turning the machine age into luxury: geometry, symmetry, metal, a sense of speed.
+
+- **Core claim**: geometrization: fans, rays, steps, zigzags; symmetry and repetition, a strong architectural feel; luxurious materials: black lacquer, chrome, ivory, sharkskin; the modern metropolis, jazz, speed, and the worship of industry
+- **Composition**: strict symmetry, central radiation, stepped ascent, vertical lift
+- **Light and color**: color — high-contrast metallic colors on a dark ground: black and gold, chrome silver, emerald, wine red, ivory white; light — hard geometric light patches, radial halos, metallic highlights
+- **Texture**: brushwork — no brushwork, hard-edge geometric flat fill (poster / illustration media); materials — black lacquer, chrome, frosted glass, ivory, geometric inlay
+- **Emotion**: modern, luxurious, confident, coolly glamorous, with a futuristic feel
+- **Color anchors**: `#111111` `#C9A227` `#B8B8B8` `#0F5C4A` `#7A1F2B` `#EDE3CE`
+- **Failure points**: 1) it is most easily confused with Art Nouveau — remedy: specify geometric, stepped, zigzag, symmetrical; 2) it easily becomes ordinary retro decoration — remedy: state the opposite frame features explicitly
+- **Related movements**: Art Nouveau, Bauhaus, movement overview, category index — Modernism and postwar
+
+---
+
+### Conceptual Art（1965–1980 | Europe and America）
+
+> The idea matters more than the object: the work can be a piece of text, an action, a set of instructions.
+
+- **Core claim**: the concept itself is the work, physical form may be omitted; text, instruction, archive, and document become the main media; questioning the art institution, authorship, and the market; deskilling: no craft skill required
+- **Composition**: documentary layout, explanatory text, minimal diagram
+- **Light and color**: color — often the neutral colors of the archive: white paper, gray, black; or the record color of photographs; light — the flat light of documentary photography, no aestheticizing treatment
+- **Texture**: brushwork — none; typesetting, typewriter, photocopy; materials — text, photograph, photocopy, archive document, video
+- **Emotion**: cool, intellectual, questioning, de-aestheticized
+- **Color anchors**: `#E8E4DA` `#8A8A85` `#111111` `#5A6B7A` `#B03A2E` `#D9CFC0`
+- **Failure points**: 1) it easily becomes so handsome that the conceptuality is lost — remedy: customize the description to the frame's intent and avoid it; 2) keep it descriptive only — no artwork images
+- **Related movements**: Minimalism (art), Dada, Pop Art
+
+---
+
+### Superflat（1990–present | Japan）
+
+> Pressing anime, ukiyo-e, and consumer culture onto one plane: cute and violent with no boundary.
+
+- **Core claim**: dissolving the boundary between high and low, art and anime; extreme flatness inheriting ukiyo-e's decorative tradition; kawaii juxtaposed with darkness, eroticism, violence; high-saturation flat fill plus clear contour lines
+- **Composition**: full-bleed, repetitive, patterned; figures and pattern at the same level
+- **Light and color**: color — high-saturation flat fill: fluorescent pink, bright blue, lemon yellow; strong contrast; light — completely flat, no volumetric light; distinction by color block
+- **Texture**: brushwork — zero brushwork, digital or airbrushed even flat fill plus hard contours; materials — acrylic, digital print, sculpture, merchandise
+- **Emotion**: cuteness and unease coexisting, the dizziness of consumerism, nihilism
+- **Color anchors**: `#F23D8E` `#29ABE2` `#F2E33D` `#111111` `#7B3FA0` `#FFFFFF`
+- **Failure points**: 1) it easily adds volume and shadow — remedy: customize the description to the frame's intent and avoid it; 2) keep it descriptive only — no artwork images
+- **Related movements**: Ukiyo-e, Pop Art, Anime Cel
+
+---
+
+### Surrealism（1924–1950 | France / Spain / Belgium）
+
+> Painting the impossible with the most realistic technique, making a dream look like a photograph.
+
+- **Core claim**: realistic technique plus absurd combinations (dislocation); objects removed from their context to produce the "uncanny"; space and scale played with: floating, melting, infinite extension; Freudian desire, the unconscious, automatic writing
+- **Composition**: empty background plus isolated object; extreme depth or complete flatness
+- **Light and color**: color — Dalí's clear blue sky plus burnt-yellow wasteland; Magritte's cool even color; light — clear, sharp, unreal perfect lighting; as clean as advertising photography
+- **Texture**: brushwork — extremely smooth realism (Dalí, Magritte), or the organic forms of automatism (Miró, Masson); materials — smooth oil surface, photographic clarity, the misplacement of strange materials
+- **Emotion**: grotesque, uneasy, humorous, hallucinatory, cool madness
+- **Color anchors**: `#7BA8C9` `#D4B483` `#4A4A52` `#C25B3A` `#2E4A3A` `#EDE6D6`
+- **Failure points**: 1) it easily turns Surreal into a "fantasy VFX blockbuster" — remedy: state the opposite frame features explicitly; 2) extremely high realism must be kept: without writing hyper-realistic it becomes abstract fantasy painting
+- **Related movements**: Symbolism, Cubism, Expressionism
+
+---
+
+### Dada（1916–1924 | Zurich / Paris / New York）
+
+> Anti-art: if rationality led to war, then dismantle it with absurdity.
+
+- **Core claim**: anti-art, anti-reason, anti-bourgeois; the readymade: moving everyday objects into the gallery; collage and chance (random cuttings, painting by dice); provocation and mockery instead of aesthetics
+- **Composition**: deliberate chaos, chance arrangement, elements out of alignment
+- **Light and color**: color — the clashing colors of ready-made printed matter: newspaper gray, ticket colors, the brown of old photographs; light — no unified source; each element of a photo collage carries its own light
+- **Texture**: brushwork — no brushwork — cutting, pasting, readymades; materials — newspaper cuttings, photomontage, readymades, printed matter
+- **Emotion**: absurdity, provocation, nihilism, black humor
+- **Color anchors**: `#D9CFC0` `#8B7A5A` `#111111` `#B03A2E` `#5A6B7A` `#E8DCC0`
+- **Failure points**: 1) it easily comes out too handsome — remedy: address that defect explicitly in the frame description; 2) it easily becomes ordinary collage — remedy: address that defect explicitly in the frame description
+- **Related movements**: Surrealism, Pop Art, Conceptual Art
+
+---
+
+### Fauvism（1905–1908 | France）
+
+> Setting color free from description: grass may be red, a face may be green.
+
+- **Core claim**: pure color squeezed straight out, no mixing and no tonal transition; color entirely subjective, unrelated to the object's real color; brushwork broad, fast, decorative; space flattened, pushed and pulled by warm and cool blocks
+- **Composition**: flattened, decorative, viewpoint slightly casual
+- **Light and color**: color — extremely high-purity large blocks: vermilion, cobalt, emerald, orange-yellow colliding directly; light — no modelling in light and shade; value entirely replaced by color
+- **Texture**: brushwork — broad, decisive, visible; sometimes leaving the canvas white showing; materials — oil on canvas, impasto in pure color, visible canvas weave
+- **Emotion**: joy, intensity, sensory explosion, vitality
+- **Color anchors**: `#D62828` `#1F5FD6` `#2E9B5B` `#F2A93B` `#8B3FA0` `#F2EDE4`
+- **Failure points**: 1) it easily adds modelling in light and shade — remedy: address that defect explicitly in the frame description; 2) purity easily falls short — remedy: specify pure unmixed colour, maximum saturation
+- **Related movements**: Post-Impressionism, Expressionism, Orphism
+
+---
+
+### Der Blaue Reiter（1911–1914 | Germany / Munich）
+
+> On the road from figuration to abstraction: color and shape must act directly on the soul.
+
+- **Core claim**: color and form given spirituality (Kandinsky's Concerning the Spiritual in Art); a transitional state dissolving gradually from figuration into abstraction; the coarse language of woodcut and print
+- **Composition**: loosened center, floating elements, dissolving boundaries
+- **Light and color**: color — intense blue, yellow, and red primaries juxtaposed, or fully abstract color spots; light — no real source; color itself glows
+- **Texture**: brushwork — free, expressive; in the later phase entirely abstract color blocks and lines; materials — oil on canvas, woodcut, watercolor
+- **Emotion**: spirituality, introspection, mystery, an upward impulse
+- **Color anchors**: `#1F3FA8` `#E8C020` `#C1272D` `#2E7A5B` `#4A3A6B` `#F2EDE4`
+- **Failure points**: 1) it easily becomes an ordinary abstract painting — remedy: customize the description to the frame's intent and avoid it; 2) distinguish it from Die Brücke: Der Blaue Reiter is more spiritual, closer to abstraction
+- **Related movements**: Expressionism, Fauvism, Suprematism
+
+---
+
+### De Stijl（1917–1931 | Netherlands）
+
+> Only straight lines, right angles, and three primaries — reducing the world to a grid.
+
+- **Core claim**: Nieuwe Beelding: only straight lines and right angles allowed; red-yellow-blue plus black, white, gray, never secondary colors or curves; the plane divided by black lines into asymmetrically balanced rectangles; painting, furniture, and architecture sharing one formal language
+- **Composition**: asymmetrical rectangular grid, black-line division, dynamic balance
+- **Light and color**: color — three primaries plus black, white, gray; extremely high-purity flat fill; light — none at all, pure plane
+- **Texture**: brushwork — zero brushwork; the black line is the grid's skeleton; materials — oil on canvas, wooden furniture, stained glass, concrete
+- **Emotion**: rational, ordered, balanced, cool harmony
+- **Color anchors**: `#D32027` `#F2C300` `#1B4F9C` `#111111` `#FFFFFF` `#BFBFBF`
+- **Failure points**: 1) it easily adds curves and diagonals — remedy: address that defect explicitly in the frame description; 2) it is easily made Bauhaus — remedy: Bauhaus allows diagonals and circles; De Stijl allows only right angles
+- **Related movements**: Bauhaus, Suprematism, Constructivism, Minimalism (art)
