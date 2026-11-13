@@ -1,76 +1,76 @@
-# D1 · 构图型谱系（上）：三分系谱与黄金系
+# D1 · Composition-Type Lineage (Part 1): The Rule-of-Thirds Family and the Golden Family
 
-> 本文件管：以"偏离中心"为家族特征的构图型——三分法、黄金比例、黄金三角、动态对称、斐波那契螺旋。
-> 怎么用：为主体选择"非居中"位置时查阅；与 composition-types-2（居中系与其余构图型）互为另一侧。
+> This file covers: composition types whose family trait is "off-center" — rule of thirds, golden ratio, golden triangle, dynamic symmetry, Fibonacci spiral.
+> How to use: consult when choosing a non-centered position for the subject; it forms one side of a pair with composition-types-2 (the centered family and the remaining composition types).
 
-## 定义
+## Definition
 
-构图型（composition type）＝画面元素与画幅几何结构之间的可命名关系。本篇收录的家族共享一个内核：**把主体从几何中心移开，用画幅的内在分割线（三分线、黄金分割线、对角线、根矩形网）为它寻找一个"有张力的位置"**。
+Composition type = a nameable relation between the frame's elements and the frame's geometry. The family collected here shares one core: **move the subject off the geometric center and find it a "position under tension" using the frame's internal dividing lines (third lines, golden-section lines, diagonals, root-rectangle grid)**.
 
-## 机制
+## Mechanism
 
-为什么"偏离中心"有效：几何中心是视觉的默认落点，也正因此是零张力的——观众无需移动视线。把主体放在分割线附近，主体与画框边缘之间产生了不对称的余量（一侧紧一侧松），这个不对称就是张力的来源；同时分割线的交点是眼动的天然停留点（见 D5/eye-movement），主体落在交点附近能以最低成本被"接住"。
+Why "off-center" works: the geometric center is the eye's default landing point, and precisely because of that it carries zero tension — the viewer need not move the gaze. Place the subject near a dividing line and an asymmetric margin opens between subject and frame edge (tight on one side, loose on the other); that asymmetry is the source of tension. At the same time the intersections of the dividing lines are natural dwell points for eye movement (see D5/eye-movement), so a subject near an intersection is "caught" at the lowest perceptual cost.
 
-### 三分法（rule of thirds）
+### Rule of thirds
 
-- **几何**：横竖各两条三分线，切出九宫格与四个交点（power points，力量点）。主体或主体关键细节（眼睛、产品标志面）落在交点或线上。
-- **判据**：
-  - 主体核心落在任一交点 5% 半径内（经验值）；线性元素（地平线、天际线）压在三分线上，不悬浮在格子中央。
-  - 量化思想：视觉中心（画面明度/细节的质心）到最近三分点的距离越近，三分对齐度越高；完全居中时对齐度最低（见 D5/tests 眯眼测试定位视觉中心）。
-  - 地平线规则：天空精彩→地平线压下三分线（天空占 2/3）；地面精彩→压上三分线。地平线三档语义（经验值）：低地平线（画面下 1/3 以下）=天空主导、辽阔崇高；高地平线（上 1/3 以上）=大地主导、敦实或压抑；居中地平线=呆板，除非倒影对称宣言。
-- **适用**：通用性最强的默认起点；风景、人像、产品皆可用。
-- **失效条件**：需要对称庄重感（改用居中对称，见 types-2）；极简画面（主体之外几乎全空时，交点不再重要，重要的是留白方向）。
+- **Geometry**: two horizontal and two vertical third lines cut a nine-cell grid and four intersections (power points). The subject, or its key detail (eyes, the logo face of a product), sits on an intersection or line.
+- **Criteria**:
+  - The subject's core falls within a 5% radius of any intersection (rule of thumb); linear elements (horizon, skyline) press onto a third line instead of floating at the center of a cell.
+  - Quantitative idea: the closer the visual center (the centroid of brightness and detail) to the nearest third point, the higher the third alignment; when fully centered the alignment is at its lowest (see D5/tests, squint test, to locate the visual center).
+  - Horizon rule: if the sky is the interesting part, press the horizon down to the lower third line (sky takes 2/3); if the ground is interesting, press it up to the upper third line. Three horizon grades (rules of thumb): low horizon (below the lower 1/3) = sky-dominant, vast and sublime; high horizon (above the upper 1/3) = earth-dominant, solid or oppressive; centered horizon = inert, unless it declares a reflection symmetry.
+- **Use**: the most universal default starting point; works for landscape, portrait, and product.
+- **Failure conditions**: when symmetrical gravity is required (switch to centered symmetry, see types-2); in a minimal frame (when almost everything outside the subject is empty, intersections no longer matter — the direction of negative space does).
 
-### 黄金比例（golden ratio，φ≈1.618）
+### Golden ratio (φ≈1.618)
 
-- **几何**：1:0.618 的分割比，比三分线更靠中心。主体落位约在画幅 62%/38% 处。
-- **与三分法对比**：黄金分割点比三分点更靠近中心（38% vs 33%），画面更"自然不刻意"，但差异细微，观众不可感知，作者可感知。
-- **判据**：主体重心落在 0.382/0.618 分割带内；被称为"62/38 法则"（经验值）。
-- **适用**：希望比三分法更含蓄时；建筑与静物（矩形比例天然接近黄金比）。
+- **Geometry**: a division at 1:0.618, closer to the center than the third lines. The subject sits at roughly 62%/38% of the frame.
+- **Compared with the rule of thirds**: the golden-section point lies nearer the center than the third point (38% vs 33%), so the image reads as more "natural, unforced", but the difference is subtle — invisible to the viewer, visible to the maker.
+- **Criteria**: the subject's center of gravity falls inside the 0.382/0.618 division band; known as the "62/38 rule" (rule of thumb).
+- **Use**: when a subtler effect than the rule of thirds is wanted; architecture and still life (rectangular proportions naturally approach the golden ratio).
 
-### 斐波那契螺旋（golden spiral）
+### Fibonacci spiral (golden spiral)
 
-- **几何**：以 φ 递推的矩形链切出的对数螺旋；螺旋收拢的"眼"是焦点的甜点位。
-- **用法**：让主体细节（面部/产品/门洞）落在螺旋眼；让次级元素沿螺旋臂依次排布，形成链式引导（背景结构→中景→主体→细节）。
-- **判据**：螺旋眼位置清晰；沿臂元素有大小递变。
-- **失效条件**：硬套螺旋会把画面扭成不自然的摆拍感；螺旋是"事后解释力强、事前可操作性弱"的骨架，优先用三分/黄金分割落位，再用螺旋校验引导是否顺畅。
+- **Geometry**: a logarithmic spiral cut from a chain of φ-recursive rectangles; the tightening "eye" of the spiral is the sweet spot for focus.
+- **Usage**: put the subject's detail (face / product / doorway) on the spiral eye; arrange secondary elements successively along the spiral arm to create a chained lead (background structure → midground → subject → detail).
+- **Criteria**: the spiral eye is clearly located; elements along the arm show progressive change in size.
+- **Failure conditions**: forcing the spiral twists the frame into an unnatural posed feel; the spiral is a skeleton with "strong explanatory power after the fact, weak operability before it" — prefer thirds or golden-section placement, then use the spiral to check whether the lead flows.
 
-### 黄金三角（golden triangle）
+### Golden triangle
 
-- **几何**：一条主对角线，再从另外两角向它作垂线，切出三/四个三角区。主体置于三角区交点（焦心）；副元素填对侧三角区。
-- **适用**：斜向动势画面——奔跑、倾倒的构图、楼梯、山脊线；人物斜倚。
-- **判据**：主体沿对角线分布而非水平/垂直；交点处有画面焦点。
+- **Geometry**: one main diagonal, then perpendiculars drawn to it from the other two corners, cutting three or four triangular zones. The subject goes at the intersection of the triangles (the focus heart); secondary elements fill the opposite triangle.
+- **Use**: frames with diagonal momentum — running, a falling composition, staircases, ridge lines; a figure leaning diagonally.
+- **Criteria**: the subject is distributed along the diagonal rather than horizontally or vertically; a focus sits at the intersection.
 
-### 动态对称（dynamic symmetry，根矩形体系）
+### Dynamic symmetry (root-rectangle system)
 
-- **几何**：以 √2、√3、√5、φ 等无理数比例为骨架的矩形网；每根主对角线（如左下→右上）配一条与之垂直的倒数线（reciprocal），对角线与倒数线的交点称为"矩形之眼"，是该结构的能量焦点。
-- **方向语义（经验值）**：左下→右上 ascent 对角线称"巴洛克对角线"（上升、活跃、希望）；左上→右下 descent 称"险恶对角线"（下降、危险、滑落）。设计动势方向时可选对应对角线。
-- **用法**：主体落"眼"上；画面主要线性结构（建筑棱线、肢体、河流）沿根矩形网走线。
-- **边界**：此体系史学上有争议（属经验性归纳而非普遍规律），作设计工具用、不作审美定律用；网格密度高，初用者易过度对齐导致僵硬。
+- **Geometry**: a rectangular grid keyed to irrational proportions such as √2, √3, √5, φ; each main diagonal (e.g. lower-left → upper-right) carries a perpendicular reciprocal line, and the intersection of diagonal and reciprocal is called the "eye of the rectangle", the energy focus of the structure.
+- **Directional semantics (rules of thumb)**: the lower-left → upper-right ascent diagonal is called the "Baroque diagonal" (rising, active, hopeful); the upper-left → lower-right descent is called the "sinister diagonal" (falling, dangerous, slipping). Choose the corresponding diagonal when designing momentum direction.
+- **Usage**: the subject sits on an "eye"; the frame's main linear structures (building edges, limbs, rivers) run along the root-rectangle grid.
+- **Boundaries**: this system is historically contested (an empirical generalization rather than a universal law); use it as a design tool, not as an aesthetic law. The grid is dense, and beginners over-align until the frame turns rigid.
 
-## 判据（家族通用）
+## Criteria (common to the family)
 
-1. 主体核心离开几何中心，落位在某一分割结构的热点上。
-2. 主体与画框的不对称余量是**有意设计**的（紧侧留张力，松侧留呼吸/视线方向），而非随机偏移。
-3. 线性元素（地平线、道路、手臂）与骨架线重合。
-4. 自检：遮住主体后，空画面仍能看出分割骨架（骨架真实存在，不是脑补）。
+1. The subject's core leaves the geometric center and lands on a hot spot of some dividing structure.
+2. The asymmetric margins between subject and frame are **deliberately designed** (the tight side holds tension, the loose side holds breathing room or gaze direction) rather than a random offset.
+3. Linear elements (horizon, road, arm) coincide with the skeleton lines.
+4. Self-check: cover the subject — the empty frame should still reveal the dividing skeleton (the skeleton really exists, it is not imagined).
 
-## 边界
+## Boundaries
 
-- 偏置不是万能药：强对称题材（建筑正立面、神像、产品包装）用居中更对；极简画面里主体位置让位于留白方向。
-- "三分法"被滥用为唯一套路时会产出"轻微偏置的平庸"——三分之后还要靠视觉重量、引导线、纵深把它撑住（见 D5/visual-weight、visual-path）。
-- 多主体画面中，每主体各占一个交点是起步解，进一步见 multi-subject。
+- Off-centering is not a universal remedy: strongly symmetrical subjects (building facades, deity statues, product packaging) do better centered; in a minimal frame the subject's position yields to the direction of negative space.
+- When "rule of thirds" is abused as the only formula it produces "mediocrity with a slight offset" — after the third, the frame still needs visual weight, leading lines, and depth to hold it up (see D5/visual-weight, visual-path).
+- In a multi-subject frame, giving each subject its own intersection is the starting solution; for more see multi-subject.
 
-## 反例
+## Counterexamples
 
-- 反例 1：主体贴着三分线放，但视线朝画框外——余量方向给错，画面"要出去"。修法：视线侧留白（lead room，见 D4/framing-room）。
-- 反例 2：为了落交点把地平线强行倾斜。骨架线走线可以，水平面不能歪。
-- 反例 3：特写人脸把眼睛放在下交点——面部被压到画幅下缘，头顶死空。特写的"交点"应以眼位计，且优先保障头侧不空。
+- Counterexample 1: the subject sits on a third line but looks out of the frame — the margin went to the wrong side and the image "wants to leave". Fix: lead room on the gaze side (see D4/framing-room).
+- Counterexample 2: the horizon is forcibly tilted so that something lands on an intersection. Skeleton lines may run at an angle; horizontal planes may not be tilted.
+- Counterexample 3: in a face close-up the eyes are placed on the lower intersection — the face is pressed to the bottom edge while dead space opens above the head. In a close-up the "intersection" should be measured from eye position, and the head side must be kept from emptying first.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 居中对称系与其余构图型：见 composition-types-2
-- 交点为什么吸引注意：见 D5/eye-movement、D5/attention
-- 偏置后两侧余量怎么分配：见 spatial-allocation、D4/framing-room（lead room）
-- 三分对齐的量化自检：见 D5/tests
-- 该家族作为流派思想的完整展开：见 modes/schools/classical-academy.md
+- The centered symmetry family and the remaining types: see composition-types-2
+- Why intersections attract attention: see D5/eye-movement, D5/attention
+- How to distribute the margins on both sides after off-centering: see spatial-allocation, D4/framing-room (lead room)
+- Quantitative self-check of third alignment: see D5/tests
+- The full development of this family as a school of thought: see modes/schools/classical-academy.md

@@ -1,66 +1,66 @@
-# D1 · 纵深与层次（Depth Layering）
+# D1 · Depth Layering
 
-> 本文件管：三平面纵深结构、各层分工、大气透视、画面压平的四种病因、纵深密度判据。
-> 怎么用：画面"扁/平/贴"时查本文件；构思需要空间感时按三平面逐层设计。
+> This file covers: the three-plane depth structure, the role of each layer, atmospheric perspective, the four causes of a flattened frame, and the depth-density criteria.
+> How to use: consult when a frame looks "flat / level / pasted"; when building a sense of space, design layer by layer across the three planes.
 
-## 定义
+## Definition
 
-纵深层次（depth layering）＝把画面组织为前景（foreground）/中景（midground）/背景（background）三个平面，用层间差异制造第三维度错觉。
+Depth layering = organizing the frame into three planes — foreground / midground / background — and using differences between layers to create the illusion of a third dimension.
 
-## 机制
+## Mechanism
 
-画幅是二维的，深度是"造"出来的。造深的四类线索：①层间遮挡（前后物互相叠压）②尺度梯度（近大远小）③大气透视（近实远虚、近暖远冷、近深远浅）④虚实梯度（景深，见 D4/dof）。三层结构是最小完整配置——只有两层（主体+背景）时，深度线索只剩遮挡与虚实，画面天然偏平。
+The frame is two-dimensional; depth is "built". There are four classes of depth cues: (1) inter-layer occlusion (objects overlapping in front of and behind one another); (2) scale gradient (near large, far small); (3) atmospheric perspective (near sharp and far soft, near warm and far cool, near dark and far pale); (4) sharpness gradient (depth of field, see D4/dof). The three-layer structure is the minimal complete configuration — with only two layers (subject plus background) the only depth cues left are occlusion and sharpness, and the frame is inherently flat.
 
-## 判据
+## Criteria
 
-### 三平面分工表
+### Three-plane role table
 
-| 层 | 职能 | 常用元素 | 设计要点 |
+| Layer | Function | Common elements | Design points |
 |---|---|---|---|
-| 前景 | 锚定+引导+框景 | 虚化枝叶、桌沿、门框、地面纹理 | 可虚可暗，不当主角；占画幅 10–30%（经验值） |
-| 中景 | 主体舞台 | 人物、产品、事件主体 | 焦点所在，明度/对比最强 |
-| 背景 | 语境+氛围 | 天空、远山、城市轮廓、虚化光斑 | 简化或虚化，防抢戏 |
+| Foreground | Anchor, lead, framing | Defocused branches, table edge, door frame, ground texture | May be soft or dark; not the lead; takes 10–30% of the frame (rule of thumb) |
+| Midground | The subject's stage | People, products, the event's subject | Where focus sits; strongest value and contrast |
+| Background | Context, atmosphere | Sky, distant mountains, city outline, defocused bokeh | Simplify or defocus; prevent it from stealing the scene |
 
-### 帧密度判据（经验值）
+### Frame-density criteria (rules of thumb)
 
-- 主视觉占比 ≥40% 的画面（海报/封面类）至少呈现 3 个层次；不足三层即"平"。
-- 层次可数：眯眼测试后仍能数出"前景物/主体/背景物"三档分离即为合格（见 D5/tests）。
+- A frame whose main visual takes ≥40% (poster / cover type) must show at least 3 layers; fewer than three reads as "flat".
+- Layers are countable: after the squint test you can still count three separated grades — foreground object / subject / background object — and the frame passes (see D5/tests).
 
-### 大气透视（atmospheric perspective）
+### Atmospheric perspective
 
-| 维度 | 近 | 远 |
+| Dimension | Near | Far |
 |---|---|---|
-| 清晰度 | 实、细节多 | 虚、细节衰减 |
-| 明度 | 深（暗部更深） | 浅、趋灰 |
-| 色温 | 偏暖 | 偏冷 |
-| 饱和度 | 高 | 低 |
-| 反差 | 强 | 弱 |
+| Sharpness | Solid, detailed | Soft, detail decays |
+| Value | Deep (shadows deeper) | Pale, drifting to gray |
+| Color temperature | Warmer | Cooler |
+| Saturation | High | Low |
+| Contrast | Strong | Weak |
 
-风景与城市场景按此表逐层递进，纵深即刻成立；雾天/逆光场景是大气的极端化（远层几乎消失）。
+Landscape and city scenes advance layer by layer along this table and depth immediately holds; fog and backlight are the extreme form of atmosphere (the far layer nearly disappears).
 
-### 压平四病因（画面"扁"的诊断）
+### Four causes of flattening (diagnosing a "flat" frame)
 
-1. **无前景层**：只有主体+背景两层。修法：加前景锚（虚化物/暗角物/框沿）。
-2. **主体与背景明度融合**：主体明度与背景接近，轮廓消失（主体背景融壁，见 D7/fault-library）。修法：拉开明度差 ≥2 档，或换背景。
-3. **无大气渐变**：全画面同清晰度同饱和。修法：给远层降饱和降对比加灰（或在构思里指定雾/光雾/逆光）。
-4. **全景深无虚实**：处处实焦=处处同权重。修法：定景深策略（浅景深分离主体，或超焦距时用明度/色温分层替代）。
+1. **No foreground layer**: only subject plus background, two layers. Fix: add a foreground anchor (a defocused object / a dark corner element / a frame edge).
+2. **Subject and background fuse in value**: the subject's value is close to the background and its outline disappears (subject-background fusion, see D7/fault-library). Fix: open the value gap to ≥2 stops, or change the background.
+3. **No atmospheric gradient**: the whole frame shares one sharpness and one saturation. Fix: reduce saturation, reduce contrast, add gray to the far layer (or specify fog / light haze / backlight at concept stage).
+4. **Deep DoF everywhere with no sharp-soft separation**: everything in focus = everything at equal weight. Fix: set a DoF strategy (shallow DoF to separate the subject, or, at hyperfocal distance, substitute value / color temperature layering).
 
-## 边界
+## Boundaries
 
-- 平面化是合法风格（剪纸感、插画平涂、填充式图案）——有意压平时三层结构让位于图案与轮廓，勿用纵深尺批评它；但要能说清"这是风格，不是没做到"。
-- 纵深与"主体占比"联动：环境人像纵深靠层，特写纵深靠虚实与光比。
-- 层间遮挡要防"不良合并"（相切不叠压），见 edges-cropping。
+- Flatness is a legitimate style (paper-cut feel, flat illustration, fill-the-frame pattern) — when flattening is intentional the three-layer structure yields to pattern and outline; do not judge it with the depth ruler, but be able to state clearly "this is a style, not a failure".
+- Depth interacts with subject share: environmental portraits build depth through layers, close-ups through sharpness and lighting ratio.
+- Inter-layer occlusion must avoid "bad merging" (tangency without overlap); see edges-cropping.
 
-## 反例
+## Counterexamples
 
-- 反例 1：人贴着一面白墙站着——两层、零遮挡、零大气，人像剪纸。修法：人前移让墙退远成虚化背景，或改角度引入门框/走廊纵深。
-- 反例 2：远山画得比中景树更清晰更暖——大气倒挂，空间读反。
-- 反例 3：三层都有，但前景是清晰抢戏的大物件——前景喧宾夺主。前景默认虚/暗/边缘化。
+- Counterexample 1: a person standing against a white wall — two layers, zero occlusion, zero atmosphere, the portrait reads as a paper cutout. Fix: move the person forward so the wall recedes into a defocused background, or change the angle to bring in a door frame or corridor depth.
+- Counterexample 2: distant mountains rendered sharper and warmer than a midground tree — atmospheric inversion, the space reads backwards.
+- Counterexample 3: all three layers present, but the foreground is a sharp, scene-stealing large object — the foreground takes over. By default the foreground is soft, dark, and pushed to the edge.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 景深三因子：见 D4/dof；透视造深：见 D4/perspective
-- 框中框是纵深+聚焦的复合件：见 framing.md
-- 主体背景分离的光学手段：见 D2/tonality（明度差）
-- 纵深扁平的诊断入口：见 D7/cause-tree（纵深扁平分支）
-- 三层规则作为流派思想：见 modes/schools/optics.md、cinematic-director.md
+- The three factors of depth of field: see D4/dof; perspective as a depth builder: see D4/perspective
+- Frame within a frame as a depth-plus-focus composite: see framing.md
+- Optical means for separating subject from background: see D2/tonality (tonal separation)
+- Diagnostic entry for flat depth: see D7/cause-tree (flat-depth branch)
+- The three-layer rule as a school of thought: see modes/schools/optics.md, cinematic-director.md

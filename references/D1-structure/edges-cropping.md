@@ -1,56 +1,56 @@
-# D1 · 边角与裁切（Edges & Cropping）
+# D1 · Edges and Cropping
 
-> 本文件管：边缘入侵、不良合并、切线事故、关节裁切禁忌、安全区、溢出校正。
-> 怎么用：构图收尾时的边缘扫描清单；诊断"说不出但看着难受"时优先查边角。
+> This file covers: edge intrusion, bad merging, tangent accidents, the joint-cutting prohibition, the safe area, and the overflow correction ladder.
+> How to use: the edge-scan checklist when finishing a composition; when diagnosing "I can't say why, but it bothers me", check the edges first.
 
-## 定义
+## Definition
 
-边角与裁切＝画面四边四角与内容的相接方式。边角是画面里"最便宜的地带"——最容易塞进无意识杂物、最容易发生相切事故、也最常被平台二次裁切。
+Edges and cropping = the way the four borders and four corners of the frame meet the content. The edges are the "cheapest territory" in a frame — the easiest place for unconscious clutter to land, the easiest place for tangent accidents to happen, and the part most often re-cropped by platforms.
 
-## 机制
+## Mechanism
 
-观者的视线会巡游到每一条边（边缘扫描是本能）。边上出现半截物、相切线、突兀裁断，都会把注意力拽离主体——且因为发生在余光区，干扰是"隐性的难受"，用户常能感到问题却说不清位置。裁切则是对内容边界的声明：切对了（形状之间）是设计与亲密感，切错了（关节上、切线上）是事故。
+The viewer's gaze patrols every edge (edge scanning is instinctive). A half object on an edge, a tangent line, an abrupt cut — each drags attention away from the subject, and because it happens in peripheral vision the disturbance is "a discomfort you cannot name": users feel the problem but cannot locate it. Cropping is a declaration about the boundary of content: cut correctly (between shapes) and it is design and intimacy; cut wrongly (on a joint, on a tangent) and it is an accident.
 
-## 判据
+## Criteria
 
-### 边缘四查（收尾必过）
+### The four edge checks (mandatory at finishing)
 
-1. **边缘入侵**：四边是否伸进半截的、不可辨认的、非设计物（半只杯子、一截手臂、半块招牌）？原则：边缘元素要么完整参与叙事，要么彻底出画，不留"半截"。
-2. **不良合并（tangents / merges）**：主体轮廓是否与背景物相切/粘连（头顶长树、肩上生灯）？相切即事故——要么拉开距离，要么明确叠压（遮挡要"盖过去"，不要"刚好碰到"）。
-3. **切线事故**：画框边、地平线、结构线是否恰好擦过主体关键部位（脖子、手腕、眼睛高度）？擦线即撞线，挪动主体或画框。
-4. **角部负载**：四角是否过重（深色大块、杂物堆）把视线钉死在角上？角落宜轻、宜虚、宜暗部安静。
+1. **Edge intrusion**: does any of the four borders admit a half, unrecognizable, or undesigned object (half a cup, a slice of arm, half a sign)? Principle: an edge element either participates fully in the narrative or leaves the frame entirely — no "halves".
+2. **Bad merging (tangents / merges)**: does the subject's outline touch or stick to a background object (a tree growing out of the head, a lamp sprouting from a shoulder)? Tangency is an accident — either open the distance or overlap explicitly (occlusion must "cover over", never "just touch").
+3. **Tangent accident**: does the border, horizon, or a structural line graze a key part of the subject (neck, wrist, eye height)? Grazing is collision; move the subject or the frame.
+4. **Corner load**: are the four corners too heavy (large dark masses, piles of clutter) so that the gaze is pinned into a corner? Corners should be light, soft, and quiet in shadow.
 
-### 裁切禁忌（人物）
+### Cropping prohibitions (people)
 
-- **禁切关节**：颈、肩、肘、腕、髋、膝、踝——切在关节上肢体读作"被截断"。
-- **切在关节之间**：大腿中段、上臂中段、躯干中段是安全切位。
-- 面部：绝不切下巴/额头中线（切顶发可接受，切至眉眼即事故）；特写构图先保眼位与发际缓冲（headroom 见 D4/framing-room）。
+- **Never cut a joint**: neck, shoulder, elbow, wrist, hip, knee, ankle — a limb cut on a joint reads as "amputated".
+- **Cut between joints**: mid-thigh, mid-upper-arm, mid-torso are safe cutting positions.
+- Face: never cut the chin or the midline of the forehead (cutting the top of the hair is acceptable, cutting down to the brow line is an accident); in close-up composition protect the eye position and the hairline buffer first (headroom, see D4/framing-room).
 
-### 安全区
+### Safe area
 
-- 主体关键信息保持在中央 60–80% 区域（与 D1/aspect-ratio 安全区一致；投放裁切不可预知时取保守值 60%）；四边 10–20% 为可牺牲带。
-- 文字类元素的安全边距还要更大（顶部/底部避让带）。
+- Keep the subject's key information within the central 60–80% (consistent with the safe area in D1/aspect-ratio; take the conservative 60% when delivery cropping cannot be predicted); the outer 10–20% is the sacrifice band.
+- Text elements need even larger safe margins (top and bottom avoidance bands).
 
-### 溢出校正阶梯（内容溢出/贴边时的处理顺序）
+### Overflow correction ladder (the order of handling when content overflows or presses the edge)
 
-1. 缩小主体占比（退一步）→ 2. 平移主体离开边缘 → 3. 裁掉多余延伸物 → 4. 用前景虚化物"接住"边缘（把边缘变成设计）→ 5. 换画幅比例重排。
+1. Reduce the subject's share (step back) → 2. Shift the subject away from the edge → 3. Crop the excess extension → 4. "Catch" the edge with a defocused foreground object (turn the edge into design) → 5. Change the aspect ratio and re-lay out.
 
-## 边界
+## Boundaries
 
-- 破格设计（元素故意出血出画）是合法手法——判据是"出血方向与动势一致+核心特征完整"；无意图的出血与有意图的出血，差距在是否说得出为什么。
-- 极简画面的大空边缘（四角全空）不是"角部负载过轻"的问题，是风格本体；本文件规则服务于"有内容却难受"的画面。
-- 倾斜地平线（荷兰角）不属于本文件管辖（见 D4/angle），但倾斜后边角负载会重排，需重新四查。
+- Breaching design (an element deliberately bleeding out of frame) is a legitimate device — the criteria are "bleed direction consistent with the momentum plus core features complete"; the gap between unintended and intended bleeding is whether you can say why.
+- The vast empty edges of a minimal frame (all four corners empty) are not a case of "corner load too light" but the style itself; this file's rules serve frames that "have content yet feel wrong".
+- A tilted horizon (Dutch angle) is outside this file's scope (see D4/angle), but tilting re-sorts corner loads, so the four checks must be redone.
 
-## 反例
+## Counterexamples
 
-- 反例 1：全身像脚踝处被画框切断——像陷进地面。修法：脚下移 10% 或切在胫骨中段。
-- 反例 2：人头后方的灯杆顶端与头顶相切——"长角"。修法：挪半步让杆完全盖过头（叠压）或完全分离。
-- 反例 3：右上角一坨虚化光斑过亮——视线被钉在角上进不了画面。修法：压暗或缩小光斑，让角让位于主体。
+- Counterexample 1: a full-body portrait cut at the ankle — the figure looks sunk into the ground. Fix: move the feet down 10%, or cut at mid-shin.
+- Counterexample 2: the top of a lamp post behind a head tangent to the crown — "horns". Fix: shift half a step so the post either covers the head fully (overlap) or separates fully.
+- Counterexample 3: a blob of defocused bokeh too bright in the upper-right corner — the gaze is pinned in the corner and never enters the frame. Fix: darken or shrink the blob; let the corner yield to the subject.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 平台裁切与中央安全区：见 D1/aspect-ratio
-- 叠压与层次的正面设计：见 depth-layering、framing.md
-- 相切类故障的完整清单：见 D7/fault-library（边缘事故类）
-- 边缘扫描的操作法：见 D5/tests
-- 商业画面的裁切纪律：见 modes/schools/commercial.md
+- Platform cropping and the central safe area: see D1/aspect-ratio
+- Overlap and layering as positive design: see depth-layering, framing.md
+- The full list of tangency faults: see D7/fault-library (edge-accident family)
+- Operational method of edge scanning: see D5/tests
+- Cropping discipline in commercial frames: see modes/schools/commercial.md

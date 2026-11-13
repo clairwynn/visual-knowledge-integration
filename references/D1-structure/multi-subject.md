@@ -1,74 +1,74 @@
-# D1 · 多主体布局（Multi-Subject Layout）
+# D1 · Multi-Subject Layout
 
-> 本文件管：多主体/多物体的空间组织——显式计数、区域分配、共享表面锚定、同类实体防融、行列分区、三角调度、非对称配对、朝向一致性。
-> 怎么用：画面里出现 ≥2 个主体/物体时的布局规则；组图里单幅多物时同样适用。
+> This file covers: spatial organization for several subjects or objects — explicit counting, zonal allocation, shared-surface anchoring, preventing similar entities from fusing, row-and-column partitioning, triangular blocking, asymmetrical pairing, and facing consistency.
+> How to use: the layout rules whenever ≥2 subjects or objects appear in one frame; also applies to single frames within a set that contain several objects.
 
-## 定义
+## Definition
 
-多主体布局＝在单幅画面内为多个主体分配位置、大小、朝向与相互关系，使"数得清、看得懂、关系明"。
+Multi-subject layout = assigning position, size, facing, and mutual relation to several subjects inside one frame so that they read as "countable, legible, and related".
 
-## 机制
+## Mechanism
 
-观者对多物画面的第一问是"有几个、谁主谁次"。布局要替观者回答：用**大小/明度/位置/隔离度**建立权重序（主次），用**朝向与距离**建立关系（对话/对抗/同向/无视）。多物画面的失败几乎都是权重序崩塌（人人都是主角=没人被看见）或关系不明（不知他们在干什么）。
+The viewer's first question about a multi-object frame is "how many are there, and who leads". Layout must answer for the viewer: build a weight order (primary vs secondary) through **size / value / position / isolation**, and build relations (dialogue / confrontation / same direction / mutual disregard) through **facing and distance**. Failures in multi-object frames are almost always a collapse of the weight order (everyone a protagonist = no one seen) or an unclear relation (you cannot tell what they are doing).
 
-## 判据
+## Criteria
 
-### 显式计数
+### Explicit counting
 
-设计时明确"画面有几个主体、几个次要物、几个背景物"，并在描述中直接写数量。画面元素的数目越显式，越不容易"多一个少一个"；同类物件尤其要先报数。
+At design time, state plainly "how many subjects, how many secondary objects, how many background objects" and write the numbers into the description. The more explicit the element count, the less likely "one too many or one too few"; for objects of the same class, report the count first.
 
-### 区域分配法
+### Zonal allocation
 
-把画幅预先划区（左右对分/三横带/九宫格），一主体一区，禁止两主体挤同一区：
-- **双主体**：左右对分（对峙）或 1/3–2/3 分（主次）；权重靠大小差与明度差拉开。双人关系词汇三档（经验值）：**镜像对称**（等权呼应）、**正反相对**（朝向/姿态互为反面，对峙最强）、**旋转对称**（同构旋转一角的呼应，起舞/角力）——三档覆盖双人关系构图的主要语法。
-- **三主体**：三角站位（三角形构图，见 composition-types-2）——不等边三角最自然，等边三角最呆。
-- **多主体（4+）**：改用行列表（见下）或分组（2+2、3+1 的成组逻辑），散点无组即乱。
+Pre-divide the frame (left-right halves, three horizontal bands, nine-cell grid), one subject per zone, never two subjects crowded into one zone:
+- **Two subjects**: split left-right (confrontation) or 1/3–2/3 (primary and secondary); separate the weights with size and value differences. Three grades of two-person relation vocabulary (rules of thumb): **mirror symmetry** (equal-weight echo), **positive-negative opposition** (facing or posture each the reverse of the other, the strongest confrontation), **rotational symmetry** (an echo rotated one corner, dancing or wrestling) — the three cover the main grammar of two-person composition.
+- **Three subjects**: triangular staging (triangular composition, see composition-types-2) — a scalene triangle reads most natural, an equilateral one most inert.
+- **Many subjects (4+)**: switch to a row-and-column table (below) or to grouping (the 2+2 or 3+1 grouping logic); scattered points without grouping read as chaos.
 
-### 共享表面锚定
+### Shared-surface anchoring
 
-多物体漂浮是常见事故：物体须落在可读的表面上（同一桌面/同一地面线/同一台座），或与锚定物接触（靠墙、入筐、握手）。判据：每个物体都能回答"它立在/挂在/放在哪"；影子是 cheapest 的锚（着地影即着地）。
+Floating objects are a common accident: every object must sit on a readable surface (the same tabletop, the same ground line, the same pedestal) or contact an anchor (lean on a wall, sit in a basket, hold a hand). Criterion: each object can answer "where does it stand, hang, or rest"; a shadow is the cheapest anchor (a contact shadow = contact with ground).
 
-### 同类实体防融
+### Preventing similar entities from fusing
 
-同类物（双瓶、人群、重复椅）相邻排列会发生"融合"——轮廓粘连读成一个异物。三招：
-1. **拉开间距**（间距 ≥ 单物宽度的 1/4，经验值）；
-2. **大小/朝向错开**（高低差、转向差制造个体性）；
-3. **明度错开**（前后物明度分档）。
+Similar objects placed side by side (two bottles, a crowd, repeated chairs) will "fuse" — outlines stick together and read as one foreign body. Three moves:
+1. **Open the spacing** (spacing ≥ 1/4 of a single object's width, rule of thumb);
+2. **Stagger size and facing** (height differences and turn differences create individuality);
+3. **Stagger value** (assign different value grades to near and far objects).
 
-### 行列分区（grid layout）
+### Row-and-column partition (grid layout)
 
-物件群（货架、菜市、九宫格产品）用行×列逻辑排布：每格一物、行距列距一致、格内留白一致；远到近的层叠要声明遮挡顺序（前排完整、后排被切上半——遮挡讲道理，见 depth-layering）。
+Groups of objects (shelves, market stalls, nine-cell product grids) are laid out on a row × column logic: one object per cell, consistent row and column spacing, consistent inner margins; for near-to-far stacking declare the occlusion order (the front row complete, the back row cut at the top — occlusion must make sense, see depth-layering).
 
-### 三角调度（blocking，源自场面调度的单帧化）
+### Triangular blocking (blocking, derived from staging, reduced to a single frame)
 
-三人及以上的情节画面：站位构成三角，主角色占主导顶点；视线与身体朝向沿三角边流动，关系读作"谁对着谁"。
+For narrative frames with three or more people: the positions form a triangle, the protagonist taking the dominant vertex; gazes and body facings flow along the triangle's edges, and the relation reads as "who is facing whom".
 
-### 非对称配对（双人画面的权重）
+### Asymmetrical pairing (weight in a two-person frame)
 
-- 主者：更大/更亮/更靠前/更完整；次者：更小/更暗/更靠边/被部分遮挡。
-- 双人均势才用对称对分；要主次就别均分（均分+主次意图矛盾是常见事故）。
+- The lead: larger / brighter / more forward / more complete; the secondary: smaller / darker / closer to the edge / partly occluded.
+- Use symmetrical splitting only when both parties are meant to be equal; if you want hierarchy, do not split evenly (an even split plus a hierarchical intent is a common accident).
 
-### 朝向一致性（屏幕地理的单帧版）
+### Facing consistency (the single-frame version of screen geography)
 
-- 对话：两人相向（脸对脸的延长线相交）。
-- 同行：两人同向，朝向一致且视线前方留白（lead room，见 D4/framing-room）。
-- 越轴提醒：若这单帧属于序列，保持与相邻帧一致的左右关系（朝向在序列里要连续，见 modes/function/sequence.md）。
+- Dialogue: the two face each other (the extended lines of their faces intersect).
+- Walking together: the two face the same direction, consistent, with lead room ahead of the gaze (see D4/framing-room).
+- Crossing-the-line reminder: if this frame belongs to a sequence, keep the left-right relation consistent with adjacent frames (facing must stay continuous across the sequence, see modes/function/sequence.md).
 
-## 边界
+## Boundaries
 
-- 人群（10+ 个个体）不再是"多主体布局"而是"质感与图案"（个体让位于群体形状与节奏，见 composition-types-2 图案重复）；布一个群体剪影/形状，不逐个管理。
-- 多主体+多图序列时，单帧布局先服务本帧关系，再服务序列变化（帧间至少两维变化）。
+- A crowd (10+ individuals) is no longer "multi-subject layout" but "texture and pattern" (the individual yields to the group's shape and rhythm, see pattern repetition in composition-types-2); block a crowd silhouette or shape rather than managing each person.
+- With multiple subjects across a sequence, single-frame layout serves this frame's relations first, then the sequence's variation (at least two dimensions change between frames).
 
-## 反例
+## Counterexamples
 
-- 反例 1：双人对峙却画成一前一后几乎重叠——关系读成"跟随"而非"对峙"。修法：横向分开+视线相交。
-- 反例 2：桌上五只杯子大小朝向完全一致——阵列感压过生活感且两两粘连。修法：错落（间距/高低/朝向三差）。
-- 反例 3：三人画面两个在光里一个在暗里，但暗的那个才是主角——权重序与叙事意图打架。光比也是权重：把主角放进光里，或明确"暗处主角"的压场设计（明度差反向+构图聚焦）。
+- Counterexample 1: a two-person confrontation drawn nearly overlapping front to back — the relation reads as "following", not "confronting". Fix: separate them laterally and let the gazes intersect.
+- Counterexample 2: five cups on a table identical in size and facing — the array overwhelms the sense of life and every pair sticks together. Fix: stagger (spacing, height, and facing differences).
+- Counterexample 3: in a three-person frame two stand in the light and one in shadow, but the shadowed one is the protagonist — the weight order fights the narrative intent. Lighting ratio is also weight: put the protagonist in the light, or design an explicit "protagonist in shadow" press (reverse value gap plus compositional focus).
 
-## 与其他文件的连接
+## Connections to other files
 
-- 三角形构图本体：见 composition-types-2
-- 区域分配与占空：见 spatial-allocation
-- 遮挡顺序与纵深：见 depth-layering
-- 序列帧间的朝向连续：见 modes/function/sequence.md
-- 多主体的故障诊断：见 D7/fault-library（主体类）
+- Triangular composition itself: see composition-types-2
+- Zonal allocation and space occupancy: see spatial-allocation
+- Occlusion order and depth: see depth-layering
+- Facing continuity across sequence frames: see modes/function/sequence.md
+- Fault diagnosis for multiple subjects: see D7/fault-library (subject family)

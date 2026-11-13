@@ -1,62 +1,62 @@
-# D1 · 框中框（Frame Within a Frame）
+# D1 · Frame Within a Frame
 
-> 本文件管：双边界机制、框的三大谱系、框暗主亮判据、框的五重构图职能、三层纵深堆栈、框的失效条件。
-> 怎么用：需要"一次拿到聚焦+纵深+窥视感"时的优先选项；框景元素（门窗/枝叶/镜面）设计时查本文件。
+> This file covers: the double-boundary mechanism, the three lineages of frames, the dark-frame-bright-subject criterion, the five compositional functions of a frame, the three-layer depth stack, and the failure conditions of framing.
+> How to use: the preferred option when "focus + depth + a sense of voyeurism" must be obtained at once; consult it when designing framing elements (door, window, branches, mirror).
 
-## 定义
+## Definition
 
-框中框（frame within a frame）＝在画幅边框之内，再用画面元素围合出第二层边框，主体置于内框之中。内框完成"画面里的画面"。
+Frame within a frame = enclosing a second boundary inside the frame's own border using elements within the scene, with the subject placed inside that inner frame. The inner frame completes "a picture inside the picture".
 
-## 机制
+## Mechanism
 
-内框同时做三件事：①**再取景**——把观众的取景器从画幅缩小到内框，聚焦强制升级；②**纵深声明**——内框物本身占据一个层次（通常前景），它一出现画面立即获得"框（前）—主体（中）—框外（后）"的纵深堆栈；③**关系设定**——框是遮蔽与选择的修辞：我们"透过什么"看主体，就是在定义主体与观看者的关系（窥视、庇护、禁锢、荣耀，取决于框的性质）。
+The inner frame does three things at once: (1) **re-framing** — it shrinks the viewer's viewfinder from the whole frame to the inner frame, forcing focus up a grade; (2) **a declaration of depth** — the framing object occupies a layer of its own (usually foreground), and the moment it appears the frame gains a depth stack of "frame (front) — subject (middle) — beyond the frame (back)"; (3) **a setting of relationship** — the frame is the rhetoric of concealment and selection: what we look *through* defines the relation between subject and viewer (voyeurism, shelter, confinement, exaltation, depending on the nature of the frame).
 
-## 判据
+## Criteria
 
-### 框的三大谱系
+### The three lineages of frames
 
-| 谱系 | 元素 | 修辞色彩 |
+| Lineage | Elements | Rhetorical color |
 |---|---|---|
-| 建筑框 | 门、窗、拱、廊柱、车窗 | 秩序、庇护、仪式、凝视 |
-| 自然框 | 树枝、岩洞、花丛、草叶 | 亲密、发现、野趣 |
-| 物与镜面框 | 镜子、相框、屏幕、孔洞、双手围合 | 自反、多义、叙事嵌套 |
+| Architectural frame | Doors, windows, arches, colonnades, car windows | Order, shelter, ritual, gaze |
+| Natural frame | Branches, caves, flower masses, grass blades | Intimacy, discovery, wildness |
+| Object and mirror frame | Mirrors, picture frames, screens, holes, hands cupped | Self-reflection, ambiguity, nested narrative |
 
-### 五重构图职能（设计时明确取哪一种）
+### The five compositional functions (decide which one you are taking)
 
-1. **分隔**：把主体世界与外部噪声隔开。
-2. **聚焦**：明度与形状把眼睛压进内框。
-3. **强调/荣耀**：拱与廊的仪式性抬升（建筑框特有）。
-4. **叙事**：框的性质成为故事的一部分（窗内的人、洞外的光）。
-5. **纵深**：框物天然充当前景层。
+1. **Separation**: cut the subject's world off from outside noise.
+2. **Focus**: value and shape press the eye into the inner frame.
+3. **Emphasis / exaltation**: the ritual lift of arches and colonnades (specific to architectural frames).
+4. **Narrative**: the nature of the frame becomes part of the story (the person inside the window, the light outside the cave).
+5. **Depth**: the framing object naturally serves as the foreground layer.
 
-### 框暗主亮判据（核心量化规则）
+### Dark frame, bright subject (the core quantitative rule)
 
-内框区域的明度应**暗于**内框中的主体区（经验值：至少 1–2 档），形成"暗框亮主"的明度分离——亮对暗的对比会把眼睛锁进内框。反例是亮框暗主（逆光窗框+逆光人剪影属例外，此时剪影即主体宣言）。操作：让框处于阴影/背光/低饱和，让主体区受光或有光源。
+The value of the inner frame region should be **darker** than the subject area inside it (rule of thumb: at least 1–2 stops), creating a "dark frame, bright subject" tonal separation — bright against dark locks the eye inside the inner frame. The counterexample is a bright frame around a dark subject (a backlit window frame plus a backlit silhouette is the exception, where the silhouette itself is the declaration of the subject). Operation: put the frame in shadow, backlight, or low saturation, and let the subject area receive light or hold a light source.
 
-### 设计判据
+### Design criteria
 
-- 内框形状与主体形状呼应（圆拱配人立、方窗配静物）但不完全重合——留出框内呼吸。
-- 内框入画深度：框沿占画幅 10–25%（经验值），过厚喧宾夺主，过薄失效。
-- 内框不必四边齐全：两边框、一角框、"半框"（门开一半）都成立，完整四边框反而呆板。
-- 框可虚：焦外柔焦框（前景框虚化）既加纵深又不抢注意力，常常优于实焦框（经验值，虚化机理见 D4/dof）。
-- 双层框（窗内再挂画）可做嵌套叙事，层数 ≤2 层（经验值）。
+- The shape of the inner frame echoes the subject's shape (round arch with a standing figure, square window with still life) but does not coincide exactly — leave breathing room inside the frame.
+- Depth of the inner frame as it enters the picture: the frame edge takes 10–25% of the frame (rule of thumb); too thick and it steals the scene, too thin and it fails.
+- The inner frame need not be complete on all four sides: two-side frames, one-corner frames, and "half frames" (a half-open door) all work; a complete four-sided frame often turns inert.
+- The frame may be soft: an out-of-focus frame (a defocused foreground frame) adds depth without competing for attention and often beats a sharp frame (rule of thumb; the defocus mechanism is in D4/dof).
+- Double frames (a picture hanging inside a window) can build nested narrative, up to ≤2 layers (rule of thumb).
 
-## 边界
+## Boundaries
 
-- 框过重（前景框太大太实太亮）会把画面变成"框的照片"——框永远为引出主体服务。
-- 框与引导线职能重复时（框边又是一条强对角线）路径会打架，让框收在线上、引导线从框口进。
-- 多图序列中框中框至多用一次（聚焦手段显眼，重复即套版）。
+- A frame that is too heavy (the foreground frame too large, too solid, too bright) turns the picture into "a photograph of a frame" — the frame always serves to bring the subject out.
+- When the frame duplicates the role of a leading line (the frame edge is also a strong diagonal), the paths fight; let the frame settle onto the line and let the leading line enter through the frame's opening.
+- Across an image sequence, frame within a frame is used at most once (the device is conspicuous; repetition becomes a template).
 
-## 反例
+## Counterexamples
 
-- 反例 1：亮窗+暗室内人剪影，但意图是看清人脸——框亮主暗与意图相反。修法：人面向窗光（受光），或改逆光剪影宣言。
-- 反例 2：树枝框占了画面一半且清晰锐利——观众在看树枝。修法：虚化树枝、压缩其占比、压暗其明度。
-- 反例 3：拱门框中的人又被第二根柱子切过——框内再叠切线事故。框内空间同样要过 edges-cropping 四查。
+- Counterexample 1: a bright window with a silhouette of a person in a dark room, but the intent is to see the face — bright frame and dark subject contradict the intent. Fix: turn the person toward the window light (lit), or commit to a backlit silhouette declaration.
+- Counterexample 2: a branch frame takes half the frame and stays sharp — the viewer is looking at the branches. Fix: defocus the branches, compress their share, lower their value.
+- Counterexample 3: a person inside an archway frame is then cut by a second column — a tangent accident layered inside the frame. The space inside the frame must also pass the four edge checks of edges-cropping.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 框作为前景层：见 depth-layering
-- 明度分离的光学实现：见 D2/tonality
-- 框与窥视/叙事修辞：见 modes/schools/cinematic-director.md
-- 框沿与画框的相切检查：见 edges-cropping
-- 框中框的聚焦评分：见 D7/review-gates
+- The frame as a foreground layer: see depth-layering
+- The optical implementation of tonal separation: see D2/tonality
+- Framing and the rhetoric of voyeurism / narrative: see modes/schools/cinematic-director.md
+- Tangency check between frame edge and picture border: see edges-cropping
+- Focus scoring of frame within a frame: see D7/review-gates

@@ -1,142 +1,142 @@
-# D1 · 构图型谱系（下）：居中系与其余构图型
+# D1 · Composition-Type Lineage (Part 2): The Centered Family and the Remaining Types
 
-> 本文件管：居中对称、破对称、对角、S 曲线、放射、三角、框中框（指针）、图案重复、日之丸、填充式、负空间构图（指针）等其余构图型。
-> 怎么用：三分系谱不合适（要庄重、要动感、要图案化、要呼吸感）时，按条目选型；每型给出定义/几何/适用/失效条件四件。
+> This file covers: centered symmetry, deliberate asymmetry, diagonal, S-curve, radial, triangular, frame within a frame (pointer), pattern repetition, sun-disc, fill the frame, negative-space composition (pointer), and the remaining types.
+> How to use: when the rule-of-thirds lineage does not fit (you need gravity, momentum, pattern, or breathing room), select a type from the entries; each type is given four parts — definition / geometry / use / failure conditions.
 
-## 定义
+## Definition
 
-构图型的另一半版图：以"中心、线条方向、重复、围合、空白"为结构本的型别。选型逻辑是**先定画面的第一动势**（静/动/深/繁/空），再取对应型。
+The other half of the composition-type map: types structured on center, line direction, repetition, enclosure, and emptiness. Selection logic: **first fix the frame's primary movement (still / moving / deep / dense / empty)**, then take the matching type.
 
-## 各型条目
+## Entries
 
-### 居中对称（centered / symmetrical）
+### Centered symmetry (centered / symmetrical)
 
-- **几何**：主体在画面中轴，左右（或上下）镜像或准镜像。
-- **效果**：庄重、仪式、稳定、纪念碑感；对称本身即秩序声明。
-- **判据**：中轴两侧视觉重量基本相等（权重差 ≤1 档，经验值）；地平线水平；主体无朝向性偏移（有朝向时对称被破坏，转为偏置逻辑）。
-- **适用**：建筑正立面、神像/肖像正面、产品居中图、仪式场景、倒影（水面/镜面天然对称）。
-- **失效条件**：需要叙事动势、需要在多图中做变化时；对称+对称的两张图并列＝重复。
+- **Geometry**: the subject on the central axis, mirrored or near-mirrored left-right (or top-bottom).
+- **Effect**: gravity, ritual, stability, monumentality; symmetry is itself a declaration of order.
+- **Criteria**: visual weight on both sides of the axis is essentially equal (weight difference ≤1 step, rule of thumb); the horizon is level; the subject carries no directional bias (a facing direction breaks the symmetry and moves the logic to off-centering).
+- **Use**: building facades, frontal deity or portrait images, centered product shots, ritual scenes, reflections (water and mirrors are naturally symmetrical).
+- **Failure conditions**: when narrative momentum is needed, or when variety is needed across a set; two symmetrical images placed side by side = repetition.
 
-### 破对称（deliberate asymmetry on symmetric base）
+### Deliberate asymmetry (asymmetry on a symmetric base)
 
-- **几何**：大体对称骨架上，用一个不对称元素（色块、人物视线、光源方向、缺口）打破。
-- **效果**：秩序中藏张力；比纯对称多一层"被安排过的故事"。
-- **判据**：80% 对称+1 个明确破口（经验值）；破口元素视觉重量足以被记住但不足以推翻骨架。
-- **适用**：海报、封面、需要"稳中带刺"的画面。
+- **Geometry**: a broadly symmetrical skeleton broken by one asymmetric element (color block, a figure's gaze, light direction, a gap).
+- **Effect**: tension held inside order; one more layer than pure symmetry — "a story that has been arranged".
+- **Criteria**: 80% symmetry plus one explicit breach (rule of thumb); the breaching element carries enough visual weight to be remembered but not enough to overturn the skeleton.
+- **Use**: posters, covers, frames that need to be "stable with a spike".
 
-### 对角构图（diagonal）
+### Diagonal
 
-- **几何**：主体或主线性结构沿画幅对角线（或近似对角）布置。
-- **效果**：最强的动势型；对角线是画幅内最长的线，天然制造运动感与不安定感。
-- **判据**：主轴与画框夹角 30–60°（经验值，过小接近水平、过大接近垂直都减势）；动势方向与叙事方向一致（左下→右上读作上升，反向读作坠落，见 types-1 方向语义）。
-- **适用**：运动、冲突、倾泻、透视强烈的街道/轨道。
-- **失效条件**：静态庄重题材；对角线指向画外无回收时视线直接出画（见 visual-path 视线出口）。
+- **Geometry**: the subject or the main linear structure laid along a frame diagonal (or near-diagonal).
+- **Effect**: the strongest movement type; the diagonal is the longest line available inside the frame and naturally produces a sense of motion and instability.
+- **Criteria**: the main axis sits at 30–60° to the frame (rule of thumb; too shallow approaches horizontal and too steep approaches vertical, both losing momentum); the direction of momentum matches the direction of narrative (lower-left → upper-right reads as ascent, the reverse as fall — see the directional semantics in types-1).
+- **Use**: motion, conflict, spill, streets and tracks with strong perspective.
+- **Failure conditions**: static, grave subjects; when the diagonal points out of frame with no recovery the gaze simply leaves (see visual-path, exit).
 
-### S 曲线构图（S-curve / arabesque）
+### S-curve (arabesque)
 
-- **几何**：画面主引导结构呈 S 形（河流、小径、人体曲线、衣摆）。
-- **效果**：优雅、绵延、时间感；曲线比直线慢，视线在画面里"游"而非"冲"。
-- **判据**：S 至少两个弯；曲线起点入画、终点落在主体或深处；中途不折断。
-- **适用**：风景（河流/山路）、人像体态、织物静物。
+- **Geometry**: the main leading structure takes an S form (river, path, body curve, drapery).
+- **Effect**: elegance, continuity, a sense of time; a curve is slower than a straight line — the eye "drifts" instead of "charging".
+- **Criteria**: the S has at least two bends; the curve enters the frame at its start and ends on the subject or in the depth; it is not broken midway.
+- **Use**: landscape (river / mountain road), portrait posture, fabric still life.
 
-### 放射构图（radial）
+### Radial
 
-- **几何**：线性元素从（或向）一个中心汇聚/发散：树冠、穹顶、爆裂、光线、人群围合。
-- **效果**：向心版＝聚焦强调；离心版＝爆发扩散。
-- **判据**：中心即焦点（向心）或中心即爆点（离心）；汇聚线 ≥3 条才成"放射"（经验值），两条只是引导线。
-- **适用**：天花板/穹顶仰视、树林仰拍、光芒、烟花、混乱场面。
+- **Geometry**: linear elements converge to or diverge from one center: tree crowns, domes, explosions, light rays, encircling crowds.
+- **Effect**: the centripetal version = focus and emphasis; the centrifugal version = burst and dispersion.
+- **Criteria**: the center is the focus (centripetal) or the blast point (centrifugal); at least 3 converging lines are needed to read as "radial" (rule of thumb) — two are merely leading lines.
+- **Use**: ceilings and domes seen from below, forests shot upward, rays of light, fireworks, chaotic scenes.
 
-### 三角形构图（triangular）
+### Triangular
 
-- **几何**：三个视觉重物构成三角。正三角（底宽顶尖）＝稳定庄重；倒三角＝不稳紧张；斜三角＝动势中间态。
-- **判据**：三顶点是画面三个注意锚；正三角底边水平。
-- **适用**：群像站位、多静物组合（经典静物画结构）、山体。
+- **Geometry**: three visual masses form a triangle. Upright triangle (wide base, pointed top) = stable and grave; inverted triangle = unstable and tense; slanted triangle = the intermediate state of momentum.
+- **Criteria**: the three vertices are the frame's three attention anchors; the base of the upright triangle is level.
+- **Use**: group staging, multi-object still life (the classic still-life structure), mountains.
 
-### 框中框（frame within a frame）
+### Frame within a frame
 
-- **几何**：画内再套一层框（门窗、拱、枝叶、镜面、洞口），主体在内框中。
-- **详文**：见 D1/framing（独立文件：双边界机制、框的谱系、框暗主亮判据）。
-- **适用速记**：需要聚焦+窥视感+纵深一次拿到时。
+- **Geometry**: a second frame inside the frame (door, window, arch, branches, mirror, cave mouth), with the subject inside the inner frame.
+- **Details**: see D1/framing (standalone file: the double-boundary mechanism, the lineage of frames, the dark-frame-bright-subject criterion).
+- **Use, in short**: when focus, voyeuristic distance, and depth are wanted all at once.
 
-### 图案重复（pattern / repetition）
+### Pattern repetition
 
-- **几何**：同类元素重复排布铺满画面；破格法＝在重复中放一个"异类"（不同色/向/量级）做焦点。
-- **效果**：节奏与数量美；破格点成为天然第一落点（孤立效应，见 D5/attention Von Restorff）。
-- **判据**：重复单元 ≥5 个成图案（经验值）；有破格点则该点承担焦点职能，无破格点则整体即主体。
-- **适用**：市场货物、人群、花田、建筑立面窗阵、静物阵列。
+- **Geometry**: similar elements repeated to fill the frame; the breach method = place one "odd one out" (different color / direction / scale) inside the repetition as the focus.
+- **Effect**: rhythm and the beauty of quantity; the breach point becomes the natural first landing point (isolation effect, see D5/attention, Von Restorff).
+- **Criteria**: at least 5 repeated units make a pattern (rule of thumb); if there is a breach point it takes on the focus role, if not the whole field is the subject.
+- **Use**: market goods, crowds, flower fields, window grids on facades, arrays of still objects.
 
-### 日之丸构图（日之丸構図 / sun-disc）
+### Sun-disc (sun-disc composition)
 
-- **几何**：单一圆形/团块主体居中，四周大面积均匀留白，如国旗上的日章。
-- **效果**：极端的静与孤；方幅最适配。
-- **判据**：主体为近似圆形或紧凑团块；留白 ≥60%（经验值）且质地均匀（见 spatial-allocation 质感化留白规范）。
-- **适用**：落日、单果、孤舟、极简海报。
-- **失效条件**：主体形状零碎、有朝向性时（朝向需要方向性留白，转负空间逻辑）。
+- **Geometry**: a single round or compact mass centered, with large even negative space around it, like the sun disc on a flag.
+- **Effect**: extreme stillness and solitude; the square frame suits it best.
+- **Criteria**: the subject is approximately round or a compact mass; negative space ≥60% (rule of thumb) and even in texture (see spatial-allocation, textured-negative-space rule).
+- **Use**: setting sun, single fruit, lone boat, minimal poster.
+- **Failure conditions**: when the subject shape is fragmented, or carries a facing direction (a facing direction needs directional negative space — the logic shifts to negative space).
 
-### 填充式构图（fill the frame）
+### Fill the frame
 
-- **几何**：主体撑满画幅，几乎不留环境。
-- **效果**：亲密、压迫、细节冲击；排除一切干扰。
-- **判据**：主体边界出画（被裁切）而核心特征完整；纹理/表情/材质为主要信息。
-- **适用**：面部特写、材质特写、食品近距离。
-- **失效条件**：需要环境叙事时；边缘裁切遵守 edges-cropping 关节禁忌。
+- **Geometry**: the subject fills the frame, leaving almost no environment.
+- **Effect**: intimacy, pressure, detail impact; every distraction excluded.
+- **Criteria**: the subject's boundary leaves the frame (is cropped) while its core features stay complete; texture, expression, or material is the main information.
+- **Use**: face close-up, material close-up, food shot close.
+- **Failure conditions**: when environmental narrative is needed; edge cropping must obey the joint prohibition of edges-cropping.
 
-### 负空间构图（negative space composition）
+### Negative-space composition
 
-- **几何**：主体占比小（≤35%，经验值），大部分画幅是有意设计的空。
-- **详文**：见 D1/spatial-allocation（占比带宽、三档情绪、质感化留白）。
-- **适用速记**：孤独/崇高/呼吸感/海报字位预留。
+- **Geometry**: the subject occupies a small share (≤35%, rule of thumb) and most of the frame is deliberately designed emptiness.
+- **Details**: see D1/spatial-allocation (share bands, three emotional grades, textured negative space).
+- **Use, in short**: solitude, sublimity, breathing room, reserved space for poster text.
 
-### 补充型别速览（次级构图型）
+### Supplementary types at a glance (secondary composition types)
 
-主清单之外的可命名型别，紧凑收录（四件套判据按其指向的主域文件执行）：
+Nameable types beyond the main list, collected compactly (their four-part criteria follow the main domain file each points to):
 
-| 型 | 几何/做法 | 效果与适用 |
+| Type | Geometry / method | Effect and use |
 |---|---|---|
-| 圆形/O 型 | 环形元素围合主体，或主体本身成环（花环、旋梯俯视、拱洞内旋） | 向心、包容、循环感；静物与装饰题材 |
-| L 型 | 主结构呈 L（桌沿+立物、地平线+竖塔） | 稳定中留一个开放象限；静物、室内 |
-| C 型 | 单弯大曲线（S 曲线的减配版） | 柔和引导；港岸、弯道、单弯道路 |
-| 十字型 | 横竖结构交叉，交点即焦点 | 仪式感、交汇叙事；交点管理是全部关键 |
-| 隧道/纵深型 | 一点透视强纵深（走廊、轨道、林间道） | 侵入感、目的地悬念；灭点规则见 D4/perspective |
-| 倒影对称 | 水面/镜面/湿地形成上下镜像 | 静谧、超现实感；真实倒影自带微破，反成自然 |
-| 立绘式 | 人物全身正立+均匀留白（浮世绘 tachi-e 传统） | 平面宣言、角色卡；人设图、游戏立绘 |
-| 散点式 | 多焦点等权平铺、无单一主体（东方平远同构） | 游观、市集全景；与晶格平衡同构 |
-| 对角分屏 | 对角线把画面分成两个色/光世界 | 对比叙事（明暗两半、冷暖两半） |
-| 剪影型 | 主体纯剪影+亮底 | 形状宣言；轮廓必须独特（见 D5/figure-ground） |
-| 焦点簇（抽象渐变） | 无具象主体：焦点簇（高饱和/高明度区）占 60–75%，余为渐变底；着色线 ≤20–30%（经验值） | 抽象海报、氛围底图；缩略图可读是唯一硬门 |
+| Circular / O | Ring elements enclose the subject, or the subject itself forms a ring (wreath, spiral stair seen from above, turning inside an arch) | Centripetal, containing, cyclic; still life and decorative subjects |
+| L-shape | Main structure forms an L (table edge plus standing object, horizon plus tower) | Stability with one open quadrant; still life, interiors |
+| C-shape | One large bending curve (a reduced S-curve) | Soft leading; harbors, bends, single-curve roads |
+| Cross | Horizontal and vertical structures intersect, the intersection being the focus | Ritual feel, crossing narratives; managing the intersection is the whole task |
+| Tunnel / depth | One-point perspective with strong depth (corridor, track, path through woods) | Intrusion, suspense about the destination; vanishing-point rules in D4/perspective |
+| Reflection symmetry | Water, mirror, or wet ground produces a top-bottom mirror | Quiet, surreal; real reflections carry a slight breach that reads as natural |
+| Standing figure | Full figure upright with even negative space (the ukiyo-e tachi-e tradition) | Flat declaration, character card; character sheets, game key art |
+| Scattered points | Multiple foci of equal weight laid flat, no single subject (isomorphic with the Eastern level-distance view) | Wandering viewing, market panoramas; isomorphic with lattice balance |
+| Diagonal split | The diagonal divides the frame into two worlds of color or light | Contrast narrative (light and dark halves, warm and cool halves) |
+| Silhouette | Subject as pure silhouette against a bright ground | Shape declaration; the outline must be distinctive (see D5/figure-ground) |
+| Focus cluster (abstract gradient) | No figurative subject: a focus cluster (high-saturation / high-value area) takes 60–75%, the rest a gradient ground; colored lines ≤20–30% (rules of thumb) | Abstract posters, atmospheric backgrounds; readability at thumbnail size is the only hard gate |
 
-以上次级型与主清单同规则：单幅主结构只取一个，型与型复合时保最服务意图的一型。
+These secondary types obey the same rules as the main list: one primary structure per single frame, and when types combine, keep the one that best serves the intent.
 
-## 选型决策表
+## Type-selection table
 
-| 画面第一动势 | 首选型 | 备选 |
+| Primary movement of the frame | First choice | Alternative |
 |---|---|---|
-| 静·庄重 | 居中对称 | 日之丸、正三角 |
-| 静·极简 | 日之丸 | 负空间构图 |
-| 动·冲撞 | 对角 | 倒三角 |
-| 动·绵延 | S 曲线 | 斜三角 |
-| 聚焦强调 | 放射（向心） | 框中框 |
-| 秩序+刺 | 破对称 | 图案重复+破格 |
-| 密集节奏 | 图案重复 | 填充式 |
-| 亲密压迫 | 填充式 | — |
-| 孤独崇高 | 负空间 | 日之丸 |
+| Still · grave | Centered symmetry | Sun-disc, upright triangle |
+| Still · minimal | Sun-disc | Negative-space composition |
+| Moving · collision | Diagonal | Inverted triangle |
+| Moving · continuity | S-curve | Slanted triangle |
+| Focus and emphasis | Radial (centripetal) | Frame within a frame |
+| Order plus a spike | Deliberate asymmetry | Pattern repetition plus breach |
+| Dense rhythm | Pattern repetition | Fill the frame |
+| Intimate pressure | Fill the frame | — |
+| Solitude and sublimity | Negative space | Sun-disc |
 
-## 边界
+## Boundaries
 
-- 单幅画面允许主型+副型复合（如框中框内走对角），但**主结构只取一个**——多规则冲突时保留最服务意图的一型，其余降为辅助（规则冲突原则）。
-- 组图场景下同一构图型在同一序列中不重复超过一次（多样性硬规则，见 modes/function/sequence.md）。
+- A single frame may combine a primary and a secondary type (e.g. a diagonal running inside a frame within a frame), but **the primary structure is only one** — when rules conflict, keep the type that best serves the intent and demote the rest to support (the rule-conflict principle).
+- Across a set, the same composition type is not repeated more than once within one sequence (hard diversity rule, see modes/function/sequence.md).
 
-## 反例
+## Counterexamples
 
-- 反例 1：对称画面里主体脸朝一侧——朝向性偷走了对称，画面"歪而不动"。修法：正面对称，或干脆转偏置逻辑把偏移用足。
-- 反例 2：放射构图中心放了个次要物件——向心力把它顶成焦点，喧宾夺主。
-- 反例 3：图案重复里异类元素放了两个——破格失效，观众不知道看哪个。
+- Counterexample 1: in a symmetrical frame the subject's face turns to one side — the facing direction steals the symmetry and the image reads "askew but motionless". Fix: face the camera symmetrically, or move fully to off-center logic and use the offset properly.
+- Counterexample 2: a secondary object placed at the center of a radial composition — the centripetal force forces it into the focus and it steals the show.
+- Counterexample 3: two odd elements placed in a pattern repetition — the breach fails and the viewer does not know where to look.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 三分系谱与黄金系：见 composition-types-1
-- 空间占比与留白档位：见 spatial-allocation
-- 各型的线条如何引导视线：见 visual-path
-- 对称的感知机理（图底/闭合）：见 D5/gestalt
-- 各型如何被评审打分：见 D7/review-gates
-- 居中系作为流派思想：见 modes/schools/classical-academy.md、eastern-painting.md
+- The rule-of-thirds and golden lineages: see composition-types-1
+- Spatial share and negative-space grades: see spatial-allocation
+- How each type's lines lead the eye: see visual-path
+- The perceptual mechanism of symmetry (figure-ground / closure): see D5/gestalt
+- How each type is scored in review: see D7/review-gates
+- The centered family as a school of thought: see modes/schools/classical-academy.md, eastern-painting.md

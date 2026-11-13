@@ -1,77 +1,77 @@
-# D1 · 视觉路径（Visual Path）
+# D1 · Visual Path
 
-> 本文件管：引导线类型学、路径三要素、视线出口、双路径竞争、第一落点控制、路径自检。
-> 怎么用：主体位置定完后，设计"观众的眼睛从哪里进、走到哪、停在哪"；或诊断"画面乱"时查本文件。
+> This file covers: the typology of leading lines, the three elements of a path, gaze exits, competing paths, control of the first landing point, and path self-checks.
+> How to use: after the subject's position is set, design "where the viewer's eye enters, where it travels, where it stops"; or consult this file when diagnosing a frame that "feels messy".
 
-## 定义
+## Definition
 
-视觉路径（visual path）＝观众眼睛在画面中移动的设计路线。构图的作用之一就是**修路**：用线条、明度差、朝向、重复把眼睛从入口引到主体，再留住它。
+Visual path = the designed route the viewer's eye travels through the frame. One job of composition is **road building**: use lines, value differences, facing directions, and repetition to lead the eye from the entry to the subject, then hold it there.
 
-## 机制
+## Mechanism
 
-眼睛总是先落在对比最强/最重要的点（第一落点），然后沿着最连续的"路"移动：线条的延伸、明度的梯度、元素间的相似链、面孔的朝向。路径设计就是控制这三样——落点、路、终点——而"画面乱"的本质几乎都是路径失控（多条路竞争或无路可走）。
+The eye always lands first on the point of strongest contrast or greatest importance (the first landing point), then moves along the most continuous "road": the extension of a line, a gradient in value, a chain of similar elements, the facing of a face. Path design controls exactly these three — landing point, road, endpoint — and "messy" is almost always a failure of that control (several roads competing, or no road at all).
 
-## 判据
+## Criteria
 
-### 引导线类型学（线形→情绪）
+### Typology of leading lines (line form → emotion)
 
-| 线形 | 情绪/效果 | 典型载体 |
+| Line form | Emotion / effect | Typical carriers |
 |---|---|---|
-| 水平线 | 安宁、静止、辽阔 | 地平线、桌面、海面 |
-| 垂直线 | 庄严、生长、下坠感 | 柱、树、光柱、人立姿 |
-| 对角线 | 动感、冲突、速度 | 路径、屋檐、肢体、光束 |
-| S/曲线 | 优雅、绵延、时间 | 河流、山路、体态、织物 |
-| 放射线 | 聚焦或爆发 | 穹顶、树冠、光芒 |
-| 之字线 | 摇摆、警觉、危险 | 闪电、锯齿山脊 |
-| 隐性线 | 低调引导 | 视线方向（画中人的目光）、明度带、影子 |
+| Horizontal | Calm, static, expansive | Horizon, tabletop, sea surface |
+| Vertical | Grave, growing, a sense of falling | Columns, trees, shafts of light, a standing figure |
+| Diagonal | Dynamism, conflict, speed | Paths, eaves, limbs, light beams |
+| S / curve | Elegance, continuity, time | Rivers, mountain roads, posture, fabric |
+| Radial | Focus or explosion | Domes, tree crowns, rays |
+| Zigzag | Sway, alertness, danger | Lightning, sawtooth ridges |
+| Implicit line | Understated lead | Direction of gaze (the look of a figure in frame), value bands, shadows |
 
-### 路径三要素（设计时的检查粒度）
+### The three elements of a path (the checking granularity when designing)
 
-1. **入口**：第一落点在哪？设计意图应是主体或主体引子，而不是边角杂物。
-2. **路**：什么把眼睛送过去？线（实线/虚线/隐性线）、梯度（明度/虚实的渐变）、链（相似元素的接力）。
-3. **终点与停留**：到达主体后，靠什么留住？细节密度、面部、最高对比、颜色的孤立点。停留不住＝路直接穿场而过。
+1. **Entry**: where is the first landing point? The design intent should be the subject or its prelude, not clutter in a corner.
+2. **Road**: what carries the eye there? A line (solid / dashed / implicit), a gradient (in value or in sharpness), a chain (relay of similar elements).
+3. **Endpoint and dwell**: once the subject is reached, what holds the eye? Detail density, the face, the highest contrast, an isolated point of color. If nothing holds it, the road runs straight through the frame.
 
-### 视线出口计数（自检法）
+### Gaze-exit count (self-check method)
 
-数一数画面有几条"离场路"：延伸出画框的线、指向画外的箭头状物、朝画外看的眼神光、四角漏光的暗部。判据：
-- 主体前的引导线**不得直接指向画外**——路应终于主体，或折返（回环）。
-- 理想状态：出口 ≤1 且在主体之后（看完主体再走），入口侧的出口为零。
-- 地平线贯通画面属"横向漫游路"，允许，但需主体打断它一次（人、树、塔），否则视线滑出画面。
+Count how many "exit roads" the frame has: lines extending out of the frame, arrow-like forms pointing outside, catchlights looking out of frame, dark areas leaking light at the four corners. Criteria:
+- A leading line in front of the subject **must not point out of frame** — the road should end on the subject, or turn back (loop).
+- Ideal state: exits ≤1 and located after the subject (the eye leaves only after seeing it); zero exits on the entry side.
+- A horizon running across the frame is a "lateral roaming road" and is allowed, but the subject must interrupt it once (a person, tree, tower), or the gaze slides out.
 
-常见出画事故五类（排查清单）：①引导线直指画外 ②视线朝画外无回收 ③贯通地平线无打断 ④动势体冲向画框（前方无留白）⑤四角漏光暗部连成"逃逸通道"。
+Five common out-of-frame accidents (the checklist): (1) a leading line pointing straight out of frame; (2) a gaze toward the outside with no recovery; (3) an unbroken horizon running edge to edge; (4) a moving body charging at the frame edge (no space ahead); (5) corner light leaks joining dark areas into an "escape channel".
 
-### 双路径竞争（故障指针）
+### Competing paths (fault pointer)
 
-两条强度接近的引导线指向不同方向→眼睛来回拉锯→"乱"。修法：降级一条（减淡/截断/改变方向），或让两条汇合于主体。
-详见 D7/fault-library。
+Two leading lines of similar strength pointing in different directions → the eye saws back and forth → "messy". Fix: demote one (fade it, cut it, change its direction), or make both converge on the subject.
+See D7/fault-library for details.
 
-### 第一落点控制
+### First-landing-point control
 
-第一落点=画面中明度最高×对比最强×（可能）最孤立的点。判据：第一落点应当是主体或主体的引子；若杂物抢了第一落点（一块过曝的窗、一根亮管），画面从第一眼就偏航。修法：压暗/弱化干扰点，或把主体做得更强（明度差+隔离+面孔优先级，见 D5/attention）。
+The first landing point = the point of highest value × strongest contrast × (possibly) greatest isolation. Criterion: it should be the subject or the subject's prelude; if clutter steals it (an overexposed window, a bright tube), the frame goes off course from the very first glance. Fix: darken or weaken the distractor, or make the subject stronger (value gap plus isolation plus face priority, see D5/attention).
 
-### 路径流畅性判据（Arabesque 四问，经验值）
+### Path-fluency criteria (the four Arabesque questions, rules of thumb)
 
-1. 入画的线是否自然（不被画框生硬切断）？
-2. 路径是否触达关键主体？
-3. 是否避免从边角粗暴出画？
-4. 路径是否有节奏变化（快线慢线相间，而非一条匀速直线到底）？
+1. Does the line enter naturally (not cut bluntly by the frame)?
+2. Does the path reach the key subject?
+3. Is a crude exit through a corner avoided?
+4. Does the path vary in rhythm (fast and slow lines alternating, rather than one even straight run to the end)?
 
-## 边界
+## Boundaries
 
-- 不是所有画面都要强路径：图案重复、负空间构图、填充式可以弱路径甚至无路径（整体即主体）；路径设计服务于"要引导"的意图。
-- 隐性线（视线方向）比实线更高级也更易失效：画中人看向画外是合法的"路"，但要与留白方向配套（看的一侧留白）。
-- 引导线不宜三条以上同强度并行（路径塞车），也不宜一条线横贯全画把画面劈成两半而无过渡。
+- Not every frame needs a strong path: pattern repetition, negative-space composition, and fill-the-frame may run a weak path or none at all (the whole is the subject); path design serves the intent "to lead".
+- Implicit lines (gaze direction) are more advanced and more fragile than solid lines: a figure looking out of frame is a legitimate "road", but it must be paired with the direction of emptiness (emptiness on the side being looked toward).
+- Do not run three or more leading lines of equal strength in parallel (path congestion), and do not run one line across the entire frame that splits it in two without transition.
 
-## 反例
+## Counterexamples
 
-- 反例 1：道路对角线把眼睛送到画面右下角——终点是空的。修法：让路弯向主体，或路边放锚点物。
-- 反例 2：窗口过曝亮块在左上，主体在右下——第一落点被窗口抢走。修法：压窗光或挪主体到光路终点。
-- 反例 3：两人视线一左一右各看画外——两条离场路同时开动，画面散架。修法：至少一人看对方或看镜头侧留白处。
+- Counterexample 1: a road on the diagonal delivers the eye to the lower-right corner — the endpoint is empty. Fix: bend the road toward the subject, or place an anchor object along it.
+- Counterexample 2: an overexposed window block in the upper left and the subject in the lower right — the window steals the first landing point. Fix: reduce the window light, or move the subject to the end of the light path.
+- Counterexample 3: two figures looking out of frame in opposite directions — two exit roads open at once and the frame falls apart. Fix: at least one of them looks at the other, or into the emptiness beside the lens.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 线条所属的构图型：见 composition-types-1/2
-- 眼动顺序的心理学机理：见 D5/eye-movement、D5/attention
-- 视线侧留白的取景规则：见 D4/framing-room（lead room）
-- 路径类故障的完整诊断：见 D7/fault-library、D7/cause-tree（路径混乱分支）
-- S 曲线作为流派技法的展开：见 modes/schools/classical-academy.md
+- The composition type a line belongs to: see composition-types-1/2
+- The psychology of eye-movement order: see D5/eye-movement, D5/attention
+- Framing rules for emptiness on the gaze side: see D4/framing-room (lead room)
+- Full diagnosis of path-type faults: see D7/fault-library, D7/cause-tree (confused-path branch)
+- The S-curve developed as a school technique: see modes/schools/classical-academy.md

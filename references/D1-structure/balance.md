@@ -1,69 +1,69 @@
-# D1 · 平衡学（Balance）
+# D1 · Balance
 
-> 本文件管：平衡四类型、视觉重量杠杆配平、失衡的叙事用法、平衡量化思想。
-> 怎么用：构图设计的三查之一（主体位、路径、平衡）；或诊断"画面不稳/怪"时查本文件。
+> This file covers: the four balance types, counterbalancing visual weight with levers, the narrative use of imbalance, and the quantitative idea behind balance.
+> How to use: one of the three checks in composition design (subject position, path, balance); or consult it when diagnosing a frame that "feels unstable or odd".
 
-## 定义
+## Definition
 
-平衡（balance）＝画面各处视觉重量围绕支点的分布状态。重量不是物理量，是感知量（见 D5/visual-weight 六因子）；平衡是让分布"坐得住"的方式，失衡则是让画面"立不住"或"故意倾斜"的手段。
+Balance = the distribution of visual weight around a fulcrum across the frame. Weight here is not a physical quantity but a perceptual one (see the six factors in D5/visual-weight); balance is the way to make that distribution "sit down", and imbalance is the means to make a frame "fail to stand" or "tilt on purpose".
 
-## 机制
+## Mechanism
 
-观者会在心里给画面找一个支点（通常接近几何中心），把两侧的视觉重量放上杠杆。重量由多种因子复合：尺寸、明度、饱和度、冷暖、质感密度、位置离支点的距离、面孔/文字等高注意物。**离支点越远的重物，感知杠杆效应越强**——小而重（高对比色块）可以配平大而轻（灰面）。
+The viewer mentally finds a fulcrum for the frame (usually near the geometric center) and puts the visual weight of both sides onto a lever. Weight is compounded from several factors: size, value, saturation, warm-cool, texture density, distance from the fulcrum, and high-attention items such as faces and text. **The farther a heavy object sits from the fulcrum, the stronger its perceived leverage** — a small heavy thing (a high-contrast color block) can counterbalance a large light thing (a gray field).
 
-## 判据
+## Criteria
 
-### 平衡四类型
+### The four balance types
 
-| 类型 | 结构 | 效果 | 判据 |
+| Type | Structure | Effect | Criteria |
 |---|---|---|---|
-| 对称平衡 | 中轴镜像 | 庄重、静态 | 两侧重量差 ≤1 档 |
-| 非对称平衡 | 异形异量互抵 | 活跃、现代、更高级 | 大轻 vs 小重互换成立 |
-| 辐射平衡 | 围绕中心放射 | 紧张、聚焦、仪式 | 中心即焦点 |
-| 晶格平衡（crystallographic / all-over） | 均匀散布无主次 | 图案化、民主、躁动 | 无单一焦点，密度均匀 |
+| Symmetrical balance | Mirror about a central axis | Grave, static | Weight difference between sides ≤1 step |
+| Asymmetrical balance | Unequal forms and amounts canceling out | Active, modern, more sophisticated | Large-light vs small-heavy exchange holds |
+| Radial balance | Radiating around a center | Tense, focused, ritual | The center is the focus |
+| Crystallographic balance (all-over) | Even scatter, no hierarchy | Patterned, democratic, restless | No single focus; density even |
 
-### 非对称配平操作表
+### Asymmetrical counterbalance table
 
-| 一侧有 | 另一侧可放 |
+| When one side has | The other side can take |
 |---|---|
-| 大面积灰暗色块 | 小面积高亮/高饱和点 |
-| 面孔（最高权重） | 多个次级锚点物或暗部压场 |
-| 前景大物 | 远景细节群+明度对比 |
-| 密集纹理 | 大片平滑负空间（以空配密） |
-| 暖色重物 | 冷色较小物（暖重冷轻） |
+| A large dark gray mass | A small high-brightness / high-saturation point |
+| A face (the highest weight) | Several secondary anchors, or a dark field pressing down |
+| A large foreground object | A cluster of distant detail plus a value contrast |
+| Dense texture | A large smooth negative space (emptiness against density) |
+| A warm heavy object | A smaller cool object (warm is heavy, cool is light) |
 
-配平四步：①定支点（几何中心/第一落点）②清点两侧重量因子 ③判断杠杆缺口 ④按操作表补重或减重。
+Four counterbalance steps: (1) fix the fulcrum (geometric center / first landing point); (2) inventory the weight factors on both sides; (3) judge the leverage gap; (4) add or remove weight according to the table.
 
-补充杠杆两条：重物视觉**下沉**——上缘过重时用画面上方的亮度/对比抵消（顶部留亮、压低底部明度读数）；**旋转裁切**——整体倾斜 2–3° 即重排左右配重，是终检阶段的最后手段（经验值）。
+Two supplementary levers: heavy objects **sink visually** — when the top edge is too heavy, offset it with brightness or contrast at the top of the frame (leave the top bright, lower the value reading at the bottom); **rotational cropping** — tilting the whole frame 2–3° re-sorts the left-right weights, the last resort at final-check stage (rule of thumb).
 
-### 失衡的叙事用法（有意失衡）
+### Narrative use of imbalance (intentional imbalance)
 
-失衡不是错误，是修辞：
-- 全部重量压向一角→不安、倾覆感（心理惊悚、灾难前兆）。
-- 头重脚轻→压迫、逼近（详见 D7/fault-library）。
-- 大空+极小的重→孤立、崇高（此时"失衡感"被负空间吸收为情绪）。
-- 判据：有意失衡必须服务情绪意图，且画面内有明确的"失衡宣言"（重量差 ≥2 档，经验值）——差半档的失衡读作失误而非修辞。
+Imbalance is not an error but rhetoric:
+- All weight pressed into one corner → unease, a sense of capsizing (psychological thriller, premonition of disaster).
+- Top-heavy → pressure, encroachment (details in D7/fault-library).
+- A large emptiness plus a very small weight → isolation, sublimity (here the "sense of imbalance" is absorbed by negative space into emotion).
+- Criterion: intentional imbalance must serve the emotional intent, and the frame must contain an explicit "imbalance declaration" (weight difference ≥2 steps, rule of thumb) — an imbalance of half a step reads as a mistake, not as rhetoric.
 
-### 平衡量化思想
+### The quantitative idea of balance
 
-把"视觉中心"（明度/细节质心）与"几何中心"的偏离程度作为平衡度的量尺：完全重合＝绝对均衡（对称画面），偏离一格以内＝常规非对称（健康），偏离过大且无配平物＝失衡故障。配合 D5/tests 的眯眼测试可目测完成。
+Use the deviation between the "visual center" (centroid of brightness and detail) and the "geometric center" as the measure of balance: full coincidence = absolute equilibrium (symmetrical frames); within one cell = ordinary asymmetry (healthy); excessive deviation with no counterbalancing object = balance fault. The squint test in D5/tests lets this be judged by eye.
 
-## 边界
+## Boundaries
 
-- 平衡是"坐得住"，不是"左右一样"：非对称平衡比对称更常用也更需要技术。
-- 晶格平衡画面（满铺图案）没有单点主体，评审标准切换为密度均匀度与破格点有无，勿用常规平衡尺量它。
-- 竖幅画面的纵向平衡（上下重量）常被忽略：天重地轻会"压顶"，需检查上缘元素。
+- Balance is "sitting down", not "left equals right": asymmetric balance is more common than symmetry and demands more technique.
+- A crystallographic frame (all-over pattern) has no single-point subject; switch the review standard to evenness of density and presence of a breach point, and do not measure it with the ordinary balance ruler.
+- Vertical balance in a vertical frame (top versus bottom weight) is often neglected: a heavy sky over a light ground "presses down on the crown", so check the elements along the top edge.
 
-## 反例
+## Counterexamples
 
-- 反例 1：左侧 60% 是深色实墙，右侧只有一根细枝——重量差悬殊且无配平点，画面"向左倒"。修法：右下加小重物（亮色/暖色锚点）或压缩墙区。
-- 反例 2：想要"宁静风景"却把主体放在画幅边缘 5% 处——失衡过强打破宁静。边缘落位自带张力，宁静题材慎用。
-- 反例 3：把"有意的失衡"做成半档偏差——观众只会觉得"没做对"。失衡要么立得住的对称，要么明确的修辞。
+- Counterexample 1: the left 60% is a dark solid wall and the right holds only one thin branch — the weight difference is extreme with no counterbalancing point, and the frame "falls to the left". Fix: add a small heavy object at the lower right (a bright or warm anchor), or compress the wall area.
+- Counterexample 2: a " serene landscape" wanted, yet the subject placed at 5% from the frame edge — the imbalance is too strong and breaks the calm. Edge placement carries its own tension; use it sparingly for calm subjects.
+- Counterexample 3: an "intentional imbalance" executed as a half-step deviation — the viewer only reads "it was not done right". Imbalance must be either symmetry that stands, or explicit rhetoric.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 重量的六因子与面孔权重：见 D5/visual-weight
-- 配平用的空：见 spatial-allocation
-- 失衡类故障的定位：见 D7/fault-library、D7/cause-tree（平衡失效分支）
-- 平衡作为流派判据：见 modes/schools/gestalt-psychology.md、classical-academy.md
-- 眯眼测试/翻转测试：见 D5/tests
+- The six factors of weight and face bias: see D5/visual-weight
+- Emptiness used for counterbalancing: see spatial-allocation
+- Locating imbalance-type faults: see D7/fault-library, D7/cause-tree (failed-balance branch)
+- Balance as a school criterion: see modes/schools/gestalt-psychology.md, classical-academy.md
+- Squint test / flip test: see D5/tests
