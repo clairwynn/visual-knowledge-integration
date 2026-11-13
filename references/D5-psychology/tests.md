@@ -1,60 +1,60 @@
-# D5 · 客观自检（Objective Tests）
+# D5 · Objective Tests
 
-> 本文件管：七种把"感觉"翻译成"可检查事实"的自检法——眯眼测试、缩略图测试、水平翻转测试、去除测试、边缘扫描、四角检查、间隔重看。
-> 怎么用：任何画面方案定稿前的最后一道程序；诊断"说不出哪不对"时的系统排查法。
+> This file covers: seven self-checks that translate "a feeling" into "a checkable fact" — squint test, thumbnail test, horizontal flip test, removal test, edge scan, corner check, and delayed re-look.
+> How to use: the last procedure before locking any frame option; the systematic way to investigate "I can't say what is wrong".
 
-## 定义
+## Definition
 
-客观自检＝用降维/反转/遮蔽等手段绕过"看惯了"的适应性，把画面的结构事实暴露出来。原理：常态观看会被细节与熟悉感淹没，改变观看条件后结构问题现形。
+Objective tests = using reduction, inversion, or occlusion to bypass the adaptation of "having looked too long", exposing the frame's structural facts. Principle: ordinary viewing is swamped by detail and familiarity; change the viewing conditions and the structural problem shows itself.
 
-## 判据
+## Criteria
 
-### 七项测试
+### The seven tests
 
-| 测试 | 操作 | 检什么 | 通过判据 |
+| Test | Operation | What it checks | Pass criterion |
 |---|---|---|---|
-| 眯眼测试 | 半闭眼看（或想象强模糊） | 明度结构、视觉中心、大关系 | 主体的明度团块仍可辨；第一亮块=主体；无失控亮斑 |
-| 缩略图测试 | 缩到拇指大看 | 第一落点、整体感、题材可读 | 仍能认出"画的是什么"；主体在缩略图下仍突出 |
-| 水平翻转测试 | 左右镜像看 | 平衡、朝向-留白逻辑、视觉惯性 | 翻转后不"更怪"；失衡处暴露即修 |
-| 去除测试 | 心里删掉某元素看画面是否更好 | 冗余元素、画面减法 | 删了更好的元素就是该删的（计白当黑的反向应用） |
-| 边缘扫描 | 视线沿四边巡游一周 | 边缘入侵、相切、切线、角部负载 | 四边无半截物、无相切、角部安静（见 D1/edges-cropping 四查） |
-| 四角检查 | 逐角注视 2 秒 | 角部是否抢戏、是否漏气 | 无角部强锚（除非设计）；暗角不吞主体 |
-| 间隔重看 | 移开视线数分钟后回看 | 适应性掩盖的问题（盯久了什么都顺眼） | 回看第一眼的不适即真问题 |
+| Squint test | Look with eyes half-closed (or imagine strong blur) | Value structure, visual center, the big relations | The subject's value mass is still identifiable; the first bright mass = the subject; no runaway bright patch |
+| Thumbnail test | Shrink to thumbnail size and look | First landing point, overall coherence, subject readability | You can still tell what the picture is; the subject still stands out at thumbnail size |
+| Horizontal flip test | View mirrored left-right | Balance, facing-to-negative-space logic, visual habit | It does not look "stranger" flipped; any imbalance exposed gets fixed |
+| Removal test | Mentally delete an element and see if the frame improves | Redundant elements, subtraction | If deleting it improves the frame, it should go (the reverse application of "treat white as black") |
+| Edge scan | Run the gaze around the four edges once | Edge intrusion, tangency, tangent lines, corner load | No half objects on the edges, no tangency, corners quiet (see the four checks in D1/edges-cropping) |
+| Corner check | Fix on each corner for 2 seconds | Whether a corner steals the scene or leaks | No strong corner anchor (unless designed); dark corners do not swallow the subject |
+| Delayed re-look | Look away for a few minutes, then return | Problems hidden by adaptation (stare long enough and anything looks fine) | The discomfort on the first glance back is the real problem |
 
-### 测试使用协议
+### Test protocol
 
-1. **定稿前必测三项**：眯眼（结构）+缩略（整体）+边缘扫描（边角）——三项各 30 秒。
-2. **有配平疑虑加测**：翻转。
-3. **有冗余疑虑加测**：去除。
-4. 测试顺序：先眯眼定大关系，再缩略看整体，再扫描细节，再翻转/去除按需。
-5. 任一测试不过→回构图层修正→重测；连续两轮不过→回到构图型选择层（结构性问题）。
+1. **Three mandatory tests before locking**: squint (structure) + thumbnail (wholeness) + edge scan (edges) — 30 seconds each.
+2. **Add the flip test when balance is in doubt.**
+3. **Add the removal test when redundancy is in doubt.**
+4. Order: squint first for the big relations, thumbnail for the whole, scan for detail, then flip and removal as needed.
+5. Any test fails → return to the composition layer and fix → retest; two consecutive failures → return to the composition-type selection layer (a structural problem).
 
-### 测试-诊断映射
+### Test-to-diagnosis mapping
 
-| 测试发现 | 指向 |
+| What the test finds | What it points to |
 |---|---|
-| 眯眼后主体消失 | 明度分离失败（tonality/figure-ground） |
-| 缩略图认不出主体 | 主体占比/对比/位置问题（spatial-allocation/attention） |
-| 翻转后明显更稳 | 原图存在隐性失衡（balance/visual-weight） |
-| 去除某物更好 | 冗余（gestalt 分组过载） |
-| 边缘扫描难受 | 边角事故（edges-cropping） |
+| The subject disappears under the squint | Failed value separation (tonality / figure-ground) |
+| The subject is unrecognizable at thumbnail size | Subject share, contrast, or position (spatial-allocation / attention) |
+| The flipped version is clearly steadier | A hidden imbalance in the original (balance / visual-weight) |
+| Removing something improves the frame | Redundancy (Gestalt grouping overload) |
+| The edge scan feels uncomfortable | Edge or corner accident (edges-cropping) |
 
-## 边界
+## Boundaries
 
-- 自检是"发现工具"不是"评分器"：通过≠好，不通过=一定有问题。
-- 风格化画面（图案/极简/抽象）部分测试会误报（缩略图认不出"主体"因为整体即主体）——先明确风格本体再判读。
-- 这些测试同样适用于"画面思路/文字描述"的检查：闭眼想象执行同一套协议（生成前的模拟验收）。
+- Self-checks are "discovery tools", not "scorers": passing ≠ good, failing = definitely a problem.
+- In stylized frames (pattern, minimal, abstract) some tests give false alarms (the thumbnail cannot identify a "subject" because the whole is the subject) — establish what the style is before reading the result.
+- These tests also apply to checking a "frame concept or written description": imagine the execution with eyes closed and run the same protocol (a simulated acceptance before generation).
 
-## 反例
+## Counterexamples
 
-- 反例 1：全流程凭"看着挺好"定稿，眯眼一测发现视觉中心在左下死空处——前期所有评价都被细节欺骗。修法：把眯眼测试前置为习惯。
-- 反例 2：翻转测试后觉得"翻转版更好"却不改——发现问题的价值在执行。翻转更好就交付翻转版。
-- 反例 3：去除测试删掉陪体后更干净，但用户指定要它——意图优先于减法，改为压低该物重量（1 档）。
+- Counterexample 1: the whole process locked in on "it looks fine", and a squint test reveals the visual center sitting in dead space at the lower left — every earlier judgment was fooled by detail. Fix: make the squint test a habit done first.
+- Counterexample 2: the flip test shows the flipped version is better, and nothing is changed — the value of finding a problem is in acting on it. If the flip is better, deliver the flipped version.
+- Counterexample 3: the removal test shows the frame is cleaner without a companion element, but the user specified it — intent outranks subtraction; instead lower that element's weight by one step.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 测试发现的结构问题分诊：见 D7/cause-tree、D7/protocol
-- 明度结构：见 D2/tonality
-- 平衡与重量：见 D1/balance、visual-weight
-- 边角四查：见 D1/edges-cropping
-- 构思流程的自检步：见 modes/function/ideate.md
+- Triage of structural problems found by tests: see D7/cause-tree, D7/protocol
+- Value structure: see D2/tonality
+- Balance and weight: see D1/balance, visual-weight
+- The four edge checks: see D1/edges-cropping
+- The self-check step of the ideation flow: see modes/function/ideate.md

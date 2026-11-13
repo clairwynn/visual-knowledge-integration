@@ -1,61 +1,61 @@
-# D5 · 眼动模型（Eye Movement Models）
+# D5 · Eye Movement Models
 
-> 本文件管：F 型/Z 型/古腾堡三种扫视动线、第一注视点、扫视路径设计、动线模型与画面/版面的适配。
-> 怎么用：设计"观众按什么顺序看"；判断既有画面的动线是否与信息优先级一致。
+> This file covers: the F-pattern, Z-pattern, and Gutenberg scanning lines; first fixation; scanning-path design; and how the models fit a frame or a layout.
+> How to use: to design "in what order the viewer looks"; to judge whether an existing frame's movement line matches its information priority.
 
-## 定义
+## Definition
 
-眼动模型＝观者浏览画面时视线移动的统计模式。三种常用模型：F 型、Z 型、古腾堡（Gutenberg）图。它们是"注意力地形图"，不是艺术法则。
+Eye movement models = statistical patterns of how the gaze travels when viewing a frame. Three common models: F-pattern, Z-pattern, and the Gutenberg diagram. They are "attention terrain maps", not laws of art.
 
-## 机制
+## Mechanism
 
-扫视由跳视（saccade）+停留（fixation）组成：视线先落高注意区（第一注视点），再沿对比与结构跳跃，每次停留 200–300ms 量级（经验量级）。画面设计即布置"停留点+连接路"：停留点=信息锚（按优先级排布），路=引导结构（D1/visual-path）。模型的意义是**预测默认动线**——好画面让默认动线与信息优先级重合。
+Scanning consists of saccades plus fixations: the gaze lands on a high-attention area first (first fixation), then jumps along contrast and structure, each fixation lasting on the order of 200–300ms (empirical magnitude). Frame design is therefore placing "fixation points plus connecting roads": fixation points = information anchors (ordered by priority), roads = leading structures (D1/visual-path). The models' value is **predicting the default movement line** — a good frame makes the default line coincide with the information priority.
 
-## 判据
+## Criteria
 
-### 三种动线模型
+### The three movement models
 
-| 模型 | 动线 | 适用画面 |
+| Model | Movement line | Fits |
 |---|---|---|
-| Z 型 | 左上→右上→对角线→左下→右下 | 横幅、海报、含文字的画面（两次横扫+对角回程） |
-| F 型 | 左侧纵扫+每行左半段横扫 | 图文页、信息图、网页截图式画面 |
-| 古腾堡图 | 四象限（左上强起点/右下强终点，右上左下弱死区） | 单主体海报、封面：起点放品牌/主视觉，终点放行动信息/落款 |
+| Z-pattern | Upper left → upper right → diagonal → lower left → lower right | Horizontal frames, posters, frames containing text (two sweeps plus a diagonal return) |
+| F-pattern | Vertical sweep down the left plus a horizontal sweep across the left half of each row | Text-and-image pages, infographics, web-screenshot-style frames |
+| Gutenberg diagram | Four quadrants (strong start upper-left / strong end lower-right, weak dead zones upper-right and lower-left) | Single-subject posters and covers: brand or main visual at the start, action information or signature at the end |
 
-### 第一注视点（first fixation）
+### First fixation
 
-视线默认落在：明度/对比峰值、面孔、画面中上部偏中（统计倾向）。判据：
-1. 第一注视点应与信息优先级第 1 位重合；
-2. 若不重合→要么移动信息，要么压制错误锚点（见 D5/visual-weight）。
-3. 古腾堡模型中"起点"（左上）权重最高，"终点"（右下）次之，右上/左下是弱区——弱区放次要信息、弱化元素。
+The gaze lands by default on: the value or contrast peak, a face, and slightly above-center in the upper half (statistical tendency). Criteria:
+1. The first fixation should coincide with the first item of information priority;
+2. If it does not, either move the information or suppress the wrong anchor (see D5/visual-weight).
+3. In the Gutenberg diagram the "start" (upper left) carries the highest weight, the "end" (lower right) next, and upper-right / lower-left are weak zones — put secondary information and de-emphasized elements there.
 
-### 扫视路径设计
+### Scanning-path design
 
-1. 列信息优先级（1 主 2 次 3 装饰）；
-2. 布锚点：主锚在起点/第一注视点，次锚沿对角/结构线分布；
-3. 连路：锚点间给可走的路（线/梯度/朝向链）；
-4. 自检：默想"眼睛会怎么走"，与优先级序列比对；错序即重排。
+1. List the information priority (1 main, 2 secondary, 3 decorative);
+2. Place anchors: the main anchor at the start or first fixation, secondary anchors along the diagonal or structural lines;
+3. Connect: give a traversable road between anchors (a line / gradient / facing chain);
+4. Self-check: mentally walk "how the eye will move" and compare it against the priority sequence; fix any wrong order.
 
-### 动线与文字画面（图文混排）
+### Movement lines in text frames (mixed text and image)
 
-- 阅读区（文字块）遵循 F 型：标题左上起、正文左对齐纵扫；
-- 视觉主体放在 Z 型对角回程或古腾堡终点，与阅读动线不打架；
-- 文字块本身是重量大户（见 visual-weight）：装饰性文字放大即抢戏。
+- The reading zone (text block) follows the F-pattern: headline starting upper left, body text left-aligned and swept vertically;
+- Put the visual subject on the Z-pattern's diagonal return or the Gutenberg end, so it does not fight the reading line;
+- A text block is itself a heavy weight (see visual-weight): enlarging decorative text steals the scene.
 
-## 边界
+## Boundaries
 
-- 模型来自图文版面统计；纯艺术画面/强引导画面可完全自定义动线（格式塔+引导线接管），模型退为"默认行为"参考。
-- 不同文化阅读方向（右起）镜像翻转动线——面向特定受众时考虑。
-- 动线模型解释"多数人先看哪"，不保证单个人怎么走：它是概率地形图。
+- The models come from text-layout statistics; purely artistic frames or strongly led frames may define their own movement line (Gestalt plus leading lines take over), with the models demoted to a "default behaviour" reference.
+- Reading directions in other cultures (right-to-left) mirror the movement line — consider this when addressing a specific audience.
+- The models explain "where most people look first", not how any individual will move: they are probability terrain maps.
 
-## 反例
+## Counterexamples
 
-- 反例 1：海报主视觉在右下、次要 logo 占左上——起点被次要信息占了。修法：对调，或用重量把主视觉顶成第一注视点。
-- 反例 2：图文页把关键数据放在右侧长行末尾——F 型扫视看不到行尾。修法：关键信息移到每行左半段/左列。
-- 反例 3：Z 型横幅的对角回程上没有锚点——视线从右上直接跳右下，中间内容被跳过。修法：对角线上加一个中间锚（次主视觉/引导线拐点）。
+- Counterexample 1: a poster with the main visual at the lower right and a secondary logo occupying the upper left — the start is taken by secondary information. Fix: swap them, or use weight to push the main visual into the first fixation.
+- Counterexample 2: a text page putting key data at the end of a long right-hand row — an F-pattern sweep never reaches the row's end. Fix: move key information into the left half of each row, or the left column.
+- Counterexample 3: a Z-pattern banner with no anchor on the diagonal return — the gaze jumps from upper right straight to lower right and skips the middle. Fix: add a middle anchor on the diagonal (a secondary visual, or a turning point in a leading line).
 
-## 与其他文件的连接
+## Connections to other files
 
-- 停留点的重量来源：见 visual-weight、attention
-- 连路的构成：见 D1/visual-path
-- 版面构图的流派面：见 modes/schools/graphic-constructivism.md
-- 图文画面的裁切与安全区：见 D1/aspect-ratio
+- The weight sources of fixation points: see visual-weight, attention
+- How the roads are built: see D1/visual-path
+- The school side of layout composition: see modes/schools/graphic-constructivism.md
+- Cropping and safe area in text frames: see D1/aspect-ratio

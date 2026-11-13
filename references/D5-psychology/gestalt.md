@@ -1,55 +1,55 @@
-# D5 · 格式塔法则（Gestalt Principles）
+# D5 · Gestalt Principles
 
-> 本文件管：格式塔（完形心理学）各法则及其构图应用——本库操作层知识的机理解释总源。
-> 怎么用：解释"为什么这样排有效"；诊断感知类问题（融合、散架、误读）时来此找根因。
+> This file covers: the Gestalt (form psychology) principles and their compositional application — the shared mechanistic explanation for this library's operational knowledge.
+> How to use: to explain "why this arrangement works"; to find the root cause when diagnosing perceptual problems (fusion, falling apart, misreading).
 
-## 定义
+## Definition
 
-格式塔（Gestalt）＝"整体先于部分之和"的感知规律：观者自动把元素组织成群、形、面。核心法则：接近、相似、连续、闭合、图底、共同命运。
+Gestalt = the perceptual law that "the whole precedes the sum of parts": the viewer automatically organizes elements into groups, shapes, and fields. Core principles: proximity, similarity, continuity, closure, figure-ground, common fate.
 
-## 机制
+## Mechanism
 
-大脑面对画面做的第一件事不是"看元素"，而是"分组"——把接近的、相似的、连续的元素打包，把剩余区域读成背景。构图里的"乱"与"整"，就是分组成功与失败：分组线与设计意图一致=整；元素被感知成错误的组=乱。
+The first thing the brain does with a frame is not "look at elements" but "group" — it packs elements that are near, similar, or continuous into units and reads the remaining area as ground. "Messy" and "coherent" in composition are failed and successful grouping: grouping lines agreeing with design intent = coherent; elements perceived as the wrong group = messy.
 
-## 判据
+## Criteria
 
-### 六法则与构图应用
+### The six principles and their compositional application
 
-| 法则 | 内容 | 构图应用 | 事故形态 |
+| Principle | Content | Compositional application | Accident form |
 |---|---|---|---|
-| 接近 proximity | 空间相近的元素被读作一组 | 相关物挨放（成组），不相关物拉开 | 不相关物挤在一起被误读为组 |
-| 相似 similarity | 相似（色/形/大小）元素被读作一类 | 同类物统一处理强化类别感；异类要差异明显 | 异类物长得太像被混为一类 |
-| 连续 continuity | 沿连续走向的元素被读作一条线 | 引导线的心理基础（见 D1/visual-path） | 线被无关物截断，路径感消失 |
-| 闭合 closure | 缺口会被脑补补全 | 框中框/残形轮廓的心理基础；留白造形（计白当黑） | 缺口过大闭合失败（形状读不出） |
-| 图底 figure-ground | 画面自动分为主体（图）与背景（底） | 分离手法的总原理（见 figure-ground 文件） | 图底竞争/反转失控 |
-| 共同命运 common fate | 同向运动的元素读作一组 | 队列、同向人群、飞鸟群的整感 | 局部反向破坏群体读感 |
+| Proximity | Elements close in space read as one group | Place related objects together, pull unrelated ones apart | Unrelated objects crowded together and misread as a group |
+| Similarity | Elements alike (color / shape / size) read as one class | Treat the same class uniformly to strengthen the category; make the odd one clearly different | The odd one looks too much like the rest and is lumped in |
+| Continuity | Elements along a continuous run read as one line | The psychological basis of leading lines (see D1/visual-path) | The line is cut by unrelated objects and the path disappears |
+| Closure | Gaps are completed by the mind | The basis of frame within a frame and broken outlines; negative space shaped into form ("treat white as black") | The gap is too wide and closure fails (the shape cannot be read) |
+| Figure-ground | The frame automatically splits into subject (figure) and background (ground) | The master principle of separation devices (see the figure-ground file) | Figure-ground competition or uncontrolled reversal |
+| Common fate | Elements moving in the same direction read as one group | The coherence of queues, same-direction crowds, flocks of birds | A local reversal breaks the group reading |
 
-### 组织检查（"画面整不整"的机理判据）
+### Organization check (the mechanistic test of "is the frame coherent")
 
-1. 数一数感知到的"组"数：3–5 组为清晰区（经验值）；>7 组=乱；1 组=单调。
-2. 每组内的元素是否符合"该在一起的理由"（接近或相似或同向）？
-3. 组与组之间的间隔是否拉开到"读得出组界"（间隔 ≥ 组内间距 2 倍，经验值）？
+1. Count the perceived "groups": 3–5 groups is the clear zone (rule of thumb); >7 groups = messy; 1 group = monotonous.
+2. Do the elements in each group share a "reason to be together" (near, or similar, or same direction)?
+3. Is the gap between groups wide enough to "read the group boundary" (gap ≥ 2× the inner spacing, rule of thumb)?
 
-### 闭合与留白造形（计白当黑的机理）
+### Closure and negative-space shaping (the mechanism of "treat white as black")
 
-负空间可以被设计成"形"：留白本身读出轮廓（杯柄间的空、双人对峙的负形箭头）。判据：留白形的轮廓清晰、不碎；造形留白的边界物要简洁（复杂边界吞掉负形）。
+Negative space can be designed as a "form": the emptiness itself reads as an outline (the void between a cup handle and the cup, the negative arrow between two confronted figures). Criterion: the outline of the negative form is clear and unbroken; the boundary objects shaping the emptiness must be simple (a complex boundary swallows the negative form).
 
-## 边界
+## Boundaries
 
-- 格式塔解释"感知如何发生"，不直接给"怎么排好看"——操作方案在 D1–D4，格式塔提供为什么。
-- 多法则可同时作用（接近+相似叠加=最强分组）；法则间冲突时（近但不像、像但不近）感知犹豫=观感"别扭"的机理根源。
-- 有意的分组破坏（故意让元素"不属于任何组"）是孤立效应的用法（见 attention），与"乱"的分界在孤立物是否唯一。
+- Gestalt explains "how perception happens", not directly "how to arrange for beauty" — the operational recipes are in D1–D4; Gestalt supplies the why.
+- Several principles can act at once (proximity plus similarity = the strongest grouping); when principles conflict (near but unlike, alike but far), perception hesitates — the mechanistic root of a frame that feels "off".
+- Intentional group-breaking (deliberately making an element "belong to no group") is the isolation effect (see attention); the line between that and "messy" is whether the isolated object is unique.
 
-## 反例
+## Counterexamples
 
-- 反例 1：三个花瓶两近一远——读者读成"两个一组+一个孤岛"，若设计意图是三件套即翻车。修法：等距排或两两成组重新叙事。
-- 反例 2：把主角放进一群相似路人里且同朝向——相似+接近把主角吞进群组。修法：换朝向/明度/大小破相似。
-- 反例 3：S 形河流中途被一栋房子压断——连续性断，路径消失。修法：房挪位或让河绕行。
+- Counterexample 1: three vases, two near and one far — the viewer reads "a pair plus an island", which fails if the intent was a set of three. Fix: space them evenly, or re-narrate as two plus one.
+- Counterexample 2: putting the protagonist inside a crowd of similar passers-by facing the same way — similarity plus proximity swallow the protagonist into the group. Fix: break similarity with facing, value, or size.
+- Counterexample 3: an S-curve river broken midway by a house — continuity breaks and the path disappears. Fix: move the house, or route the river around it.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 图底专文：见 figure-ground
-- 接近法则与多主体分组：见 D1/multi-subject
-- 连续法则与引导线：见 D1/visual-path
-- 闭合与东方留白：见 modes/schools/eastern-painting.md
-- 分组失败诊断：见 D7/cause-tree
+- The dedicated figure-ground file: see figure-ground
+- Proximity and multi-subject grouping: see D1/multi-subject
+- Continuity and leading lines: see D1/visual-path
+- Closure and Eastern negative space: see modes/schools/eastern-painting.md
+- Diagnosis of failed grouping: see D7/cause-tree

@@ -1,67 +1,67 @@
-# D5 · 视觉重量（Visual Weight）
+# D5 · Visual Weight
 
-> 本文件管：视觉重量六因子、面孔权重、配平操作、杠杆原理的画面版、镜像翻转测试。
-> 怎么用：一切"平衡/配重/突出"问题的总账本；D1/balance 的机理底座。
+> This file covers: the six factors of visual weight, face bias, counterbalancing operations, the frame-level lever principle, and the mirror-flip test.
+> How to use: the master ledger for every "balance / counterweight / stand out" question; the mechanism base under D1/balance.
 
-## 定义
+## Definition
 
-视觉重量（visual weight）＝画面元素吸引注意力的"感知质量"。元素重量由六因子复合决定：尺寸、明度、饱和度（含色温）、质感、位置、（特例）面孔与文字。
+Visual weight = the "perceptual mass" with which an element attracts attention. Element weight is compounded from six factors: size, value, saturation (including color temperature), texture, position, and (a special case) faces and text.
 
-## 机制
+## Mechanism
 
-眼睛是节能系统：资源自动流向信息密度高、对比强、生物意义大的区域。重量六因子就是"信息引力"的六个来源——任何因子增强都会增重，多因子叠加呈非线性增长（大+亮+暖+含面孔=压倒性重量）。配平即让左右（上下）的总量绕支点坐稳（杠杆原理见 D1/balance）。
+The eye is an energy-saving system: resources flow automatically to regions of high information density, strong contrast, and biological significance. The six factors are the six sources of that "information gravity" — strengthening any factor adds weight, and multiple factors compound non-linearly (large + bright + warm + containing a face = overwhelming weight). Counterbalancing means making the total on each side sit steady around the fulcrum (for the lever principle see D1/balance).
 
-## 判据
+## Criteria
 
-### 六因子增重表（共识值）
+### Six-factor weight table (consensus values)
 
-| 因子 | 增重方向 | 说明 |
+| Factor | Direction of added weight | Note |
 |---|---|---|
-| 尺寸 | 越大越重 | 感知面积（非像素面积） |
-| 明度 | 与底的差越大越重 | 亮底上暗重、暗底上亮重 |
-| 饱和度 | 高饱和重；纯色重于浊色 | 见 D3/weight-contrast |
-| 冷暖 | 暖色重于冷色 | 暖前冷后 |
-| 质感 | 纹理密/细节多重于平滑 | 粗糙面>光滑面 |
-| 位置 | 离几何中心越远（至边角）单位重量越大；画面上部略重于下部 | 边缘杠杆效应 |
+| Size | Larger is heavier | Perceived area (not pixel area) |
+| Value | Larger difference from the ground is heavier | Dark is heavy on a bright ground, light heavy on a dark ground |
+| Saturation | High saturation is heavy; pure color heavier than muddy | See D3/weight-contrast |
+| Warm-cool | Warm is heavier than cool | Warm advances, cool recedes |
+| Texture | Dense texture and detail heavier than smooth | Rough surface > glossy surface |
+| Position | Farther from the geometric center (toward the corners) each unit weighs more; the upper frame is slightly heavier than the lower | Edge leverage effect |
 
-**生物意义（第七变量·特例）**：面孔≈最重、文字次之、熟悉符号再次——不属于六因子，但作为压倒性附加权重参与配平（见下节面孔权重）。
+**Biological significance (a seventh variable, special case)**: a face is the heaviest, text next, familiar symbols after that — not one of the six factors, but an overwhelming additional weight that participates in counterbalancing (see the face-bias section below).
 
-**对焦清晰度（附加因子）**：清晰对焦的元素重于模糊者——这是"虚化减权"分离法的机理基础（见 D4/dof）；六因子与生物意义之外的常见增重来源。
+**Focus sharpness (an additional factor)**: a sharply focused element is heavier than a blurred one — this is the mechanism behind the "defocus reduces weight" separation method (see D4/dof); a common source of added weight beyond the six factors and biological significance.
 
-### 面孔权重（硬规则）
+### Face bias (hard rule)
 
-- 画面中任何可辨识面孔会自动成为第一/第二落点——设计时**要么把它用在主体上，要么让它不成立**（侧背/剪影/小到不可辨）。
-- 多面孔画面：面孔数=注意锚数，超过 3 张正脸画面即"群像化"（无单一焦点，属合法但需自觉）。
-- 面孔朝向是免费引导线：脸朝哪，观众的注意力预期待就往哪（与 lead room 联动）。
+- Any recognizable face in a frame automatically becomes a first or second landing point — at design time **either use it on the subject, or make it not hold** (profile, back of the head, silhouette, too small to recognize).
+- Frames with several faces: the number of faces = the number of attention anchors; more than 3 full faces turns the frame into a group portrait (no single focus — legitimate, but must be deliberate).
+- Face direction is a free leading line: wherever the face turns, the viewer's attention expectation follows (linked to lead room).
 
-### 配平操作（杠杆画面版）
+### Counterbalancing operations (the lever, frame version)
 
-1. 定支点（几何中心/视觉中心）。
-2. 逐元素按六因子估重（1–5 档主观标定）。
-3. 两侧总重差 ≤1 档=稳；1–2 档=张力；≥2 档且无意图=失衡故障。
-4. 配平优先序：调位置（最便宜）→调尺寸→调明度/饱和→增删元素（最贵）。
-5. 小而重配大而轻：边缘小块高对比色 ≈ 中心大块灰（经验杠杆）。
+1. Fix the fulcrum (geometric center / visual center).
+2. Estimate each element's weight by the six factors (a subjective 1–5 grade).
+3. A total weight difference between sides of ≤1 step = steady; 1–2 steps = tension; ≥2 steps with no intent = balance fault.
+4. Counterbalancing priority: adjust position (cheapest) → adjust size → adjust value and saturation → add or remove elements (most expensive).
+5. Small and heavy against large and light: a small high-contrast patch at the edge ≈ a large gray mass at the center (an empirical lever).
 
-### 镜像翻转测试（水平翻转后检查）
+### The mirror-flip test (check after a horizontal flip)
 
-翻转画面看：①主体是否"换边后失衡"（原本感觉不到的重量差暴露）②朝向与留白是否反转错误。用于终检配平（操作法见 tests）。
+Flip the frame and check: (1) does the subject "go off balance after changing sides" (a weight difference that was previously unfelt is exposed)? (2) are facing and negative space reversed incorrectly? Use this at the final check of balance (operation described in tests).
 
-## 边界
+## Boundaries
 
-- 重量是感知量：同一元素在不同底/不同邻域内重量不同——配平要按"最终画面"算，不按元素清单算。
-- "全部因子拉满"不是突出而是过载（多焦点竞争）；突出=主体比次级元素高 1–2 档，不是高 5 档。
-- 面孔权重可被系统性压制（剪影、遮挡、极小）——但压制要有意图（神秘、群像、匿名性）。
+- Weight is a perceptual quantity: the same element weighs differently on different grounds and among different neighbours — balance is computed on "the final frame", not on an element list.
+- "Pulling every factor to maximum" is not emphasis but overload (multiple foci competing); emphasis = the subject one or two steps above the secondary elements, not five steps above.
+- Face bias can be systematically suppressed (silhouette, occlusion, extreme smallness) — but suppression needs intent (mystery, group, anonymity).
 
-## 反例
+## Counterexamples
 
-- 反例 1：主体明亮但画面角落有个更亮的灯泡——灯泡抢走第一落点。修法：压暗灯泡或移出画面。
-- 反例 2：三张正脸平铺各占 1/3——三焦点三足鼎立（若非刻意的"三人叙事"即散）。修法：明度/大小分层或改剪影次角。
-- 反例 3：用大尺寸配平小面孔——面孔的生物权重压过尺寸，还是歪。修法：让面孔不出现在配平方程里（转背/剪影）。
+- Counterexample 1: a bright subject, but a brighter bulb in a corner of the frame — the bulb takes the first landing point. Fix: darken the bulb or take it out of frame.
+- Counterexample 2: three full faces laid flat, each taking a third — three foci stand like a tripod (if this is not a deliberate "three-person narrative", it reads as scattered). Fix: separate them by value or size, or turn the secondary ones into silhouettes.
+- Counterexample 3: using large size to counterbalance a small face — the face's biological weight beats size and the frame stays off balance. Fix: remove the face from the balance equation (turn the head away, use a silhouette).
 
-## 与其他文件的连接
+## Connections to other files
 
-- 杠杆与四类平衡：见 D1/balance
-- 色彩两因子展开：见 D3/weight-contrast
-- 注意优先级的排序表：见 attention
-- 明度差的影调面：见 D2/tonality
-- 配平与失衡的诊断：见 D7/cause-tree（平衡失效分支）
+- Levers and the four balance types: see D1/balance
+- The two color factors developed: see D3/weight-contrast
+- The ranking table of attention priority: see attention
+- The tonal side of value difference: see D2/tonality
+- Diagnosis of balance and imbalance: see D7/cause-tree (failed-balance branch)

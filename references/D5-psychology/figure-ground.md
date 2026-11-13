@@ -1,66 +1,66 @@
-# D5 · 图底关系（Figure-Ground）
+# D5 · Figure-Ground
 
-> 本文件管：图（主体）与底（背景）的建立、竞争、反转三种状态；鲁宾图形原理的构图应用；图底失败的诊断。
-> 怎么用：主体"浮不出来"或背景"抢戏"时的机理判断；负空间造形与剪影设计的理论底座。
+> This file covers: the three states of figure (subject) and ground (background) — established, competing, reversed; the compositional application of the Rubin-vase principle; and diagnosing figure-ground failure.
+> How to use: the mechanistic judgment when the subject "will not float out" or the background "steals the scene"; the theoretical base for negative-space shaping and silhouette design.
 
-## 定义
+## Definition
 
-图底关系（figure-ground）＝感知自动把视野切分为"图"（object，有形、在前、被记住）与"底"（ground，无形、退后、被忽略）。画面设计的核心任务之一：让"该当图的当图，该当底的当底"。
+Figure-ground = the automatic perceptual split of the visual field into "figure" (an object: shaped, in front, remembered) and "ground" (shapeless, receding, ignored). One core task of frame design: make "what should be figure be figure, and what should be ground be ground".
 
-## 机制
+## Mechanism
 
-图底切分的判定线索：封闭轮廓、在前遮挡、更小更致密、更清晰、更暖更饱和（统计倾向）。线索齐备→切分干脆（主体立刻浮出）；线索互相矛盾→图底竞争（观者来回摇摆，"看着累"）；线索被刻意制造到势均力敌→可逆图形（一图两读，高级修辞）。
+The cues by which figure-ground is decided: a closed outline, occlusion in front, smaller and denser, sharper, warmer and more saturated (statistical tendencies). When the cues agree → the split is decisive (the subject floats out at once); when cues contradict → figure-ground competition (the viewer wavers, "tiring to look at"); when cues are deliberately balanced → a reversible figure (one image, two readings — an advanced device).
 
-## 判据
+## Criteria
 
-### 三种状态与健康度
+### Three states and their health
 
-| 状态 | 感知表现 | 判定 |
+| State | Perceptual behaviour | Verdict |
 |---|---|---|
-| 干净图底 | 一眼分出主次，底退后 | 健康（多数画面的目标） |
-| 图底竞争 | 主体与背景拉扯，无主次 | 故障（除非竞争即叙事） |
-| 可逆图形 | 一图两读可切换 | 修辞（海报/正负形专用） |
+| Clean figure-ground | Hierarchy read at a glance, ground recedes | Healthy (the goal of most frames) |
+| Figure-ground competition | Subject and background pull against each other, no hierarchy | Fault (unless the competition is the narrative) |
+| Reversible figure | One image, two switchable readings | Device (posters and positive-negative form only) |
 
-### 图的建立判据（让主体当图）
+### Criteria for building the figure (making the subject the figure)
 
-1. **完整轮廓**：主体轮廓闭合不被裁切（裁切会削弱图性，除非填充式宣言）。
-2. **在前**：遮挡关系上主体盖住背景（不与背景相切）。
-3. **更清晰**：焦平面在主体（或明度/色差分离，见 D2/D3）。
-4. **更致密**：细节/对比集中在主体，底保持平滑（底过细则图底反转）。
-5. 面积反直觉规则：图常比底**小**——大面积平滑区天然读作底（这即负空间构图的机理）。
+1. **Complete outline**: the subject's outline closes and is not cropped (cropping weakens figure-ness, unless it is a fill-the-frame declaration).
+2. **In front**: the subject covers the background in occlusion (not tangent to it).
+3. **Sharper**: the focal plane sits on the subject (or value/hue separation is used, see D2/D3).
+4. **Denser**: detail and contrast concentrate on the subject while the ground stays smooth (too much ground detail reverses the relation).
+5. The counter-intuitive area rule: the figure is often **smaller** than the ground — a large smooth area naturally reads as ground (this is the mechanism of negative-space composition).
 
-### 底的维持判据（让背景当底）
+### Criteria for maintaining the ground (making the background the ground)
 
-- 底的纹理/对比/饱和整体低于图 1 档以上；
-- 底不出现可辨识面孔与强线条（面孔自动升图）；
-- 底的色温/明度与图构成稳定差（不随观看漂移）。
+- The ground's texture, contrast, and saturation sit at least one step below the figure's;
+- No recognizable faces and no strong lines appear in the ground (a face automatically rises to figure);
+- The ground's color temperature and value hold a stable difference from the figure (one that does not drift as you look).
 
-### 底抢戏的三个来源（诊断）
+### Three sources of a scene-stealing ground (diagnosis)
 
-1. 底部细节密度≥主体（乱背景）；
-2. 底部出现高对比块/面孔/文字；
-3. 底与图明度饱和双接近（融底，见 D3/weight-contrast）。
+1. The ground's detail density ≥ the subject's (a busy background);
+2. A high-contrast block, a face, or text appears in the ground;
+3. Ground and figure are close in both value and saturation (fusion with the ground, see D3/weight-contrast).
 
-### 可逆图形与负空间造形
+### Reversible figures and negative-space shaping
 
-海报正负形、双关轮廓是刻意的势均力敌：图底线索全部对等（面积、对比、轮廓闭合度）。判据：两读都"成立"且单读都完整；可逆图形对轮廓精度极敏感，边缘含糊即翻车。
+Poster positive-negative form and pun outlines are deliberate equal balance: all figure-ground cues are matched (area, contrast, closedness of outline). Criterion: both readings "hold" and each reading is complete on its own; reversible figures are extremely sensitive to outline precision — a vague edge and it fails.
 
-## 边界
+## Boundaries
 
-- 剪影是把图压到与底同明度、靠轮廓单独撑图性的极端用法——轮廓必须独特（一般剪影轮廓不独特即失败）。
-- 图底是感知结果不是元素清单：主体清单上的"主角"若不满足图的判据，感知上仍是底的一部分。
-- 杂志封面类"字压图"场景，文字与图争夺图性——用暗化带/渐变压底保字（文字图性优先）。
+- A silhouette is the extreme use of pressing the figure to the ground's value and letting the outline alone carry figure-ness — the outline must be distinctive (an ordinary silhouette outline that is not distinctive fails).
+- Figure-ground is a perceptual result, not an element list: a "protagonist" on the subject list who does not meet the figure criteria is still perceptually part of the ground.
+- In magazine-cover scenes where "text presses on the image", text and image compete for figure-ness — use a darkened band or gradient to press the ground and protect the text (text's figure-ness takes priority).
 
-## 反例
+## Counterexamples
 
-- 反例 1：背景树叶的对比度比人脸还高——底抢戏，脸沉底。修法：虚化/压暗树叶。
-- 反例 2：主体白墙前穿白衣且无阴影——轮廓、明度、阴影三线索全无，图不成立。修法：加侧光造影、换色、或拉明度差。
-- 反例 3：想拍可逆正负形但负形边缘破碎——两读都不成立。修法：简化边界物，闭合负形。
+- Counterexample 1: background leaves carry higher contrast than the face — the ground steals the scene and the face sinks. Fix: defocus or darken the leaves.
+- Counterexample 2: a subject in white in front of a white wall with no shadow — outline, value, and shadow cues all absent, and the figure does not hold. Fix: add side light to cast a shadow, change the color, or open the value difference.
+- Counterexample 3: wanting a reversible positive-negative form while the negative edge is broken — neither reading holds. Fix: simplify the boundary objects and close the negative form.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 分离的三手段（明度/色彩/虚化）：见 D2/tonality、D3/weight-contrast、D4/dof
-- 闭合与留白造形：见 gestalt
-- 融底故障：见 D7/fault-library
-- 剪影与极简的流派用法：见 modes/schools/minimalist.md
-- 面孔权重：见 visual-weight
+- The three separation devices (value / color / defocus): see D2/tonality, D3/weight-contrast, D4/dof
+- Closure and negative-space shaping: see gestalt
+- Fusion-with-ground fault: see D7/fault-library
+- Silhouette and minimalism as a school device: see modes/schools/minimalist.md
+- Face bias: see visual-weight

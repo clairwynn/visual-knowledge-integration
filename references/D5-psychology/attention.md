@@ -1,68 +1,68 @@
-# D5 · 注意优先级（Attention Priority）
+# D5 · Attention Priority
 
-> 本文件管：视觉注意的权重序（面孔>文字>高对比>运动>色彩…）、孤立效应（Von Restorff）、注意竞争与焦点唯一性。
-> 怎么用：判断"画面里谁会先被看到"；设计突出方案时按权重序选手段。
+> This file covers: the weight order of visual attention (face > text > high contrast > motion > color …), the isolation effect (Von Restorff), attention competition, and focus uniqueness.
+> How to use: to judge "what will be seen first in the frame"; when designing an emphasis solution, choose devices by this weight order.
 
-## 定义
+## Definition
 
-注意优先级＝不同类型的视觉刺激吸引注意力的先天与习得排序。核心序（统计共识，自上而下递减）：**面孔/生物体 > 文字 > 高对比 > 高饱和/暖色 > 运动/模糊暗示 > 熟悉符号 > 奇特形状**。
+Attention priority = the innate and learned ordering by which different kinds of visual stimulus attract attention. The core order (statistical consensus, descending): **faces / living beings > text > high contrast > high saturation or warm color > motion or blur suggestion > familiar symbols > odd shapes**.
 
-## 机制
+## Mechanism
 
-注意力分配由"自下而上"（刺激驱动：对比、饱和、新奇）与"自上而下"（意图驱动：任务、预期）双系统竞争。画面设计的可控面主要在自下而上：把主体做成自下而上最强项，或压制竞争项。**焦点唯一性**是次序之下的总规则：权重序只在"竞争不激烈"时可读——多个同级别强刺激同框时，序失效，观者在锚点间弹跳（乱感根源）。
+Attention allocation is a competition between a "bottom-up" system (stimulus-driven: contrast, saturation, novelty) and a "top-down" system (intent-driven: task, expectation). The controllable side of frame design is mostly bottom-up: make the subject the strongest bottom-up item, or suppress the competing ones. **Focus uniqueness** is the master rule beneath the order: the weight order is readable only when competition is not fierce — several equally strong stimuli in one frame break the order and the viewer bounces between anchors (the source of the "messy" feel).
 
-## 判据
+## Criteria
 
-### 权重序应用表
+### Application table for the weight order
 
-| 刺激类型 | 设计含义 |
+| Stimulus type | Design implication |
 |---|---|
-| 面孔 | 最强项：出现即锚点；多面孔需分层（大小/明度/清晰度） |
-| 文字 | 强锚：装饰性文字要小/弱，否则抢戏；文字出现位置自动成锚 |
-| 高对比（明度差） | 最通用的突出手段（任何题材可用） |
-| 高饱和/暖色 | 色彩突出的两轴（与冷灰底配合） |
-| 运动/速度暗示 | 动态画面的锚（拖影、倾角、扬尘） |
-| 孤立/奇异 | 结构性突出（见下） |
+| Face | The strongest item: its appearance is an anchor; multiple faces need hierarchy (size / value / sharpness) |
+| Text | A strong anchor: decorative text must be small or weak or it steals the scene; wherever text appears it becomes an anchor automatically |
+| High contrast (value difference) | The most universal emphasis device (works on any subject) |
+| High saturation / warm color | The two axes of color emphasis (paired with a cool gray ground) |
+| Motion / speed suggestion | The anchor of a dynamic frame (motion blur, tilt, dust) |
+| Isolation / oddity | Structural emphasis (see below) |
 
-### 孤立效应（Von Restorff effect）
+### Isolation effect (Von Restorff)
 
-同类中唯一的异类被优先记住：一排黑球中的红球、重复图案中的破格、平滑场中的纹理块。构图应用：
-1. 破格点=天然焦点（图案重复构图的核心机制，见 D1/composition-types-2）；
-2. 孤立物要唯一——两个异类=两个焦点=序失效；
-3. 孤立是"相对差异"：全画面都夸张时无孤立（差异被平均掉）。
+The single odd item among similars is remembered first: a red ball in a row of black ones, a breach in a repeating pattern, a textured patch in a smooth field. Compositional applications:
+1. The breach point is a natural focus (the core mechanism of pattern-repetition composition, see D1/composition-types-2);
+2. The isolated object must be unique — two odd items = two foci = the order fails;
+3. Isolation is "relative difference": when everything in the frame is exaggerated nothing is isolated (the difference averages out).
 
-### 突出方案选择序（给主体加重的优先序）
+### Order for choosing an emphasis solution (priority for adding weight to the subject)
 
-1. 位置（第一落点/交点）——零成本
-2. 明度对比——最通用
-3. 面孔/朝向——生物最强
-4. 色彩孤立——需要底色配合
-5. 虚化分离——需要距离
-6. 尺寸——受构图约束
-多重手段叠 2–3 项即可成立；全叠=过载（主体像贴纸）。
+1. Position (first landing point / intersection) — zero cost
+2. Value contrast — the most universal
+3. Face / facing — the strongest biologically
+4. Color isolation — needs the ground to cooperate
+5. Defocus separation — needs distance
+6. Size — constrained by the composition
+Two or three devices stacked is enough; stacking all of them = overload (the subject looks like a sticker).
 
-### 注意竞争检查（焦点唯一性）
+### Attention-competition check (focus uniqueness)
 
-1. 数强锚点数：明度峰值、面孔、文字块、高饱和块各算一项；
-2. 强锚点应 1 个（最多 2 个且明确主次）；
-3. 次级锚点全部低于主锚 ≥1 档。
+1. Count the strong anchors: a value peak, a face, a text block, a high-saturation block each count as one;
+2. There should be one strong anchor (at most two with a clear hierarchy);
+3. Every secondary anchor sits at least one step below the main anchor.
 
-## 边界
+## Boundaries
 
-- 权重序是统计倾向，可被"自上而下"改写：观者带着任务（找钥匙）时序失效——叙事性画面的视觉谜题（故意藏主体）即利用此。
-- 文字在识读场景里权重无限高（观者"必须"读字）——画面里不希望被读的字（背景招牌）要虚化/小/斜。
-- 注意与审美分离：第一被看到的≠最好的；设计让"先看到的"与"该看到的"重合。
+- The weight order is a statistical tendency and can be rewritten top-down: a viewer carrying a task (looking for keys) breaks the order — visual puzzles in narrative frames (deliberately hiding the subject) exploit this.
+- In reading contexts text carries unlimited weight (the viewer "must" read it) — text you do not want read (a background sign) must be defocused, made small, or slanted.
+- Attention and aesthetics are separate: the first thing seen is not the best thing; design so that "what is seen first" coincides with "what should be seen".
 
-## 反例
+## Counterexamples
 
-- 反例 1：主体是产品，背景招牌一行清晰大字——文字权重碾压产品。修法：虚化/压暗/缩小招牌。
-- 反例 2：为醒目把主体和标题都做到最大最亮——双强锚弹跳。修法：标题让 1 档（或让主体让）。
-- 反例 3：三处高饱和色等强度分布——色彩序失效成"彩"。修法：选一处保留，其余降饱和。
+- Counterexample 1: the subject is a product while a background sign carries a line of crisp large text — text weight crushes the product. Fix: defocus, darken, or shrink the sign.
+- Counterexample 2: to be eye-catching, both the subject and the headline are made largest and brightest — two strong anchors bouncing. Fix: drop the headline one step (or drop the subject).
+- Counterexample 3: three high-saturation colors at equal strength — the color order fails and it becomes "colorful". Fix: keep one, desaturate the rest.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 重量的六因子（本文件的上游）：见 visual-weight
-- 第一注视点与动线：见 eye-movement
-- 破格与图案构图：见 D1/composition-types-2
-- 文字压图的处理：见 figure-ground
-- 突出失败的诊断：见 D7/cause-tree（主体不清分支）
+- The six factors of weight (upstream of this file): see visual-weight
+- First fixation and the movement line: see eye-movement
+- Breach and pattern composition: see D1/composition-types-2
+- Handling text pressing on the image: see figure-ground
+- Diagnosis of failed emphasis: see D7/cause-tree (unclear-subject branch)
