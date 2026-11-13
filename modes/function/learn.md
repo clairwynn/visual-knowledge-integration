@@ -1,46 +1,46 @@
-# 认知学习（Learn Function Mode）
+# Cognitive Learning (Learn Function Mode)
 
-> 功能层文件：讲明白一个视觉概念。体验档只改变表达深度，不改变本流程。
+> Function-layer file: explain one visual concept clearly. The experience tier changes only the depth of expression, never this flow.
 
-## 触发信号
+## Trigger signals
 
-用户问"是什么/为什么/有什么区别/怎么判断"——概念解释类意图。典型："视觉重量是什么""为什么三分法有效""留白多少合适"。
+The user asks "what is it / why / what is the difference / how do you judge it" — concept-explanation intent. Typical: "What is visual weight", "Why does the rule of thirds work", "How much negative space is right".
 
-## 流程
+## Flow
 
-1. **概念定位**：在八域知识体系中的位置+相邻概念（上游/下游）。入口：references/D8-vocabulary/core-lexicon.md。
-2. **分层讲解**：现象（看到什么）→ 机制（为什么——视觉心理/光学/画论原理）→ 判据（怎么量化/识别）→ 边界（何时失效、经典反例）。
-3. **实例对照**：同一画面好/坏两版对照，各 2–3 句画面描述——对照是概念落地的最快通道。
-4. **自测一问**：给一个小案例让用户判断（答对与否即时反馈，反馈给判据不给评分）。
+1. **Concept placement**: where the concept sits in the eight-domain system, plus its adjacent concepts (upstream / downstream). Entry: references/D8-vocabulary/core-lexicon.md.
+2. **Layered explanation**: phenomenon (what you see) → mechanism (why — visual psychology / optics / painting theory) → criteria (how to quantify or recognize it) → boundaries (when it fails, classic counterexamples).
+3. **Paired example**: good and bad versions of the same scene, 2–3 sentences of visual description each — the fastest route from concept to concrete.
+4. **Self-test question**: pose a small case and ask the user to judge (immediate feedback; feedback on criteria, never a score).
 
-## 输出模板
+## Output template
 
 ```
-【概念】<名称＋一句话定义＋英文对照>
-【谱系】属于 <域>，上游是 <概念>，下游是 <概念>
-【机制】<原理，2–4 段>
-【判据】<可操作的量化/识别标准，条目式>
-【边界】<失效条件与经典反例>
-【对照】<同一场景正反两例，各 2–3 句画面描述>
-【自测】<一个小案例问用户>
+[Concept] <name plus one-line definition>
+[Lineage] belongs to <domain>; upstream <concept>; downstream <concept>
+[Mechanism] <principle, 2–4 paragraphs>
+[Criteria] <actionable quantitative / recognition standards, itemized>
+[Boundaries] <failure conditions and classic counterexamples>
+[Contrast] <the same scene as one positive and one negative example, 2–3 sentences each>
+[Self-test] <one small case posed to the user>
 ```
 
-## 体验档变体
+## Experience tier variants
 
-- **专家档**：判据给数值带宽+理论谱系完整；机制可引多条机理；自测案例可加深（嵌套概念）。
-- **经理档**：机制讲透、判据精选 3–5 条；对照例必给；自测轻松化。
-- **甲方档**：只讲现象+比喻+一个对照例；模板压缩为"这是什么/打个比方/好和坏的例子"；不考自测。
-- **野狗档**：概念仍讲对（知识不歪），但例句全换反美学版本；对照例用"正着做 vs 野狗做"。
+- **Expert**: criteria with numeric bands and complete theoretical lineage; the mechanism may cite several mechanisms; the self-test may be deepened (nested concepts).
+- **Manager**: mechanism explained in full, 3–5 criteria selected; contrast examples mandatory; the self-test kept light.
+- **Client**: phenomenon + metaphor + one contrast example only; the template compresses to "what it is / put it this way / a good and a bad example"; no self-test.
+- **Wild Dog**: the concept stays correct (knowledge is never bent), but every example sentence becomes an anti-aesthetic version; the contrast reads "done straight vs done wild".
 
-## 纪律
+## Discipline
 
-- 定义必须与 core-lexicon 一致；发现不一致时以知识文件为准并提示修正。
-- 概念讲解不滑入方案设计（用户接着要方案时，声明切换到构思模式）。
-- 多概念问题时一次讲一个（用户追问下一个再讲），避免概念倾倒。
+- Definitions must match core-lexicon; on conflict the knowledge file governs and the mismatch is flagged.
+- Concept explanation never slides into option design (when the user next wants options, declare the switch to ideation mode).
+- With several concepts asked at once, explain one at a time (the next follows the user's follow-up), avoiding concept dumping.
 
-## 自检（本功能完成核对）
+## Self-check (function completion review)
 
-- 模板七栏是否齐全（甲方档可压缩）？
-- 判据是否可操作（能拿去检查画面）？
-- 对照例是否同一场景（只有处理差异，没有题材差异）？
-- 是否讲了"何时失效"（只有正向没有边界=讲了一半）？
+- Are all seven template fields present (the Client tier may compress)?
+- Are the criteria actionable — usable to inspect an actual frame?
+- Are the contrast examples the same scene, differing only in treatment and not in subject matter?
+- Was "when it fails" covered? Positive only, with no boundary, is half the concept.

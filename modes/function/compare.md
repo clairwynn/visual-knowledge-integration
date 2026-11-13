@@ -1,47 +1,47 @@
-# 评审对比（Compare Function Mode）
+# Review and Comparison (Compare Function Mode)
 
-> 功能层文件：多方案/多流派横向评。体验档改变表达与权重声明方式，不改变流程。
+> Function-layer file: side-by-side review of multiple options or schools. The experience tier changes expression and the way weights are declared, never the flow.
 
-## 触发信号
+## Trigger signals
 
-出现两个及以上候选画面/方案/方向。典型："A 和 B 哪个好""这两个构图选哪个""帮我比比这三个方向"。
+Two or more candidate images, options, or directions appear. Typical: "Which is better, A or B", "Which of these two compositions", "Compare these three directions for me".
 
-## 流程
+## Flow
 
-1. **评审对象解析**：确认候选数与各自内容（候选是画面描述时，先各自过一遍"可想象性"检查——描述不清的先补清再比，比"都模糊的东西"无意义）。
-2. **选判据集（含流派硬路由）**：默认六维（焦点清晰度/视觉路径/平衡/纵深/情绪传达/独特性），权重按用途配置（商业/艺术/组图三套起点，D6/aesthetic-criteria）；用户点名流派时该派判据优先——评审启动前须读 modes/schools/_index.md 与所选派文件的"量化判据"节（硬路由规则见 SKILL.md 第三步）。
-3. **逐项评分**：每维 1–5 分+一句证据（画面事实）。每候选独立走证据规则——无证据评分无效。
-4. **裁决**：推荐+理由 2–3 条+各候选的适用情境（"A 更适合 X，B 更适合 Y"——落选者不是错的，是错位）。
-5. **改进方向**：每个落选方案一句补强法（怎么改能翻盘）。
+1. **Parse the review objects**: confirm the number of candidates and what each contains. When a candidate is a visual description, run the imaginability check on each first — complete unclear descriptions before comparing; comparing two vague things means nothing.
+2. **Fix the criteria set, including hard school routing**: default six dimensions (focal clarity / visual path / balance / depth / emotional delivery / distinctiveness), with weights configured by use (three starting sets: commercial, artistic, series — D6/aesthetic-criteria). When the user names a school, that school's criteria take precedence — before the review begins, read modes/schools/_index.md and the "quantitative criteria" section of the chosen school file (see Step 3 of SKILL.md).
+3. **Score item by item**: 1–5 per dimension plus one sentence of evidence (a fact of the frame). Each candidate runs the evidence rule independently — a score without evidence is void.
+4. **Verdict**: a recommendation with 2–3 reasons, plus the applicable context of each candidate ("A suits X, B suits Y" — the option not chosen is not wrong, it is mismatched).
+5. **Improvement direction**: one strengthening move per non-recommended option — how to change it to turn the result around.
 
-## 输出模板
+## Output template
 
 ```
-【对象】A <名> / B <名> / C <名>
-【判据】<本次使用的维度与权重（声明）>
-【评分表】维度 × 对象，1–5 分＋证据短语
-【裁决】推荐 <X>：理由 2–3 条；A 更适合 <情境>，B 更适合 <情境>
-【补强】每个落选方案一句怎么改能翻盘
+[Objects] A <name> / B <name> / C <name>
+[Criteria] <the dimensions and weights used, declared>
+[Score table] dimension × object, 1–5 plus an evidence phrase
+[Verdict] recommend <X>: 2–3 reasons; A suits <context>, B suits <context>
+[Strengthening] one line per non-recommended option on how to turn it around
 ```
 
-## 体验档变体
+## Experience tier variants
 
-- **专家档**：评分表全维展开+证据引用判据文件；权重自定义空间全开；可附加"换流派会怎样"的思想实验。
-- **经理档**：评分表精简为 3 个关键维度+总分结论；裁决给明确建议（"我选 A，因为……"）；补强并入裁决。
-- **甲方档**：不出现评分表——翻译成对比卡："A 像 X，适合用在 Y；B 像 Z，适合用在 W。你更想要哪种场合的感觉？"（证据内化，只给结论+情境）。
-- **野狗档**：评分仍按六维（知识不歪），但"独特性"权重拉满；裁决语宣言体；补强方向可激进。
+- **Expert**: the full score table with evidence citing criterion files; full freedom to customize weights; may add the thought experiment "what if we switched schools".
+- **Manager**: the score table reduced to 3 key dimensions plus an overall conclusion; the verdict gives a clear recommendation ("I would take A, because…"); strengthening folded into the verdict.
+- **Client**: no score table — translated into comparison cards: "A feels like X and suits Y; B feels like Z and suits W. Which kind of occasion do you want?" (evidence internalized; conclusions and contexts only).
+- **Wild Dog**: scoring still runs the six dimensions (knowledge is never bent), but the "distinctiveness" weight goes to maximum; the verdict is in manifesto voice; strengthening may be radical.
 
-## 纪律
+## Discipline
 
-- **证据规则**：每分必须指认画面事实；说不出证据的分数撤回。
-- **权重声明**：换了权重必须说明（默认六维均权时声明"均权"）。
-- **落选者尊严**：裁决必须含落选者的适用情境与翻盘法——对比的目的是选型不是判死刑。
-- **一票否决前置**：入门级特征（D6/aesthetic-criteria）扫描在评分前——候选带事故时先修复再比。
-- 平手处理：总分相同时以"更符合任务书"者胜；无任务书则并列并给分化条件（"重情绪选 A，重信息选 B"）。
+- **Evidence rule**: every score must name a fact of the frame; a score that cannot cite one is withdrawn.
+- **Weight declaration**: any change of weights must be stated (with the default six dimensions, declare "equal weights").
+- **Dignity of the option not chosen**: the verdict must include its applicable context and its turnaround — comparison is for selection, not for condemnation.
+- **Entry-level scan comes first**: the entry-level features of D6/aesthetic-criteria are scanned before scoring — a candidate carrying an accident is repaired before comparison.
+- Ties: when totals are equal, the candidate that fits the brief better wins; with no brief, declare a tie and give the differentiating condition ("A if emotion dominates, B if information dominates").
 
-## 自检（本功能完成核对）
+## Self-check (function completion review)
 
-- 候选都"可想象"吗（描述不清的先补清）？
-- 每个分数有证据吗？
-- 权重声明了吗？
-- 落选者拿到情境与翻盘法了吗？
+- Are all candidates imaginable — were unclear ones completed first?
+- Does every score have evidence?
+- Were the weights declared?
+- Did the options not chosen receive a context and a turnaround?

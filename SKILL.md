@@ -1,114 +1,114 @@
 ---
 name: visual-knowledge-integration
-description: 完整视觉认知与构图思维知识库。当用户讨论画面的构图、机位、景别、用光、配色、视觉平衡、画面层级、风格美学，或需要为图像构思画面思路、诊断画面问题、比较画面方案、编排多图序列，或在图片提示词编写与处理场景下需要画面层面的认知支持时使用。提供视觉认知、画面思路与诊断修复，不生成提示词，不产出图片。
+description: A complete visual cognition and composition-thinking knowledge base. Use when the user discusses composition, camera position, shot size, lighting, color, visual balance, image hierarchy, or style aesthetics; needs to develop a visual concept for an image, diagnose an image problem, compare visual options, plan a multi-image sequence, or needs visual-level cognitive support while writing or processing image prompts. It provides visual cognition, visual concepts, and diagnostic repair; it does not write prompts and does not produce images.
 ---
 
-# Visual Knowledge Integration（视觉认知库）
+# Visual Knowledge Integration
 
-## 这是什么
+## What This Is
 
-一个装进 AI 的完整视觉认知库：构图结构、光影、色彩、镜头视点、视觉心理、质感风格、诊断评审八个知识域，配三层模式体系（体验×功能×流派）。让任何需要画面思考的场景——想画什么、怎么排、哪里不对、多图怎么变——都有可推理的知识与可执行的思路。
+A complete visual cognition library that installs into an AI: eight knowledge domains — composition structure, light and tonality, color, lens and viewpoint, visual psychology, texture and style, diagnosis and review — plus a three-layer mode system (experience × function × school). Every scene that requires visual thinking — what to depict, how to arrange it, what is wrong, how multiple images should vary — has reasoning knowledge and an executable approach.
 
-## 三条铁律（先读，不可违背）
+## Three Non-Negotiable Rules (read first; never violate)
 
-1. **只给视觉认知与画面思路，不代写任何提示词。** 不生成、不改写、不评价提示词文本。其他流程写提示词时，本技能的角色是提供画面决策输入：构图怎么定、光怎么配、色怎么用、风险在哪。
-2. **完全模型无关。** 库内知识不绑定任何生图模型、平台参数、权重语法。
-3. **知识完整优先。** 量化判据、数值带宽、反例、边界条件全部保留，不为省篇幅裁剪知识。
+1. **Visual cognition and visual concepts only; never write prompts on the user's behalf.** Do not generate, rewrite, or evaluate prompt text. When another flow writes prompts, this skill supplies visual decision inputs: how to set the composition, how to place the light, how to use color, where the risks are.
+2. **Fully model-agnostic.** No knowledge in the library binds to any image-generation model, platform parameter, or weighting syntax.
+3. **Knowledge completeness first.** Quantitative criteria, numeric bands, counterexamples, and boundary conditions are retained in full; nothing is trimmed for brevity.
 
-## 何时使用
+## When to Use
 
-- 用户要画一张图（不管最后用什么工具），需要构思画面。
-- 用户觉得画面"太平/乱/没焦点/AI 味重"，需要诊断修复。
-- 多图/组图场景需要编排变化、防止重样。
-- 用户想学视觉概念（视觉重量、图底关系、动态对称……）。
-- 多个画面方案之间要做选择评审。
+- The user wants to make an image (whatever the eventual tool) and needs a visual concept.
+- The user finds the image "flat / cluttered / without a focal point / too AI-looking" and needs diagnosis and repair.
+- Multi-image or series scenes need variation planning that avoids repetition.
+- The user wants to learn a visual concept (visual weight, figure-ground relationship, dynamic symmetry, and so on).
+- Several visual options must be compared and reviewed.
 
-## 何时不用
+## When Not to Use
 
-- 代写提示词（任何格式）——转出，本技能只在画面认知层给输入。
-- 生成/编辑图片本身——不调用绘图工具，不产出图像文件。
-- 纯文案排版校对、视频运镜的连续时间轴设计。
+- Writing prompts (any format) — pass through; this skill only supplies inputs at the visual cognition layer.
+- Generating or editing the image itself — it calls no drawing tool and produces no image files.
+- Pure copy layout proofreading, or continuous-timeline design for video camera movement.
 
-## 第一步：识别任务类型（五功能）
+## Step 1: Identify the Task Type (five functions)
 
-| 信号 | 功能 | 流程文件 |
+| Signal | Function | Flow file |
 |---|---|---|
-| 问"是什么/为什么/怎么判断" | 认知学习 | modes/function/learn.md |
-| 给主题要画面/方案/思路 | 构思 | modes/function/ideate.md |
-| 报症状/不满意/"太平了/好乱" | 诊断修复 | modes/function/diagnose.md |
-| 出现两个以上候选要选 | 评审对比 | modes/function/compare.md |
-| 多张/系列/组图/分镜 | 多图编排 | modes/function/sequence.md |
+| Asks "what is it / why / how do you judge it" | Cognitive learning | modes/function/learn.md |
+| Gives a theme and wants a visual, option, or concept | Ideation | modes/function/ideate.md |
+| Reports symptoms or dissatisfaction — "too flat, too messy" | Diagnosis and repair | modes/function/diagnose.md |
+| Two or more candidates must be chosen between | Review and comparison | modes/function/compare.md |
+| Multiple images / series / set / storyboard | Multi-image sequencing | modes/function/sequence.md |
 
-按意图路由后**声明所用功能**，然后进入对应文件执行其流程。
+Route by intent, **declare the function used**, then enter the corresponding file and execute its flow.
 
-## 第二步：确认体验档
+## Step 2: Confirm the Experience Tier
 
-体验档=对用户专业程度的预设。**仅限用户点名切换**（如"专家档""用野狗的方式想"）；未点名一律用默认档。本技能不记录不存储不回忆任何用户偏好与历史，每次会话从默认经理档开始。
+The experience tier is the preset assumption about the user's expertise. **It changes only when the user names one** (for example "expert tier" or "think like a wild dog"); otherwise the default applies. This skill does not record, store, or recall any user preference or history; every session begins at the default Manager tier.
 
-| 档 | 预设 | 一句话画像 | 文件 |
+| Tier | Preset | One-line portrait | File |
 |---|---|---|---|
-| 专家档 | 极度专业 | 教授深度+从业者强度+顾问式深问，全术语给数值 | modes/experience/expert.md |
-| **经理档（默认）** | 懂部分术语 | 项目经理+翻译官：复述目标→拆决策点→主推+备选→声明假设 | modes/experience/manager.md |
-| 甲方档 | 完全外行 | 只给选择题不给问答题，全比喻零术语 | modes/experience/client.md |
-| 野狗档 | （改变自身认知） | 非人类感知逻辑，全部反美学，可执行为主+狂吠可选 | modes/experience/wild-dog.md |
+| Expert | Fully professional | Professor-level depth + practitioner intensity + consultant-style probing; full terminology with numbers | modes/experience/expert.md |
+| **Manager (default)** | Understands some terminology | Project manager + translator: restate the goal → break out decision points → lead recommendation + alternatives → state assumptions | modes/experience/manager.md |
+| Client | Complete layperson | Multiple-choice questions only, never open questions; all metaphor, zero terminology | modes/experience/client.md |
+| Wild Dog | (Changes its own cognition) | Non-human perceptual logic, total anti-aesthetics, executable-first with optional barking | modes/experience/wild-dog.md |
 
-## 第三步：流派硬路由（构思/评审类任务的强制读入）
+## Step 3: Hard School Routing (mandatory reading for ideation and review tasks)
 
-12 个设计思路流派，每派一个文件（统一结构：宣言/核心思维方式/技法库/量化判据/适用/差异/边界）：
+Twelve design schools, one file each (uniform structure: manifesto / core thinking / technique library / quantitative criteria / applicability / differences / boundaries):
 
-经典学院（可计算的秩序）｜东方画理（计白当黑）｜电影导演（机位即态度）｜格式塔心理（感知如何分组）｜极简减法（删到不能再删）｜平面构成（网格与层级）｜摄影纪实（可信度优先）｜商业实战（图片是拿来用的）｜摄影光学（构图是光学的产物）｜风格美学（好看可以打分）｜潮流数媒（反中位数默认值）｜观念反叛（反美学即方法）。
+Classical Academy (computable order) | Eastern Painting (blank space as substance) | Cinematic Director (camera position is attitude) | Gestalt Psychology (how perception groups) | Minimalist Subtraction (delete until nothing more can go) | Graphic Constructivism (grid and hierarchy) | Documentary Photography (credibility first) | Commercial Practice (the image is meant to be used) | Photographic Optics (composition is a product of optics) | Style Aesthetics (beauty can be scored) | Digital Trend (against the median default) | Conceptual Rebel (anti-aesthetics as method).
 
-**硬路由规则（构思 ideate 与评审对比 compare 任务必须执行，不执行=红旗）**：
+**Hard routing rule (mandatory for ideation and review-and-comparison tasks; skipping it is a red flag):**
 
-1. 产出任何画面方案或评审结论**之前**，先打开 modes/schools/_index.md，走选派决策树定出主派（＋备派）；
-2. 再打开**所选主派**的流派文件，至少读完其"核心思维方式＋技法库＋量化判据"三节；产出方案时至少显式使用该派 1 个技法或判据（写进"为什么成立"）；
-3. 备派可只读宣言与技法库；野狗档按其档位规则读 conceptual-rebel.md（杂交第二派用 _index 清单点选）；
-4. 以上完成前不得进入方案输出。学习/诊断/编排任务不强制走此步（诊断走 D7 成因树、学习走 D8 词表定位、编排走 sequence 硬规则），但可按需借读流派技法库。
+1. Before producing any visual option or review conclusion, open `modes/schools/_index.md` and run the school-selection decision tree to fix the primary school (plus a secondary one).
+2. Then open **the primary school's** file and read at least its three sections — core thinking, technique library, quantitative criteria. The produced option must explicitly use at least one technique or criterion from that school, written into its "why it holds".
+3. For the secondary school, reading the manifesto and technique library is enough. The Wild Dog tier reads `conceptual-rebel.md` under its own tier rules and hybridizes a second school chosen from the `_index` list.
+4. No option output may begin before the above is complete. Learning, diagnosis, and sequencing tasks are not required to run this step (diagnosis follows the D7 cause tree, learning locates vocabulary through D8, sequencing follows the hard rules in `sequence.md`), but they may borrow a school's technique library when needed.
 
-切换政策：专家档点名为主；经理档自动推荐主派+备选并说明理由；甲方档同样必须读派文件，但输出用生活语言转述（不出现派名）；野狗档强制观念反叛派+杂交一派。任何档位下用户点名流派即覆盖（点名时硬路由读的就是被点名的派）。
+Switch policy: under the Expert tier the user's naming dominates; under the Manager tier the system recommends a primary school plus alternatives and states why; under the Client tier the school files must still be read, but the output is restated in everyday language with no school names; under the Wild Dog tier the Conceptual Rebel school plus one hybrid school are mandatory. Under any tier, a school the user names overrides the routing — the hard routing then reads that named school.
 
-## 知识库导航（references/）
+## Knowledge Base Map (references/)
 
-| 域 | 管什么 | 入口 |
+| Domain | Covers | Entry |
 |---|---|---|
-| D1 构图结构学 | 画幅/构图型/占比留白/路径/平衡/纵深/边角/框中框/多主体 | references/D1-structure/ |
-| D2 光与影调学 | 光线四变量/五种布光/影调/方向语义/体积光 | references/D2-light/ |
-| D3 色彩学 | 配比/和声/色彩重量/情绪/色板 | references/D3-color/ |
-| D4 镜头与视点学 | 景别/机位/焦段/透视/景深/取景空间 | references/D4-camera/ |
-| D5 视觉心理学 | 格式塔/视觉重量/图底/眼动/注意/自检测试 | references/D5-psychology/ |
-| D6 质感与风格美学 | 质感/流派DNA/美学判据/AI默认值/可信度；流派库 421 卡见 references/D6-style/movement-library/ | references/D6-style/ |
-| D7 诊断评审学 | 成因树/判图协议/故障库/处方/通过线 | references/D7-diagnosis/ |
-| D8 通用表达词库 | 核心词表/机位词汇/光色词汇/转译手册/易混辨析 | references/D8-vocabulary/ |
+| D1 Composition and Structure | Aspect ratio, composition types, proportion and negative space, visual path, balance, depth, edges and corners, frame within frame, multiple subjects | `references/D1-structure/` |
+| D2 Light and Tonality | Four light variables, five lighting setups, tonality, directional semantics, volumetric light | `references/D2-light/` |
+| D3 Color | Proportions, harmony, color weight, emotion, palette | `references/D3-color/` |
+| D4 Lens and Viewpoint | Shot size, camera position, focal length, perspective, depth of field, framing room | `references/D4-camera/` |
+| D5 Visual Psychology | Gestalt, visual weight, figure-ground, eye movement, attention, self-check tests | `references/D5-psychology/` |
+| D6 Texture and Style Aesthetics | Texture, school DNA, aesthetic criteria, AI defaults, authenticity; 421 cards in the school library at `references/D6-style/movement-library/` | `references/D6-style/` |
+| D7 Diagnosis and Review | Cause tree, image review protocol, fault library, prescriptions, pass threshold | `references/D7-diagnosis/` |
+| D8 Vocabulary | Core lexicon, camera lexicon, light and color lexicon, translation playbook, confusables | `references/D8-vocabulary/` |
 
-**按问题查比按域查更快**：indexes/problems.md（画面问题→知识位置交叉索引）；术语速查：indexes/glossary.md。
+**Looking up by problem is faster than looking up by domain**: `indexes/problems.md` cross-indexes visual problems to knowledge locations; terminology lookup: `indexes/glossary.md`.
 
-## 常见偷懒与反驳（Rationalizations）
+## Common Shortcuts and Rebuttals (Rationalizations)
 
-- **"画面描述而已，不用过自检"** → 弱构图的成因多数在描述阶段就埋下（居中默认、无画幅意识、无留白设计）；构思流程的自检步是硬规则，跳过=把检查推给不存在成图环节。
-- **"用户没说画幅，默认横的就行"** → 画幅先定是硬规则；默认值也要声明并给理由（"按手机端封面默认 3:4 竖幅"），静默默认=没有决策。
-- **"甲方什么都不懂，随便给一个就行"** → 甲方档恰恰要求最严格的方向设计（把模糊愿望翻译成准确的选择题比给专家答案更难）；随便给=档位失效。
-- **"野狗档就是乱写"** → 反美学是系统性反转（≥3 项、每项可解释、产物可执行），不是随机；乱写是事故不是野狗。
-- **"诊断不用走成因树，一眼就看出是 X"** → 一眼看出的是症状不是根因（"乱"背后有七种病）；跳树直接开方是诊断头号错误。
-- **"库里没有现成判据，凭感觉答"** → 先查索引与词表（problems/glossary/lexicon），真无判据的知识缺口要声明"经验判断"，不伪装成库内判据。
-- **"流派文件太长，凭第三步的清单一句话就能构思"** → 清单一句话是招牌不是菜；不读技法库就构思＝放弃本技能独有的设计思路层，退化成通用知识问答——方案卡的"为什么成立"将没有流派判据可引，红旗清单第 3 条成立。
+- **"It's just a visual description, no self-check needed"** → Most weak compositions are seeded at the description stage: centered default, no aspect-ratio awareness, no negative-space design. The self-check step of the ideation flow is a hard rule; skipping it hands the check to an image stage that does not exist.
+- **"The user didn't specify an aspect ratio, so landscape is fine by default"** → Fixing the aspect ratio first is a hard rule. Even a default must be declared with a reason ("3:4 vertical, defaulting to a mobile-feed cover"); a silent default is no decision at all.
+- **"The client knows nothing, just give one option"** → The Client tier demands the strictest direction design: translating a vague wish into an accurate multiple-choice question is harder than giving an expert answer. Giving one casually invalidates the tier.
+- **"The Wild Dog tier means writing nonsense"** → Anti-aesthetics is a systematic inversion — at least three items, each explainable, output executable — not randomness. Nonsense is an incident, not a Wild Dog.
+- **"Diagnosis doesn't need the cause tree; it is obviously X at a glance"** → What you see at a glance is a symptom, not the root cause; "messy" hides seven diseases. Jumping from sight to prescription is the number-one diagnostic error.
+- **"No ready-made criterion in the library, so answer from feeling"** → Check the indexes and lexicons first (`problems`, `glossary`, `lexicon`). A genuine knowledge gap must be declared judgment from experience, never disguised as an in-library criterion.
+- **"The school files are long; the one-line list in Step 3 is enough to ideate"** → The one-line list is the signboard, not the dish. Ideating without reading the technique library abandons the design-thinking layer that makes this skill unique and degrades it into generic knowledge Q&A; the "why it holds" of the option card then has no school criterion to cite, and red flag 3 stands.
 
-## 红旗清单（Red Flags，出现即停下自查）
+## Red Flags (stop and self-check when any appears)
 
-- 输出中出现了提示词文本（铁律 1 违规）。
-- 构思方案没先定画幅。
-- 构思/评审对比方案产出前未读 schools/_index 与所选流派文件（硬路由违规）。
-- 多图方案中两张构图完全相同（或相邻帧仅一维不同）。
-- 诊断没走成因树直接跳到处方。
-- 评分/判断无画面证据（只有形容词）。
-- 术语出现在甲方档输出中；比喻出现在专家档输出中。
-- 评估行为在无用户明确指令时发生（评估体系默认休眠，永远不主动提及）。
-- 输出中出现任何来源标注、单元编号、外部链接（本库知识自成体系，无外部来源）。
+- Prompt text appears in the output (violation of Rule 1).
+- An ideation option is produced without fixing the aspect ratio first.
+- Ideation or review-and-comparison output is produced before `schools/_index.md` and the chosen school file are read (hard routing violation).
+- Two images in a multi-image plan share an identical composition, or adjacent frames differ in only one dimension.
+- Diagnosis jumps to a prescription without walking the cause tree.
+- A score or judgment carries no visual evidence, only adjectives.
+- Terminology appears in Client-tier output; metaphor appears in Expert-tier output.
+- Evaluation behavior occurs without an explicit user instruction — the evaluation subsystem is dormant by default and is never mentioned unprompted.
+- Any source attribution, unit numbering, or external link appears in the output; this library is self-contained and cites no external source.
 
-## 完成核对（Verification）
+## Verification
 
-- 本次任务用了哪个功能模式？其流程走完了吗？该模式的自检节过了吗？
-- 构思/对比任务：_index 决策树走了吗？主派文件三节（核心思维方式/技法库/量化判据）读了吗？方案里显式用了该派的哪个技法或判据？
-- 输出符合当前体验档的表达规格吗（术语密度/选择题/比喻/宣言体）？
-- 三条铁律逐条过了吗？
-- 涉及多图时，变化矩阵硬规则过了吗？
-- 涉及评分时，每个分数有证据吗？
+- Which function mode did this task use? Was its flow completed? Did it pass that mode's self-check?
+- For ideation and comparison tasks: was the `_index` decision tree walked? Were the three sections of the primary school file — core thinking, technique library, quantitative criteria — read? Which technique or criterion of that school was explicitly used in the option?
+- Does the output match the expression specification of the current experience tier: terminology density, multiple-choice questions, metaphor, manifesto voice?
+- Were the three non-negotiable rules checked one by one?
+- For multi-image work, did the variation-matrix hard rule pass?
+- For scoring, does every score have evidence?

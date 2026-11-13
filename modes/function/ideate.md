@@ -1,52 +1,53 @@
-# 构思（Ideate Function Mode）
+# Ideation (Ideate Function Mode)
 
-> 功能层文件：从意图到画面思路。体验档改变提问与表达，不改变流程与硬规则。
+> Function-layer file: from intent to a visual concept. The experience tier changes questioning and expression, never the flow or its hard rules.
 
-## 触发信号
+## Trigger signals
 
-用户给出主题/想法/需求，要"画面/构图/方案/思路"。典型："帮我构思一张海报""雨夜人像怎么构图""这个想法怎么画"。
+The user gives a theme, idea, or requirement and wants "a visual / composition / option / concept". Typical: "Help me conceive a poster", "How should I compose a rainy-night portrait", "How do I draw this idea".
 
-## 流程
+## Flow
 
-1. **意图解读**：提取媒介/画幅/主体/情绪/用途/约束。缺项按体验档策略补（专家：深问；经理：默认+声明；甲方：选择题；野狗：自答反着来）。
-2. **画幅先定**（硬规则，第一步不可跳）：按题材×画幅映射定画幅与方向（D1/aspect-ratio）。画幅未定不进入下一步。
-3. **流派视角展开（硬路由）**：先读 modes/schools/_index.md 走决策树定主派＋备派，再读主派文件的"核心思维方式＋技法库＋量化判据"三节，用该派思维组织画面——未读派文件不得进入第 4 步（硬路由规则见 SKILL.md 第三步）。
-4. **产出画面思路方案**：主推+备选，按输出模板成卡。
-5. **自检**：过 D7/fault-library 相关项+D5/tests 三项（眯眼/缩略/边缘扫描的"想象版"）；多主体查 multi-subject；多帧查 sequence 硬规则。
-6. **按体验档表达**输出。
+1. **Intent reading**: extract medium / aspect ratio / subject / emotion / use / constraints. Missing items are filled by the tier strategy (Expert: probe deeply; Manager: default plus declaration; Client: multiple choice; Wild Dog: answers itself, inverted).
+2. **Fix the aspect ratio first** (hard rule; the first step cannot be skipped): choose the ratio and orientation through the subject × ratio mapping (D1/aspect-ratio). Do not advance until the ratio is fixed.
+3. **Open the school perspective (hard routing)**: read modes/schools/_index.md, run the decision tree to fix the primary and the secondary school, then read the primary school's three sections — core thinking, technique library, quantitative criteria — and organize the frame through that school's thinking. Step 4 may not begin without reading the school file (see Step 3 of SKILL.md).
+4. **Produce the visual concept option**: one lead recommendation plus an alternative, built into cards per the output template.
+5. **Self-check**: run the relevant D7/fault-library items and the three D5/tests (the imagined versions of squint / thumbnail / edge scan); check multiple subjects against multi-subject; check multiple frames against the sequence hard rules.
+6. **Express per the experience tier**.
 
-## 输出模板（画面思路卡）
+## Output template (visual concept card)
 
 ```
-【方案名】<3–8 字记忆点>
-【画面一句话】<可直接想象的完整画面描述>
-【结构】画幅 / 构图型 / 主体位置与占比 / 视觉路径 / 留白
-【光色】光源方向与性质 / 影调 / 色彩策略（主色-辅色-强调色配比）
-【为什么成立】<2–3 条，引用视觉机制>
-【风险与替代】<1–2 条已知失效条件＋一个备选方向>
+[Option name] <3–8 word memory hook>
+[Frame in one line] <complete visual description the reader can picture directly>
+[Structure] aspect ratio / composition type / subject position and share of frame / visual path / negative space
+[Light and color] light direction and quality / tonality / color strategy (dominant-secondary-accent ratio)
+[Why it holds] <2–3 items citing visual mechanisms>
+[Risk and alternative] <1–2 known failure conditions plus one alternative direction>
 ```
 
-要求：
-- "画面一句话"必须可直接想象（独立成立，不依赖上下文）。
-- "为什么成立"引用机制（"内框聚焦+框暗主亮的明度分离"），不是形容词。
-- 野狗档变体：结构栏全填反美学协议的选择；"为什么成立"改为"为什么刺"（反转了哪些惯例）。
+Requirements:
 
-## 甲方档输出变体
+- "Frame in one line" must be directly imaginable — standing alone, with no dependence on context.
+- "Why it holds" cites mechanisms ("inner-frame focus plus tonal separation from a dark frame around a bright subject"), never adjectives.
+- Wild Dog variant: the Structure field is filled entirely with anti-aesthetic protocol choices; "Why it holds" becomes "Why it provokes" — which conventions were inverted.
 
-模板压缩为方向卡（不用模板标题）："方案 A：一句画面描述。感觉：像 X。会有：Y 效果。不会：Z。"——3 个方向+选择题收尾。
+## Client-tier output variant
 
-## 纪律
+The template compresses into direction cards, without template headings: "Option A: a one-line visual description. Feels like: X. Will produce: effect Y. Will not: Z." — three directions plus a multiple-choice close.
 
-- **一图一主结构**：多构图型冲突时保最服务意图的一型（规则冲突原则）。
-- **主推必有理由**，备选必有差异（"更稳/更险/更省事"）。
-- 方案数量克制：1 主+1 备（甲方档 2–3 个方向）；不自作主张铺五方案。
-- 用户给过参考图/参考描述时，先做构图翻译（描述其构图语言）再吸收进方案。
-- 输出的是**画面思路**不是提示词文本：结构/光色判据说清即可，怎么措辞交给下游。
+## Discipline
 
-## 自检（本功能完成核对）
+- **One image, one primary structure**: when composition types conflict, keep the one that serves the intent best (conflict-resolution principle).
+- **The lead recommendation must carry a reason**; the alternative must carry a difference ("safer / riskier / less work").
+- Restrained option count: 1 lead plus 1 alternative (Client tier: 2–3 directions); never expand to five options unasked.
+- When the user supplies a reference image or reference description, translate its composition first (describe its compositional language), then absorb it into the option.
+- The output is a **visual concept**, not prompt text: state the structural, light, and color criteria clearly and leave wording to the downstream flow.
 
-- 画幅是否第一步定了？
-- 方案卡各栏是否可执行（念出来能画）？
-- 自检三项是否过了？
-- 是否漏了"风险与替代"（只有主推没有风险=方案不完整）？
-- 有没有滑向提示词代写（铁律 1 检查）？
+## Self-check (function completion review)
+
+- Was the aspect ratio fixed in the first step?
+- Is every card field executable — could it be drawn from what is written?
+- Did the three self-checks pass?
+- Is "Risk and alternative" present? A lead recommendation without risk is an incomplete option.
+- Did the answer slide toward writing prompts (Rule 1 check)?

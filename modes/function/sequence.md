@@ -1,52 +1,52 @@
-# 多图编排（Sequence Function Mode）
+# Multi-Image Sequencing (Sequence Function Mode)
 
-> 功能层文件：组图防重样、序列节奏。体验档改变表达，不改变硬规则。
+> Function-layer file: variation across a series without repetition, and sequence rhythm. The experience tier changes expression, never the hard rules.
 
-## 触发信号
+## Trigger signals
 
-多张/系列/组图/轮播/分镜/九宫格意图。典型："九张产品图怎么不重样""这组插画怎么排""系列封面怎么变化"。
+Intent involving multiple images, a series, a set, a carousel, a storyboard, or a nine-grid layout. Typical: "How do I keep nine product images from repeating", "How should this illustration set be arranged", "How should a series of covers vary".
 
-## 流程
+## Flow
 
-1. **序列目标**：几张、什么用途、关系性质（叙事序列有先后/并列矩阵无先后/节奏组有主次）。
-2. **一致性锚定**：全序列不变的 1–3 项（主体/风格 DNA/色板/媒介质感）——锚是"像一家人"的保证。
-3. **变化维度设计**：在五个变化维度上分配变化——**构图型 / 机位角度 / 景别 / 画幅内重心 / 光方向**。硬规则：
-   - 相邻两图至少**两维不同**；
-   - 全序列同一构图型不重复超过一次；
-   - 同一机位角度连续不超过两图（经验值）。
-4. **逐图分工表**：每帧一句话职能（定场/推进/高潮/呼吸/反转……叙事序列必填；并列矩阵填"并列轴"）。
-5. **防重样终检**：对照变化矩阵逐行扫雷（相邻差异 ✓/全序重复 ✓）+并排缩略想象（全部缩到拇指大，哪两张像一张就是事故）。
+1. **Sequence goal**: how many images, what use, and what kind of relation — a narrative sequence with order, a parallel matrix without order, or a rhythmic set with hierarchy.
+2. **Consistency anchors**: the 1–3 items held constant across the sequence (subject / style DNA / palette / medium texture). The anchor is the guarantee that the set reads as one family.
+3. **Variation dimension design**: distribute variation across five dimensions — **composition type / camera angle / shot size / center of gravity within the frame / light direction**. Hard rules:
+   - adjacent images must differ in at least **two dimensions**;
+   - no composition type may repeat more than once across the sequence;
+   - the same camera angle may not run for more than two consecutive images (empirical).
+4. **Per-image role table**: a one-line function for every frame (establish / advance / climax / breathe / reverse…; mandatory in a narrative sequence, where a parallel matrix instead records its parallel axis).
+5. **Final anti-repetition check**: sweep the variation matrix row by row — adjacent difference ✓, whole-sequence repetition ✓ — plus a side-by-side thumbnail imagination (shrink everything to thumbnail size; if two look like one image, that is an accident).
 
-## 输出模板
+## Output template
 
 ```
-【序列目标】<几张·用途·关系>
-【一致性锚】<不变的 1–3 项>
-【变化矩阵】图1..图N ×（构图型/机位/景别/重心/光向）
-【逐图一句话】每张的画面思路一句话
-【终检】相邻差异 ✓、全序重复 ✓、节奏曲线 <描述>
+[Sequence goal] <count · use · relation>
+[Consistency anchors] <the 1–3 constants>
+[Variation matrix] image 1..N × (composition type / camera angle / shot size / center of gravity / light direction)
+[One line per image] the visual concept of each frame in one sentence
+[Final check] adjacent difference ✓, whole-sequence repetition ✓, rhythm curve <description>
 ```
 
-## 体验档变体
+## Experience tier variants
 
-- **专家档**：变化矩阵全展开+节奏曲线（信息量/情绪强度的帧间曲线描述）；可加"反转帧"位置建议（观念反叛派用法）。
-- **经理档**：矩阵精简为关键三维（构图型/景别/光向）+逐图一句话+终检结论。
-- **甲方档**：不出现矩阵——给"每张一句话"+大白话节奏描述（"第 3 张是全场最炸的，前面两张都是铺垫"）；重样问题直接说"第几张和第几张太像，改第几张的 XX"。
-- **野狗档**：矩阵照做（硬规则不歪），但允许指定一帧为"反转帧"（完全反序列语法，见 conceptual-rebel 技法 12）。
+- **Expert**: the full variation matrix plus a rhythm curve (a frame-to-frame curve of information load and emotional intensity); may add a recommended position for a reversal frame (a Conceptual Rebel usage).
+- **Manager**: the matrix reduced to three key dimensions (composition type / shot size / light direction) plus one line per image and the final-check conclusion.
+- **Client**: no matrix — "one line per image" plus a plain-language rhythm description ("image 3 is the loudest moment of the set; the two before it are setup"); repetition problems stated directly as "images 3 and 7 are too alike; change the XX of image 7".
+- **Wild Dog**: the matrix is still built (hard rules are never bent), but one frame may be designated a reversal frame — completely against sequence grammar (see technique 12 of conceptual-rebel).
 
-## 纪律
+## Discipline
 
-- **变化≠乱变**：变化在五维内分配，风格 DNA/色板/媒介质感不许变（一致性与多样性分工：语言层恒定，内容层变化——见 D8/confusables 辨析 10）。
-- **单帧完整性**：每帧自身仍要过构思流程的构图判据（序列纪律不豁免单帧质量）。
-- **朝向连续**：叙事序列保持左右关系/轴线连续（180 度线思想：A 左 B 右的关系不无理由互换）。
-- **景别节奏**：相邻帧景别跳 ≤2 档；序列景别分布要有起伏（全特写序列=疲劳，全远景=疏离——除非后者即意图）。
-- **无记忆原则**：序列方案仅在会话内维护；跨会话需用户提供既有帧信息。
-- **漫画/条漫分格（页面级序列）**：分格数按信息节奏定（条漫 4–8 格/屏、页漫 5–12 格/页，经验值）；关键格大格幅、过渡格小格幅；格间缝宽全页一致；阅读流方向显式声明（左起/右起），装订侧留边。
+- **Variation is not randomness**: variation is distributed within the five dimensions; style DNA, palette, and medium texture must not change (the division of labor between consistency and variety: the language layer holds constant, the content layer varies — see distinction 10 in D8/confusables).
+- **Per-frame completeness**: each frame must still pass the composition criteria of the ideation flow; sequence discipline does not excuse single-frame quality.
+- **Continuity of direction**: a narrative sequence preserves left-right relations and axis continuity (the 180-degree idea: the A-left / B-right relation is never swapped without reason).
+- **Shot-size rhythm**: adjacent frames jump no more than 2 steps; the distribution across the sequence must rise and fall (an all-close-up sequence produces fatigue, an all-wide sequence produces distance — unless the latter is the intent).
+- **No-memory principle**: a sequence plan lives only within the session; across sessions the user must supply the existing frame information.
+- **Comic and webtoon panels, page-level sequences**: panel count follows information rhythm (4–8 panels per screen for webtoons, 5–12 per page for page comics — empirical values); key panels get large frames, transitional panels small ones; gutter width stays consistent across the page; reading flow direction is declared explicitly (left-to-right or right-to-left), with a margin kept on the binding side.
 
-## 自检（本功能完成核对）
+## Self-check (function completion review)
 
-- 相邻两维硬规则过了吗？
-- 同型不超一次吗？
-- 并排缩略想象有没有"像一张"的？
-- 一致性锚明确吗（只有变化没有锚=散）？
-- 叙事序列的朝向连续吗？
+- Did the adjacent two-dimension hard rule pass?
+- Does any composition type appear more than once?
+- In the side-by-side thumbnail imagination, do any two look like one image?
+- Are the consistency anchors explicit? Variation without anchors means the set scatters.
+- Does the narrative sequence hold direction continuity?

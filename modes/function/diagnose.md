@@ -1,47 +1,47 @@
-# 诊断修复（Diagnose Function Mode）
+# Diagnosis and Repair (Diagnose Function Mode)
 
-> 功能层文件：找病根，给处方。体验档改变表达，不改变流程。
+> Function-layer file: find the root cause, then prescribe. The experience tier changes expression, never the flow.
 
-## 触发信号
+## Trigger signals
 
-用户报症状/表达不满。典型："构图太平""画面乱""不知道为什么就是怪""AI 味重""为什么主体不突出"。
+The user reports a symptom or expresses dissatisfaction. Typical: "The composition is flat", "The frame is messy", "I don't know why it just feels wrong", "Too much AI-slop", "Why doesn't the subject stand out".
 
-## 流程
+## Flow
 
-1. **症状采集**：用户描述/成图口头描述/画面思路描述。模糊症状（"就是怪"）时：专家档追问具体；经理档引导（"是不知道看哪，还是东西太多？"——用 confusables 试金石确认所指）；甲方档给症状选择题（"是 A 空得太狠，还是 B 挤得太满？"）。
-2. **成因树定位**：沿 D7/cause-tree 七支（主体不清/层级缺乏/平衡失效/路径混乱/纵深扁平/边缘事故/风格冲突）逐层排查，落到细分根因。多支并发按"结构性>表面性"排序。
-3. **证据确认**：把定位依据讲给用户（指认画面具体位置），可被反驳；用户否认时换支再查（口供与实测冲突以实测为准，但要说明）。
-4. **处方分级**：微调（保结构调参数）vs 重构（换构图型/机位/画幅）——按 D7/prescriptions 分级表；同一病微调一次无效即升级重构。
-5. **验证判据**：修复后应满足的可检查条件（D5/tests/D7/review-gates 条目）。
+1. **Symptom intake**: the user's description, a verbal description of the produced image, or a description of the visual concept. For vague symptoms ("it just feels wrong"): the Expert tier probes for specifics; the Manager tier guides ("Is it that you don't know where to look, or that there is too much in the frame?" — using the confusables touchstone to pin the referent); the Client tier receives a multiple-choice symptom set ("Is A too empty, or B too crowded?").
+2. **Cause-tree placement**: walk the seven branches of D7/cause-tree — unclear subject / missing hierarchy / failed balance / confused path / flat depth / edge accident / style conflict — layer by layer down to a sub-root cause. When several branches fire at once, order them structure-first, surface-second.
+3. **Evidence confirmation**: state the basis of the diagnosis to the user, pointing at specific locations in the frame, so that it can be contested. If the user denies it, switch branch and recheck (when testimony conflicts with observation, observation governs, but say so).
+4. **Prescription leveling**: adjustment (keep the structure, tune the parameters) versus restructure (change the composition type / camera position / aspect ratio) — per the D7/prescriptions table. If one adjustment fails on the same fault, promote to restructure.
+5. **Verification criteria**: the checkable conditions the repaired frame must satisfy — items drawn from D5/tests and D7/review-gates.
 
-## 输出模板
+## Output template
 
 ```
-【诊断】<一句话病名（fault-library 编号或描述）>
-【成因】<成因树路径：症状→分支→根因，含证据>
-【处方·微调】<若可行，条目式参数调整（动作/理由/预期）>
-【处方·重构】<换什么构图型/机位，新结构一句话>
-【验证】<修复后画面应满足的 2–3 个可检查条件>
+[Diagnosis] <one-line fault name — fault-library number or description>
+[Cause] <cause-tree path: symptom → branch → root cause, with evidence>
+[Prescription · adjustment] <if viable, itemized parameter changes: action / reason / expectation>
+[Prescription · restructure] <which composition type or camera position to change; the new structure in one line>
+[Verification] <2–3 checkable conditions the repaired frame must satisfy>
 ```
 
-## 体验档变体
+## Experience tier variants
 
-- **专家档**：病名用库内编号+谱系（"F05 融底，图底线索三条全缺"）；处方给完整判据数值；可附加第二支的隐性病预警。
-- **经理档**：病名通俗化+编号并用（"主体和背景黏在一起了（融底）"）；处方按优先级排；结尾给"下一步"。
-- **甲方档**：不报病名不进树——直接"问题是 X，改成 Y 就会好"（X/Y 都是生活语言）；处方转成选择题（"要么挪人要么换背景，你选哪个？"）。
-- **野狗档**：诊断照准（知识不歪），表达宣言体（"画面太乖，病在没敢冒犯任何人"）；处方全走反美学协议。
+- **Expert**: the fault name uses the library number plus lineage ("F05 tonal fusion — all three figure-ground cues missing"); prescriptions give complete criterion values; a warning about a second, latent branch may be added.
+- **Manager**: the fault name in plain language plus the number ("the subject and the background have fused — tonal fusion"); prescriptions ordered by priority; closes with "next step".
+- **Client**: no fault name, no tree — "the problem is X; change it to Y and it improves" (both X and Y in everyday language); prescriptions become a multiple choice ("either move the figure or change the background — which one?").
+- **Wild Dog**: the diagnosis stays accurate (knowledge is never bent), the expression becomes manifesto ("the frame is too well-behaved; it fails because it never dared offend anyone"); every prescription runs through the anti-aesthetic protocol.
 
-## 纪律
+## Discipline
 
-- **先定位后开方**（诊断头号纪律）：跳过成因树直接给建议=头号错误。
-- 处方数量 ≤5 条；超限说明定位未收敛，回树重新归支。
-- 单变量纪律：多处方按结构性优先逐个执行，不打包并行改。
-- 重构不是失败：微调一次无效果断升级，早重构比反复微调便宜。
-- 用户带着"我要的改法"来时：执行其改法（点名优先），同时按本流程给对照评估（"你的改法解决 X，但根因可能是 Y，改后验证点在 Z"）。
+- **Locate before prescribing** — the number-one diagnostic discipline: skipping the cause tree and going straight to advice is the number-one error.
+- At most 5 prescriptions; beyond that the diagnosis has not converged — return to the tree and re-branch.
+- One variable at a time: multiple prescriptions are executed one by one, structure-first, never bundled in parallel.
+- Restructuring is not failure: one failed adjustment means promote immediately; early restructuring is cheaper than repeated tuning.
+- When the user arrives with "the fix I want": execute their fix (naming wins), and at the same time give the counter-assessment through this flow ("your fix solves X, but the root cause may be Y; after the change, verify at Z").
 
-## 自检（本功能完成核对）
+## Self-check (function completion review)
 
-- 走完成因树了吗（还是跳步了）？
-- 每条判词有画面证据吗（指认位置）？
-- 处方分级对了吗（有没有小病开大刀/大病只抹药）？
-- 验证判据可执行吗（能拿去复查）？
+- Was the cause tree walked, or was a step skipped?
+- Does every judgment carry visual evidence naming a location?
+- Is the prescription level correct — a small fault hit with a sledgehammer, or a large fault treated with a salve?
+- Are the verification criteria executable — usable for a re-check?

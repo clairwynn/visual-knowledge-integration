@@ -1,51 +1,51 @@
-# 问题交叉索引（Problems Index）
+# Problems Index
 
-> 按"画面问题"查知识，不按学科查。每行：问题 → 首选知识位置 → 相关流派 → 相关功能。
-> 用法：先在本表定位问题行，跳到知识文件取判据；行行可点（指针须有效）。
+> Look up knowledge by **visual problem**, not by discipline. Each row: problem → primary knowledge location → related schools → related functions.
+> Use: locate the problem row here, then jump to the knowledge file for criteria. Every row must be clickable, so pointers must stay valid.
 
-| 画面问题 | 知识位置 | 流派 | 功能 |
+| Visual problem | Knowledge location | School | Function |
 |---|---|---|---|
-| 主体放哪？ | D1/composition-types-1、spatial-allocation | 经典学院 | 构思 |
-| 怎么让主体一眼突出？ | D5/attention＋D2/tonality（明度差）＋D5/figure-ground | 格式塔心理 | 构思/诊断 |
-| 画面太平、没张力？ | D1/balance（有意失衡）＋D6/ai-defaults＋D3/emotion | 观念反叛/电影导演 | 构思 |
-| 画面乱、不知道看哪？ | D1/visual-path＋D7/cause-tree（D 支）＋D5/gestalt | 格式塔心理 | 诊断 |
-| 缺纵深、太扁？ | D1/depth-layering＋D4/perspective＋D4/focal-length | 摄影光学 | 构思/诊断 |
-| 留白多少合适？ | D1/spatial-allocation（三档/五档） | 极简/东方画理 | 构思 |
-| 留白怎么不显得空？ | D1/spatial-allocation（质感化规范）＋D8/confusables（14 条） | 东方画理/极简 | 构思/诊断 |
-| 怎么营造氛围？ | D2/tonality＋D3/emotion＋D2/atmosphere | 电影导演/东方画理 | 构思 |
-| 人像怎么拍/画得高级？ | D2/portrait-lighting＋D4/framing-room＋D6/authenticity | 摄影光学/纪实 | 构思 |
-| 多个主体怎么排？ | D1/multi-subject＋D5/gestalt | 商业/平面构成 | 构思/编排 |
-| 物体悬空/不着地？ | D1/multi-subject（锚定）＋D7/fault-library（F07） | — | 诊断 |
-| AI 味太重？ | D6/ai-defaults（十二特征）＋D6/authenticity | 潮流数媒/纪实 | 诊断 |
-| 多张图长得一样？ | modes/function/sequence.md＋D1 五维变化 | 商业/潮流数媒 | 编排 |
-| 画幅怎么选？ | D1/aspect-ratio（职责表/题材映射） | —（通用） | 构思 |
-| 色彩打架？ | D3/harmony（七系）＋D3/proportions | 风格美学 | 诊断 |
-| 色彩没情绪？ | D3/emotion（色相表/冷暖分区） | 风格美学/电影导演 | 构思 |
-| 光线怎么配合构图？ | D2/light-fundamentals（四变量）×D1 | 电影导演/光学 | 构思 |
-| 人脸是黑的/主体淹没暗部？ | D2/portrait-lighting（光比）＋D2/tonality | 摄影光学 | 诊断 |
-| 光从哪来不知道？ | D2/direction-quality（动机检查）＋D2/light-fundamentals | 纪实/光学 | 诊断/构思 |
-| 哪里裁掉安全？ | D1/edges-cropping（禁忌表）＋D1/aspect-ratio（安全区） | 商业 | 诊断 |
-| 对称用不用？ | D1/composition-types-2（居中对称条目） | 经典学院/东方画理 | 构思 |
-| 引导线怎么布？ | D1/visual-path（类型学/三要素） | 经典学院 | 构思 |
-| 视线把人带出画了？ | D1/visual-path（出口计数）＋D4/framing-room | 格式塔 | 诊断 |
-| 画面重心不稳/一边倒？ | D5/visual-weight＋D1/balance（配平四步） | 格式塔心理 | 诊断 |
-| 风格不统一？ | D6/art-movements（DNA 三层＋一致性检查）＋D3/palette-strategy | 风格美学 | 诊断/编排 |
-| 想复刻某种画风/这个风格叫什么？ | D6/art-movements（七层拆解＋翻车点相反性）＋movement-library（421 卡底册，_index 卡名总目检索） | 风格美学 | 构思/对比 |
-| 要特写还是全景？ | D4/shot-size（六档职能） | 电影导演/纪实 | 构思 |
-| 用什么角度拍？ | D4/angle（六角度语义）＋D4/framing-room | 电影导演 | 构思 |
-| 两个方案选哪个？ | modes/function/compare.md＋D6/aesthetic-criteria＋D7/review-gates | 风格美学 | 对比 |
-| 画面"怪"但说不出哪怪？ | D7/protocol（六步判图）＋D7/fault-library（关键词索引） | 格式塔心理 | 诊断 |
-| 想要可解释的"好看"？ | D6/aesthetic-criteria（六维评分） | 风格美学 | 学习/对比 |
-| 怎么学某个概念？ | D8/core-lexicon（定位）→对应域文件＋learn 功能 | — | 学习 |
-| 两个词分不清？ | D8/confusables（14 对试金石） | — | 学习 |
-| 空间感不对/假？ | D4/perspective（四错）＋D4/dof＋D6/authenticity | 摄影光学 | 诊断 |
-| 文字压图看不清？ | D5/figure-ground（文字图性）＋D3（明度差） | 平面构成/商业 | 诊断 |
-| 三秒内读不出重点？ | D5/eye-movement（动线）＋D5/attention（权重序） | 平面构成/数媒 | 构思 |
-| 背景抢戏？ | D5/figure-ground（底抢戏三源）＋D4/dof | 格式塔 | 诊断 |
-| 序列该讲什么节奏？ | modes/function/sequence.md（分工表/节奏曲线） | 电影导演 | 编排 |
-| 怎么打破常规思路？ | modes/schools/conceptual-rebel.md＋modes/experience/wild-dog.md | 观念反叛 | 构思 |
-| 结构化描述怎么翻译？ | D8/translation-playbook（双向对照） | — | 构思/对比 |
-| 这张图及格了吗？ | D7/review-gates（五道门）＋D5/tests | 商业 | 对比 |
-| 描述该带哪些信息？ | D8/camera-lexicon＋light-color-lexicon（组装公式） | — | 构思 |
+| Where should the subject go? | D1/composition-types-1, spatial-allocation | Classical Academy | Ideation |
+| How do I make the subject stand out at a glance? | D5/attention + D2/tonality (tonal separation) + D5/figure-ground | Gestalt Psychology | Ideation / Diagnosis |
+| The image is flat, without tension? | D1/balance (deliberate imbalance) + D6/ai-defaults + D3/emotion | Conceptual Rebel / Cinematic Director | Ideation |
+| The image is cluttered and I don't know where to look? | D1/visual-path + D7/cause-tree (branch D) + D5/gestalt | Gestalt Psychology | Diagnosis |
+| No depth, too flat? | D1/depth-layering + D4/perspective + D4/focal-length | Photographic Optics | Ideation / Diagnosis |
+| How much negative space is right? | D1/spatial-allocation (three / five grades) | Minimalist / Eastern Painting | Ideation |
+| How do I keep negative space from feeling empty? | D1/spatial-allocation (texture specification) + D8/confusables (14 items) | Eastern Painting / Minimalist | Ideation / Diagnosis |
+| How do I build atmosphere? | D2/tonality + D3/emotion + D2/atmosphere | Cinematic Director / Eastern Painting | Ideation |
+| How do I make a portrait look high-end? | D2/portrait-lighting + D4/framing-room + D6/authenticity | Photographic Optics / Documentary | Ideation |
+| How do I arrange multiple subjects? | D1/multi-subject + D5/gestalt | Commercial / Graphic Constructivism | Ideation / Sequencing |
+| Objects float, not grounded? | D1/multi-subject (anchoring) + D7/fault-library (F07) | — | Diagnosis |
+| Too much AI-slop? | D6/ai-defaults (twelve features) + D6/authenticity | Digital Trend / Documentary | Diagnosis |
+| The images in a set look identical? | modes/function/sequence.md + D1 five-dimension variation | Commercial / Digital Trend | Sequencing |
+| How do I choose the aspect ratio? | D1/aspect-ratio (role table / subject mapping) | — (universal) | Ideation |
+| Colors fight each other? | D3/harmony (seven families) + D3/proportions | Style Aesthetics | Diagnosis |
+| Color carries no emotion? | D3/emotion (hue table / warm-cool zoning) | Style Aesthetics / Cinematic Director | Ideation |
+| How does light support the composition? | D2/light-fundamentals (four variables) × D1 | Cinematic Director / Optics | Ideation |
+| The face is black, the subject drowned in shadow? | D2/portrait-lighting (lighting ratio) + D2/tonality | Photographic Optics | Diagnosis |
+| I can't tell where the light comes from? | D2/direction-quality (motivation check) + D2/light-fundamentals | Documentary / Optics | Diagnosis / Ideation |
+| Where is it safe to crop? | D1/edges-cropping (prohibition table) + D1/aspect-ratio (safe area) | Commercial | Diagnosis |
+| Should I use symmetry? | D1/composition-types-2 (symmetrical entry) | Classical Academy / Eastern Painting | Ideation |
+| How do I place leading lines? | D1/visual-path (typology / three elements) | Classical Academy | Ideation |
+| The gaze is pulled out of the frame? | D1/visual-path (exit count) + D4/framing-room | Gestalt | Diagnosis |
+| The center of gravity is unstable, everything leans one way? | D5/visual-weight + D1/balance (four counterbalance steps) | Gestalt Psychology | Diagnosis |
+| The style is inconsistent? | D6/art-movements (three-layer DNA + consistency check) + D3/palette-strategy | Style Aesthetics | Diagnosis / Sequencing |
+| I want to reproduce a style — what is this style called? | D6/art-movements (seven-layer breakdown + common failure points) + movement-library (421-card base catalog, browse by card name in _index) | Style Aesthetics | Ideation / Comparison |
+| Close-up or wide shot? | D4/shot-size (six functions) | Cinematic Director / Documentary | Ideation |
+| Which angle should I shoot from? | D4/angle (six angle semantics) + D4/framing-room | Cinematic Director | Ideation |
+| Which of two options should I pick? | modes/function/compare.md + D6/aesthetic-criteria + D7/review-gates | Style Aesthetics | Comparison |
+| The image looks "odd" but I can't say where? | D7/protocol (six-step review) + D7/fault-library (keyword index) | Gestalt Psychology | Diagnosis |
+| I want an explainable sense of "good-looking"? | D6/aesthetic-criteria (six-dimension scoring) | Style Aesthetics | Learning / Comparison |
+| How do I learn a concept? | D8/core-lexicon (locate) → corresponding domain file + learn function | — | Learning |
+| Two terms are hard to tell apart? | D8/confusables (14 touchstone pairs) | — | Learning |
+| The sense of space is wrong or fake? | D4/perspective (four errors) + D4/dof + D6/authenticity | Photographic Optics | Diagnosis |
+| Text over image is unreadable? | D5/figure-ground (text as figure) + D3 (tonal separation) | Graphic Constructivism / Commercial | Diagnosis |
+| The point isn't readable within three seconds? | D5/eye-movement (scan path) + D5/attention (weight order) | Graphic Constructivism / Digital Trend | Ideation |
+| The background steals the scene? | D5/figure-ground (three sources of ground theft) + D4/dof | Gestalt | Diagnosis |
+| What rhythm should a sequence carry? | modes/function/sequence.md (role table / rhythm curve) | Cinematic Director | Sequencing |
+| How do I break out of conventional thinking? | modes/schools/conceptual-rebel.md + modes/experience/wild-dog.md | Conceptual Rebel | Ideation |
+| How do I translate a structured description? | D8/translation-playbook (two-way mapping) | — | Ideation / Comparison |
+| Does this image pass? | D7/review-gates (five gates) + D5/tests | Commercial | Comparison |
+| Which information should a description carry? | D8/camera-lexicon + light-color-lexicon (assembly formula) | — | Ideation |
 
-维护规则：知识文件新增判据/新故障命名时，同步在本表加行（每域至少贡献 3 行）；指针失效即修。
+Maintenance rule: when a knowledge file gains a criterion or a newly named fault, add a row here (each domain contributes at least three rows); fix any broken pointer immediately.
