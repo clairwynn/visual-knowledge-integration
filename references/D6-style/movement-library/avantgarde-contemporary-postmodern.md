@@ -1,348 +1,348 @@
-# D6 · 流派库 · 先锋·当代·后现代（23 卡）
+# D6 · Movement Library · Avant-garde · Contemporary · Postmodern (23 cards)
 
-> 风格流派卡语料的程序化提炼；零来源规约：不含提示词写法、不含出处链接。
-> 同一框架：一句话→核心主张→构图/光色/质感→情绪→色锚→翻车点→关联流派。
-> 用法：风格任务查卡，与 D6/art-movements 的七层拆解/翻车点相反性/混搭仲裁配合。
+> A programmatic distillation of the style-movement card corpus; zero-source rule: no prompt wording, no source links.
+> Same framework: one line → core claim → composition / light and color / texture → emotion → color anchors → failure points → related movements.
+> Use: look up a card for a style task, together with the seven-layer deconstruction / failure-point opposition / mixing arbitration in D6/art-movements.
 
-### 先锋艺术 · Avant-Garde（1850–今｜全球）
+### Avant-Garde（1850–present | Global）
 
-> 不是一种风格，而是一种姿态：走在观众前面，故意让他们跟不上。
+> Not a style but a posture: walking ahead of the audience and deliberately letting them fall behind.
 
-- **核心主张**：先锋不是画法，而是「与体制对立」的位置；不断自我否定：每一代先锋都要推翻上一代；宣言、丑闻、论战是作品的一部分；横跨达达、构成主义、超现实主义、观念艺术等
-- **构图**：打破惯例：不对称、拼贴、去中心、反审美
-- **光色**：色彩——没有固定色彩——先锋性来自策略而非调色板；光影——同样不固定；但它偏好「打破既有布光惯例」
-- **质感**：笔触——取决于具体流派，共同点是拒绝既定技法；材质——从油画到现成品、印刷品到身体
-- **情绪**：挑衅、急切、智性、与时代搏斗的紧张感
-- **色锚**：`#C1272D` `#111111` `#F2EDE4` `#1F5FD6` `#C9A227` `#8A8A85`
-- **翻车点**：1）「先锋」不是一个视觉风格，写描述时必须同时指定具体流派（达达/构成主义…）；2）只存描述，不收作品图
-- **关联流派**：达达主义、构成主义、超现实主义、观念艺术
-
----
-
-### 光与空间运动 · Light and Space（1960–1975｜美国加州）
-
-> 不是看作品，而是走进光里：树脂、雾气与感知本身成了材料。
-
-- **核心主张**：以感知经验而非物体为作品核心；使用光、雾、树脂、镜面制造感官环境；观众必须进入作品才能完成它；与极简主义、加州光文化、冲浪美学相关
-- **构图**：沉浸式空间、无边界、观众在内部
-- **光色**：色彩——极淡或无色，依靠光本身的色温；光影——光是唯一材料：漫射、折射、渐隐
-- **质感**：笔触——无；工业树脂与玻璃的光滑表面；材质——玻璃纤维树脂、亚克力、荧光灯、雾、镜面
-- **情绪**：空灵、感官放大、近乎宗教的宁静
-- **色锚**：`#F2EDE4` `#D9E8F0` `#E8DCC8` `#A8C8D8` `#F2C9A8` `#FFFFFF`
-- **翻车点**：1）和极简主义区分：光与空间的核心是感知体验，不是物体；2）只存描述，不收作品图
-- **关联流派**：极简主义（艺术）、动力艺术、禅艺术、数字艺术
+- **Core claim**: the avant-garde is not a method of painting but a position of "opposition to the institution"; constant self-negation: each generation overturns the previous one; manifestos, scandals, and polemics are part of the work; it spans Dada, Constructivism, Surrealism, Conceptual Art, and more
+- **Composition**: breaking convention: asymmetry, collage, decentering, anti-aesthetic
+- **Light and color**: color — no fixed color; avant-gardism comes from strategy rather than a palette; light — equally unfixed, but it prefers "breaking existing lighting conventions"
+- **Texture**: brushwork — depends on the specific movement; the common point is rejecting established technique; materials — from oil paint to readymades, prints, and the body
+- **Emotion**: provocation, urgency, intellect, the tension of wrestling with one's era
+- **Color anchors**: `#C1272D` `#111111` `#F2EDE4` `#1F5FD6` `#C9A227` `#8A8A85`
+- **Failure points**: 1) "avant-garde" is not a visual style — a description must also name a specific movement (Dada / Constructivism …); 2) keep it descriptive only — no artwork images
+- **Related movements**: Dada, Constructivism, Surrealism, Conceptual Art
 
 ---
 
-### 动力艺术 · Kinetic Art（1955–1975｜欧洲 / 全球）
+### Light and Space（1960–1975 | California, United States）
 
-> 作品真的在动：马达、气流、磁力让雕塑自己旋转起来。
+> Not looking at a work but stepping into the light: resin, mist, and perception itself become the material.
 
-- **核心主张**：作品包含真实的物理运动（马达、风、观众触碰）；光与运动结合，常产生视觉错觉；与欧普艺术共享对视知觉的兴趣；观众参与使作品每次呈现都不同
-- **构图**：悬挂或立式的机械结构，多单元重复
-- **光色**：色彩——工业材料本色，或高纯度色彩用于强化运动的视觉；光影——运动产生闪烁与频闪，反光材料制造变化的光
-- **质感**：笔触——不适用——金属、塑料、马达构成的机械结构；材质——铝、钢丝、马达、有机玻璃、镜面、霓虹
-- **情绪**：轻快、迷幻、技术乐观、永不停歇
-- **色锚**：`#C9CFD4` `#29ABE2` `#F23D8E` `#111111` `#F2EDE4` `#E8C020`
-- **翻车点**：1）和欧普艺术区分：动力艺术是真实物理运动，欧普是视觉错觉；2）只存描述，不收作品图
-- **关联流派**：欧普艺术、光与空间运动、包豪斯、数字艺术
-
----
-
-### 原生艺术 · Art Brut（1945–今｜法国 / 全球）
-
-> 杜布菲收集的精神病人与囚犯的画：完全不受艺术史污染的表达。
-
-- **核心主张**：杜布菲提出的概念：未经文化训练者的创作；作者多为精神病患者、囚徒、通灵者；完全无视透视、比例与艺术史规范；材料常为随手可得之物：废纸、炭、唾液颜料
-- **构图**：填满画面、对称或强迫性重复、无视透视
-- **光色**：色彩——随手可得的材料色：炭黑、铅笔灰、廉价颜料；光影——几乎不存在；画面是平面的
-- **质感**：笔触——执拗、重复、密集的刻画；材质——废纸、炭笔、圆珠笔、面包渣、唾液混合颜料
-- **情绪**：执拗、私密、强迫性、令人不安的真诚
-- **色锚**：`#3A3A38` `#8A8A85` `#C9A25A` `#A8432A` `#4A5A6B` `#E8E4DA`
-- **翻车点**：1）和稚拙艺术区分：原生艺术的作者确实未经训练且常处边缘处境；稚拙艺术可以是刻意的；2）只存描述，不收作品图
-- **关联流派**：域外艺术、稚拙艺术（原始主义）、无形式艺术
+- **Core claim**: perceptual experience rather than the object is the core of the work; light, mist, resin, and mirrors build sensory environments; the viewer must enter the work to complete it; related to Minimalism, California light culture, and surf aesthetics
+- **Composition**: immersive space, no boundary, the viewer inside
+- **Light and color**: color — extremely pale or absent, relying on the color temperature of light itself; light — light is the only material: diffusion, refraction, fading out
+- **Texture**: brushwork — none; the smooth surfaces of industrial resin and glass; materials — fiberglass resin, acrylic, fluorescent tubes, mist, mirrors
+- **Emotion**: ethereal, sensory amplification, a near-religious calm
+- **Color anchors**: `#F2EDE4` `#D9E8F0` `#E8DCC8` `#A8C8D8` `#F2C9A8` `#FFFFFF`
+- **Failure points**: 1) distinguishing it from Minimalism: the core of Light and Space is perceptual experience, not the object; 2) keep it descriptive only — no artwork images
+- **Related movements**: Minimalism (art), Kinetic Art, Zen Art, Digital Art
 
 ---
 
-### 后极简主义 · Post-Minimalism（1965 年至今｜美国 / 欧洲）
+### Kinetic Art（1955–1975 | Europe / Global）
 
-> 极简的形体还在，但材料和过程回来了：柔软、下垂、重复到疲惫。
+> The work actually moves: motors, air currents, and magnetism set the sculpture spinning on its own.
 
-- **核心主张**：反极简的工业冷漠，转向手工、身体与过程；材料本身说话：乳胶、毛毡、绳、铅、蜡；重复与劳动痕迹（process art）；柔软下垂，对抗极简的硬边几何
-- **构图**：装置化，作品跨越墙面与地面，边界暧昧
-- **光色**：色彩——肉色、灰、褐、蜡黄；脏而暖，不像极简那样纯；光影——材料自身投影，工作室式均匀照明
-- **质感**：笔触——没有绘制笔触，但留有手的操作痕迹；材质——乳胶、毛毡、绳、铅、蜡、玻璃纤维
-- **情绪**：身体的、脆弱的、重复带来的倦怠
-- **色锚**：`#D8BFA8` `#8C8378` `#6B5B4A` `#C9B98C` `#4A4A48` `#E8DCC8`
-- **翻车点**：1）容易画成干净的极简几何——对策：显式，在画面描述中显式针对此缺陷；2）容易失去材料质感——对策：在主体里点名乳胶 / 毛毡 / 绳
-- **关联流派**：极简主义（艺术）、观念艺术、无形式艺术
-
----
-
-### 后现代主义 · Postmodernism（1960–1990｜全球）
-
-> 对宏大叙事的怀疑：拼贴、引用、戏仿，把一切风格都当成素材。
-
-- **核心主张**：拒绝现代主义的原创性与进步叙事；拼贴（pastiche）与引用：把历史风格当符号使用；去中心、多重解读、反讽；高雅与通俗的界限被取消
-- **构图**：并置、拼贴、嵌套、引号式的使用符号
-- **光色**：色彩——风格杂糅：历史色板与商业色板并置；光影——混合光源，刻意不统一
-- **质感**：笔触——有时引用旧技法，有时完全机械复制；材质——混合媒介、照片、印刷品、商业材料、复制品
-- **情绪**：反讽、疏离、戏谑、拒绝真诚
-- **色锚**：`#F23D8E` `#29ABE2` `#E8C020` `#8B6B4A` `#111111` `#E8E4DA`
-- **翻车点**：1）后现代是态度不是风格——对策：必须叠加具体形式（拼贴/戏仿/挪用）；2）只存描述，不收作品图
-- **关联流派**：当代艺术、波普艺术、新达达、先锋艺术
+- **Core claim**: the work contains real physical motion (motors, wind, the viewer's touch); light combined with motion often produces optical illusion; it shares an interest in visual perception with Op Art; viewer participation makes every presentation different
+- **Composition**: suspended or standing mechanical structures, repeated in multiple units
+- **Light and color**: color — the natural color of industrial materials, or high-purity color used to intensify the visual sense of motion; light — motion produces flicker and strobing, reflective materials make changing light
+- **Texture**: brushwork — not applicable — mechanical structures of metal, plastic, motors; materials — aluminum, steel wire, motors, plexiglass, mirrors, neon
+- **Emotion**: light-hearted, psychedelic, technological optimism, ceaseless
+- **Color anchors**: `#C9CFD4` `#29ABE2` `#F23D8E` `#111111` `#F2EDE4` `#E8C020`
+- **Failure points**: 1) distinguishing it from Op Art: Kinetic Art is real physical motion, Op Art is visual illusion; 2) keep it descriptive only — no artwork images
+- **Related movements**: Op Art, Light and Space, Bauhaus, Digital Art
 
 ---
 
-### 后绘画性抽象 · Post-Painterly Abstraction（1964–1975｜美国）
+### Art Brut（1945–present | France / Global）
 
-> 把手从画布上拿开：颜色渗进布面，没有笔触，也没有情绪。
+> Dubuffet's collection of drawings by psychiatric patients and prisoners: expression untouched by art history.
 
-- **核心主张**：格林伯格命名的路线：反对抽象表现主义的「绘画性」；染色法（staining）：稀释颜料渗入未打底的画布；形状清晰、色彩平实、无手势痕迹；通向极简主义与硬边绘画
-- **构图**：简单的几何形状或条纹，满幅铺陈
-- **光色**：色彩——清亮的纯色，渗染进布面，边缘略毛但整体清晰；光影——无光影，颜色就是全部
-- **质感**：笔触——几乎无笔触，颜料像被布吸收而非被画上去；材质——丙烯渗染未打底画布、生布纹理可见
-- **情绪**：冷静、清澈、去情绪化的视觉愉悦
-- **色锚**：`#5FA8D8` `#C9D84A` `#E85D75` `#F2EDE4` `#8B5EA8` `#E8C020`
-- **翻车点**：1）和色域绘画区分：后绘画性抽象更强调染色技法与清晰形状；2）只存描述，不收作品图
-- **关联流派**：色域绘画、硬边绘画、极简主义（艺术）、抒情抽象
-
----
-
-### 域外艺术 · Outsider Art（1970–今｜全球）
-
-> 在艺术世界的围墙之外：自学、精神困境、民间信仰与极端执念。
-
-- **核心主张**：比原生艺术更宽：包含民间艺术家、灵媒、自学者；与主流艺术体制无关联；常有极强的个人宇宙观与体系；环境艺术：整栋房子、整个花园都是作品
-- **构图**：填满、对称、或无限重复的图案
-- **光色**：色彩——强烈主观的色彩，常饱和到刺眼或极度阴郁；光影——无统一逻辑，服从作者的私人宇宙
-- **质感**：笔触——执拗、重复、密不透风；材质——任何可得之物：废铁、瓶盖、水泥、毛线
-- **情绪**：执念、灵性、偏执、自成体系的美
-- **色锚**：`#C1272D` `#2B6BB8` `#E8C020` `#3A3A38` `#5FA85F` `#E8E4DA`
-- **翻车点**：1）注意用词伦理：这些作者常处于弱势处境，避免猎奇化；2）只存描述，不收作品图
-- **关联流派**：原生艺术、稚拙艺术（原始主义）、域外艺术
+- **Core claim**: a concept proposed by Dubuffet: work by people without cultural training; the makers are mostly psychiatric patients, prisoners, mediums; perspective, proportion, and art-historical norms are entirely ignored; materials are often whatever is at hand: waste paper, charcoal, saliva-mixed pigment
+- **Composition**: filling the frame, symmetry or compulsive repetition, ignoring perspective
+- **Light and color**: color — the colors of whatever materials are at hand: charcoal black, pencil gray, cheap pigment; light — barely exists; the picture is flat
+- **Texture**: brushwork — obstinate, repetitive, dense marking; materials — waste paper, charcoal, ballpoint, breadcrumbs, saliva-mixed pigment
+- **Emotion**: obstinate, private, compulsive, unsettlingly sincere
+- **Color anchors**: `#3A3A38` `#8A8A85` `#C9A25A` `#A8432A` `#4A5A6B` `#E8E4DA`
+- **Failure points**: 1) distinguishing it from Naïve Art: Art Brut makers are genuinely untrained and often marginalized; Naïve Art can be deliberate; 2) keep it descriptive only — no artwork images
+- **Related movements**: Outsider Art, Naïve Art (Primitivism), Art Informel
 
 ---
 
-### 女性主义艺术 · Feminist Art（1960–今｜全球）
+### Post-Minimalism（1965–present | United States / Europe）
 
-> 把「私人即政治」变成材料：身体、家务、工艺与被抹去的女性史。
+> The Minimalist form remains, but material and process are back: soft, sagging, repetitive to the point of exhaustion.
 
-- **核心主张**：挑战艺术史中的男性标准与女性再现方式；重新评估被贬低的「女性工艺」：刺绣、编织、瓷器；身体作为材料与战场；集体创作与意识觉醒小组
-- **构图**：常打破经典裸体画的构图惯例，或直接引用再反转
-- **光色**：色彩——从粉色系到血肉色的政治化使用，或刻意使用工艺材料色；光影——常拒绝经典布光，或使用身体与镜面的反射
-- **质感**：笔触——手工技法被重新启用：缝、绣、编、贴；材质——织物、刺绣、身体、录像、表演、瓷器
-- **情绪**：愤怒、机智、亲密、政治性的反抗
-- **色锚**：`#E85D75` `#8B1A3A` `#C9A8C0` `#F2E0B8` `#3A3A38` `#E8E4DA`
-- **翻车点**：1）避免把女性主义简化为「画女人」——它是方法论与政治立场；2）只存描述，不收作品图
-- **关联流派**：观念艺术、后现代主义、当代艺术、新达达
-
----
-
-### 当代艺术 · Contemporary Art（1970–今｜全球）
-
-> 什么都可能：媒介无限、风格并存、市场与理论各说各话。
-
-- **核心主张**：没有统一风格，只有统一的时间段与体制语境；媒介无限：装置、影像、行为、社会参与、生物艺术；全球化与双年展体系塑造的生产方式；理论话语（身份、后殖民、生态、去人类中心）与作品并行
-- **构图**：空间化：作品占据房间而非画框
-- **光色**：色彩——完全开放；常出现「非艺术材料」的本色；光影——展厅照明、投影、屏幕光成为作品的一部分
-- **质感**：笔触——从零笔触到极端手工并存；材质——任何材料：现成品、数字、生物、社会关系
-- **情绪**：多元、开放、有时晦涩、与理论高度绑定
-- **色锚**：`#E8E4DA` `#8A8A85` `#1A1A1A` `#29ABE2` `#F23D8E` `#5FA85F`
-- **翻车点**：1）「当代艺术」是时间段不是风格——对策：写描述必须叠加具体形式（装置/影像/行为）；2）只存描述，不收作品图
-- **关联流派**：后现代主义、观念艺术、新达达、先锋艺术
+- **Core claim**: against the industrial coldness of Minimalism, turning to craft, the body, and process; the material itself speaks: latex, felt, rope, lead, wax; repetition and traces of labor (process art); soft sagging against Minimalist hard-edge geometry
+- **Composition**: installation-like, the work crossing wall and floor, boundaries ambiguous
+- **Light and color**: color — flesh tones, gray, brown, wax yellow; dirty and warm, not pure like Minimalism; light — the material casts its own shadow, studio-like even lighting
+- **Texture**: brushwork — no painted brushwork, but traces of the hand remain; materials — latex, felt, rope, lead, wax, fiberglass
+- **Emotion**: bodily, fragile, the fatigue of repetition
+- **Color anchors**: `#D8BFA8` `#8C8378` `#6B5B4A` `#C9B98C` `#4A4A48` `#E8DCC8`
+- **Failure points**: 1) it easily comes out as clean Minimalist geometry — remedy: address that defect explicitly in the frame description; 2) it easily loses material texture — remedy: name latex / felt / rope in the subject
+- **Related movements**: Minimalism (art), Conceptual Art, Art Informel
 
 ---
 
-### 抒情抽象 · Lyrical Abstraction（1960–1975｜美国 / 欧洲）
+### Postmodernism（1960–1990 | Global）
 
-> 抽象但温柔：柔和的色雾、流动的边缘、没有攻击性的笔触。
+> Suspicion toward grand narratives: collage, quotation, pastiche — every style treated as material.
 
-- **核心主张**：对极简主义与硬边的反动，重回感官与情绪；柔和的色彩与模糊的边界，接近水彩的透明；常被视为「女性化」的抽象（也是批评的靶子）；与色域绘画有重叠但更流动、更感性
-- **构图**：满幅的色雾、流动的边缘、无几何结构
-- **光色**：色彩——柔和的粉、紫、青、乳白；透明层叠，低至中等饱和；光影——弥漫的光，无明确光源；颜色像雾一样扩散
-- **质感**：笔触——柔软、晕染、喷枪式的过渡；材质——丙烯、稀释颜料渗染、喷枪、大画布
-- **情绪**：温柔、感官、冥想、略带忧郁的愉悦
-- **色锚**：`#E8B8D0` `#B8A8D8` `#A8D8E8` `#F2EDE4` `#C9D8B8` `#E8C8A8`
-- **翻车点**：1）和色域绘画区分：抒情抽象更流动、更柔软、边缘不清晰；2）只存描述，不收作品图
-- **关联流派**：色域绘画、斑点主义、后绘画性抽象
-
----
-
-### 抽象艺术 · Abstract Art（1910–今｜全球）
-
-> 不再画任何东西：颜色、形状、线条自己构成意义。
-
-- **核心主张**：彻底放弃可辨识的具象对象；分为几何抽象与抒情抽象两大路径；强调形式、色彩、节奏本身的表现力；是 20 世纪所有前卫运动共享的出口
-- **构图**：满幅、中心、分散——取决于子流派
-- **光色**：色彩——从单色到纯色对撞，全部可能；光影——无外部光源；色彩关系本身制造空间感
-- **质感**：笔触——从零笔触的硬边到极厚的表现性笔触；材质——油画、丙烯、纸本、数字
-- **情绪**：取决于子流派：从冷静到激烈
-- **色锚**：`#D32027` `#1B4F9C` `#F2C300` `#111111` `#FFFFFF` `#8A8A85`
-- **翻车点**：1）太笼统——对策：必须指定子类型（geometric / lyrical / gestural）；2）只存描述，不收作品图；3）收图只取公有领域的早期抽象（康定斯基/克利/李西茨基/莫霍利-纳吉），马列维奇、德库宁、罗斯科的作品要么拿不到图、要么源里只有文献照片；4）这个流派天生会和其他流派重叠，是艺术史事实，不是 bug：「抽象艺术」是跨越运动的大类，没有自己的艺术家名册—— 康定斯基属青骑士/包豪斯/表现主义，克利属青骑士/包豪斯，李西茨基属至上主义/构成主义，莫霍利-纳吉属包豪斯，莱热属立体主义。实测 6 张图里 3 张与 der-blaue-reiter / bauhaus 相同，判断标准是「重叠说得通就保留」
-- **关联流派**：至上主义、风格派、抽象表现主义、无形式艺术
+- **Core claim**: rejecting Modernism's narrative of originality and progress; pastiche and quotation: historical styles used as signs; decentering, multiple readings, irony; the boundary between high and popular culture dissolved
+- **Composition**: juxtaposition, collage, nesting, the quoted use of signs
+- **Light and color**: color — style hybridity: historical palettes juxtaposed with commercial ones; light — mixed sources, deliberately ununified
+- **Texture**: brushwork — sometimes quoting old techniques, sometimes fully mechanical reproduction; materials — mixed media, photographs, prints, commercial materials, reproductions
+- **Emotion**: ironic, detached, playful, refusing sincerity
+- **Color anchors**: `#F23D8E` `#29ABE2` `#E8C020` `#8B6B4A` `#111111` `#E8E4DA`
+- **Failure points**: 1) postmodernism is an attitude, not a style — remedy: a specific form must be stacked on top (collage / pastiche / appropriation); 2) keep it descriptive only — no artwork images
+- **Related movements**: Contemporary Art, Pop Art, Neo-Dada, Avant-Garde
 
 ---
 
-### 数字艺术 · Digital Art（1970–今｜全球）
+### Post-Painterly Abstraction（1964–1975 | United States）
 
-> 用代码、像素和算法作画：从分形到生成对抗网络。
+> Take the hand off the canvas: color soaks into the cloth, with no brushwork and no emotion.
 
-- **核心主张**：以数字技术为创作媒介或主题；包含算法艺术、分形、生成艺术、NFT、AI 生成；可复制性与版本性挑战了原作概念；近年与 AI 生成深度绑定
-- **构图**：算法生成的对称或有机结构，无限可缩放
-- **光色**：色彩——显示器色域内的饱和色，或算法生成的渐变；光影——发光体自明，BLOOM 与辉光是常见语汇
-- **质感**：笔触——像素、矢量、噪点、分形结构；材质——屏幕、投影、代码、数据集、区块链
-- **情绪**：技术乐观或技术焦虑，取决于作品立场
-- **色锚**：`#29D6E8` `#F23D8E` `#7B3FA0` `#0A0E14` `#A8F23D` `#FFFFFF`
-- **翻车点**：1）和 AI 生成的关系要说清：AI 是这一门类的最新工具，不是全部；2）只存描述，不收作品图
-- **关联流派**：动力艺术、欧普艺术、当代艺术、像素艺术
-
----
-
-### 斑点主义 · Tachisme（1945–1960｜法国）
-
-> 用色斑代替笔触：颜料自己落在画布上，像一场有控制的意外。
-
-- **核心主张**：tache（斑点）：色块、滴落、泼洒直接落在画布；从书法性手势转向「自动性」的偶然；比无形式艺术更轻盈、更有韵律；法国对抽象表现主义的对应物
-- **构图**：散布式、无中心、如星群或苔藓
-- **光色**：色彩——明亮的自由色彩，常带透明感与层叠；光影——无光源；色斑之间的重叠制造深度
-- **质感**：笔触——滴、泼、洒、按压；手势轻快而非沉重；材质——稀释油画、丙烯、纸本
-- **情绪**：轻盈、即兴、诗意的偶然
-- **色锚**：`#2B6BB8` `#C1272D` `#E8C020` `#5FA85F` `#8B3FA0` `#F2EDE4`
-- **翻车点**：1）和无形式艺术混淆——对策：斑点主义更轻、更透明、更有音乐性；2）容易画得太实——对策：，按画面意图定制描述以避开
-- **关联流派**：无形式艺术、抒情抽象、抽象表现主义
+- **Core claim**: the line named by Greenberg: against the "painterliness" of Abstract Expressionism; staining: thinned pigment soaked into unprimed canvas; clear shapes, flat color, no gestural trace; leads toward Minimalism and Hard-Edge Painting
+- **Composition**: simple geometric shapes or stripes, all-over application
+- **Light and color**: color — clear pure color soaked into the cloth, edges slightly fuzzy but overall crisp; light — no light and shade, color is everything
+- **Texture**: brushwork — almost none; pigment absorbed by the cloth rather than painted on; materials — acrylic stained into unprimed canvas, the raw cloth weave visible
+- **Emotion**: cool, clear, de-emotionalized visual pleasure
+- **Color anchors**: `#5FA8D8` `#C9D84A` `#E85D75` `#F2EDE4` `#8B5EA8` `#E8C020`
+- **Failure points**: 1) distinguishing it from Color Field: Post-Painterly Abstraction stresses the staining technique and clear shapes more; 2) keep it descriptive only — no artwork images
+- **Related movements**: Color Field, Hard-Edge Painting, Minimalism (art), Lyrical Abstraction
 
 ---
 
-### 新几何 · Neo-Geo（1984–1990｜美国（纽约））
+### Outsider Art（1970–present | Global）
 
-> 把几何抽象当镜子，照出资本、商品与信息的循环。
+> Outside the walls of the art world: self-taught, mental distress, folk belief, and extreme obsession.
 
-- **核心主张**：重新启用几何抽象：方块、格子、管道、牢房；工业与电子色：荧光粉、电子蓝、水泥灰；表面无笔触，像印刷品或屏幕；对商品化与艺术市场的冷嘲，而非形式探索
-- **构图**：格子与管道结构，几何性重复，画面被边框分割
-- **光色**：色彩——荧光粉、电子蓝、工业灰、水泥色；平涂且刺眼；光影——没有光，平面自发光感，像背光屏幕
-- **质感**：笔触——零笔触，机械喷涂或丝网印的均匀表面；材质——丙烯、Day-Glo 荧光漆、混凝土质感
-- **情绪**：冷、讽刺、被媒介与商品包围
-- **色锚**：`#FF3E96` `#00A0E8` `#8C8C8C` `#C9C9C0` `#1A1A1A` `#E8E84A`
-- **翻车点**：1）容易加笔触和景深——对策：按画面意图定制描述以避开；2）容易画成包豪斯设计——对策：强调 fluorescent palette, commodity critique, screen surface
-- **关联流派**：极简主义（艺术）、波普艺术、后现代主义、观念艺术
-
----
-
-### 新波普 · Neo-Pop（1980–今｜全球）
-
-> 波普进入品牌时代：卡通、玩具、奢侈品与艺术市场彻底合流。
-
-- **核心主张**：把波普的消费图像策略用于品牌与明星文化；卡通、玩具、广告美学被直接采用；作品与商品、衍生品的界限消失；常与超扁平、媚俗艺术重叠
-- **构图**：居中产品式、图案重复、装饰边框
-- **光色**：色彩——高饱和的商业色：荧光粉、亮金、糖果色；光影——产品摄影式的完美布光，高光泽
-- **质感**：笔触——零笔触或商业插画式的平滑；材质——丙烯、树脂、不锈钢、限量版玩具
-- **情绪**：闪亮、玩世、消费主义的兴奋与空虚
-- **色锚**：`#F23D8E` `#E8C020` `#29D6E8` `#FFFFFF` `#111111` `#A8F23D`
-- **翻车点**：1）和波普区分：新波普与品牌、市场深度绑定，缺少原波普的批判距离；2）只存描述，不收作品图
-- **关联流派**：波普艺术、超扁平、媚俗艺术、当代艺术
+- **Core claim**: broader than Art Brut: includes folk artists, mediums, the self-taught; no connection to the mainstream art system; often a powerful personal cosmology and system; environmental art: an entire house, an entire garden as the work
+- **Composition**: filled, symmetrical, or infinitely repeating pattern
+- **Light and color**: color — strongly subjective color, often saturated to the point of glare or deeply gloomy; light — no unified logic, obeying the author's private universe
+- **Texture**: brushwork — obstinate, repetitive, impenetrably dense; materials — anything available: scrap iron, bottle caps, cement, yarn
+- **Emotion**: obsession, spirituality, paranoia, a self-contained beauty
+- **Color anchors**: `#C1272D` `#2B6BB8` `#E8C020` `#3A3A38` `#5FA85F` `#E8E4DA`
+- **Failure points**: 1) mind the ethics of wording: these makers are often in vulnerable situations — avoid exoticization; 2) keep it descriptive only — no artwork images
+- **Related movements**: Art Brut, Naïve Art (Primitivism), Outsider Art
 
 ---
 
-### 新达达 · Neo-Dada（1950–1970｜美国 / 欧洲）
+### Feminist Art（1960–present | Global)
 
-> 达达的第二次生命：把日常物件、报纸和床铺直接搬进美术馆。
+> Turning "the personal is political" into material: the body, housework, craft, and the erased history of women.
 
-- **核心主张**：重新启用达达的现成品与拼贴策略；日常物与废弃物进入作品；模糊艺术与生活的边界；是波普艺术与观念艺术的直接前身
-- **构图**：组合式、堆叠、反构图
-- **光色**：色彩——日常物的杂色：报纸灰、包装色、旧布料；光影——真实环境光；物件保留自己的材质与阴影
-- **质感**：笔触——拼贴、涂抹、现成物组合；材质——现成品、报纸、床铺、轮胎、颜料与石膏
-- **情绪**：玩世、反讽、粗粝、对体制的嘲弄
-- **色锚**：`#D9CFC0` `#8B6B4A` `#111111` `#C1272D` `#A8B8C8` `#E8DCC8`
-- **翻车点**：1）和达达区分：新达达更温和、更接近绘画，政治性更弱；2）只存描述，不收作品图
-- **关联流派**：达达主义、波普艺术、观念艺术、后现代主义
-
----
-
-### 无形式艺术 · Art Informel（1945–1960｜法国 / 欧洲）
-
-> 战后欧洲的伤口：没有形状，只有材料的堆叠与手势的痕迹。
-
-- **核心主张**：与抽象表现主义同时但更欧洲、更物质；放弃几何，强调材料的肉体性与时间痕迹；厚涂、刮擦、烧灼、拼贴织物与沙；常与战后创伤与存在主义相关
-- **构图**：无中心、无边界、材料自行蔓延
-- **光色**：色彩——暗淡的土色、灰、锈红、沥青黑；低饱和；光影——厚涂表面产生真实的凹凸阴影
-- **质感**：笔触——极厚 impasto、刮刀、手指、倾倒；材质——厚颜料、沙、石膏、织物拼贴、烧灼痕迹
-- **情绪**：沉重、创伤、物质性的焦灼
-- **色锚**：`#5A4A3A` `#3A3A38` `#A8432A` `#8A8A85` `#6B7A5A` `#D9CFC0`
-- **翻车点**：1）和抽象表现主义混淆——对策：无形式艺术更欧洲、更哑光、更物质；2）容易做成干净的抽象——对策：，在画面描述中显式针对此缺陷
-- **关联流派**：斑点主义、抽象表现主义、抒情抽象、原生艺术
+- **Core claim**: challenging the male standard in art history and the ways women are represented; revaluing the disparaged "women's crafts": embroidery, weaving, porcelain; the body as material and battlefield; collective work and consciousness-raising groups
+- **Composition**: often breaking the compositional conventions of the classical nude, or quoting and then inverting them
+- **Light and color**: color — from pink to flesh tones used politically, or deliberately using craft-material colors; light — often rejecting classical lighting, or using reflections from the body and mirrors
+- **Texture**: brushwork — hand techniques reactivated: sewing, embroidering, weaving, pasting; materials — fabric, embroidery, the body, video, performance, porcelain
+- **Emotion**: anger, wit, intimacy, political resistance
+- **Color anchors**: `#E85D75` `#8B1A3A` `#C9A8C0` `#F2E0B8` `#3A3A38` `#E8E4DA`
+- **Failure points**: 1) avoid reducing feminism to "painting women" — it is a methodology and a political position; 2) keep it descriptive only — no artwork images
+- **Related movements**: Conceptual Art, Postmodernism, Contemporary Art, Neo-Dada
 
 ---
 
-### 硬边绘画 · Hard-Edge Painting（1958–1970｜美国）
+### Contemporary Art（1970–present | Global）
 
-> 边缘像刀切：色块之间没有任何过渡，画面干净到发冷。
+> Anything is possible: unlimited media, coexisting styles, the market and theory talking past each other.
 
-- **核心主张**：色块边界锐利清晰，无渐变无笔触；整个画面被分成少数几块纯色区域；与波普、极简、色域绘画同源；反对抽象表现主义的情绪化笔触
-- **构图**：几何分割、简洁有力、常不对称
-- **光色**：色彩——高纯度平涂的少数几色，对比强烈且干净；光影——完全没有明暗，纯平面
-- **质感**：笔触——零笔触，机械般精确的边界；材质——丙烯、平涂、遮罩胶带、光滑表面
-- **情绪**：冷峻、精确、理性、拒绝情感表达
-- **色锚**：`#D32027` `#1B4F9C` `#F2C300` `#111111` `#FFFFFF` `#5FA85F`
-- **翻车点**：1）和极简主义区分：硬边仍有色彩关系与几何张力，极简更彻底地减少；2）只存描述，不收作品图
-- **关联流派**：色域绘画、极简主义（艺术）、风格派、后绘画性抽象
-
----
-
-### 空间主义 · Spatialism（1947–1968｜意大利）
-
-> 丰塔纳一刀划破画布：画不再是窗口，空间本身成了材料。
-
-- **核心主张**：Concetto Spaziale：穿孔（buchi）与割痕（tagli）穿透画布；把第四维（时间与空间）引进绘画；单色底衬托割痕，底色多为白、红、金；延伸为环境与雕塑，甚至霓虹
-- **构图**：极简，割痕或孔洞居中、或排成节奏
-- **光色**：色彩——纯白、鲜红、金、荧光粉；通常是单色底，颜色本身就是场；光影——割痕投下真实阴影；光常从侧面或背后打来强调开口
-- **质感**：笔触——没有笔触 —— 动作是切割，不是描绘；材质——画布、割刀、釉面、穿孔板、霓虹管
-- **情绪**：激进、纯粹，把破坏变成空间
-- **色锚**：`#F2F0EA` `#C8102E` `#C9A227` `#FF3E96` `#1A1A1A` `#6B7A8F`
-- **翻车点**：1）容易把割痕画成「画上去的黑线」——对策：强调 physical cut with real shadow, pierced canvas；2）容易加满装饰——对策：按画面意图定制描述以避开
-- **关联流派**：无形式艺术、极简主义（艺术）、观念艺术
+- **Core claim**: no unified style, only a unified period and institutional context; unlimited media: installation, video, performance, social practice, bio art; a mode of production shaped by globalization and the biennial system; theoretical discourse (identity, postcolonial, ecology, post-humanism) running alongside the work
+- **Composition**: spatialized: the work occupies the room rather than the frame
+- **Light and color**: color — completely open; the natural color of "non-art materials" often appears; light — gallery lighting, projection, and screen light become part of the work
+- **Texture**: brushwork — from zero brushwork to extreme handwork coexisting; materials — any material: readymades, digital, biological, social relations
+- **Emotion**: plural, open, sometimes obscure, tightly bound to theory
+- **Color anchors**: `#E8E4DA` `#8A8A85` `#1A1A1A` `#29ABE2` `#F23D8E` `#5FA85F`
+- **Failure points**: 1) "contemporary art" is a period, not a style — remedy: a description must stack a specific form (installation / video / performance); 2) keep it descriptive only — no artwork images
+- **Related movements**: Postmodernism, Conceptual Art, Neo-Dada, Avant-Garde
 
 ---
 
-### 街头艺术 · Street Art（1970–今｜全球）
+### Lyrical Abstraction（1960–1975 | United States / Europe）
 
-> 把城市当画布：喷漆、模板、贴纸，和一场关于谁拥有公共空间的争论。
+> Abstract but gentle: soft color mist, flowing edges, brushwork with no aggression.
 
-- **核心主张**：非法或半合法地在公共空间创作；喷漆、模板（stencil）、麦糊贴纸、体量雕塑；与涂鸦（graffiti）同源但更图像化；班克斯把它的反讽推向全球
-- **构图**：尺幅巨大、与建筑结构互动、常利用墙面缺陷
-- **光色**：色彩——高对比的喷漆色，常与墙面本身的脏旧形成反差；光影——城市光线：霓虹、路灯、日光下的墙体
-- **质感**：笔触——喷漆的雾化边缘、模板的硬边、马克笔的粗线；材质——喷漆、模板、贴纸、麦糊、瓷砖、混凝土墙
-- **情绪**：挑衅、幽默、政治、城市野生的生命力
-- **色锚**：`#C1272D` `#111111` `#E8C020` `#2B6BB8` `#8A8A85` `#F2EDE4`
-- **翻车点**：1）和涂鸦区分：街头艺术更图像化、更叙事；涂鸦更强调字体与签名；2）只存描述，不收作品图
-- **关联流派**：波普艺术、新波普、当代艺术、达达主义
-
----
-
-### 超写实主义 · Hyper-Realism（2000–今｜全球）
-
-> 比照片更清楚：把皮肤毛孔、汗珠、瞳孔反光放大到令人不适。
-
-- **核心主张**：在照相写实基础上进一步加大尺幅与细节；常画人体局部，尺度反差造成生理冲击；强调触感与湿润感，而不是冷静的记录；与照相写实的分界：更情绪化、更身体化
-- **构图**：极端特写、巨大尺幅、裁切身体局部
-- **光色**：色彩——极其准确的肉色与湿润反光，冷暖过渡细腻；光影——复杂的多重光源，皮肤有真实的次表面散射
-- **质感**：笔触——完全不可见，或极精细的笔触构建质感；材质——布面油画或丙烯、雕塑用硅胶与树脂
-- **情绪**：震撼、生理性的不适、对肉体存在的强烈意识
-- **色锚**：`#D9A898` `#C98B8B` `#8B9BA8` `#F2EDE4` `#5A4A4A` `#A8B8C8`
-- **翻车点**：1）和照相写实区分：超写实更情绪化、更身体化、尺幅更大；2）只存描述，不收作品图
-- **关联流派**：照相写实主义、古典写实主义（当代）、生物朋克
+- **Core claim**: a reaction against Minimalism and the hard edge, returning to the senses and emotion; soft color and blurred boundaries, close to watercolor transparency; often seen as "feminine" abstraction (and a target of criticism too); overlaps Color Field but is more fluid and more sensuous
+- **Composition**: all-over color mist, flowing edges, no geometric structure
+- **Light and color**: color — soft pink, violet, cyan, milky white; transparent layering, low to medium saturation; light — diffuse light, no clear source; color spreads like mist
+- **Texture**: brushwork — soft, blended, airbrush-like transitions; materials — acrylic, thinned pigment staining, airbrush, large canvas
+- **Emotion**: gentle, sensuous, meditative, a slightly melancholic pleasure
+- **Color anchors**: `#E8B8D0` `#B8A8D8` `#A8D8E8` `#F2EDE4` `#C9D8B8` `#E8C8A8`
+- **Failure points**: 1) distinguishing it from Color Field: Lyrical Abstraction is more fluid, softer, with unclear edges; 2) keep it descriptive only — no artwork images
+- **Related movements**: Color Field, Tachisme, Post-Painterly Abstraction
 
 ---
 
-### 超前卫 · Transavantgarde（1979–1990｜意大利）
+### Abstract Art（1910–present | Global）
 
-> 意大利对观念艺术的反动：重新拿起画笔，画神话、身体与历史。
+> No longer painting anything: color, shape, and line constitute meaning on their own.
 
-- **核心主张**：回到绘画、形象与手工性；混合神话、艺术史引用与个人符号；色彩浓烈、笔触自由、尺幅巨大；与德国新表现主义、美国新意象绘画同期
-- **构图**：中心形象 + 碎片化的背景引用
-- **光色**：色彩——浓烈饱和的混合色，常不协调且大胆；光影——无统一光源，情绪化的明暗
-- **质感**：笔触——自由、快速、可见，带装饰性；材质——大画布、丙烯与油画、拼贴元素
-- **情绪**：狂喜、神话性、感官的、反智性的
-- **色锚**：`#C1272D` `#E8C020` `#2B6BB8` `#5FA85F` `#8B3FA0` `#E8DCC8`
-- **翻车点**：1）和新表现主义区分：超前卫更装饰、更神话、更意大利；2）只存描述，不收作品图
-- **关联流派**：新表现主义、新客观主义、后现代主义、流派总览
+- **Core claim**: abandoning identifiable figurative objects entirely; two major paths, geometric abstraction and lyrical abstraction; stressing the expressive power of form, color, and rhythm themselves; the shared exit of every avant-garde movement in the 20th century
+- **Composition**: all-over, centered, dispersed — depending on the sub-movement
+- **Light and color**: color — from monochrome to pure-color collision, everything is possible; light — no external source; color relations themselves create the sense of space
+- **Texture**: brushwork — from zero-brushwork hard edge to extremely thick expressive brushwork; materials — oil, acrylic, paper, digital
+- **Emotion**: depends on the sub-movement: from cool to intense
+- **Color anchors**: `#D32027` `#1B4F9C` `#F2C300` `#111111` `#FFFFFF` `#8A8A85`
+- **Failure points**: 1) too broad — remedy: a sub-type must be specified (geometric / lyrical / gestural); 2) keep it descriptive only — no artwork images; 3) when collecting images, take only early abstraction in the public domain (Kandinsky / Klee / Lissitzky / Moholy-Nagy); works by Malevich, de Kooning, and Rothko either cannot be obtained or exist in the source only as documentary photographs; 4) this movement inherently overlaps others — an art-historical fact, not a bug: "Abstract Art" is a category spanning movements and has no artist roster of its own — Kandinsky belongs to Der Blaue Reiter / Bauhaus / Expressionism, Klee to Der Blaue Reiter / Bauhaus, Lissitzky to Suprematism / Constructivism, Moholy-Nagy to Bauhaus, Léger to Cubism. Empirically, 3 of 6 images were identical to der-blaue-reiter / bauhaus; the test is "keep it if the overlap makes sense"
+- **Related movements**: Suprematism, De Stijl, Abstract Expressionism, Art Informel
+
+---
+
+### Digital Art（1970–present | Global）
+
+> Painting with code, pixels, and algorithms: from fractals to generative adversarial networks.
+
+- **Core claim**: digital technology as medium or as theme; includes algorithmic art, fractals, generative art, NFT, AI generation; reproducibility and versioning challenge the concept of the original; in recent years deeply bound to AI generation
+- **Composition**: algorithmically generated symmetry or organic structure, infinitely scalable
+- **Light and color**: color — saturated colors within the display gamut, or algorithmically generated gradients; light — luminous bodies self-lit; bloom and glow are common vocabulary
+- **Texture**: brushwork — pixels, vectors, noise, fractal structure; materials — screen, projection, code, datasets, blockchain
+- **Emotion**: technological optimism or technological anxiety, depending on the work's stance
+- **Color anchors**: `#29D6E8` `#F23D8E` `#7B3FA0` `#0A0E14` `#A8F23D` `#FFFFFF`
+- **Failure points**: 1) be clear about the relation to AI generation: AI is the newest tool in this category, not the whole of it; 2) keep it descriptive only — no artwork images
+- **Related movements**: Kinetic Art, Op Art, Contemporary Art, Pixel Art
+
+---
+
+### Tachisme（1945–1960 | France）
+
+> Color spots instead of brushstrokes: pigment lands on the canvas by itself, like a controlled accident.
+
+- **Core claim**: tache (spot): color patches, drips, and splashes land directly on the canvas; from calligraphic gesture to "automatic" chance; lighter and more rhythmic than Art Informel; the French counterpart to Abstract Expressionism
+- **Composition**: scattered, centerless, like a star cluster or moss
+- **Light and color**: color — bright free color, often transparent and layered; light — no source; overlaps between spots create depth
+- **Texture**: brushwork — dripping, splashing, pouring, pressing; the gesture light rather than heavy; materials — thinned oil, acrylic, paper
+- **Emotion**: light, improvised, poetic chance
+- **Color anchors**: `#2B6BB8` `#C1272D` `#E8C020` `#5FA85F` `#8B3FA0` `#F2EDE4`
+- **Failure points**: 1) confused with Art Informel — remedy: Tachisme is lighter, more transparent, more musical; 2) it easily comes out too solid — remedy: customize the description to the frame's intent and avoid it
+- **Related movements**: Art Informel, Lyrical Abstraction, Abstract Expressionism
+
+---
+
+### Neo-Geo（1984–1990 | New York, United States）
+
+> Geometric abstraction as a mirror, reflecting the circulation of capital, commodities, and information.
+
+- **Core claim**: reactivating geometric abstraction: squares, grids, pipes, cells; industrial and electronic color: fluorescent pink, electric blue, cement gray; brushstroke-free surfaces like a print or a screen; a cold sneer at commodification and the art market rather than formal exploration
+- **Composition**: grid and pipe structures, geometric repetition, the frame divided by borders
+- **Light and color**: color — fluorescent pink, electric blue, industrial gray, cement; flat and glaring; light — no light, a flat self-luminous feel, like a backlit screen
+- **Texture**: brushwork — zero brushwork, the even surface of mechanical spray or screen printing; materials — acrylic, Day-Glo fluorescent paint, concrete texture
+- **Emotion**: cold, ironic, surrounded by media and commodities
+- **Color anchors**: `#FF3E96` `#00A0E8` `#8C8C8C` `#C9C9C0` `#1A1A1A` `#E8E84A`
+- **Failure points**: 1) it easily gains brushwork and depth — remedy: customize the description to the frame's intent and avoid it; 2) it easily comes out as Bauhaus design — remedy: stress a fluorescent palette, commodity critique, and a screen surface
+- **Related movements**: Minimalism (art), Pop Art, Postmodernism, Conceptual Art
+
+---
+
+### Neo-Pop（1980–present | Global）
+
+> Pop enters the brand era: cartoons, toys, luxury goods, and the art market fully merge.
+
+- **Core claim**: applying Pop's consumer-image strategy to brand and celebrity culture; cartoon, toy, and advertising aesthetics adopted directly; the boundary between the work and commodities and merchandise disappears; often overlapping Superflat and Kitsch
+- **Composition**: centered product-style, pattern repetition, decorative borders
+- **Light and color**: color — high-saturation commercial colors: fluorescent pink, bright gold, candy colors; light — product-photography-perfect lighting, high gloss
+- **Texture**: brushwork — zero brushwork or commercial-illustration smoothness; materials — acrylic, resin, stainless steel, limited-edition toys
+- **Emotion**: shiny, playful-cynical, the excitement and emptiness of consumerism
+- **Color anchors**: `#F23D8E` `#E8C020` `#29D6E8` `#FFFFFF` `#111111` `#A8F23D`
+- **Failure points**: 1) distinguishing it from Pop Art: Neo-Pop is deeply bound to brands and the market and lacks original Pop's critical distance; 2) keep it descriptive only — no artwork images
+- **Related movements**: Pop Art, Superflat, Kitsch, Contemporary Art
+
+---
+
+### Neo-Dada（1950–1970 | United States / Europe）
+
+> Dada's second life: moving everyday objects, newspapers, and beds straight into the gallery.
+
+- **Core claim**: reactivating Dada's readymade and collage strategies; everyday objects and refuse enter the work; blurring the boundary between art and life; the direct forerunner of Pop Art and Conceptual Art
+- **Composition**: assemblage, stacking, anti-composition
+- **Light and color**: color — the mixed colors of everyday objects: newspaper gray, packaging color, old cloth; light — real ambient light; objects keep their own material and shadow
+- **Texture**: brushwork — collage, smearing, assemblage of readymades; materials — readymades, newspaper, beds, tires, paint and plaster
+- **Emotion**: playful-cynical, ironic, coarse, mocking the institution
+- **Color anchors**: `#D9CFC0` `#8B6B4A` `#111111` `#C1272D` `#A8B8C8` `#E8DCC8`
+- **Failure points**: 1) distinguishing it from Dada: Neo-Dada is gentler, closer to painting, less political; 2) keep it descriptive only — no artwork images
+- **Related movements**: Dada, Pop Art, Conceptual Art, Postmodernism
+
+---
+
+### Art Informel（1945–1960 | France / Europe）
+
+> Europe's postwar wound: no shape, only the stacking of material and the trace of the gesture.
+
+- **Core claim**: contemporaneous with Abstract Expressionism but more European, more material; abandoning geometry, stressing the fleshiness of material and the traces of time; impasto, scraping, burning, collaged fabric and sand; often related to postwar trauma and existentialism
+- **Composition**: centerless, edgeless, the material spreading on its own
+- **Light and color**: color — dim earth tones, gray, rust red, asphalt black; low saturation; light — the impasto surface produces real relief shadows
+- **Texture**: brushwork — extremely thick impasto, palette knife, fingers, pouring; materials — thick paint, sand, plaster, collaged fabric, burn marks
+- **Emotion**: heavy, traumatic, material anguish
+- **Color anchors**: `#5A4A3A` `#3A3A38` `#A8432A` `#8A8A85` `#6B7A5A` `#D9CFC0`
+- **Failure points**: 1) confused with Abstract Expressionism — remedy: Art Informel is more European, more matte, more material; 2) it easily becomes clean abstraction — remedy: address that defect explicitly in the frame description
+- **Related movements**: Tachisme, Abstract Expressionism, Lyrical Abstraction, Art Brut
+
+---
+
+### Hard-Edge Painting（1958–1970 | United States）
+
+> Edges like knife cuts: no transition between color blocks, the frame clean to the point of coldness.
+
+- **Core claim**: sharp, clear color boundaries, no gradient and no brushwork; the whole frame divided into a few pure-color regions; shares roots with Pop, Minimalism, and Color Field; against the emotional brushwork of Abstract Expressionism
+- **Composition**: geometric division, concise and forceful, often asymmetrical
+- **Light and color**: color — a few high-purity flat colors, contrast strong and clean; light — no light and shade at all, purely flat
+- **Texture**: brushwork — zero brushwork, mechanically precise boundaries; materials — acrylic, flat paint, masking tape, smooth surface
+- **Emotion**: austere, precise, rational, refusing emotional expression
+- **Color anchors**: `#D32027` `#1B4F9C` `#F2C300` `#111111` `#FFFFFF` `#5FA85F`
+- **Failure points**: 1) distinguishing it from Minimalism: Hard-Edge still has color relations and geometric tension, Minimalism reduces more radically; 2) keep it descriptive only — no artwork images
+- **Related movements**: Color Field, Minimalism (art), De Stijl, Post-Painterly Abstraction
+
+---
+
+### Spatialism（1947–1968 | Italy）
+
+> Fontana slashes the canvas once: the painting is no longer a window, space itself becomes the material.
+
+- **Core claim**: Concetto Spaziale: punctures (buchi) and cuts (tagli) through the canvas; bringing the fourth dimension (time and space) into painting; a monochrome ground sets off the cuts, mostly white, red, gold; extended into environments and sculpture, even neon
+- **Composition**: minimal, the cuts or holes centered or arranged in rhythm
+- **Light and color**: color — pure white, vivid red, gold, fluorescent pink; usually a monochrome ground, the color itself the field; light — the cuts cast real shadows; light often comes from the side or behind to stress the opening
+- **Texture**: brushwork — no brushwork — the action is cutting, not painting; materials — canvas, knife, glaze, perforated panel, neon tube
+- **Emotion**: radical, pure, turning destruction into space
+- **Color anchors**: `#F2F0EA` `#C8102E` `#C9A227` `#FF3E96` `#1A1A1A` `#6B7A8F`
+- **Failure points**: 1) it easily turns the cuts into "drawn-on black lines" — remedy: stress a physical cut with real shadow, pierced canvas; 2) it easily adds full decoration — remedy: customize the description to the frame's intent and avoid it
+- **Related movements**: Art Informel, Minimalism (art), Conceptual Art
+
+---
+
+### Street Art（1970–present | Global）
+
+> The city as canvas: spray paint, stencils, stickers, and an argument about who owns public space.
+
+- **Core claim**: making work in public space illegally or semi-legally; spray paint, stencils, wheat-paste posters, volumetric sculpture; related to graffiti but more image-based; Banksy pushed its irony global
+- **Composition**: huge scale, interacting with architectural structure, often exploiting defects in the wall
+- **Light and color**: color — high-contrast spray colors, often against the dirt and age of the wall itself; light — city light: neon, street lamps, walls in daylight
+- **Texture**: brushwork — the atomized edge of spray, the hard edge of a stencil, the thick line of a marker; materials — spray paint, stencil, sticker, wheat paste, tile, concrete wall
+- **Emotion**: provocation, humor, politics, the feral vitality of the city
+- **Color anchors**: `#C1272D` `#111111` `#E8C020` `#2B6BB8` `#8A8A85` `#F2EDE4`
+- **Failure points**: 1) distinguishing it from graffiti: street art is more image-based and more narrative; graffiti stresses lettering and the tag more; 2) keep it descriptive only — no artwork images
+- **Related movements**: Pop Art, Neo-Pop, Contemporary Art, Dada
+
+---
+
+### Hyper-Realism（2000–present | Global）
+
+> Clearer than a photograph: skin pores, sweat beads, and the reflection in the pupil enlarged to the point of discomfort.
+
+- **Core claim**: building on photorealism with even larger scale and more detail; often painting body parts, the scale contrast producing a physiological shock; stressing touch and wetness rather than cool record; the line from photorealism: more emotional, more bodily
+- **Composition**: extreme close-up, enormous scale, cropping body parts
+- **Light and color**: color — extremely accurate flesh tones and wet reflections, delicate warm-cool transitions; light — complex multiple sources, the skin showing real subsurface scattering
+- **Texture**: brushwork — completely invisible, or extremely fine brushwork building texture; materials — oil or acrylic on canvas, silicone and resin for sculpture
+- **Emotion**: shock, physiological unease, a strong awareness of bodily existence
+- **Color anchors**: `#D9A898` `#C98B8B` `#8B9BA8` `#F2EDE4` `#5A4A4A` `#A8B8C8`
+- **Failure points**: 1) distinguishing it from Photorealism: Hyper-Realism is more emotional, more bodily, larger in scale; 2) keep it descriptive only — no artwork images
+- **Related movements**: Photorealism, Classical Realism (contemporary), Biopunk
+
+---
+
+### Transavantgarde（1979–1990 | Italy）
+
+> Italy's reaction against Conceptual Art: picking the brush back up, painting myth, the body, and history.
+
+- **Core claim**: returning to painting, image, and handwork; mixing myth, art-historical quotation, and personal symbols; intense color, free brushwork, enormous scale; contemporaneous with German Neo-Expressionism and American New Image painting
+- **Composition**: a central figure plus fragmented background quotation
+- **Light and color**: color — intense saturated mixed color, often dissonant and bold; light — no unified source, emotional light and shade
+- **Texture**: brushwork — free, fast, visible, with a decorative edge; materials — large canvas, acrylic and oil, collage elements
+- **Emotion**: ecstatic, mythic, sensuous, anti-intellectual
+- **Color anchors**: `#C1272D` `#E8C020` `#2B6BB8` `#5FA85F` `#8B3FA0` `#E8DCC8`
+- **Failure points**: 1) distinguishing it from Neo-Expressionism: Transavantgarde is more decorative, more mythic, more Italian; 2) keep it descriptive only — no artwork images
+- **Related movements**: Neo-Expressionism, New Objectivity, Postmodernism, movement overview
