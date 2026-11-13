@@ -1,61 +1,61 @@
-# D8 · 光色语义词表（Light & Color Lexicon）
+# D8 · Light and Color Lexicon
 
-> 本文件管：光线与色彩的通用词汇——光向/光质/布光/影调/色温/和声/配比的表述对照。
-> 怎么用：描述或理解光色时选词；与 D2/D3 文件配合（判据在那，词汇在这）。
+> This file covers: the general vocabulary of light and color — the expression correspondences for light direction / quality / lighting / tonality / color temperature / harmony / proportion.
+> How to use: choose words when describing or understanding light and color; use it together with the D2 / D3 files (the criteria live there, the vocabulary here).
 
-## 光线词族
+## Light word family
 
-| 概念 | 通用表述 | 同义/近义 | 语义要点 |
+| Concept | General term | Synonyms / near-synonyms | Semantic point |
 |---|---|---|---|
-| 顺光 | front light | flat light（贬义语境） | 无影平坦 |
-| 侧前光 | 45-degree light | Rembrandt 侧（人像语境） | 写实默认 |
-| 正侧光 | side light / 90° light | split（人像语境） | 切割戏剧 |
-| 逆光 | backlight / backlit | rim light（轮廓光效果）、contre-jour | 勾边/剪影 |
-| 顶光 | top light | overhead | 压迫正午 |
-| 脚光 | under light | — | 反常恐怖 |
-| 硬光 | hard light | direct light | 影缘锐利 |
-| 软光 | soft light | diffused light | 影缘羽化 |
-| 光比 | lighting ratio | contrast ratio | 2:1→8:1 情绪杠杆 |
-| 高调 | high key | bright & airy | 亮部主导 |
-| 低调 | low key | dark & moody、chiaroscuro（明暗对照极端） | 暗部主导 |
-| 体积光 | volumetric light | god rays（光柱群）、Tyndall effect、light shafts | 光的可见路径 |
-| 轮廓光 | rim/kicker light | hair light（发灯） | 暗背景分离 |
-| 眼神光 | catchlight | eye light | 人像真实感 |
-| 黄金时刻 | golden hour | — | 低角度暖光（注意模板化风险） |
-| 蓝调时刻 | blue hour | — | 日落后冷蓝 |
+| Front light | front light | flat light (pejorative context) | Shadowless and flat |
+| 45-degree front-side light | 45-degree light | Rembrandt side (portrait context) | The realistic default |
+| Side light | side light / 90° light | split (portrait context) | Cutting drama |
+| Backlight | backlight / backlit | rim light (rim effect), contre-jour | Rim / silhouette |
+| Top light | top light | overhead | Oppressive noon |
+| Under light | under light | — | Unnatural, horror |
+| Hard light | hard light | direct light | Sharp shadow edge |
+| Soft light | soft light | diffused light | Feathered shadow edge |
+| Lighting ratio | lighting ratio | contrast ratio | 2:1 → 8:1 emotional lever |
+| High key | high key | bright and airy | Highlight-dominant |
+| Low key | low key | dark and moody, chiaroscuro (extreme chiaroscuro) | Shadow-dominant |
+| Volumetric light | volumetric light | god rays, Tyndall effect, light shafts | The visible path of light |
+| Rim light | rim/kicker light | hair light | Separation against a dark background |
+| Catchlight | catchlight | eye light | Portrait realness |
+| Golden hour | golden hour | — | Low-angle warm light (beware template risk) |
+| Blue hour | blue hour | — | Cool blue after sunset |
 
-## 色彩词族
+## Color word family
 
-| 概念 | 通用表述 | 同义/近义 | 语义要点 |
+| Concept | General term | Synonyms / near-synonyms | Semantic point |
 |---|---|---|---|
-| 主导色 | dominant color | base color | ~60% 底色世界 |
-| 辅色 | secondary color | supporting color | ~30% |
-| 强调色 | accent color | pop color | ~10% 点睛 |
-| 互补 | complementary | 对角色 | 最高张力 |
-| 邻近 | analogous | 相邻色 | 平稳和谐 |
-| 单色系 | monochromatic | 单色调 | 一色相分层 |
-| 无彩 | achromatic | black & white、grayscale、monochrome | 黑白灰体系 |
-| 分裂互补 | split-complementary | — | 张力略降 |
-| 三分配 | triadic | 三角配色 | 活泼高风险 |
-| 暖调/冷调 | warm/cool palette | — | 全画温度 |
-| 降饱和 | desaturated | muted、faded | 灰度克制感 |
-| 高饱和 | saturated | vivid、punchy | 鲜明（防滥用） |
-| 褪色 | faded / washed out | vintage fade | 回忆语义 |
-| 色罩 | color cast | tint | 全画统一偏色 |
+| Dominant color | dominant color | base color | ~60% — the world's ground |
+| Secondary color | secondary color | supporting color | ~30% |
+| Accent color | accent color | pop color | ~10% — the highlight |
+| Complementary | complementary | opposite pair | Highest tension |
+| Analogous | analogous | neighboring hues | Steady harmony |
+| Monochromatic | monochromatic | single-tone | One hue layered |
+| Achromatic | achromatic | black and white, grayscale, monochrome | The black-gray-white system |
+| Split-complementary | split-complementary | — | Tension slightly lowered |
+| Triadic | triadic | triangle scheme | Lively, high risk |
+| Warm/cool palette | warm/cool palette | — | The frame's overall temperature |
+| Desaturated | desaturated | muted, faded | Restrained gray |
+| Saturated | saturated | vivid, punchy | Vivid (guard against overuse) |
+| Faded | faded / washed out | vintage fade | The semantics of memory |
+| Color cast | color cast | tint | A uniform shift across the frame |
 
-## 光色组合公式
+## The light-and-color formula
 
-光色完整描述 = **主光（方向+质量）+ 光比（可选）+ 色温/色调 + 氛围层（可选）**
+A complete light-and-color description = **key light (direction + quality) + ratio (optional) + color temperature / tone + atmosphere layer (optional)**
 
-例："45° 侧前软光、4:1、暖钨丝调、窗光动机" / "顶视均匀柔光、无彩底+单红强调" / "逆光硬光、剪影、蓝调时刻、晨雾介质"。
+Examples: "45° front-side soft light, 4:1, warm tungsten tone, window-light motivation" / "even soft light from above, achromatic ground with a single red accent" / "hard backlight, silhouette, blue hour, morning mist as medium".
 
-组装纪律：
-1. 主光必须唯一且先说（其余光都是配角）；
-2. 光比在情绪向画面必给；
-3. 色调词与光源物理一致（动机检查，D2/direction-quality）。
+Assembly discipline:
+1. The key light must be unique and stated first (all other lights are supporting);
+2. The ratio is mandatory in emotion-driven frames;
+3. Tone words must be physically consistent with the source (the motivation check, D2/direction-quality).
 
-## 与其他文件的连接
+## Connections to other files
 
-- 判据与机制：D2/light-fundamentals、tonality、D3 各文件
-- 机位词族：见 camera-lexicon.md
-- 易混辨析（high key vs 过曝、饱和 vs 鲜艳等）：见 confusables.md
+- Criteria and mechanisms: D2/light-fundamentals, tonality, and the D3 files
+- The camera word family: see camera-lexicon.md
+- Disambiguation (high key vs overexposure, saturated vs vivid, etc.): see confusables.md
