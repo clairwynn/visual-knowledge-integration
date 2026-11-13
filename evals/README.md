@@ -1,40 +1,42 @@
-# 评估协议（Evals README·休眠区）
+# Evaluation Protocol (Evals README · dormant zone)
 
-> 本目录是 VKI 的评估资产，**默认休眠**。触发短语只存在于本文件，不出现在 SKILL.md 与任何其他文件。
+> This directory holds VKI's evaluation assets, **dormant by default**. The trigger phrases exist only in this file; they do not appear in SKILL.md or in any other file.
 
-## 激活机制（唯一开关）
+## Activation mechanism (the only switch)
 
-- **激活短语：「VKI 评估」**；别名：「跑视觉评测」。
-- 激活条件：用户消息中出现上述短语之一。
-- 激活后行为：VKI 声明"进入评估模式"→ 按本协议依次执行 E1→E2→E3 → 输出评测总报告。
-- 未激活时：SKILL.md、modes、references、indexes 中不得出现本目录路径与短语引用；长对话中不得自发提及或执行任何评测（休眠验收见协议末节）。
+- **Activation phrase: "VKI eval"**; alias: "run a visual eval".
+- Activation condition: one of the above phrases appears in the user's message.
+- Behaviour after activation: VKI declares "entering evaluation mode" → executes E1 → E2 → E3 in order according to this protocol → outputs the overall evaluation report.
+- When not activated: no path reference to this directory and no reference to the phrases may appear in SKILL.md, modes, references, or indexes; no evaluation may be mentioned or run spontaneously during long conversations (dormancy acceptance in the last section).
 
-## 评测总则
+> Locale note: trigger phrases are language-bound. This English edition defines the English phrases above; the Chinese source edition defines the equivalent Chinese phrases, and the same protocol applies to both.
 
-1. 逐题输出：题号 + PASS/FAIL（或命中断言列表）+ evidence（回答原句引用）。
-2. 三类评测各出通过率；总报告汇总：各类通过率 + 无效断言候选（全部 PASS 的断言=无区分度）+ 高方差题（重测结果不稳）+ 薄弱知识域定位。
-3. 评测结果用于两件事：调 SKILL.md description 触发词；修知识库薄弱条目。
-4. 题面零来源：所有题目不得出现外部项目名、链接、编号——题目自足。
-5. 评测以"无外部工具、纯对话"方式执行；有真实生图/读图环境时可扩展图像版题（另行登记）。
+## General evaluation rules
 
-## E1 触发评测（trigger-set.md）
+1. Per-item output: item number + PASS/FAIL (or the list of assertions hit) + evidence (the quoted sentence from the answer).
+2. Each of the three evaluations reports its pass rate; the overall report aggregates: pass rate per category + invalid-assertion candidates (assertions that always PASS = no discrimination) + high-variance items (unstable across retests) + localization of weak knowledge domains.
+3. Evaluation results serve two purposes: tuning the SKILL.md description trigger words; repairing weak entries in the knowledge base.
+4. Zero-source item statements: no external project name, link, or number may appear in any item — items are self-contained.
+5. Evaluation runs "without external tools, pure conversation"; when a real image-generation / image-reading environment is available, an image version of the items may be extended (registered separately).
 
-验证 description 触发词的查准查全。题集 40 条（应触发 20 / 不应触发 20）。执行：对每条题，判断"VKI 应否被触发"，对照标定答案，PASS/FAIL。通过线 ≥90%。
+## E1 Trigger evaluation (trigger-set.md)
 
-## E2 构图认知断言（cognition-assertions.md）
+Verifies the precision and recall of the description's trigger words. Item set: 40 messages (20 should trigger / 20 should not). Execution: for each item judge "should VKI be triggered", compare with the calibrated answer, PASS/FAIL. Pass line ≥90%.
 
-验证知识是否改变画面思考。30 个场景，每场景 3–5 条关键断言。执行：给场景 → 生成完整回答 → 逐断言核对命中（引用回答原句为证据）。计分：命中断言数/总断言数。通过线 ≥80%。断言全中率高（连续 3 轮全 PASS）的断言标记"无效断言候选"，可替换为更尖锐版本。
+## E2 Composition-cognition assertions (cognition-assertions.md)
 
-## E3 弱构图诊断准确率（diagnosis-accuracy.md）
+Verifies whether the knowledge changes how a frame is thought about. 30 scenarios, each with 3–5 key assertions. Execution: give the scenario → generate a complete answer → check each assertion for a hit (quoting the answer as evidence). Scoring: assertions hit / total assertions. Pass line ≥80%. Assertions with a consistently high hit rate (three consecutive full-PASS rounds) are marked "invalid-assertion candidates" and may be replaced with sharper versions.
 
-20 个标准化症状题，每题标定根因（或根因组）+ 建议处方级别（微调/重构）。执行：VKI 走诊断功能输出 → 对照标定：根因命中=满分；方向对但层级错（同支不同根因）=半分；异支=0 分。附加计：重构级处方的误开率（标定微调却被开重构）。通过线：准确率 ≥75% 且误开率 ≤10%。
+## E3 Weak-composition diagnosis accuracy (diagnosis-accuracy.md)
 
-## 休眠验收（W8-4 用）
+20 standardized symptom items, each calibrated with a root cause (or root-cause group) plus the suggested prescription level (adjustment / restructure). Execution: VKI runs the diagnose function and outputs → compared against the calibration: root-cause hit = full score; direction right but level wrong (same branch, different root cause) = half score; different branch = 0. Additional metric: the over-restructure rate (a restructure-level prescription issued where the calibration says adjustment). Pass line: accuracy ≥75% and over-restructure rate ≤10%.
 
-1. 全包扫描：SKILL.md、modes/、references/、indexes/ 中不得出现"VKI 评估""跑视觉评测"及 evals/ 路径引用（本文件除外）。
-2. 行为验收：不带触发短语的 ≥20 轮混合对话（含构图/诊断/学习任务）中，VKI 不得自发提及评测、不得建议"跑一下评测"。
+## Dormancy acceptance (for W8-4)
 
-## 维护
+1. Full-package scan: "VKI eval", "run a visual eval", and any evals/ path reference must not appear in SKILL.md, modes/, references/, or indexes/ (except in this file).
+2. Behavioural acceptance: across ≥20 rounds of mixed conversation without the trigger phrase (including composition / diagnosis / learning tasks), VKI must not mention evaluation spontaneously and must not suggest "running an evaluation".
 
-- 题目修订记录写在各题集文件尾注；无效断言替换保留旧题编号（T-xx/S-xx/D-xx 不复用）。
-- 每次知识库大改后（新增域/重构流派）重跑一轮全量评测。
+## Maintenance
+
+- Item revision records go in the endnote of each item-set file; replaced invalid assertions keep their old item numbers (T-xx / S-xx / D-xx are never reused).
+- After any major knowledge-base change (new domain / restructured movements), rerun a full evaluation round.
