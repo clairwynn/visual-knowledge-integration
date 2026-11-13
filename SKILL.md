@@ -54,7 +54,7 @@ The experience tier is the preset assumption about the user's expertise. **It ch
 
 ## Step 3: Hard School Routing (mandatory reading for ideation and review tasks)
 
-Twelve design schools, one file each (uniform structure: manifesto / core thinking / technique library / quantitative criteria / applicability / differences / boundaries):
+12 design schools, one file each (uniform structure: manifesto / core thinking / technique library / quantitative criteria / applicability / differences / boundaries):
 
 Classical Academy (computable order) | Eastern Painting (blank space as substance) | Cinematic Director (camera position is attitude) | Gestalt Psychology (how perception groups) | Minimalist Subtraction (delete until nothing more can go) | Graphic Constructivism (grid and hierarchy) | Documentary Photography (credibility first) | Commercial Practice (the image is meant to be used) | Photographic Optics (composition is a product of optics) | Style Aesthetics (beauty can be scored) | Digital Trend (against the median default) | Conceptual Rebel (anti-aesthetics as method).
 

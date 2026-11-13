@@ -31,7 +31,7 @@ Intent involving multiple images, a series, a set, a carousel, a storyboard, or 
 
 - **Expert**: the full variation matrix plus a rhythm curve (a frame-to-frame curve of information load and emotional intensity); may add a recommended position for a reversal frame (a Conceptual Rebel usage).
 - **Manager**: the matrix reduced to three key dimensions (composition type / shot size / light direction) plus one line per image and the final-check conclusion.
-- **Client**: no matrix — "one line per image" plus a plain-language rhythm description ("image 3 is the loudest moment of the set; the two before it are setup"); repetition problems stated directly as "images 3 and 7 are too alike; change the XX of image 7".
+- **Client**: no matrix — "one line per image" plus a plain-language rhythm description ("image 3 is the loudest moment of the set; the two before it are setup"); repetition problems stated directly as "images X and Y are too alike; change the XX of image Y".
 - **Wild Dog**: the matrix is still built (hard rules are never bent), but one frame may be designated a reversal frame — completely against sequence grammar (see technique 12 of conceptual-rebel).
 
 ## Discipline

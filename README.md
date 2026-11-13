@@ -35,7 +35,7 @@ indexes/                      Cross-indexes: problems.md (problem → knowledge)
 modes/                        Three-layer mode system
   function/                   Five functional flows: learn, ideate, diagnose, compare, sequence
   experience/                 Four experience tiers: expert, manager (default), client, wild-dog
-  schools/                    Twelve design schools plus the _index selection decision tree
+  schools/                    12 design schools plus the _index selection decision tree
 references/                   Eight knowledge domains
   D1-structure/               Composition and structure: aspect ratio, composition types, proportion and negative space, visual path, balance, depth, edges, frame within frame, multiple subjects
   D2-light/                   Light and tonality: four light variables, five lighting setups, tonality, directional semantics, volumetric light
