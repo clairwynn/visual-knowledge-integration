@@ -1,93 +1,93 @@
-# D6 · 流派库 · 摄影与图像（6 卡）
+# D6 · Movement Library · Photography and Image (6 cards)
 
-> 风格流派卡语料的程序化提炼；零来源规约：不含提示词写法、不含出处链接。
-> 同一框架：一句话→核心主张→构图/光色/质感→情绪→色锚→翻车点→关联流派。
-> 用法：风格任务查卡，与 D6/art-movements 的七层拆解/翻车点相反性/混搭仲裁配合。
+> A programmatic distillation of the style-movement card corpus; zero-source rule: no prompt wording, no source links.
+> Same framework: one line → core claim → composition / light and color / texture → emotion → color anchors → failure points → related movements.
+> Use: look up a card for a style task, together with the seven-layer deconstruction / failure-point opposition / mixing arbitration in D6/art-movements.
 
-### 时尚编辑摄影 · Fashion Editorial（1930–今｜全球）
+### Fashion Editorial（1930–present | Global）
 
-> 把衣服拍成叙事：影棚、异域、超现实布景，模特是画布也是角色。
+> Shooting clothes as narrative: studio, exotic and surreal sets, the model both canvas and character.
 
-- **核心主张**：时装作为叙事与欲望的载体；影棚布景与实景外拍的两种传统；模特的身体姿态与服装同样重要；与超现实主义、电影、绘画持续互相借用
-- **构图**：全身竖构图、动态姿态、强烈的姿势导向
-- **光色**：色彩——高饱和的编辑色调，或精准的黑白高级灰；光影——明确的影棚布光（蝴蝶光、伦勃朗光）或戏剧性外景光
-- **质感**：笔触——无；但造型、妆发、布景提供质感；材质——织物、绸缎、羽毛、金属配饰、布景道具
-- **情绪**：优雅、欲望、力量、被构造的完美
-- **色锚**：`#C1272D` `#111111` `#E8DCC8` `#C9A227` `#4A6B8B` `#F2A8C8`
-- **翻车点**：1）和街头/纪实区分：时尚编辑是完全被构造的；2）只存描述，不收作品图
-- **关联流派**：装饰艺术、超现实摄影、宝丽来与胶片、媚俗艺术
-
----
-
-### 画意摄影 · Pictorialism（1885–1915｜欧美）
-
-> 让照片看起来像画：柔焦、手工印相、刮擦与涂绘。
-
-- **核心主张**：主张摄影应当模仿绘画的审美价值；柔焦镜头、控制景深、暗房手工干预；铂金印相、溴化银、树胶重铬酸盐等工艺；题材多为风景、裸体、肖像与寓言
-- **构图**：绘画式构图，常有装饰性边框与签名
-- **光色**：色彩——单色：铂金的暖灰、蓝晒的蓝、碳印的深褐；光影——柔和的漫射光，高光晕开（halation），边缘虚化
-- **质感**：笔触——照片上的手工痕迹：刮擦、涂绘、笔刷感；材质——铂金印相纸、树胶、碳素、粗糙纹理纸
-- **情绪**：诗意、朦胧、怀旧、世纪末的感伤
-- **色锚**：`#8B7A5A` `#6B5A4A` `#A89878` `#3A3632` `#D9CFC0` `#1F3A5C`
-- **翻车点**：1）容易做得太清晰——对策：，在画面描述中显式针对此缺陷；2）容易变成普通复古滤镜——对策：强调 painterly composition, decorative border
-- **关联流派**：色调主义、象征主义、湿版摄影、纪实摄影
+- **Core claim**: fashion as a vehicle of narrative and desire; two traditions of studio sets and location shoots; the model's bodily posture matters as much as the clothes; a continuous mutual borrowing with Surrealism, cinema, and painting
+- **Composition**: full-length vertical framing, dynamic poses, strongly pose-driven
+- **Light and color**: color — highly saturated editorial tones, or precise black-and-white high-grade gray; light — explicit studio lighting (butterfly, Rembrandt) or dramatic location light
+- **Texture**: brushwork — none; but styling, hair and makeup, and sets supply texture; materials — fabric, satin, feathers, metal accessories, props
+- **Emotion**: elegance, desire, power, constructed perfection
+- **Color anchors**: `#C1272D` `#111111` `#E8DCC8` `#C9A227` `#4A6B8B` `#F2A8C8`
+- **Failure points**: 1) distinguishing it from street / documentary: fashion editorial is entirely constructed; 2) keep it descriptive only — no artwork images
+- **Related movements**: Art Deco, Surrealist Photography, Polaroid & Film, Kitsch
 
 ---
 
-### 直接摄影 · Straight Photography（1910–1950｜美国）
+### Pictorialism（1885–1915 | Europe and America）
 
-> 反画意：不柔焦、不加工，用最清晰的细节呈现物体本身。
+> Making a photograph look like a painting: soft focus, handmade printing, scraping and painting.
 
-- **核心主张**：拒绝画意摄影的手工干预与模仿绘画；强调摄影媒介自身的清晰、锐利与客观；精确的构图与影调层次（zone system 的前身）；题材：自然形态、工业结构、日常物件
-- **构图**：精确的框取、强烈的形式感、常抽象化日常物
-- **光色**：色彩——丰富的黑白灰层次，从纯黑到纯白的完整影调；光影——清晰锐利的光，强调形体的体积与质感
-- **质感**：笔触——无；就是银盐颗粒与镜头的解析力；材质——黑白底片、明胶银盐印相、光面纸
-- **情绪**：冷静、精确、形式主义的庄严
-- **色锚**：`#0F0F0F` `#4A4A4A` `#8A8A85` `#C9CFD4` `#FFFFFF` `#2B2B33`
-- **翻车点**：1）和画意摄影搞反——对策：直接摄影要锐利、完整影调、无手工干预；2）容易加颗粒与柔光——对策：在画面描述中显式针对此缺陷
-- **关联流派**：画意摄影、精确主义、纪实摄影、流派总览
-
----
-
-### 纪实摄影 · Documentary Photography（1930–今｜全球）
-
-> 用照片作证：大萧条、战争、贫民窟，镜头负有道义责任。
-
-- **核心主张**：以记录社会现实为目的，常带改革诉求；政府项目（FSA）与新闻摄影推动其制度化；黑白、自然光、不干预现场；构图服务于信息传达而非形式美感
-- **构图**：快速抓取、不完美的构图、主体在环境之中
-- **光色**：色彩——黑白为主（早期），后期彩色也偏纪实的中性色；光影——自然现场光，包括不完美的阴天与室内光
-- **质感**：笔触——无；颗粒感与现场的粗糙；材质——35mm 或中画幅黑白底片、银盐印相、杂志印刷
-- **情绪**：沉重、同情、见证、有尊严的记录
-- **色锚**：`#2B2B33` `#6B6B60` `#A89878` `#D9CFC0` `#8B6B4A` `#4A5A6B`
-- **翻车点**：1）容易加戏剧性打光——对策：按画面意图定制描述以避开；2）必须保留「不完美构图」——太完美就失去纪实感
-- **关联流派**：画意摄影、社会现实主义、街头摄影
+- **Core claim**: photography should imitate the aesthetic values of painting; soft-focus lenses, controlled depth of field, darkroom hand intervention; processes such as platinum print, silver bromide, gum bichromate; subjects mostly landscape, nude, portrait, and allegory
+- **Composition**: painterly composition, often with a decorative border and signature
+- **Light and color**: color — monochrome: the warm gray of platinum, the blue of cyanotype, the deep brown of carbon print; light — soft diffused light, halation around highlights, softened edges
+- **Texture**: brushwork — hand traces on the photograph: scraping, painting, brush marks; materials — platinum paper, gum, carbon, rough-textured paper
+- **Emotion**: poetic, hazy, nostalgic, fin-de-siècle sentimentality
+- **Color anchors**: `#8B7A5A` `#6B5A4A` `#A89878` `#3A3632` `#D9CFC0` `#1F3A5C`
+- **Failure points**: 1) it easily comes out too sharp — remedy: address that defect explicitly in the frame description; 2) it easily turns into an ordinary vintage filter — remedy: stress painterly composition and decorative border
+- **Related movements**: Tonalism, Symbolism, Wet Plate Collodion, Documentary Photography
 
 ---
 
-### 街头摄影 · Street Photography（1930–今｜全球）
+### Straight Photography（1910–1950 | United States）
 
-> 决定性瞬间：在街上等待，直到所有元素恰好排成一张好照片。
+> Against pictorialism: no soft focus, no handwork, the object presented through the sharpest detail.
 
-- **核心主张**：在公共空间抓取未经安排的瞬间；「决定性瞬间」：形式与事件同时到达顶点；35mm 小型相机 + 快速反应；幽默、偶然、几何巧合与人的姿态
-- **构图**：几何化框取、多层前后景、被切断的行人
-- **光色**：色彩——黑白经典，也有彩色街头（偏暖或偏冷的地域色）；光影——强烈的街道光：斜射阳光、橱窗反光、雨后倒影
-- **质感**：笔触——无；颗粒与轻微动态模糊；材质——35mm 黑白或彩色底片、银盐或染料印相
-- **情绪**：机智、观察、都市的诗意与荒诞
-- **色锚**：`#1A1A1A` `#7A7A75` `#D9CFC0` `#C9A25A` `#4A6B8B` `#A8432A`
-- **翻车点**：1）容易做成摆拍——对策：，显式写出相反的画面特征；2）容易缺少层次——对策：明确 layered foreground and background
-- **关联流派**：纪实摄影、阿什坎学派、黑色电影、流派总览
+- **Core claim**: rejecting the hand intervention and painterly imitation of pictorialism; stressing the medium's own clarity, sharpness, and objectivity; precise composition and tonal range (a forerunner of the zone system); subjects: natural forms, industrial structures, everyday objects
+- **Composition**: exact framing, strong formal sense, often abstracting everyday objects
+- **Light and color**: color — rich black-white-gray range, a full tonal scale from pure black to pure white; light — clear sharp light stressing volume and texture
+- **Texture**: brushwork — none; just silver grain and the lens's resolving power; materials — black-and-white negative, gelatin silver print, glossy paper
+- **Emotion**: cool, precise, formalist solemnity
+- **Color anchors**: `#0F0F0F` `#4A4A4A` `#8A8A85` `#C9CFD4` `#FFFFFF` `#2B2B33`
+- **Failure points**: 1) confusing it with pictorialism — remedy: straight photography is sharp, full-range, and without hand intervention; 2) it easily gains grain and soft glow — remedy: address that defect explicitly in the frame description
+- **Related movements**: Pictorialism, Precisionism, Documentary Photography, movement overview
 
 ---
 
-### 超现实摄影 · Surrealist Photography（1924–1950｜法国 / 美国）
+### Documentary Photography（1930–present | Global）
 
-> 用相机制造不可能：负片叠印、变形、无脸的身体与漂浮的物件。
+> Using the photograph as evidence: the Depression, war, slums — the lens carries a moral responsibility.
 
-- **核心主张**：把超现实主义的潜意识策略用于摄影媒介；暗房技法：多重曝光、负片、日晒（solarisation）；身体被切割、扭曲、去身份化；日常物被置于陌生语境而变得诡异
-- **构图**：身体局部特写、镜像、重复、物理上不可能的空间
-- **光色**：色彩——黑白为主，或早期手工着色的奇异色调；光影——戏剧性的硬光，或完全反物理的光影关系
-- **质感**：笔触——暗房干预：负像、叠印、刮擦、过度显影；材质——黑白底片、明胶银盐、摄影蒙太奇、实物拼贴
-- **情绪**：怪诞、色情与恐惧交织、无意识的不安
-- **色锚**：`#0F0F12` `#5A5A5A` `#D9CFC0` `#8B6B4A` `#4A3A5A` `#C9A25A`
-- **翻车点**：1）和超现实主义绘画区分：这里的手段是暗房与光学，不是画笔；2）容易做得太干净——对策：，显式写出相反的画面特征
-- **关联流派**：超现实主义、达达主义、画意摄影、魔幻现实主义（绘画）
+- **Core claim**: recording social reality, often with a reformist demand; government projects (FSA) and photojournalism institutionalized it; black and white, natural light, no intervention in the scene; composition serves the transmission of information rather than formal beauty
+- **Composition**: fast grabs, imperfect composition, the subject inside its environment
+- **Light and color**: color — mostly black and white (early), later color also leaning documentary-neutral; light — natural available light, including imperfect overcast and interior light
+- **Texture**: brushwork — none; grain and the roughness of the scene; materials — 35mm or medium-format black-and-white negative, silver print, magazine printing
+- **Emotion**: heavy, sympathetic, bearing witness, dignified record
+- **Color anchors**: `#2B2B33` `#6B6B60` `#A89878` `#D9CFC0` `#8B6B4A` `#4A5A6B`
+- **Failure points**: 1) it easily gains dramatic lighting — remedy: customize the description to the frame's intent and avoid it; 2) the "imperfect composition" must be kept — too perfect and the documentary feel is gone
+- **Related movements**: Pictorialism, Social Realism, Street Photography
+
+---
+
+### Street Photography（1930–present | Global）
+
+> The decisive moment: wait in the street until every element lines up into a good photograph.
+
+- **Core claim**: catching unarranged moments in public space; the "decisive moment": form and event peaking at the same instant; a small 35mm camera plus fast reactions; humor, observation, geometric coincidence, and human posture
+- **Composition**: geometric framing, layered foreground and background, pedestrians cut off by the edge
+- **Light and color**: color — classic black and white, also color street work (regional color leaning warm or cool); light — strong street light: raking sun, shop-window reflections, reflections after rain
+- **Texture**: brushwork — none; grain and slight motion blur; materials — 35mm black-and-white or color negative, silver or dye print
+- **Emotion**: wit, observation, the poetry and absurdity of the city
+- **Color anchors**: `#1A1A1A` `#7A7A75` `#D9CFC0` `#C9A25A` `#4A6B8B` `#A8432A`
+- **Failure points**: 1) it easily becomes staged — remedy: state the opposite frame features explicitly; 2) it easily lacks layering — remedy: specify layered foreground and background
+- **Related movements**: Documentary Photography, Ashcan School, Film Noir, movement overview
+
+---
+
+### Surrealist Photography（1924–1950 | France / United States）
+
+> Making the impossible with a camera: negative superposition, distortion, faceless bodies, floating objects.
+
+- **Core claim**: applying Surrealism's unconscious strategies to the photographic medium; darkroom techniques: multiple exposure, negative, solarization; the body cut, distorted, de-identified; everyday objects made uncanny by being placed in a strange context
+- **Composition**: close-ups of body parts, mirrors, repetition, physically impossible spaces
+- **Light and color**: color — mostly black and white, or the strange tones of early hand coloring; light — dramatic hard light, or an entirely anti-physical relation of light and shadow
+- **Texture**: brushwork — darkroom intervention: negative image, superposition, scraping, overdevelopment; materials — black-and-white negative, gelatin silver, photomontage, physical collage
+- **Emotion**: grotesque, eroticism tangled with fear, unconscious unease
+- **Color anchors**: `#0F0F12` `#5A5A5A` `#D9CFC0` `#8B6B4A` `#4A3A5A` `#C9A25A`
+- **Failure points**: 1) distinguishing it from Surrealist painting: the means here are the darkroom and optics, not the brush; 2) it easily comes out too clean — remedy: state the opposite frame features explicitly
+- **Related movements**: Surrealism, Dada, Pictorialism, Magic Realism (painting)
