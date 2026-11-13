@@ -1,94 +1,94 @@
-# D8 · 机位景别语义词表（Camera & Framing Lexicon）
+# D8 · Camera and Framing Lexicon
 
-> 本文件管：景别/机位/焦段/取景空间的通用词汇表——每个概念给通用表述与常见同义词，模型无关。
-> 怎么用：描述或理解画面时选词；跨语言/跨体系沟通时的对照表。
+> This file covers: the general vocabulary of shot size / camera position / focal length / framing room — each concept given a general term and its common synonyms, model-agnostic.
+> How to use: choose words when describing or understanding a frame; a correspondence table for cross-language and cross-system communication.
 
-## 使用说明
+## How to use this file
 
-- 词汇按"概念→通用表述→同义/近义词→语义要点"组织；同义词收入仅标注差异，不做平台语法。
-- 词汇语义的完整判据在 D4 各文件；本表是速查层。
+- Words are organized as "concept → general term → synonyms / near-synonyms → semantic point"; synonyms are listed only to mark differences, not as platform syntax.
+- The full criteria for word semantics live in the D4 files; this table is the quick-reference layer.
 
-## 景别（shot size）词族
+## Shot size word family
 
-| 概念 | 通用表述 | 同义/近义 | 语义要点 |
+| Concept | General term | Synonyms / near-synonyms | Semantic point |
 |---|---|---|---|
-| 大远景 | extreme wide shot | establishing shot（定场）、extreme long shot | 人极小，世界全貌；定场职能 |
-| 远景 | wide shot / long shot | full scene | 人全身小占比 |
-| 全景 | full shot | full body（全身） | 全身入画，头脚完整 |
-| 中景 | medium shot | waist-up | 腰上取景；交流与叙事主力档 |
-| 美式中景（七分身） | American shot（plan américain） | 3/4 shot、knee shot | 膝上取景，站姿全貌+少量环境 |
-| 牛仔景 | cowboy shot | mid-thigh shot | 大腿中段切的变体，比美式中景低一档 |
-| 中近景 | medium close-up | — | 胸上 |
-| 特写 | close-up | portrait framing | 面部为主 |
-| 大特写 | extreme close-up | insert（插入细节） | 眼/唇/手局部 |
-| 过肩 | over-the-shoulder (OTS) | shoulder framing | 前景肩虚化，对话主观感 |
-| 双人 | two-shot | — | 双人同框关系档 |
+| Extreme wide shot | extreme wide shot | establishing shot, extreme long shot | People tiny, the whole world visible; establishing duty |
+| Wide shot | wide shot / long shot | full scene | A small figure in a large share of the frame |
+| Full shot | full shot | full body | The whole body in frame, head and feet complete |
+| Medium shot | medium shot | waist-up | Framed from the waist up; the workhorse of exchange and narrative |
+| American shot | American shot (plan américain) | 3/4 shot, knee shot | Framed above the knees: full standing posture plus a little environment |
+| Cowboy shot | cowboy shot | mid-thigh shot | A variant cut at mid-thigh, one grade lower than the American shot |
+| Medium close-up | medium close-up | — | Above the chest |
+| Close-up | close-up | portrait framing | Mainly the face |
+| Extreme close-up | extreme close-up | insert | A detail of eye / lip / hand |
+| Over-the-shoulder | over-the-shoulder (OTS) | shoulder framing | A defocused shoulder in the foreground, a subjective dialogue feel |
+| Two-shot | two-shot | — | Two people in one frame, the relationship grade |
 
-## 机位角度（camera angle）词族
+## Camera angle word family
 
-| 概念 | 通用表述 | 同义/近义 | 语义要点 |
+| Concept | General term | Synonyms / near-synonyms | Semantic point |
 |---|---|---|---|
-| 平视 | eye level | straight-on | 中立客观默认 |
-| 仰拍 | low angle | looking up、worm's-eye（贴地虫视） | 支配/威仪；worm=极端宣言 |
-| 俯拍 | high angle | looking down | 脆弱/全知 |
-| 顶视 | top-down / bird's-eye view | flat lay（平铺摆拍） | 图案化；flat lay=正顶视静物 |
-| 倾斜 | Dutch angle / canted angle | tilt | 失衡语义，度数分档（D4/angle） |
-| POV | first-person view / POV | — | 主观视线档 |
+| Eye level | eye level | straight-on | The neutral, objective default |
+| Low angle | low angle | looking up, worm's-eye | Dominance / majesty; worm's-eye = an extreme declaration |
+| High angle | high angle | looking down | Vulnerability / omniscience |
+| Top-down | top-down / bird's-eye view | flat lay | Pattern-like; flat lay = a straight-down still life |
+| Tilt | Dutch angle / canted angle | tilt | The semantics of imbalance, graded by degrees (D4/angle) |
+| POV | first-person view / POV | — | The subjective gaze grade |
 
-## 焦段（focal length）词族
+## Focal length word family
 
-| 概念 | 通用表述 | 语义要点 |
+| Concept | General term | Semantic point |
 |---|---|---|
-| 超广角 | ultra-wide（≤24mm） | 畸变宣言 |
-| 广角 | wide angle（24–35mm） | 纵深夸张、环境介入 |
-| 标准 | standard / normal（~50mm） | 人眼中性 |
-| 人像焦段 | portrait length（85mm 段） | 无畸变+背景柔 |
-| 长焦 | telephoto（135mm+） | 压缩、抽离 |
-| 微距 | macro | 微观、极浅景深 |
+| Ultra-wide | ultra-wide (≤24mm) | A distortion declaration |
+| Wide angle | wide angle (24–35mm) | Exaggerated depth, the environment intruding |
+| Standard | standard / normal (~50mm) | The neutral human eye |
+| Portrait length | portrait length (85mm range) | No distortion plus a soft background |
+| Telephoto | telephoto (135mm+) | Compression, detachment |
+| Macro | macro | The microscopic, extremely shallow depth of field |
 
-## 取景空间（framing room）词族
+## Framing room word family
 
-| 概念 | 通用表述 | 语义要点 |
+| Concept | General term | Semantic point |
 |---|---|---|
-| 顶留空间 | headroom | 头顶余量四档 |
-| 视线留白 | lead room / look room | 视线前方余量 |
-| 动势留白 | motion room | 运动前方余量 |
-| 鼻前空间 | nose room | 侧面像朝向侧余量 |
-| 逼角 | tight crop | 四边全逼的宣言 |
-| 出血 | full bleed | 元素故意出画 |
+| Headroom | headroom | The four grades of clearance above the head |
+| Lead room | lead room / look room | Clearance ahead of the gaze |
+| Motion room | motion room | Clearance ahead of the movement |
+| Nose room | nose room | Clearance on the facing side of a profile |
+| Tight crop | tight crop | The declaration of pressing against all four edges |
+| Full bleed | full bleed | Elements deliberately running out of the frame |
 
-## 特殊取景与非常规构图词（稀有档）
+## Special framing and unconventional composition words (rare grades)
 
-| 概念 | 通用表述 | 语义要点 |
+| Concept | General term | Semantic point |
 |---|---|---|
-| 水面上下同框 | partially underwater shot | 水线横切画面，水上水下两个世界 |
-| 刻意切脚 | feet out of frame | 脚出画的取景宣言（区别于事故级切踝） |
-| 下半身取景 | lower body | 腰腿局部叙事（行走、姿态为主） |
-| 多视点同框 | multiple views | 同一主体多视角并存于一帧 |
-| 倒置 | upside-down | 画面级颠倒宣言 |
-| 纵列配置 | column lineup | 纵向列队的排布语法 |
-| 图层放大 | zoom layer | 背景呈现主体的放大版（尺度错位） |
-| 投影嵌套 | projected inset | 主体以投影方式出现在背景上 |
-| 等轴测 | isometric | 无灭点的游戏式空间投影 |
-| 正反相对 | polar opposites | 双主体朝向/姿态互为反面 |
+| Above and below the water line in one frame | partially underwater shot | The waterline cuts across the frame: two worlds, above and below |
+| Deliberate feet-out cropping | feet out of frame | A framing declaration with the feet outside (distinct from an accidental ankle cut) |
+| Lower-body framing | lower body | A narrative of waist and legs (mainly walking, posture) |
+| Multiple viewpoints in one frame | multiple views | Several views of the same subject coexisting in one frame |
+| Inverted | upside-down | A frame-level inversion declaration |
+| Column lineup | column lineup | The arrangement grammar of a vertical column |
+| Zoom layer | zoom layer | The background presenting an enlarged version of the subject (a scale dislocation) |
+| Projected inset | projected inset | The subject appearing on the background as a projection |
+| Isometric | isometric | A game-like spatial projection without vanishing points |
+| Polar opposites | polar opposites | Two subjects whose orientation / posture are exact opposites |
 
-稀有档多服务于特殊叙事或反惯例构图（见 modes/schools/conceptual-rebel.md）；双人关系三档（镜像/正反相对/旋转对称）的用法见 D1/multi-subject；常规画面慎用。
+The rare grades mostly serve special narratives or anti-convention composition (see modes/schools/conceptual-rebel.md); for the three grades of two-person relation (mirroring / polar opposites / rotational symmetry) see D1/multi-subject; use them with care in ordinary frames.
 
-## 组合公式（机位描述的组装序）
+## The assembly formula (order for describing a camera position)
 
-机位完整描述 = **景别 + 角度 + 焦段（可选）+ 朝向留白（可选）**
+A complete camera description = **shot size + angle + focal length (optional) + facing clearance (optional)**
 
-例："中景、低角度 15°、85mm、视线留白朝左" / "顶视平铺、50mm、四边均留" / "大远景、平视、24mm、道路引导入画"。
+Examples: "medium shot, 15° low angle, 85mm, lead room to the left" / "top-down flat lay, 50mm, even clearance on all four sides" / "extreme wide shot, eye level, 24mm, a road leading into the frame".
 
-组装纪律：
-1. 景别与角度至少各一个（缺一=机位不完整）；
-2. 焦段在需要空间结构控制时必给；
-3. 描述顺序景别先行（先多大、再从哪看）；
-4. 机位词宜精不宜堆：多个机位/景别词并置且互不兼容时，画面空间读感割裂——组装后通读一遍，删掉不兼容项（经验值）。
+Assembly discipline:
+1. At least one shot size and one angle (missing either = an incomplete camera position);
+2. The focal length is mandatory when spatial structure needs controlling;
+3. Describe shot size first (how much first, then from where);
+4. Camera words should be precise rather than piled up: several mutually incompatible camera or shot-size words juxtaposed make the space read as fragmented — read through after assembly and delete the incompatible ones (rule of thumb).
 
-## 与其他文件的连接
+## Connections to other files
 
-- 各词族的完整判据：D4/shot-size、angle、focal-length、framing-room
-- 光色词汇：见 light-color-lexicon.md
-- 易混辨析（景别 vs 机位等）：见 confusables.md
-- 通用化转译：见 translation-playbook.md
+- Full criteria for each word family: D4/shot-size, angle, focal-length, framing-room
+- Light and color vocabulary: see light-color-lexicon.md
+- Disambiguation (shot size vs camera position, etc.): see confusables.md
+- Generalized translation: see translation-playbook.md

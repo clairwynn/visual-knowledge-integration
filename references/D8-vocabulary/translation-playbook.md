@@ -1,89 +1,89 @@
-# D8 · 通用化转译手册（Translation Playbook）
+# D8 · Translation Playbook
 
-> 本文件管：结构化视觉语义（区域/占比/坐标/层级/键值）与视觉概念之间的双向转译对照——把"工程化描述"翻译成"画面认知"，把"画面意图"翻译成"结构化表达"。
-> 怎么用：遇到结构化画面描述（分区/坐标/占比/网格）时转译为构图认知；或把构图方案整理为结构化清单交给下游。
+> This file covers: the two-way correspondence between structured visual semantics (regions / proportions / coordinates / layers / key-value) and visual concepts — translating "engineered description" into "frame cognition", and "frame intent" into "structured expression".
+> How to use: when a structured frame description appears (zones / coordinates / proportions / grids), translate it into compositional cognition; or organize a composition plan into a structured checklist for downstream.
 
-## 定义
+## Definition
 
-结构化视觉语义＝用区域、占比、坐标、层级等可计算方式描述画面布局的语言；视觉概念语言＝构图型/机位/留白等学科语言。两套语言描述同一个画面，本手册是双语词典。
+Structured visual semantics = a language that describes frame layout in computable terms (regions, proportions, coordinates, layers); visual concept language = the disciplinary language of composition type / camera position / negative space. The two languages describe the same frame; this playbook is the bilingual dictionary.
 
-## 机制
+## Mechanism
 
-结构化语言精确但无语义（"左下 30% 放主体"不告诉你为什么），视觉语言有语义但不精确（"偏置构图"落不到像素）。转译的价值：结构化保证可复现与可验证，视觉语言保证可推理与可评价——构图方案在两套语言间往复，各取所长。
+Structured language is precise but semantically mute ("put the subject in the lower left 30%" does not say why); visual language is semantic but imprecise ("offset composition" cannot land on a pixel). The value of translation: structure guarantees reproducibility and verifiability, visual language guarantees reasonableness and evaluability — a composition plan travels back and forth between the two languages, each taking what it is good at.
 
-## 转译对照
+## Translation correspondences
 
-### 画幅与坐标
+### Aspect ratio and coordinates
 
-| 结构化表述 | 视觉转译 |
+| Structured expression | Visual translation |
 |---|---|
-| 竖幅 2:3 / 3:4 / 9:16 | 全身人像系画幅（D1/aspect-ratio 职责表） |
-| 横幅 16:9 / 21:9 | 电影感/全景系 |
-| 方幅 1:1 | 居中对称/静物系 |
-| 画幅中心 (0.5, 0.5) | 死中心（默认落位，需宣言理由） |
-| (0.33, 0.33)/(0.67, 0.33)/(0.33, 0.67)/(0.67, 0.67) | 三分力量点 |
-| (0.382, 0.618) 系 | 黄金分割落位（62/38） |
-| x=0.1 边缘带 | 边缘区（edges 四查重点带） |
-| 中央 60–80% 区域 | 安全区（裁切兜底） |
+| Vertical 2:3 / 3:4 / 9:16 | Full-body portrait family of aspect ratios (the duty table in D1/aspect-ratio) |
+| Horizontal 16:9 / 21:9 | Cinematic / panoramic family |
+| Square 1:1 | Centered symmetry / still-life family |
+| Frame center (0.5, 0.5) | Dead center (the default placement, requires a declared reason) |
+| (0.33, 0.33) / (0.67, 0.33) / (0.33, 0.67) / (0.67, 0.67) | Thirds power points |
+| The (0.382, 0.618) family | Golden-section placement (62/38) |
+| x=0.1 edge band | The edge zone (the four-check focus band in edges) |
+| The central 60–80% region | The safe area (the cropping fallback) |
 
-### 占比与留白
+### Proportion and negative space
 
-| 结构化表述 | 视觉转译 |
+| Structured expression | Visual translation |
 |---|---|
-| 主体面积占比 40–50% | 中景/全景主体常规带 |
-| 占比 ≤35% | 负空间构图域 |
-| 占比 ≥70% | 填充式/特写域 |
-| 留白 50% | 50/50 对峙档 |
-| 留白 70% | 30/70 呼吸档 |
-| 留白 ≥85% | 10/90 孤立崇高档 |
-| 留白区指定"渐变/纹理/雾" | 质感化留白（硬规范） |
+| Subject area 40–50% | The normal band for a medium / full-shot subject |
+| Proportion ≤35% | The negative-space composition domain |
+| Proportion ≥70% | The filled / close-up domain |
+| Negative space 50% | The 50/50 standoff grade |
+| Negative space 70% | The 30/70 breathing grade |
+| Negative space ≥85% | The 10/90 isolated-sublime grade |
+| A "gradient / texture / mist" specified in the empty zone | Textured negative space (a hard spec) |
 
-### 区域与网格
+### Regions and grids
 
-| 结构化表述 | 视觉转译 |
+| Structured expression | Visual translation |
 |---|---|
-| 左右对分（50/50 竖分） | 双主体对峙布局 |
-| 1/3–2/3 竖分 | 双主体主次布局 |
-| 三横带（上/中/下） | 天空-主体-地面三段（风景经典带） |
-| 行×列网格（r×c） | 行列分区/图案重复/平铺阵列 |
-| 远到近有序层叠 | 三层纵深+遮挡顺序 |
-| bbox 互不重叠且间距 ≥ 阈值 | 多主体区域分配+防融间距 |
-| bbox 部分重叠且声明前后 | 层叠遮挡（前景/背景关系显式化） |
-| 锚定到同一表面 y 值 | 共享表面接地（防悬浮） |
+| Left-right split (50/50 vertical division) | Two-subject standoff layout |
+| 1/3–2/3 vertical division | Two-subject primary-secondary layout |
+| Three horizontal bands (top / middle / bottom) | Sky-subject-ground three bands (the classic landscape band) |
+| Row × column grid (r×c) | Row-column zoning / pattern repetition / tiled array |
+| Ordered layering from far to near | Three-layer depth plus occlusion order |
+| Bounding boxes non-overlapping with spacing ≥ threshold | Multi-subject zone allocation plus anti-merge spacing |
+| Bounding boxes partially overlapping with declared front-back | Layered occlusion (making the foreground / background relation explicit) |
+| Anchored to the same surface y value | Shared-surface ground contact (preventing floating) |
 
-### 层级与键值
+### Layers and key-value
 
-| 结构化表述 | 视觉转译 |
+| Structured expression | Visual translation |
 |---|---|
-| 主键/次键的键序 | 视觉权重序（第一落点→次锚） |
-| "必选字段/可选字段" | 构图决策轴的必修/选修（画幅必修、焦段选修） |
-| 约束式（"不得/必须"） | 质量闸（禁杂乱背景/必须接地） |
-| 数值带宽（min–max） | 判据带宽（占比/比例的经验区间） |
-| 版本迭代（v1→v2 只改一字段） | 固定变量单变量迭代法 |
-| 校验器（字段合规检查） | 通过线门禁（review-gates） |
+| The key order of primary / secondary keys | The visual weight order (first fixation → secondary anchor) |
+| "Required field / optional field" | Required / optional composition decision axes (aspect ratio required, focal length optional) |
+| Constraint form ("must not / must") | Quality gates (no cluttered background / must touch the ground) |
+| Numeric bandwidth (min–max) | Criterion bandwidth (the empirical range of a proportion / ratio) |
+| Version iteration (v1 → v2 changes one field) | Single-variable iteration with the others fixed |
+| Validator (field compliance check) | The review-gate check |
 
-### 反向转译（视觉方案→结构化清单）
+### Reverse translation (visual plan → structured checklist)
 
-构图方案交给下游（或做序列规划）时，翻译为七字段清单：
-1. canvas：画幅与方向
-2. subject：主体及占比（方位+百分比）
-3. layout：构图型+力量点落位（坐标带）
-4. space：留白占比+质感
-5. camera：景别+角度+焦段
-6. light：主光方向+质量+光比+色温
-7. constraints：质量闸（接地/计数/安全区/禁用）
+When a composition plan is handed downstream (or used for sequence planning), translate it into a seven-field checklist:
+1. canvas: aspect ratio and orientation
+2. subject: the subject and its share (position plus percentage)
+3. layout: composition type plus power-point placement (coordinate band)
+4. space: negative-space proportion plus texture
+5. camera: shot size plus angle plus focal length
+6. light: key direction plus quality plus ratio plus color temperature
+7. constraints: quality gates (ground contact / counting / safe area / prohibitions)
 
-七字段与判图协议互为镜像：结构化字段全部可被六步判图反向验证。
+The seven fields mirror the frame-reading protocol: every structured field can be verified in reverse by the six-step reading.
 
-## 转译纪律
+## Translation discipline
 
-1. **语义不丢**：转译后语义等价（结构化版必须能还原出构图意图，反之亦然）；只留数字丢掉"为什么"的转译不合格。
-2. **精确不虚构**：视觉语言里没有依据的精度（"落在 0.618 处"实则经验带）降级为带宽表述。
-3. **判定用双语言**：验收时结构化字段跑门禁（二元），视觉判据跑协议（六步）——两边都过才算过。
-4. **意图冗余**：重要的构图意图用多重表述保障（视觉语言与结构化字段双写、同义表述并列）——单一词汇到画面的映射存在实现侧差异，双写降低意图丢失（经验值）。
+1. **No semantic loss**: after translation the meaning is equivalent (the structured version must be able to restore the compositional intent, and vice versa); a translation that keeps only numbers and drops "why" fails.
+2. **Precise, not invented**: precision without basis in the visual language ("lands at 0.618" when it is really an empirical band) is downgraded to a bandwidth statement.
+3. **Judge in both languages**: at acceptance, the structured fields run the gates (binary) and the visual criteria run the protocol (six steps) — it passes only when both pass.
+4. **Intent redundancy**: important compositional intent is guaranteed by multiple expressions (visual language and structured fields written together, synonymous statements side by side) — the mapping from a single word to a frame varies on the implementation side, and double writing reduces intent loss (rule of thumb).
 
-## 与其他文件的连接
+## Connections to other files
 
-- 两套语言的知识源：D1–D4（视觉）、D7/review-gates（判定）
-- 字段语义详解：D1/spatial-allocation（占比）、multi-subject（区域）、D4（camera）
-- 组合公式：camera-lexicon、light-color-lexicon 的组装纪律
+- Knowledge sources for the two languages: D1–D4 (visual), D7/review-gates (judgment)
+- Field semantics in detail: D1/spatial-allocation (proportion), multi-subject (regions), D4 (camera)
+- Assembly formulas: the assembly discipline in camera-lexicon, light-color-lexicon

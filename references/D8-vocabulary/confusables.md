@@ -1,87 +1,87 @@
-# D8 · 易混概念辨析（Confusables）
+# D8 · Confusables
 
-> 本文件管：全库最容易混淆的概念对——差异点、判定法、误用后果。
-> 怎么用：用词犹豫时查本表；诊断沟通偏差（说的是 A 想的是 B）时对照。
+> This file covers: the concept pairs in the library that are easiest to confuse — the point of difference, the test, and the consequence of misuse.
+> How to use: check this table when hesitating over a word; use it to compare when diagnosing a communication gap (saying A while meaning B).
 
-## 辨析条目
+## Entries
 
-### 1. 景别 vs 机位角度
-- 景别=框多大（距离感）；机位=从哪看（高度/倾斜）。
-- 判定：变焦/走近改变的是景别；蹲下/举高改变的是机位。
-- 误用后果：只给景别不给角度→机位描述不完整（"特写"不知是平视还是俯视）。
+### 1. Shot size vs camera angle
+- Shot size = how much is framed (the sense of distance); camera position = from where it is seen (height / tilt).
+- Test: zooming or moving closer changes shot size; crouching or raising the camera changes camera position.
+- Consequence of misuse: giving only shot size and no angle leaves the camera description incomplete ("close-up" without knowing whether it is eye level or high angle).
 
-### 2. lead room vs 负空间（negative space）
-- 负空间=留白的**量与质地**（情绪密度）；lead room=留白的**方向**（视线/动势前方）。
-- 判定：谈"留多少"是负空间；谈"留哪边"是 lead room。
-- 误用后果：只算量不算方向→"留白很足但人物憋在框上"。
+### 2. Lead room vs negative space
+- Negative space = the **amount and texture** of emptiness (emotional density); lead room = the **direction** of emptiness (ahead of the gaze or momentum).
+- Test: talking about "how much is left" is negative space; talking about "which side it is left on" is lead room.
+- Consequence of misuse: counting only the amount and not the direction — "plenty of negative space yet the figure is pressed against the edge".
 
-### 3. 对称 vs 平衡
-- 对称=镜像结构（一种特定布局）；平衡=重量分布状态（对称只是平衡的一种）。
-- 判定：非对称画面可以完全平衡（小重配大轻）；对称画面可以因重心偏移而失衡。
-- 误用后果：把"不对称"当"不平衡"误杀，或把对称误当稳（对称+主体朝向偏移=歪）。
+### 3. Symmetry vs balance
+- Symmetry = a mirror structure (one specific layout); balance = a state of weight distribution (symmetry is only one kind of balance).
+- Test: an asymmetrical frame can be perfectly balanced (small heavy against large light); a symmetrical frame can be unbalanced when its center of gravity shifts.
+- Consequence of misuse: killing "asymmetry" as "imbalance", or mistaking symmetry for steadiness (symmetry plus a shifted subject orientation = crooked).
 
-### 4. 构图型 vs 构图
-- 构图=画面组织的总称；构图型=可命名的几何关系（三分/对角/框中框）。
-- 判定：说得出型名的是型；型只是构图的一部分（还有光色、层次、路径）。
-- 误用后果："用了三分法所以构图完成"——型只是骨架，血肉在 D2–D5。
+### 4. Composition type vs composition
+- Composition = the general term for organizing the frame; composition type = a nameable geometric relation (thirds / diagonal / frame within a frame).
+- Test: if you can name the type, it is a type; the type is only part of composition (there are also light and color, layering, path).
+- Consequence of misuse: "I used the rule of thirds so the composition is done" — the type is only the skeleton; the flesh is in D2–D5.
 
-### 5. high key vs 过曝；low key vs 欠曝
-- high/low key=明度**分布结构**（有层级有锚点）；过/欠曝=技术失误（信息丢失一片死白/死黑）。
-- 判定：眯眼测试后层级可辨=key 成立；整片糊掉=曝错。
-- 误用后果：把过曝当高调——画面"白瞎"而非"明亮"。
+### 5. High key vs overexposure; low key vs underexposure
+- High / low key = a **distribution structure** of value (with levels and anchors); over / underexposure = a technical failure (information lost in a field of dead white / dead black).
+- Test: if levels remain distinguishable after the squint test, the key holds; if the whole area smears, the exposure is wrong.
+- Consequence of misuse: taking overexposure for high key — the frame is "blown out" rather than "bright".
 
-### 6. 对比度（明度对比）vs 反差
-- 明度对比=主体与底的亮度差（构图手段）；反差=全画面明度分布的总体陡峭度（影调属性）。
-- 判定：说"主体跳出来"用对比；说"画面硬朗/柔和"用反差。
-- 误用后果：拉全画反差想突出主体——主体没动，画面变脏。
+### 6. Contrast (tonal contrast) vs overall contrast range
+- Tonal contrast = the brightness difference between subject and ground (a compositional device); contrast range = the overall steepness of the frame's value distribution (a tonal property).
+- Test: use "contrast" when saying "the subject pops"; use "range" when saying "the frame is hard / soft".
+- Consequence of misuse: stretching the whole frame's range to make the subject stand out — the subject does not move and the frame turns dirty.
 
-### 7. 饱和度 vs 明度（对色彩重量的贡献）
-- 饱和=色相纯度；明度=亮暗。重量贡献各自独立（亮灰 vs 暗红谁重取决于底）。
-- 判定：把彩色照片想象成黑白——剩下的就是明度结构。
-- 误用后果：靠高饱和救暗淡构图——色彩噪声增加，结构没变。
+### 7. Saturation vs value (their contribution to color weight)
+- Saturation = hue purity; value = light and dark. Their weight contributions are independent (which is heavier, light gray or dark red, depends on the ground).
+- Test: imagine the color photograph in black and white — what remains is the value structure.
+- Consequence of misuse: rescuing a dim composition with high saturation — color noise increases and the structure is unchanged.
 
-### 8. 剪影 vs 暗部主体
-- 剪影=主体无内部细节、纯轮廓读形（图性靠轮廓）；暗部主体=低照度中仍有可辨细节（靠微弱光比）。
-- 判定：主体内部有没有信息（眼/轮廓内的层次）。
-- 误用后果：想要暗部情绪却给了死剪影——信息归零；或想要剪影宣言却留了半张亮脸——两头不靠。
+### 8. Silhouette vs dark-side subject
+- Silhouette = a subject with no internal detail, the shape read purely by contour (figure-ness carried by outline); dark-side subject = still-distinguishable detail at low illumination (carried by a faint ratio).
+- Test: is there information inside the subject (eye / levels within the contour)?
+- Consequence of misuse: wanting dark-side emotion and delivering a dead silhouette — information zeroed; or wanting a silhouette declaration and leaving half a bright face — falling between two stools.
 
-### 9. 定场（establishing）vs 定调（mood setting）
-- 定场=交代地理关系（EWS 的职能）；定调=情绪铺底（影调/色的职能）。
-- 判定：观众知道"在哪"了吗（定场）；知道"什么感觉"了吗（定调）。
-- 误用后果：用大远景做封面想"氛围"——氛围靠光色，远景只是远。
+### 9. Establishing vs mood setting
+- Establishing = stating the geographic relation (the job of an EWS); mood setting = laying the emotional ground (the job of tonality / color).
+- Test: does the viewer know "where this is" (establishing); does the viewer know "what it feels like" (mood)?
+- Consequence of misuse: using an extreme wide shot as a cover hoping for "atmosphere" — atmosphere comes from light and color; a wide shot is merely far.
 
-### 10. 组图一致性 vs 单图重复
-- 一致性=DNA/色板/风格恒定（跨图）；重复=构图型/机位/重心雷同（跨图事故）。
-- 判定：变的是内容层（构图/机位/景别），不变的是语言层（风格/色板）。
-- 误用后果：为"统一"把八张图画成一个构图——套版。
+### 10. Series consistency vs single-frame repetition
+- Consistency = DNA / palette / style held constant (across frames); repetition = the same composition type / camera position / center of gravity (a cross-frame accident).
+- Test: what changes is the content layer (composition / camera / shot size); what does not change is the language layer (style / palette).
+- Consequence of misuse: flattening eight frames into one composition for the sake of "unity" — a template.
 
-### 11. 俯拍 vs 顶视
-- 俯拍=高角度斜看（透视仍在，有立面）；顶视=垂直正看（立面消失，纯平面）。
-- 判定：看得到物体侧面=俯拍；只剩顶面=顶视。
-- 误用后果：美食想拍图案用了 45° 俯拍——图案感被透视打散。
+### 11. High angle vs top-down
+- High angle = an oblique view from above (perspective remains, facades visible); top-down = a perpendicular view (facades vanish, pure plane).
+- Test: if you can see the object's side, it is a high angle; if only the top surface remains, it is top-down.
+- Consequence of misuse: wanting a pattern-like food shot and using a 45° high angle — the pattern is broken up by perspective.
 
-### 12. 虚化分离 vs 明度分离
-- 虚化=光学手段（需要距离差）；明度=影调手段（任何距离可用）。
-- 判定：贴墙主体只能明度/色分离；远距主体两者皆可。
-- 误用后果：贴墙硬要背景奶油虚——物理不成立（AI 味特征）。
+### 12. Defocus separation vs tonal separation
+- Defocus = an optical device (requires a distance difference); tonal = a tonal device (usable at any distance).
+- Test: a subject against a wall can only be separated by value or color; a distant subject can use both.
+- Consequence of misuse: insisting on creamy background blur for a subject against a wall — physically impossible (an AI-slop feature).
 
-### 13. "有意的失衡" vs 失衡事故
-- 有意失衡=重量差 ≥2 档+情绪宣言+整体配套；事故=差半档+无意图。
-- 判定：说得出"为什么歪"且歪得彻底；说不清且只歪一点=没做对。
-- 误用后果：最危险的一对——用"艺术"解释事故。
+### 13. "Deliberate imbalance" vs imbalance accident
+- Deliberate imbalance = a weight difference of ≥2 steps plus an emotional declaration plus overall support; accident = a half-step difference with no intent.
+- Test: you can say "why it is crooked" and it is thoroughly crooked; if you cannot say why and it is only slightly crooked, it was not done right.
+- Consequence of misuse: the most dangerous pair — explaining an accident with "art".
 
-### 14. 留白造形 vs 空白浪费
-- 造形=留白有可读轮廓/质地/方向（计白当黑）；浪费=无质地无方向的死空。
-- 判定：眯眼+去除测试——空区"是什么"说得清吗。
-- 误用后果：以为空=高级，实际是没画完。
+### 14. Negative space shaping vs blank waste
+- Shaping = the emptiness has a readable contour / texture / direction (treating white as black); waste = dead emptiness with no texture and no direction.
+- Test: squint plus removal test — can you say clearly "what the empty area is"?
+- Consequence of misuse: believing empty = refined while it is actually unfinished.
 
-## 使用原则
+## Principles of use
 
-- 混淆的根源是"中文近义词+跨域翻译损耗"：判定法一栏是各对的"试金石"，记住试金石即可。
-- 沟通协议：用户用语与库内术语冲突时，先按试金石确认所指（"你说的乱，是指视线没处走，还是东西太多？"），再进入诊断。
+- The root of confusion is "near-synonyms in Chinese plus loss when translating across domains": the test column is the touchstone of each pair; remembering the touchstone is enough.
+- Communication protocol: when the user's wording conflicts with a term in this library, first confirm the referent through the touchstone ("by messy, do you mean the eye has nowhere to go, or that there are too many things?"), then enter diagnosis.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 各概念权威判据：D1–D7 对应文件
-- 概念定位：见 core-lexicon.md
-- 沟通协议的体验档实现：modes/experience/ 四文件
+- Authoritative criteria for each concept: the corresponding D1–D7 files
+- Concept localization: see core-lexicon.md
+- The experience-tier implementation of the communication protocol: the four files in modes/experience/
