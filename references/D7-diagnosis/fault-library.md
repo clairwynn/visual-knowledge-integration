@@ -1,6 +1,6 @@
 # D7 · Fault Library
 
-> This file covers: 31 named fault patterns, each in a three-part quick reference of "symptom / cause / prescription".
+> This file covers: 20+ named fault patterns, each in a three-part quick reference of "symptom / cause / prescription".
 > How to use: the "name-of-the-disease lookup table" for diagnosis — when a user describes an anomaly or a self-check finds one, look up the pattern by symptom keyword and take the prescription entry. For deep localization, return to cause-tree.
 
 ## How to use this file

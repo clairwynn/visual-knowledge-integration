@@ -8,7 +8,7 @@
 
 ### Chibi Quirky Humor Comic（Contemporary | China）
 
-> A light-humor chibi comic: plain white or light cream background, a single rounded chibi figure as the absolute subject, big head and small body, an infantile round face, black-dot eyes, a small mouth, obvious pink blush, often in an animal-shaped hoodie or with a simple anthropomorphic touch.
+> A persistent grand-manner light-humor chibi comic: plain white or light cream background, a single rounded chibi figure as the absolute subject, big head and small body, an infantile round face, black-dot eyes, a small mouth, obvious pink blush, often in an animal-shaped hoodie or with a simple anthropomorphic touch.
 
 - **Composition**: negative space
 - **Light and color**: color — low saturation, pink, red; light — shadow

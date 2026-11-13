@@ -8,7 +8,7 @@
 | Concept | General term | Synonyms / near-synonyms | Semantic point |
 |---|---|---|---|
 | Front light | front light | flat light (pejorative context) | Shadowless and flat |
-| 45-degree front-side light | 45-degree light | Rembrandt side (portrait context) | The realistic default |
+| Front-side light | 45-degree light | Rembrandt side (portrait context) | The realistic default |
 | Side light | side light / 90° light | split (portrait context) | Cutting drama |
 | Backlight | backlight / backlit | rim light (rim effect), contre-jour | Rim / silhouette |
 | Top light | top light | overhead | Oppressive noon |

@@ -37,7 +37,7 @@ Assertions: 1) the negative-space proportion quantified (≥60%); 2) textured ne
 Assertions: 1) one key light plus ratio; 2) warm-cool zoning (warm windows / cool night); 3) wet-ground reflections or atmospheric medium; 4) frame within a frame or layered depth; 5) avoids "full-screen holy glow" (light has a source).
 
 **S-11 Children's picturebook spread (flat-paint style)**
-Assertions: 1) style-DNA consistency (flat paint = a texture-layer declaration); 2) negative space and density adapted to a child's gaze; 3) a simple, clear composition type (one image, one idea); 4) color bright but not clashing (a harmony statement); 5) handling of the relation between flat paint and perspective (weak perspective allowed).
+Assertions: 1) style DNA consistency (flat paint = a texture-layer declaration); 2) negative space and density adapted to a child's gaze; 3) a simple, clear composition type (one image, one idea); 4) color bright but not clashing (a harmony statement); 5) handling of the relation between flat paint and perspective (weak perspective allowed).
 
 **S-12 Brand series, five covers**
 Assertions: 1) palette / style signature held constant; 2) a variation matrix (adjacent frames differ in two dimensions); 3) the same composition type no more than once; 4) one sentence of division of work per frame; 5) awareness of a side-by-side thumbnail final check.
