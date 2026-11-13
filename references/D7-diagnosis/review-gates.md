@@ -1,92 +1,92 @@
-# D7 · 评审通过线（Review Gates）
+# D7 · Review Gates
 
-> 本文件管：画面交付前的多门验收制——五道门（布局/分离/层级/可懂性/独特性）各自的通过条件与门控逻辑。
-> 怎么用：构思方案定稿前与成品验收时的最终门禁；任一门不过即返修，不带病出门。
+> This file covers: the multi-gate acceptance system before delivery — the pass conditions and gating logic of five gates (layout / separation / hierarchy / legibility / distinctiveness).
+> How to use: the final gate check before a concept is locked and at finished-work acceptance; any gate failed means rework — nothing ships sick.
 
-## 定义
+## Definition
 
-评审通过线（review gates）＝把"可以交付"拆成五道串行门禁，每道门有二元可判的通过条件。门是**最低标准**（award bar），不是优秀标准——过门只保证不出事故，高分靠 D6/aesthetic-criteria。
+Review gates = splitting "deliverable" into five serial gates, each with a binary, decidable pass condition. The gates are a **minimum standard** (award bar), not an excellence standard — passing only guarantees no accident; high scores come from D6/aesthetic-criteria.
 
-## 机制
+## Mechanism
 
-验收失败的主因不是标准太高，而是标准漂移（每次凭感觉定"行不行"）。串行门禁把"行不行"固化为"过没过这一条"，且门的顺序按依赖关系排列：布局不对时检查分离没有意义（重排后全部重算）——所以先结构后表面。
+The main cause of acceptance failure is not a standard set too high but standard drift (deciding "is it OK" by feel each time). Serial gates fix "is it OK" into "did it pass this one item", and the gate order follows dependency: checking separation when the layout is wrong is meaningless (everything is recomputed after a re-layout) — so structure first, surface after.
 
-## 五道门
+## The five gates
 
-### 门 1：布局门（Layout Gate）
+### Gate 1: Layout Gate
 
-通过条件（全部满足）：
-1. 画幅已定且与题材匹配（D1/aspect-ratio）；
-2. 构图型明确（说得出型名）且主体落位在型内判据带内；
-3. 多图序列中相邻帧 ≥2 维不同、同型不超一次（sequence 硬规则）。
+Pass conditions (all met):
+1. The aspect ratio is decided and matches the subject (D1/aspect-ratio);
+2. The composition type is explicit (you can name it) and the subject's placement falls inside the type's criterion band;
+3. In a multi-frame sequence, adjacent frames differ in ≥2 dimensions and the same type appears no more than once (a hard rule of sequence).
 
-不过门的典型病：F01、F28、构图型与画幅打架。
+Typical faults that fail this gate: F01, F28, composition type fighting the aspect ratio.
 
-### 门 2：分离门（Separation Gate）
+### Gate 2: Separation Gate
 
-通过条件：
-1. 主体与背景分离成立——明度差 ≥2 档 / 色相差 >90° / 虚化分离 三者至少其一；
-2. 无融底三近（明度近+色相近+饱和近）；
-3. 接地成立（影子/接触面）。
+Pass conditions:
+1. Subject-background separation holds — at least one of: value difference ≥2 stops / hue difference >90° / defocus separation;
+2. No figure-ground three-near (near value + near hue + near saturation);
+3. Ground contact holds (shadow / contact surface).
 
-典型病：F05、F07、F21。
+Typical faults: F05, F07, F21.
 
-### 门 3：层级门（Hierarchy Gate）
+### Gate 3: Hierarchy Gate
 
-通过条件：
-1. 强锚点唯一（或 1 主 1 次差 ≥1 档）；
-2. 元素分组清晰（感知组数 3–5）；
-3. 影调两端有锚（存在接近黑/白的最值）。
+Pass conditions:
+1. The strong anchor is unique (or 1 primary and 1 secondary differing by ≥1 step);
+2. Element grouping is clear (perceived group count 3–5);
+3. Both ends of the tonal range have anchors (a maximum near black / white exists).
 
-典型病：F03、F04、F22、F23。
+Typical faults: F03, F04, F22, F23.
 
-### 门 4：可懂性门（Legibility Gate）
+### Gate 4: Legibility Gate
 
-通过条件：
-1. 缩略图测试通过（拇指大仍认得出"这是什么"）；
-2. 眯眼测试通过（主体明度团块可辨）；
-3. 边缘扫描干净（无半截/相切/切线/角抢）；
-4. 无关键信息丢失（切关节/切脸/文字出安全区）；
-5. 文字类元素可读：文字与底的明度对比达到可读线（深字浅底或浅字深底，对比度经验共识 ≥4.5:1）。
+Pass conditions:
+1. The thumbnail test passes (still recognizable as "what it is" at thumb size);
+2. The squint test passes (the subject's value mass is distinguishable);
+3. The edge scan is clean (no half objects / tangency / tangent lines / corner hijack);
+4. No key information lost (cut joint / cut face / text out of the safe area);
+5. Text elements are readable: the value contrast between text and ground reaches the readable line (dark on light or light on dark, empirical consensus ≥4.5:1).
 
-典型病：F15–F19、F26。
+Typical faults: F15–F19, F26.
 
-### 门 5：独特性门（Distinctiveness Gate）
+### Gate 5: Distinctiveness Gate
 
-通过条件：
-1. 位置/景别/角度三轴至少一轴显式偏移（非全默认）；
-2. 至少一个可陈述的"大胆决策"（一句话说得出"这张画特殊在哪"）；
-3. 序列画面：本帧在序列中有独立分工（不与邻帧互换身份）。
+Pass conditions:
+1. At least one of the position / shot-size / angle axes is explicitly offset (not all default);
+2. At least one stateable "bold decision" (one sentence saying "what makes this frame special");
+3. For a sequence frame: this frame has an independent job in the sequence (it cannot swap identities with a neighbor).
 
-典型病：F28、F30。此门是"反平庸门"——前四门防事故，此门防无作者。
+Typical faults: F28, F30. This gate is the "anti-mediocrity gate" — the first four prevent accidents, this one prevents authorlessness.
 
-## 门控操作
+## Gating procedure
 
-1. 串行过门：1→2→3→4→5，**前门不过不查后门**（重排后重查）。
-2. 每门输出：PASS / FAIL+事实（指认画面位置）。
-3. FAIL 处理：入 cause-tree 定根因→开处方（prescriptions）→修复→**从门 1 重过**（结构性修复会改变后续一切）。
-4. 全过=可交付（配合六维评分给"好到什么程度"的注记）。
+1. Pass the gates serially: 1 → 2 → 3 → 4 → 5; **do not check later gates before the earlier one passes** (check again after a re-layout).
+2. Output per gate: PASS, or FAIL plus the fact (point to the location in the frame).
+3. FAIL handling: enter cause-tree to fix the root cause → open a prescription (prescriptions) → repair → **restart from Gate 1** (a structural repair changes everything downstream).
+4. All pass = deliverable (with a six-dimension score as a note on "how good it is").
 
-## 快速门检卡（30 秒版）
+## Quick gate card (30-second version)
 
-| 门 | 一句话自问 |
+| Gate | One-line self-question |
 |---|---|
-| 布局 | 型是什么？主体在哪条线上？ |
-| 分离 | 主体靠什么浮出来？ |
-| 层级 | 第一眼看哪？第二眼看哪？ |
-| 可懂 | 缩成拇指还认得吗？ |
-| 独特 | 这张画的"作者签名"是什么？ |
+| Layout | What is the type? Which line is the subject on? |
+| Separation | What makes the subject float up? |
+| Hierarchy | Where do I look first? Second? |
+| Legibility | Does it still read at thumb size? |
+| Distinctiveness | What is this frame's "author's signature"? |
 
-## 边界
+## Boundaries
 
-- 门禁是通用最低线：流派可加门（纪实派加"可信度门"、商业派加"规范门"）但不可减门（五门是底线）。
-- 观念/反美学画面：门 1/5 的判据按其宣言体系换算（居中、失衡可为有意决策）——但门 2/3/4 的物理事故线不豁免（故意也要是"干净故意的"）。
-- 五门全过但六维评分低=合格而无亮点：这是"可用"，不是"好"；如实告知用户层级。
+- The gates are a general minimum: a movement may add gates (documentary adds a "credibility gate", commercial adds a "code gate") but may not remove them (the five are the floor).
+- Conceptual / anti-aesthetic frames: the criteria of Gates 1 and 5 are converted through their declaration system (centering and imbalance may be deliberate decisions) — but the physical-accident lines of Gates 2 / 3 / 4 are not exempt (even the deliberate must be "cleanly deliberate").
+- All five gates passed with a low six-dimension score = competent but without a highlight: that is "usable", not "good"; tell the user the level honestly.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 门禁判据的知识源：D1（布局/分离）、D5（层级/可懂）、D6（独特）
-- 处方与返修：见 prescriptions
-- 评分：见 D6/aesthetic-criteria
-- 评审功能：见 modes/function/compare.md、diagnose.md
-- 交付验收思想的方法来源：见 modes/schools/commercial.md（质量门纪律的通用化）
+- Knowledge sources for the gate criteria: D1 (layout / separation), D5 (hierarchy / legibility), D6 (distinctiveness)
+- Prescriptions and rework: see prescriptions
+- Scoring: see D6/aesthetic-criteria
+- The review functions: see modes/function/compare.md, diagnose.md
+- The methodological source of the delivery-acceptance idea: see modes/schools/commercial.md (the generalization of quality-gate discipline)

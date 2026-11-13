@@ -1,147 +1,147 @@
-# D6 · 风格流派谱系（Art Movements DNA）
+# D6 · Style and Movement Lineage (Art Movements DNA)
 
-> 本文件管：主要视觉流派的"DNA 卡"（构图/光色/质感三件套＋情绪＋翻车点＋典型色值）、风格混搭规则与冲突仲裁、七层拆解法、风格概念辨析。
-> 怎么用：用户点名风格（或需要风格建议）时查 DNA 卡；混搭时按规则拆层与仲裁；分析"为什么像某流派"用七层拆解。
+> This file covers: the "DNA cards" of the major visual movements (the three-piece set of composition / light and color / texture, plus emotion, failure points, and typical color values); the rules for mixing styles and arbitrating conflicts; the seven-layer deconstruction method; and the disambiguation of style concepts.
+> How to use: look up a DNA card when the user names a style (or when a style recommendation is needed); when mixing, split the layers and arbitrate by the rules; when analysing "why does this look like movement X", use the seven-layer deconstruction.
 
-## 定义
+## Definition
 
-风格流派谱系＝视觉语言的历史分类。每个流派的画面特征可拆为多层 DNA：**构图习惯、光色配方、质感笔触**（操作三层），加**情绪**（意图层）与**翻车点**（该风格最常被做错的反面）。风格＝各层 DNA 的一致性；典型色值（hex）可直接取用为 D3/palette-strategy 的色板锚点。
+Style-movement lineage = the historical classification of visual languages. A movement's frame features can be split into multiple DNA layers: **composition habits, light-and-color recipes, texture and brushwork** (the three operational layers), plus **emotion** (the intent layer) and **failure points** (the opposite of what that style is most often done wrong as). Style = the consistency of the DNA layers; the typical color values (hex) can be taken directly as palette anchors for D3/palette-strategy.
 
-## 机制
+## Mechanism
 
-"风格"不是形容词而是参数组：说"印象派"＝碎笔触＋户外光色＋日常题材同时成立。画风的"四不像"多因各层 DNA 来自不同流派。风格选择的正确姿势：选流派→继承其多层 DNA→按需微调单一层（不多层乱调）。**只给风格名几乎必得平庸结果**——风格必须落到光色与媒介层才算被真正定义（实测经验：光照层对最终质感的影响大于风格标签本身）。
+"Style" is not an adjective but a parameter set: saying "Impressionism" means fragmented brushwork + outdoor light and color + everyday subjects holding at the same time. A "neither-here-nor-there" look usually comes from the DNA layers being borrowed from different movements. The correct posture for choosing a style: pick the movement → inherit its multiple DNA layers → fine-tune a single layer as needed (never tune several layers at once). **Giving only a style name almost guarantees a mediocre result** — a style must land on the light-color and medium layers to be truly defined (empirical finding: the lighting layer matters more to the final texture than the style label itself).
 
-## 风格 DNA 卡·速览表（12 常用流派）
+## Style DNA cards · quick reference (12 common movements)
 
-| 流派 | 构图 DNA | 光色 DNA | 质感/笔触 DNA |
+| Movement | Composition DNA | Light and color DNA | Texture / brushwork DNA |
 |---|---|---|---|
-| 古典学院 | 三分/黄金/三角、历史画层叠纵深 | 明暗对照、棕金暖调、理想化光 | 平滑罩染、无痕笔触 |
-| 印象派 | 截景式取景（摄影感裁切）、高视点 | 户外自然光、紫影、互补颤动 | 碎笔触、厚涂、边缘消融 |
-| 表现主义 | 扭曲空间、倾斜与夸张透视 | 主观色（反自然色）、强对比 | 粗粝笔触、刮擦 |
-| 超现实主义 | 精确写实框架+不合理置入 | 舞台化的冷光、长影 | 照片级平滑（老牌）或细腻油彩 |
-| 极简主义 | 大负空间、单主体、几何 | 单色/无彩色域、均匀光 | 平涂、无痕面 |
-| 包豪斯/构成主义 | 几何分割、对角动势、网格 | 红黄蓝三原色+黑白、平光 | 平涂色块、硬边 |
-| 硅谷扁平（数媒） | 网格卡片、居中层级 | 高明度低饱和+一强调色 | 无渐变硬边、无纹理 |
-| 暗黑电影 | 对角分割、框中框、荷兰角 | 高光比、单源硬光、百叶影 | 高颗粒、深黑 |
-| 蒸汽波/合成波 | 居中对称、网格地平线 | 霓虹粉青、渐变天空 | 廉价 3D 质感（自觉的）、扫描线 |
-| 水墨/文人画 | 留白构图、一角取势、散点 | 墨分五色、极有限色 | 笔触骨法、纸纹吸墨 |
-| 浮世绘 | 平面轮廓、截景高视点、对角波纹 | 平涂色块、有限套色 | 线描+平涂、木纹 |
-| 数字照片写实 | 摄影构图全套（本库 D1/D4） | 物理正确光、按题材 | 微不完美（皮肤纹理/镜头瑕疵） |
+| Classical academy | Thirds / golden / triangle; layered depth in history painting | Chiaroscuro, brown-gold warm key, idealized light | Smooth glazing, invisible brushwork |
+| Impressionism | Cropped viewfinder framing (photographic crop), high viewpoint | Outdoor natural light, violet shadows, complementary vibration | Fragmented brushwork, impasto, dissolving edges |
+| Expressionism | Distorted space, tilted and exaggerated perspective | Subjective color (anti-natural color), strong contrast | Coarse brushwork, scraping |
+| Surrealism | Precise realistic framework plus irrational insertion | Staged cold light, long shadows | Photographic smoothness (classic) or fine oil |
+| Minimalism | Large negative space, single subject, geometry | Monochrome or achromatic fields, even light | Flat paint, traceless surface |
+| Bauhaus / Constructivism | Geometric division, diagonal momentum, grid | Red-yellow-blue primaries plus black and white, flat light | Flat color blocks, hard edges |
+| Silicon Valley flat (digital) | Grid cards, centered hierarchy | High value, low saturation plus one accent | No gradients, hard edges, no texture |
+| Film noir | Diagonal division, frame within a frame, Dutch angle | High ratio, single hard source, venetian-blind shadows | Heavy grain, deep black |
+| Vaporwave / synthwave | Centered symmetry, grid horizon | Neon pink and cyan, gradient sky | Deliberately cheap 3D texture, scanlines |
+| Ink wash / literati painting | Negative-space composition, one-corner emphasis, scattered points | Ink in five tones, very limited color | Bone-method brushwork, paper absorbing ink |
+| Ukiyo-e | Flat outline, cropped high viewpoint, diagonal wave patterns | Flat color blocks, limited color plates | Line drawing plus flat fill, wood grain |
+| Digital photorealism | The full photographic composition set (D1 / D4 in this library) | Physically correct light, by subject | Micro-imperfection (skin texture / lens flaws) |
 
-## 扩展 DNA 卡（六维＋翻车点＋典型色值）
+## Extended DNA cards (six dimensions plus failure points plus typical color values)
 
-以下每张卡是流派卡语料的实测提炼：一句话→三层 DNA→情绪→典型色值→**翻车点**（该风格最常被做错的事）。翻车点是复刻与混搭时的定制检查项。
+Each card below is an empirical distillation of the movement-card corpus: one line → three DNA layers → emotion → typical color values → **failure point** (the thing this style is most often done wrong as). Failure points are the custom check items when re-creating or mixing.
 
-**全集底册**：421 张流派卡（含 274 手绘风格）已按同一框架程序化收录在 movement-library/（按语料分类分 9 个卡文件，索引见 movement-library/_index.md）——本节扩展卡是精选层，风格任务先查精选卡、再查全集底册。
+**The full corpus**: 421 movement cards (including 274 hand-drawn styles) are programmatically collected under the same framework in movement-library/ (divided into 9 card files by corpus category; the index is movement-library/_index.md) — the extended cards in this section are the curated layer: for a style task, check the curated cards first, then the full corpus.
 
-### 巴洛克（1600–1750，欧洲）
+### Baroque (1600–1750, Europe)
 
-把光当成主角，用戏剧性明暗和动势制造情绪高潮。
-- **构图**：对角线/S 形动势，画面"正在发生"，人物被画框切出画外，观者被拉进场景
-- **光色**：单一画外强光源劈开大面积吞没的暗部（明暗对照推向暗色主导的极端）；沥青黑/深褐打底，暖金、深猩红、普鲁士蓝点缀；高对比、低饱和
-- **质感**：松弛可见的肥厚笔触，天鹅绒锦缎大理石的织物炫技
-- **情绪**：戏剧、激昂、感官、压迫感
-- **色锚**：`#1A1512` `#6B4423` `#C9A227` `#8E1B1B` `#1F3A5F` `#E8DCC0`
-- **翻车点**：多光源立刻杀死巴洛克感（必须是唯一有方向的主光）；过饱和滑向奇幻插画；只写"暗"不够，要"单源光吞没暗部"的具体结构
+Treat light as the protagonist and use dramatic chiaroscuro and momentum to build an emotional climax.
+- **Composition**: diagonal or S-shaped momentum; the frame is "in the middle of happening"; figures are cut off by the frame edge and the viewer is pulled into the scene
+- **Light and color**: a single strong source from outside the frame splits a large devouring darkness (chiaroscuro pushed to a dark-dominant extreme); asphalt black and deep brown ground, with warm gold, deep crimson, and Prussian blue accents; high contrast, low saturation
+- **Texture**: loose, visibly fat brushwork; bravura passages of velvet, brocade, and marble
+- **Emotion**: dramatic, impassioned, sensual, oppressive
+- **Color anchors**: `#1A1512` `#6B4423` `#C9A227` `#8E1B1B` `#1F3A5F` `#E8DCC0`
+- **Failure point**: multiple light sources kill the Baroque feel instantly (there must be one single directional key light); over-saturation slides into fantasy illustration; writing only "dark" is not enough — the specific structure "one source devouring the darkness" is required
 
-### 侘寂（1400–今，日本）
+### Wabi-sabi (1400–present, Japan)
 
-美在残缺与无常：裂缝、锈迹、不对称，和一件被用旧了的器物。
-- **构图**：极简、不对称、大量留白、单一器物居中或偏侧
-- **光色**：柔和自然侧光强调肌理凹凸、留深沉安静的阴影（无戏剧性）；极低饱和土色——灰褐、苔绿、铁锈、褪色米白
-- **质感**：材质本身即笔触——陶土颗粒、木纹、锈斑、裂痕；金缮（以金修补裂缝，让伤痕成为亮点）
-- **情绪**：静、寂、谦逊、时间带来的温柔
-- **色锚**：`#8A7A6A` `#6B7A5A` `#A8432A` `#D9CFC0` `#C9A227` `#3A3632`
-- **翻车点**：画面被做成崭新光洁（必须保留风化/磨损/不对称的"不完美"）；退化成普通静物（缺时间侵蚀的痕迹语言）
+Beauty in the flawed and the impermanent: cracks, rust, asymmetry, and an object worn by use.
+- **Composition**: minimal, asymmetrical, large negative space, a single object centered or set to one side
+- **Light and color**: soft natural side light stressing the relief of the grain, leaving deep quiet shadows (no drama); extremely low-saturation earth colors — gray-brown, moss green, rust, faded off-white
+- **Texture**: the material is the brushwork — clay grain, wood grain, rust patches, cracks; kintsugi (repairing cracks with gold, making the scar the highlight)
+- **Emotion**: still, lonely, humble, the gentleness of time
+- **Color anchors**: `#8A7A6A` `#6B7A5A` `#A8432A` `#D9CFC0` `#C9A227` `#3A3632`
+- **Failure point**: the frame made brand-new and glossy (the weathered / worn / asymmetrical "imperfection" must be kept); degenerating into an ordinary still life (missing the trace language of time's erosion)
 
-### 野兽派（1905–1908，法国）
+### Fauvism (1905–1908, France)
 
-把颜色从描述里解放出来：草地可以是红的，脸可以是绿的。
-- **构图**：平面化、装饰性排布，空间靠色块冷暖推拉而非透视
-- **光色**：没有传统光影塑造——明暗完全被色彩强度替代；极高纯度大色块直接对撞（朱红/钴蓝/翠绿/橙黄）
-- **质感**：宽大果断的可见笔触，厚涂纯色，留出画布白
-- **情绪**：欢愉、强烈、感官的爆发、生命力
-- **色锚**：`#D62828` `#1F5FD6` `#2E9B5B` `#F2A93B` `#8B3FA0` `#F2EDE4`
-- **翻车点**：被加上明暗塑造（给纯色画面加"立体感"是反风格错误）；纯度不足（纯色直接挤出、不混色是底线）
+Set color free from description: grass may be red, a face may be green.
+- **Composition**: flattened, decorative arrangement; space pushed and pulled by warm and cool color blocks rather than perspective
+- **Light and color**: no traditional modelling — value is entirely replaced by color intensity; very high-purity large blocks collide directly (vermilion / cobalt / emerald / orange-yellow)
+- **Texture**: broad, decisive visible brushwork, impasto in pure color, leaving the canvas white showing
+- **Emotion**: joy, intensity, a sensory explosion, vitality
+- **Color anchors**: `#D62828` `#1F5FD6` `#2E9B5B` `#F2A93B` `#8B3FA0` `#F2EDE4`
+- **Failure point**: given modelling in light and shade (adding "three-dimensionality" to a pure-color frame is an anti-style error); insufficient purity (pure color squeezed straight out without mixing is the baseline)
 
-### 新艺术运动（1890–1910，欧洲）
+### Art Nouveau (1890–1910, Europe)
 
-鞭线与有机曲线的装饰主义：海报美学的源头。
-- **构图**：中央主体被装饰性圆环/拱形框住（天然框中框），纵向海报比例
-- **光色**：平面化几乎无体积光，靠色块与线条分隔；柔和装饰色——鼠尾草绿、芥末黄、暗金、藕荷、孔雀蓝
-- **质感**：平坦色块＋粗细变化的装饰轮廓线；石版印刷感
-- **情绪**：优雅、繁复、感官、自然的神秘
-- **翻车点**：与装饰艺术混淆——**新艺术是有机曲线，装饰艺术是几何直线**（必须分清）；缺印刷媒介感则退化成普通唯美插画
+Decoration of whiplash lines and organic curves: the source of poster aesthetics.
+- **Composition**: the central subject enclosed by decorative rings or arches (a natural frame within a frame), vertical poster proportions
+- **Light and color**: flattened, almost no volumetric light; separated by color blocks and lines; soft decorative colors — sage green, mustard yellow, dark gold, mauve, peacock blue
+- **Texture**: flat color blocks plus decorative contour lines of varying weight; a lithographic print feel
+- **Emotion**: elegant, elaborate, sensual, the mystery of nature
+- **Failure point**: confused with Art Deco — **Art Nouveau is organic curves, Art Deco is geometric straight lines** (they must be kept apart); lacking the print-medium feel it degenerates into an ordinary pretty illustration
 
-### 波普艺术（1955–1970，英美）
+### Pop Art (1955–1970, Britain and the United States)
 
-挪用大众媒介图像：丝网印刷的机械复制感，讽刺消费社会同时拥抱它。
-- **构图**：重复网格（同一图像反复排列）、特写裁切、漫画式对话气泡结构
-- **光色**：无光影——平涂色块＋粗黑轮廓线；高饱和平涂（荧光粉/亮黄/青蓝/正红）夸张并置
-- **质感**：零笔触（丝网印的机械均匀）或刻意商业插画平涂；拼贴
-- **情绪**：明快、讽刺、冷感、消费主义的眩晕
-- **翻车点**：被加上手工笔触（机械复制感是身份本体，可见笔触即翻车）；色彩被调"雅"（流行色的直白是立场）
+Appropriating mass-media imagery: the mechanical reproduction of screen printing, satirizing consumer society while embracing it.
+- **Composition**: repeating grids (the same image arranged over and over), close-up cropping, comic speech-bubble structure
+- **Light and color**: no light and shade — flat color blocks plus thick black contour lines; high-saturation flat fills (fluorescent pink / bright yellow / cyan-blue / true red) juxtaposed with exaggeration
+- **Texture**: zero brushwork (the mechanical evenness of screen printing) or deliberately commercial flat illustration; collage
+- **Emotion**: bright, satirical, cool, the dizziness of consumerism
+- **Failure point**: given hand-made brushwork (mechanical reproduction is the identity itself; visible brushstrokes are the failure); colors tuned "tasteful" (the bluntness of pop color is the stance)
 
-### 精确主义（1920–1940，美国）
+### Precisionism (1920–1940, United States)
 
-把工厂和谷仓画成几何体：干净、锐利、没有人，像建筑渲染图。
-- **构图**：低视角仰视建筑、强烈几何切割、大面积空无
-- **光色**：清晰锐利的光影但形体被简化；干净冷调平涂——钢灰蓝、水泥白、砖红、深绿
-- **质感**：平滑无笔触、硬边、工业感表面，细节被剔除
-- **情绪**：冷静、孤立、工业时代的清冷诗意
-- **色锚**：`#8B9BB0` `#D9CFC0` `#A8432A` `#3A4A3A` `#2B2B33` `#C9A227`
-- **翻车点**：与立体主义混淆（精确主义仍是可辨识的写实，只是几何化）；画面混入人物（此风格的"静"以人的缺席为前提）
+Painting factories and barns as geometry: clean, sharp, without people, like an architectural rendering.
+- **Composition**: low viewpoint looking up at buildings, strong geometric cutting, large areas of emptiness
+- **Light and color**: clear sharp light and shadow while forms are simplified; clean cool flat fills — steel gray-blue, cement white, brick red, deep green
+- **Texture**: smooth, no brushwork, hard edges, industrial surfaces, detail eliminated
+- **Emotion**: cool, isolated, the chilly poetry of the industrial age
+- **Color anchors**: `#8B9BB0` `#D9CFC0` `#A8432A` `#3A4A3A` `#2B2B33` `#C9A227`
+- **Failure point**: confused with Cubism (Precisionism remains recognizable realism, only geometrized); figures entering the frame (this style's "stillness" presupposes their absence)
 
-## 风格翻车点相反性原理
+## The opposition principle of failure points
 
-各流派的翻车点**互不相同且常常互为反面**：印象派的标志（可见碎笔触）是古典学院的禁项；文艺复兴式平滑罩染容不下厚涂肌理；浮世绘的平面无投影是巴洛克深投影的反面。推论：
-1. **风格复刻的检查项必须按目标风格定制**——没有通用翻车清单；
-2. 混搭两层 DNA 时，甲的"标志"可能正是乙的"翻车点"——先查双方翻车点再定混搭方案（仲裁见混搭规则第 4 条）；
-3. 翻车点是最高效的风格辨识教学：能说出一个流派的翻车点，比罗列它的优点更能证明理解。
+The failure points of the movements are **mutually distinct and often the exact opposite of one another**: Impressionism's signature (visible fragmented brushwork) is a prohibition in the classical academy; Renaissance-style smooth glazing cannot hold impasto; ukiyo-e's flatness without cast shadows is the opposite of Baroque deep shadow. Inferences:
+1. **The check items for re-creating a style must be customized to the target style** — there is no universal failure checklist;
+2. When mixing two DNA layers, one movement's "signature" may be exactly the other's "failure point" — check both failure lists before deciding a mix (arbitration in rule 4 of the mixing rules);
+3. Failure points are the most efficient teaching of style recognition: being able to state a movement's failure points proves understanding better than listing its merits.
 
-## 七层拆解法（风格解构框架）
+## The seven-layer deconstruction method (a framework for deconstructing styles)
 
-任何风格参考可拆为七个可独立替换的层：**主体 → 风格 → 光照 → 色彩 → 构图 → 媒介 → 情绪**（另有镜头层管景别焦段，不属风格本体）。
+Any style reference can be split into seven independently replaceable layers: **subject → style → lighting → color → composition → medium → emotion** (a separate lens layer governs shot size and focal length and is not part of the style itself).
 
-- **层职责切分**：构图层管布局与动势（视角、对称、主体位置、纵深——本库 D1），镜头层管"要什么景别"（本库 D4）——两层分工与本库域划分同构。
-- **逐层锁定顺序**：主体（姿态对）→ 风格 → 光照 → 色彩 → 媒介；其中**光照层对最终质感的影响大于风格词本身**（实测经验）——风格不到位时先查光。
-- **解构用法**：拿到一张"风格参考"，按七层逐层问"这层做了什么选择"，即可把感觉翻译成参数（衔接 D8/translation-playbook 的结构化语义）。
+- **Division of duties between layers**: the composition layer governs layout and momentum (viewpoint, symmetry, subject position, depth — D1 in this library); the lens layer governs "what shot size" (D4 in this library) — the two-layer division is isomorphic with this library's domain split.
+- **Locking order, layer by layer**: subject (posture right) → style → lighting → color → medium; among these, **the lighting layer matters more to the final texture than the style word itself** (empirical finding) — when the style does not land, check the light first.
+- **Deconstruction use**: given a "style reference", ask layer by layer "what choice did this layer make", and the feeling can be translated into parameters (connecting to the structured semantics of D8/translation-playbook).
 
-## 混搭规则
+## Mixing rules
 
-1. **主从混搭**：一流派做主体 DNA（≥2 层），另一流派只借一层（"水墨光色+极简构图"成立）；三层各借一家=四不像。
-2. **时代邻近优先**：相邻流派混搭和谐度高（构成主义×包豪斯），远距混搭是冒险（巴洛克光色×扁平构图）。
-3. **混搭声明**：混搭是设计决策，能一句话说出"借 A 的光色、B 的构图"才算混搭，否则是失控。
-4. **冲突仲裁——护栏让位于意图**：跨流派组合时，甲流派的"禁忌"常撞乙流派的"必需"（浮世绘忌投影 vs 巴洛克要深投影）。仲裁规则：**正向表达的是意图，负向是护栏；冲突时护栏让位于意图**——但取舍必须显式声明（"为保巴洛克光，放弃浮世绘的无投影"），不许静默混写。实测经验：风格与光照随机组合约三分之二会撞上此类冲突，仲裁是常态不是例外。
+1. **Primary-secondary mixing**: one movement supplies the primary DNA (≥2 layers), another lends only one layer ("ink-wash light and color with minimal composition" holds); borrowing one layer from each of three movements = neither-here-nor-there.
+2. **Era proximity first**: adjacent movements mix harmoniously (Constructivism × Bauhaus); distant mixing is a gamble (Baroque light and color × flat composition).
+3. **Declare the mix**: mixing is a design decision; only when you can say in one sentence "borrowing A's light and color, B's composition" is it mixing — otherwise it is loss of control.
+4. **Conflict arbitration — guardrails yield to intent**: in cross-movement combinations, one movement's "taboo" often collides with another's "necessity" (ukiyo-e forbids cast shadows vs Baroque requires deep shadows). Arbitration rule: **what is positively expressed is intent, what is negative is a guardrail; on conflict the guardrail yields to intent** — but the trade-off must be declared explicitly ("to keep Baroque light, give up ukiyo-e's shadowless flatness"), never silently mixed. Empirical finding: roughly two thirds of random style-plus-lighting combinations hit such a conflict; arbitration is the norm, not the exception.
 
-## 风格概念辨析（易混归一）
+## Disambiguation of style concepts (reducing confusion to one)
 
-| 词 | 是什么 | 不是什么 | 用法 |
+| Word | What it is | What it is not | How to use it |
 |---|---|---|---|
-| 先锋（avant-garde） | 态度：挑战惯例的立场 | 不是一种画面样式 | 单用无画面——必须叠加具体流派词才成立 |
-| 当代（contemporary） | 时段：当下创作的统称 | 不是风格本身 | 需再问"当代的哪种语言" |
-| 后现代（postmodern） | 方法：挪用、戏仿、拼贴 | 不是复古 | 表现为引用与混搭的自觉 |
-| 超现实（surreal） | 内容逻辑：梦境式的嫁接 | 不是"画得细" | 写实框架+不合理置入（见超现实主义 DNA） |
+| Avant-garde | An attitude: a stance that challenges convention | Not a visual style | Useless alone — must be stacked with a specific movement word to hold |
+| Contemporary | A period: the collective term for current work | Not a style itself | Must be followed by "which contemporary language" |
+| Postmodern | A method: appropriation, pastiche, collage | Not retro | Manifests as deliberate quotation and mixing |
+| Surreal | A content logic: dreamlike grafting | Not "finely painted" | Realistic framework plus irrational insertion (see the Surrealism DNA) |
 
-## 风格一致性检查（单幅与序列）
+## Style-consistency check (single frame and sequence)
 
-- 单幅：三层 DNA 是否同源？画面内是否有异源元素（扁平画面里突然一张照片级人脸）？
-- 序列：全序三层 DNA 恒定；变化只在内容层（见 modes/function/sequence.md）。
-- 复刻校验：按目标流派的**翻车点**逐项检查（不是按通用清单）。
+- Single frame: are the three DNA layers from the same source? Are there foreign-source elements in the frame (a photo-real face suddenly inside a flat image)?
+- Sequence: the three DNA layers stay constant across the whole sequence; variation happens only in the content layer (see modes/function/sequence.md).
+- Re-creation verification: check item by item against the target movement's **failure points** (not against a universal list).
 
-## 边界
+## Boundaries
 
-- DNA 卡是"典型特征"不是"全部可能"：流派内部也有光谱，卡用于快速定位与混搭拆层，不做排他判据。
-- 当代数媒风格（扁平、拟物、新拟态、Y2K）迭代快：以"构图/光色/质感"三件套框架自行拆解新风格，不必等卡。
-- 风格与题材正交：任何题材可配任何风格——配对效果由三层 DNA 与题材的化学决定（写实 DNA×超常题材=超现实，平涂 DNA×写实题材=插画）。
-- 扩展卡（六维版）覆盖的流派有限：未收卡的流派按扩展卡框架自行拆解（三层＋情绪＋翻车点＋色锚）。
+- A DNA card states "typical features", not "everything possible": each movement contains a spectrum; the cards serve quick positioning and layer-splitting for mixing, not as exclusionary criteria.
+- Contemporary digital styles (flat, skeuomorphic, neumorphic, Y2K) iterate fast: deconstruct a new style yourself with the "composition / light and color / texture" three-piece framework; there is no need to wait for a card.
+- Style and subject are orthogonal: any subject can pair with any style — the pairing result is decided by the chemistry between the three DNA layers and the subject (realistic DNA × extraordinary subject = surreal; flat DNA × realistic subject = illustration).
+- The extended cards (six-dimension version) cover only a limited set of movements: for movements without a card, deconstruct them yourself using the extended-card framework (three layers plus emotion plus failure points plus color anchors).
 
-## 与其他文件的连接
+## Connections to other files
 
-- 各 DNA 层的操作知识：构图（D1）、光色（D2/D3）、质感（texture）
-- 流派全集库（421 卡）：references/D6-style/movement-library/（_index 导航）
-- 翻车点的诊断化：见 D7/fault-library（风格与质感类）
-- 色值锚与色板纪律：见 D3/palette-strategy
-- 风格美学派的判据体系：见 aesthetic-criteria
-- 风格美学派的流派展开：见 modes/schools/aesthetics.md
-- 序列一致性：见 modes/function/sequence.md
+- Operational knowledge for each DNA layer: composition (D1), light and color (D2 / D3), texture (texture)
+- The full movement library (421 cards): references/D6-style/movement-library/ (navigate via _index)
+- Failure points turned into diagnosis: see D7/fault-library (style and texture family)
+- Color anchors and palette discipline: see D3/palette-strategy
+- The criteria system of the aesthetic school: see aesthetic-criteria
+- The school development of the aesthetic school: see modes/schools/aesthetics.md
+- Sequence consistency: see modes/function/sequence.md

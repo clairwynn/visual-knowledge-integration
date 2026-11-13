@@ -1,75 +1,75 @@
-# D7 · 修复处方库（Prescriptions）
+# D7 · Prescriptions
 
-> 本文件管：修复处方的两级分级制（微调/重构）、标准化处方写法、处方选择判据、固定变量单变量迭代法。
-> 怎么用：诊断定位后开处方的格式与分寸——防止小病开大刀，也防止大病只抹药。
+> This file covers: the two-level grading of repair prescriptions (adjustment / restructure), the standard prescription format, the criteria for choosing a prescription, and single-variable iteration with the other variables fixed.
+> How to use: the format and proportion of a prescription after diagnosis — preventing minor faults from being treated with a major operation, and major faults from getting only a dab of ointment.
 
-## 定义
+## Definition
 
-处方（prescription）＝针对已定位根因的画面修改方案。两级分级：
-- **微调（adjustment）**：保留构图结构，调参数（位置、明度、留白、裁切）。
-- **重构（restructure）**：更换构图型/机位/画幅，结构性重来。
+A prescription = a frame-modification plan aimed at a located root cause. Two levels:
+- **Adjustment**: keep the compositional structure, tune parameters (position, value, negative space, cropping).
+- **Restructure**: change the composition type / viewpoint / aspect ratio — a structural do-over.
 
-## 机制
+## Mechanism
 
-处方分级的判据是**根因的层级**：参数层根因（位置差一点、明度近一档）→微调；结构层根因（构图型选错、画幅不适、机位语义相反）→重构。误级代价不对称：该重构只微调=治标不治本（反复修不好）；该微调却重构=推倒重来浪费且引入新问题。
+The criterion for grading a prescription is **the level of the root cause**: a parameter-level root cause (position slightly off, value within one stop) → adjustment; a structural-level root cause (wrong composition type, unsuitable aspect ratio, viewpoint with the opposite semantics) → restructure. The cost of mis-grading is asymmetric: restructuring when only an adjustment was needed = overturning everything for nothing and introducing new problems; adjusting when restructuring was needed = treating the symptom, not the cause (it never quite gets fixed).
 
-## 判据
+## Criteria
 
-### 微调 vs 重构的选择表
+### Adjustment vs restructure selection table
 
-| 根因层级 | 典型病 | 级别 |
+| Root-cause level | Typical faults | Level |
 |---|---|---|
-| 元素参数 | F02 主体不突出、F11 单侧倾倒、F15 落点错 | 微调 |
-| 取景参数 | F12 撞墙、F19 切关节、F08 挤满 | 微调（挪框挪主体） |
-| 光色参数 | F20/F21/F22/F24 | 微调（光色重设，构图不动） |
-| 构图型错误 | F01 反复偏置仍平（题材要对称却被偏置） | 重构（换型） |
-| 空间结构错误 | F06 纸片（缺整层）、F05 反复融底 | 微调失败一次后→重构 |
-| 机位/画幅错误 | 角度语义相反、画幅与构图打架 | 重构 |
-| 序列性错误 | F30 漂移、多图重样 | 重构（序列方案层） |
+| Element parameters | F02 weak subject, F11 lopsided, F15 wrong first fixation | Adjustment |
+| Framing parameters | F12 blocked look, F19 joint cut, F08 overcrowded | Adjustment (move frame or subject) |
+| Light and color parameters | F20 / F21 / F22 / F24 | Adjustment (reset light and color, composition untouched) |
+| Wrong composition type | F01 still flat after repeated offsets (the subject wanted symmetry but was offset) | Restructure (change the type) |
+| Wrong spatial structure | F06 flat (a whole layer missing), F05 repeated figure-ground merges | Restructure after one failed adjustment |
+| Wrong viewpoint or aspect ratio | Angle semantics inverted, aspect ratio fighting the composition | Restructure |
+| Sequence-level faults | F30 drift, repeated look across frames | Restructure (at the sequence-plan level) |
 
-通用规则：**同一病微调一次未改善 → 升级重构**（微调不是无限旋钮）。
+General rule: **one failed adjustment of the same fault → escalate to restructure** (adjustment is not an infinite knob).
 
-### 标准处方写法（每条处方四件）
+### Standard prescription format (four parts per prescription)
 
-1. **动作**：动什么（把 X 移到 Y / 压暗 Z / 加前景锚）——可执行，不用形容词。
-2. **理由**：对应哪条判据/机理（一句话）。
-3. **预期**：改后画面应出现什么变化。
-4. **验证**：用哪个测试/判据确认（D5/tests 或 review-gates 条目）。
+1. **Action**: what to change (move X to Y / darken Z / add a foreground anchor) — executable, no adjectives.
+2. **Reason**: which criterion or mechanism it answers (one sentence).
+3. **Expectation**: what should change in the frame afterwards.
+4. **Verification**: which test or criterion confirms it (D5/tests or a review-gates item).
 
-处方示例（微调）：
-> 动作：主光从正前改 45° 侧前，光比 1:1→4:1。
-> 理由：F21 平光糊，体积感需方向+光比。
-> 预期：面部出现明暗两面，鼻侧影可见。
-> 验证：眯眼测试——脸部明度团块分两档。
+Example prescription (adjustment):
+> Action: move the key light from dead front to 45° front-side; ratio 1:1 → 4:1.
+> Reason: F21 flat light; volume needs direction plus ratio.
+> Expectation: the face gains a light side and a dark side; a shadow beside the nose becomes visible.
+> Verification: squint test — the face's value mass splits into two grades.
 
-处方示例（重构）：
-> 动作：放弃居中对称，改三分偏置+框中框（窗框内主体），机位平视改低角度 15°。
-> 理由：题材是"困顿中的凝视"，对称的庄重语义与意图相反（构图型层根因）。
-> 预期：窥视感+心理压迫出现。
-> 验证：第 2 步主体识别+情绪传达判据。
+Example prescription (restructure):
+> Action: abandon centered symmetry; use a thirds offset plus frame within a frame (subject inside a window frame); change the viewpoint from eye level to a 15° low angle.
+> Reason: the subject is "a gaze in distress"; symmetry's ceremonial semantics contradict the intent (a composition-type-level root cause).
+> Expectation: a voyeuristic feel plus psychological pressure appears.
+> Verification: step 2 subject identification plus the emotional-delivery criterion.
 
-### 固定变量单变量迭代法（多改动时的纪律）
+### Single-variable iteration (discipline when there are many changes)
 
-一次只改一个变量（位置 or 光 or 色 or 裁切……），确认其效果再改下一个——并行改动后无法归因（不知道哪个改动起了作用）。多处方并发时按"结构性优先"排序逐个执行。
+Change one variable at a time (position, or light, or color, or cropping…), confirm its effect, then change the next — after parallel changes nothing can be attributed (you cannot tell which change did the work). When several prescriptions run concurrently, order them "structural first" and execute one by one.
 
-### 处方打包协议（多病并发）
+### Prescription packaging protocol (multiple faults at once)
 
-1. 列全部病名与根因；
-2. 分层：结构性（构图型/机位/画幅/层次）在前，参数性（光/色/裁切）在后；
-3. 结构层只选一套重构方案（不并列多套让用户拼装）；
-4. 每层内按单变量纪律排序；
-5. 输出统一验证判据清单。
+1. List every fault name and root cause;
+2. Layer them: structural (composition type / viewpoint / aspect ratio / layering) first, parametric (light / color / cropping) after;
+3. Choose only one restructure plan at the structural level (do not hand the user several to assemble);
+4. Within each layer, order by the single-variable discipline;
+5. Output one unified verification checklist.
 
-## 边界
+## Boundaries
 
-- 处方由根因决定，不由用户情绪决定（用户说"全删重来"时若根因只是微调级，先给微调方案+说明为什么不必重构——点名权在用户，建议权在 VKI）。
-- 重构不是失败：早重构比反复微调便宜。
-- 处方数量克制：单次 ≤5 条（经验值），超过说明定位没收敛，回 cause-tree 重新归支。
+- Prescriptions are decided by the root cause, not by the user's mood (when the user says "delete it all and start over" while the root cause is only adjustment-level, offer the adjustment plan first and explain why restructure is unnecessary — the naming right is the user's, the advising right is VKI's).
+- Restructuring is not failure: an early restructure is cheaper than repeated adjustments.
+- Keep the number of prescriptions restrained: ≤5 per pass (rule of thumb); more than that means localization has not converged — go back to cause-tree and re-assign the branch.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 定位：见 cause-tree、fault-library
-- 判图流程：见 protocol
-- 处方的知识源：D1–D6 各文件
-- 验证判据：见 D5/tests、review-gates
-- 诊断功能流程：见 modes/function/diagnose.md
+- Localization: see cause-tree, fault-library
+- The frame-reading flow: see protocol
+- Knowledge sources for prescriptions: the D1–D6 files
+- Verification criteria: see D5/tests, review-gates
+- The diagnose function flow: see modes/function/diagnose.md

@@ -1,201 +1,201 @@
-# D7 · 故障模式库（Fault Library）
+# D7 · Fault Library
 
-> 本文件管：20+ 种命名故障模式，每个按"症状/成因/处方"三段式速查。
-> 怎么用：诊断时的"病名对照表"——用户描述或自检发现的异常，按症状关键词查到病名，取处方入口。深层定位回 cause-tree。
+> This file covers: 31 named fault patterns, each in a three-part quick reference of "symptom / cause / prescription".
+> How to use: the "name-of-the-disease lookup table" for diagnosis — when a user describes an anomaly or a self-check finds one, look up the pattern by symptom keyword and take the prescription entry. For deep localization, return to cause-tree.
 
-## 使用说明
+## How to use this file
 
-- 每条故障：**症状**（怎么看出来）→ **成因**（为什么）→ **处方**（怎么办，指向知识文件）。
-- 检索方式：按视觉直觉找关键词（乱/平/挤/飘/歪/假……）。
-- 同一画面常多病并发：先治结构性故障（影响观看的），再治表面性故障。
+- Each fault: **symptom** (how you see it) → **cause** (why) → **prescription** (what to do, pointing to the knowledge file).
+- Lookup method: find the keyword by visual intuition (messy / flat / crowded / floating / crooked / fake …).
+- One frame often has several faults at once: treat structural faults first (the ones that block viewing), then surface faults.
 
-## 一、主体与焦点类
+## 1. Subject and focus family
 
-### F01 死中心（dead center）
-- 症状：主体正居中，画面零张力，"证件照感"。
-- 成因：默认落位，无构图决策。
-- 处方：三分偏置+方向性留白（D1/composition-types-1）；居中仅当庄重/仪式宣言（D1/composition-types-2）。
+### F01 Dead center
+- Symptom: the subject sits exactly in the middle, zero tension, a "passport photo" feel.
+- Cause: default placement, no compositional decision.
+- Prescription: thirds offset plus directional negative space (D1/composition-types-1); center only as a declaration of gravity or ritual (D1/composition-types-2).
 
-### F02 主体不突出（weak subject）
-- 症状：知道主体是谁但视线总被别处抢。
-- 成因：分离手段缺失（明度/色/虚化全没做）或干扰锚更强。
-- 处方：补 1–2 项分离（D5/figure-ground、D2/tonality）；压制干扰锚（D5/attention）。
+### F02 Weak subject
+- Symptom: you know who the subject is but the eye keeps being pulled elsewhere.
+- Cause: missing separation devices (value / color / defocus all undone), or a stronger competing anchor.
+- Prescription: add 1–2 separation devices (D5/figure-ground, D2/tonality); suppress the competing anchor (D5/attention).
 
-### F03 双焦点竞争（dual anchor）
-- 症状：两个同等强度锚点，视线来回弹。
-- 成因：两个元素重量同级且分居。
-- 处方：降次锚 ≥1 档（位置/明度/尺寸）或让两者成为一组（D1/multi-subject 分组）。
+### F03 Dual anchor
+- Symptom: two anchors of equal strength, the eye bouncing between them.
+- Cause: two elements of the same weight grade, placed apart.
+- Prescription: drop the secondary anchor ≥1 step (position / value / size), or bind the two into one group (D1/multi-subject grouping).
 
-### F04 多锚散架（scattered）
-- 症状：三个以上强元素各自为政，"乱"。
-- 成因：无权重序、无分组。
-- 处方：定主次（D1/multi-subject）+成组（D5/gestalt 接近法则）。
+### F04 Scattered
+- Symptom: three or more strong elements each doing their own thing — "messy".
+- Cause: no weight order, no grouping.
+- Prescription: set primary and secondary (D1/multi-subject) plus grouping (Gestalt proximity in D5/gestalt).
 
-## 二、空间与层次类
+## 2. Space and layering family
 
-### F05 融底（figure-ground merge）
-- 症状：主体轮廓消失进背景，"贴纸撕不掉"感。
-- 成因：明度差 <1 档+色相近+饱和近三近叠加。
-- 处方：拉明度差 ≥2 档/换背景色相/加轮廓光（D5/figure-ground、D3/weight-contrast）。
+### F05 Figure-ground merge
+- Symptom: the subject's contour dissolves into the background, "a sticker that cannot be peeled off".
+- Cause: value difference <1 stop plus similar hue plus similar saturation — three near-simultaneous overlaps.
+- Prescription: widen the value difference to ≥2 stops / change the background hue / add a rim light (D5/figure-ground, D3/weight-contrast).
 
-### F06 纸片人（flat）
-- 症状：画面无纵深，主体像剪纸。
-- 成因：两层结构、无前景、无大气、全景深。
-- 处方：三平面设计（D1/depth-layering）——加前景锚或虚化或大气。
+### F06 Flat (paper cut-out)
+- Symptom: no depth in the frame, the subject looks like a paper cut-out.
+- Cause: a two-layer structure, no foreground, no atmosphere, deep DoF.
+- Prescription: three-plane design (D1/depth-layering) — add a foreground anchor, or defocus, or atmosphere.
 
-### F07 悬浮（floating）
-- 症状：物体不着地/无影/无支撑，"漂浮"感。
-- 成因：缺接地线索（影、接触面、反射）。
-- 处方：共享表面+接地影（D1/multi-subject 锚定）。
+### F07 Floating
+- Symptom: the object does not touch the ground, casts no shadow, has no support — "floating".
+- Cause: missing ground-contact cues (shadow, contact surface, reflection).
+- Prescription: shared surface plus contact shadow (anchoring in D1/multi-subject).
 
-### F08 挤满（overcrowded）
-- 症状：画面无呼吸，元素顶到边。
-- 成因：留白 <10% 或元素数失控。
-- 处方：减法+去除测试（D5/tests）+留白档上移（D1/spatial-allocation）。
+### F08 Overcrowded
+- Symptom: no breathing room, elements pressed against the edge.
+- Cause: negative space <10%, or the element count out of control.
+- Prescription: subtraction plus the removal test (D5/tests), plus a step up in the negative-space grade (D1/spatial-allocation).
 
-### F09 死空（dead empty）
-- 症状：大片无质地的空白，主体孤悬。
-- 成因：留白无质感、无方向、无路径。
-- 处方：质感化留白+方向性+留一条弱路径（D1/spatial-allocation）。
+### F09 Dead empty
+- Symptom: a large blank patch with no texture, the subject hanging alone.
+- Cause: negative space with no texture, no direction, no path.
+- Prescription: textured negative space plus direction, plus leaving one weak path (D1/spatial-allocation).
 
-## 三、平衡类
+## 3. Balance family
 
-### F10 头重脚轻（top-heavy）
-- 症状：上缘重物压顶，画面下坠。
-- 成因：上部元素重量失控。
-- 处方：上缘减重或下部加锚（D1/balance）。
+### F10 Top-heavy
+- Symptom: a heavy mass pressing down from the top edge, the frame sinking.
+- Cause: the upper elements' weight out of control.
+- Prescription: lighten the top edge or add an anchor below (D1/balance).
 
-### F11 单侧倾倒（lopsided）
-- 症状：画面向一侧"倒"。
-- 成因：左右重量差 ≥2 档无意图。
-- 处方：配平四步（D1/balance）——优先动位置，再调明度。
+### F11 Lopsided
+- Symptom: the frame "leans" to one side.
+- Cause: a left-right weight difference of ≥2 steps with no intent.
+- Prescription: the four balancing steps (D1/balance) — move position first, then adjust value.
 
-### F12 视线撞墙（blocked look）
-- 症状：人物视线/动势正对画框，"憋"。
-- 成因：lead room 方向给反。
-- 处方：留白换边（D4/framing-room）。
+### F12 Blocked look
+- Symptom: a figure's gaze or momentum runs straight into the frame edge — "stifled".
+- Cause: lead room given in the wrong direction.
+- Prescription: move the negative space to the other side (D4/framing-room).
 
-## 四、路径类
+## 4. Path family
 
-### F13 路径断裂（broken path）
-- 线条/梯度被无关物截断，引导失效。
-- 成因：元素放置无路径意识。
-- 处方：让路绕行或移除路障（D1/visual-path）。
+### F13 Broken path
+- A line or gradient is cut by an unrelated object and the lead fails.
+- Cause: elements placed with no path awareness.
+- Prescription: route the path around, or remove the obstruction (D1/visual-path).
 
-### F14 引导出画（leading out）
-- 引导线/视线/光带指向画外，观众被送走。
-- 成因：路终点缺锚。
-- 处方：折返设计或终点加锚（D1/visual-path 出口计数）。
+### F14 Leading out
+- A leading line, gaze, or light band points out of the frame and sends the viewer away.
+- Cause: no anchor at the end of the path.
+- Prescription: fold-back design, or add an anchor at the end (the exit count in D1/visual-path).
 
-### F15 第一落点错误（wrong first fixation）
-- 第一眼落在杂物/边角亮斑。
-- 成因：干扰物对比/明度超标。
-- 处方：压干扰、挪锚点（D5/attention、eye-movement）。
+### F15 Wrong first fixation
+- The first glance lands on clutter or a bright patch at the edge.
+- Cause: the distractor's contrast or value out of bounds.
+- Prescription: suppress the distractor, move the anchor (D5/attention, eye-movement).
 
-## 五、边角类
+## 5. Edge and corner family
 
-### F16 半截入侵（edge intruder）
-- 边缘伸进半截不明物。
-- 成因：无意识取景。
-- 处方：入画（完整参与）或出画（D1/edges-cropping）。
+### F16 Edge intruder
+- An unidentified half object protrudes into the edge.
+- Cause: unconscious framing.
+- Prescription: bring it in (full participation) or take it out (D1/edges-cropping).
 
-### F17 相切粘连（tangent merge）
-- 主体轮廓与背景物"刚好碰到"（头顶长树）。
-- 成因：叠压与分离之间的事故带。
-- 处方：拉开或完全叠压（D1/edges-cropping）。
+### F17 Tangent merge
+- The subject's contour "just touches" a background object (a tree growing out of the head).
+- Cause: the accident band between overlap and separation.
+- Prescription: separate them clearly or overlap them completely (D1/edges-cropping).
 
-### F18 切线事故（tangent line）
-- 画框边/结构线擦过关键部位（脖子线）。
-- 成因：框与主体未错位。
-- 处方：微移框或主体（D1/edges-cropping）。
+### F18 Tangent line
+- The frame edge or a structural line grazes a key part (a line across the neck).
+- Cause: the frame and the subject not offset.
+- Prescription: nudge the frame or the subject (D1/edges-cropping).
 
-### F19 关节裁切（joint cut）
-- 切在颈/肩/肘/腕/髋/膝/踝。
-- 成因：不懂裁切位。
-- 处方：切在关节之间（D1/edges-cropping 禁忌表）。
+### F19 Joint cut
+- Cut at the neck / shoulder / elbow / wrist / hip / knee / ankle.
+- Cause: not knowing the cut positions.
+- Prescription: cut between joints (the taboo table in D1/edges-cropping).
 
-## 六、光色类
+## 6. Light and color family
 
-### F20 无主光（no key light）
-- 阴影多方向/无阴影，物体"自发光"。
-- 成因：光未设计或均值化。
-- 处方：定唯一主光+方向语义（D2/light-fundamentals）。
+### F20 No key light
+- Shadows in several directions, or no shadows, objects "self-luminous".
+- Cause: light undesigned or averaged out.
+- Prescription: fix one key light plus directional semantics (D2/light-fundamentals).
 
-### F21 平光糊（flat light）
-- 一切同亮度，体积感消失。
-- 成因：光比 1:1 且无方向。
-- 处方：45° 侧光+光比 ≥2:1（D2/direction-quality）。
+### F21 Flat light
+- Everything at the same brightness, volume gone.
+- Cause: ratio 1:1 and no direction.
+- Prescription: 45° side light plus ratio ≥2:1 (D2/direction-quality).
 
-### F22 灰平无锚（no anchors）
-- 无黑无白，中灰一片，"蒙尘"感。
-- 成因：影调两端缺失。
-- 处方：补深黑/高亮锚点（D2/tonality 两端检查）。
+### F22 No anchors
+- No black, no white, a field of mid-gray — a "dusty" feel.
+- Cause: both ends of the tonal range missing.
+- Prescription: add deep black or high-light anchors (the two-end check in D2/tonality).
 
-### F23 色彩打架（color clash）
-- 多色相无结构，互相抵消。
-- 成因：无和声、无配比。
-- 处方：归入七系之一+60-30-10（D3/harmony、proportions）。
+### F23 Color clash
+- Many hues with no structure, cancelling each other out.
+- Cause: no harmony, no proportion.
+- Prescription: bring it into one of the seven schemes plus 60-30-10 (D3/harmony, proportions).
 
-### F24 色块抢戏（color hijack）
-- 强调色出现在背景/角落，视线被拽走。
-- 成因：强调色脱离主体。
-- 处方：强调色归位主体+回声 ≤2%（D3/proportions、weight-contrast）。
+### F24 Color hijack
+- The accent color appears in the background or a corner and drags the eye away.
+- Cause: the accent color detached from the subject.
+- Prescription: return the accent to the subject plus an echo of ≤2% (D3/proportions, weight-contrast).
 
-## 七、透视与物理类
+## 7. Perspective and physics family
 
-### F25 灭点漂移（wandering vanishing point）
-- 同组平行线各汇各的，空间"拧"。
-- 成因：无视平线纪律。
-- 处方：先定视平线，全部汇聚线校齐（D4/perspective 四错表）。
+### F25 Wandering vanishing point
+- Parallel lines within one group converge to different points, space "twisting".
+- Cause: ignoring horizon discipline.
+- Prescription: fix the horizon first, then align all converging lines (the four-error table in D4/perspective).
 
-### F26 尺度矛盾（scale error）
-- 近远物缩放错乱（人比门矮半截）。
-- 成因：无尺度锚。
-- 处方：以人物为量尺重排（D4/perspective）。
+### F26 Scale error
+- Near and far objects scaled inconsistently (a person half a head shorter than a door).
+- Cause: no scale anchor.
+- Prescription: re-lay out using people as the ruler (D4/perspective).
 
-### F27 影子矛盾（shadow conflict）
-- 影子方向/长度与光源不符。
-- 成因：光源未定。
-- 处方：单主光重算全部影子（D2/direction-quality 动机检查）。
+### F27 Shadow conflict
+- Shadow direction or length disagreeing with the light source.
+- Cause: the source undetermined.
+- Prescription: recompute every shadow from a single key light (the motivation check in D2/direction-quality).
 
-## 八、风格与质感类
+## 8. Style and texture family
 
-### F28 中位数构图（median composition）
-- 居中+平视+中景+平光+全景深五默认齐活。
-- 成因：无任何构图决策。
-- 处方：预防六轴（D6/ai-defaults），任一轴显式偏移。
+### F28 Median composition
+- Centered plus eye level plus medium shot plus flat light plus deep DoF — all five defaults at once.
+- Cause: no compositional decision at all.
+- Prescription: the six-axis prevention protocol (D6/ai-defaults); offset any axis explicitly.
 
-### F29 塑感（porcelain）
-- 皮肤瓷化、表面过度平滑。
-- 成因：无微不完美。
-- 处方：质感来源清单（D6/authenticity、texture）。
+### F29 Porcelain
+- Skin turned to porcelain, surfaces over-smooth.
+- Cause: no micro-imperfection.
+- Prescription: the texture source list (D6/authenticity, texture).
 
-### F30 风格漂移（style drift）
-- 序列内逐图颗粒/饱和/DNA 滑动。
-- 成因：无风格冻结。
-- 处方：序列 DNA 冻结+并排缩略终检（D6/art-movements、sequence 功能）。
+### F30 Style drift
+- Within a sequence, grain / saturation / DNA sliding from frame to frame.
+- Cause: no style freeze.
+- Prescription: freeze the sequence DNA plus a side-by-side thumbnail final check (D6/art-movements, the sequence function).
 
-### F31 满屏圣光（holy glow）
-- 均匀发光覆盖全画，无方向无动机。
-- 成因："氛围"指令泛化。
-- 处方：单束+遮挡+介质+动机（D2/atmosphere 成立条件）。
+### F31 Holy glow
+- An even glow covering the whole frame, no direction, no motivation.
+- Cause: the "atmosphere" instruction generalized.
+- Prescription: one beam plus occlusion plus medium plus motivation (the conditions in D2/atmosphere).
 
-## 快速索引表（症状关键词→病名）
+## Quick index (symptom keyword → fault name)
 
-| 用户会说 | 查 |
+| What the user says | Look up |
 |---|---|
-| "太平了" | F01/F21/F22/F28 |
-| "不知道看哪" | F02/F03/F15 |
-| "乱" | F04/F13/F23 |
-| "假/怪" | F07/F25/F26/F27/F29 |
-| "挤" | F08 |
-| "空" | F09 |
-| "歪/难受说不出" | F10/F11/F16/F17/F18 |
-| "AI 味" | F20/F22/F28/F29/F31 |
+| "Too flat" | F01 / F21 / F22 / F28 |
+| "Don't know where to look" | F02 / F03 / F15 |
+| "Messy" | F04 / F13 / F23 |
+| "Fake / weird" | F07 / F25 / F26 / F27 / F29 |
+| "Crowded" | F08 |
+| "Empty" | F09 |
+| "Crooked / uncomfortable but can't say why" | F10 / F11 / F16 / F17 / F18 |
+| "AI feel" | F20 / F22 / F28 / F29 / F31 |
 
-## 与其他文件的连接
+## Connections to other files
 
-- 系统定位（病名只是入口）：见 cause-tree
-- 处方分级：见 prescriptions
-- 六步判图协议（本库的使用框架）：见 protocol
-- 各处方知识源：D1–D6 对应文件
+- Systemic localization (the fault name is only the entry): see cause-tree
+- Prescription grading: see prescriptions
+- The six-step frame-reading protocol (this library's operating framework): see protocol
+- Knowledge sources for each prescription: the corresponding D1–D6 files
