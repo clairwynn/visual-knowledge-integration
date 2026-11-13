@@ -1,723 +1,723 @@
-# D6 · 流派库 · 西方古典与近代（48 卡）
+# D6 · Movement Library · Western Classical and Modern (48 cards)
 
-> 风格流派卡语料的程序化提炼；零来源规约：不含提示词写法、不含出处链接。
-> 同一框架：一句话→核心主张→构图/光色/质感→情绪→色锚→翻车点→关联流派。
-> 用法：风格任务查卡，与 D6/art-movements 的七层拆解/翻车点相反性/混搭仲裁配合。
+> A programmatic distillation of the style-movement card corpus; zero-source rule: no prompt wording, no source links.
+> Same framework: one line → core claim → composition / light and color / texture → emotion → color anchors → failure points → related movements.
+> Use: look up a card for a style task, together with the seven-layer deconstruction / failure-point opposition / mixing arbitration in D6/art-movements.
 
-### 东方主义 · Orientalism（1800–1900｜法国 / 英国）
+### Orientalism（1800–1900 | France / United Kingdom）
 
-> 欧洲人想象中的东方：瓷砖、香料、后宫与刺眼的北非阳光。
+> The East as Europeans imagined it: tile, spice, harem, and the glare of North African sun.
 
-- **核心主张**：欧洲画家对北非、中东、奥斯曼的想象与记录；高度装饰性的室内：瓷砖、地毯、镂空窗格；强烈的沙漠阳光与深浓阴影；常带殖民视角的异域凝视（今天的批评重点）
-- **构图**：室内景深、拱廊与窗格框景、人物在装饰空间中
-- **光色**：色彩——饱和的暖色：赭黄、钴蓝瓷砖、朱红地毯、白色长袍；光影——刺眼的直射阳光穿过镂空窗格，投下几何光斑
-- **质感**：笔触——精细写实，织物与瓷砖的质感被极度珍视；材质——油画、瓷砖、地毯、丝绸、镂空木格（mashrabiya）
-- **情绪**：异域、感官、慵懒、被阳光晒晕的迷醉
-- **色锚**：`#C9A227` `#1F5FA8` `#A8432A` `#E8DCC8` `#8B6B4A` `#2B3A4A`
-- **翻车点**：1）容易做成奇幻中东——对策：加 19th century orientalist, mashrabiya, meticulous textile；2）提醒：这是欧洲视角的建构，写描述时明确它是 historical painting style
-- **关联流派**：学院派艺术、浪漫主义、日本主义
-
----
-
-### 卡拉瓦乔主义 · Caravaggisti（1600–1650｜意大利 / 欧洲）
-
-> 把圣人画成街上的穷人，用地下室的光照着他们。
-
-- **核心主张**：tenebrism 的极端形式：背景全黑，光只打在关键局部；宗教人物用当代穷人做模特，神圣与粗俗并置；无叙事背景，人物被推到画面最前沿；强烈的肉体感与戏剧性的明暗对照
-- **构图**：近距离、浅空间、人物占满画面、常有画框外的动作
-- **光色**：色彩——极暗的褐黑底 + 少数几个高亮颜色（红、白、肤）；光影——单一强侧光，大面积死黑，边缘被光切出锐利轮廓
-- **质感**：笔触——写实的精细 + 松弛的暗部；不追求优雅表面；材质——粗布油画、深色底子、直接画法（alla prima）
-- **情绪**：戏剧、粗粝、虔诚与暴力并存、令人不安的临场感
-- **色锚**：`#141210` `#6B3A2A` `#A8322D` `#E8DCC8` `#8B6B3A` `#2B3A4A`
-- **翻车点**：1）只写 dark 不够——对策：在画面描述中显式针对此缺陷；2）容易自动补环境光——对策：在画面描述中显式针对此缺陷
-- **关联流派**：巴洛克、荷兰黄金时代、现实主义
+- **Core claim**: European painters' imagining and recording of North Africa, the Middle East, and the Ottoman lands; highly decorative interiors: tile, carpet, pierced lattice screens; intense desert sunlight and deep shadow; often a colonial gaze (a key point of today's critique)
+- **Composition**: interior depth, arcades and lattice screens framing the view, figures within a decorated space
+- **Light and color**: color — saturated warm color: ochre yellow, cobalt tile, vermilion carpet, white robes; light — harsh direct sun through pierced screens, casting geometric light patches
+- **Texture**: brushwork — fine realism, the texture of fabric and tile treasured; materials — oil painting, tile, carpet, silk, pierced wooden lattice (mashrabiya)
+- **Emotion**: exotic, sensual, languid, a sun-dazed intoxication
+- **Color anchors**: `#C9A227` `#1F5FA8` `#A8432A` `#E8DCC8` `#8B6B4A` `#2B3A4A`
+- **Failure points**: 1) it easily becomes fantasy Middle East — remedy: add 19th century orientalist, mashrabiya, meticulous textile; 2) caution: this is a European construction — state in the description that it is a historical painting style
+- **Related movements**: Academic Art, Romanticism, Japonism
 
 ---
 
-### 印象派 · Impressionism（1865–1885｜法国）
+### Caravaggisti（1600–1650 | Italy / Europe）
 
-> 不管物体长什么样，只记录光在那一秒的样子。
+> Painting saints as the poor from the street, lit by a basement's light.
 
-- **核心主张**：外光写生，捕捉瞬间光色变化；阴影不用黑，用互补色（紫、蓝）；笔触碎、快、可见，颜色在视网膜上混合；轮廓溶解，形体让位于光感
-- **构图**：摄影式随机裁切，人物被画框切掉，视点抬高或压低
-- **光色**：色彩——高明度、高亮度：粉紫阴影、柠檬黄阳光、钴蓝天光；光影——明亮外光，阴影通透有颜色；几乎不用纯黑
-- **质感**：笔触——短促碎笔、厚涂（impasto）、湿画法；笔触本身就是内容；材质——粗糙画布、明显笔触堆叠、颜料厚重
-- **情绪**：轻快、即时、愉悦、日常的闲适
-- **色锚**：`#E8D5A8` `#A8B8D8` `#C9A8C0` `#7A9E7E` `#E07B54` `#F2EDE4`
-- **翻车点**：1）易默认给黑色阴影——对策：显式，在画面描述中显式针对此缺陷；2）容易变成「模糊的照片」——对策：强调 brushstrokes, impasto, oil painting 而非 blur；3）过写实会失去印象派——对策：在画面描述中显式针对此缺陷
-- **关联流派**：现实主义、后印象派、新印象派（点彩）
-
----
-
-### 发光主义 · Luminism（1850–1875｜美国）
-
-> 把光本身画成主角：画面安静到能听见空气，光线几乎有实体。
-
-- **核心主张**：光线成为唯一主题，形体让位于光的氛围；笔触被刻意隐藏，表面极其光滑；水平构图、平静水面、极致的静谧；与哈德逊河派同源但更内向、更形而上
-- **构图**：极宽的水平构图、低地平线、大面积天空与水面
-- **光色**：色彩——清冷的蓝、银灰、淡金；明度高、对比低；光影——弥漫的晨雾光、水平的光带、水面反射，几乎没有阴影
-- **质感**：笔触——完全隐藏，抛光般平滑；这是它与印象派最大的区别；材质——细纹布面油画、多层透明罩染、光滑表面
-- **情绪**：宁静、空灵、近乎宗教的冥想感
-- **色锚**：`#A8C8D8` `#D9CFC0` `#E8D5A8` `#7FA8B8` `#4A6B7A` `#F2EDE4`
-- **翻车点**：1）和哈德逊河派混淆——对策：发光主义更平、更静、笔触完全隐藏；2）容易加戏剧性云朵——对策：，按画面意图定制描述以避开
-- **关联流派**：哈德逊河派、色调主义、浪漫主义
+- **Core claim**: an extreme form of tenebrism: the background fully black, light falling only on key passages; religious figures modeled on contemporary poor people, the sacred juxtaposed with the coarse; no narrative background, figures pushed to the very front of the frame; strong physicality and dramatic chiaroscuro
+- **Composition**: close-up, shallow space, figures filling the frame, often action continuing beyond the edge
+- **Light and color**: color — an extremely dark brown-black ground plus a few high-lit colors (red, white, flesh); light — a single strong side light, large areas of dead black, edges cut sharply by light
+- **Texture**: brushwork — fine realism in the lights plus loose handling in the darks; no pursuit of an elegant surface; materials — oil on coarse canvas, dark ground, alla prima
+- **Emotion**: dramatic, coarse, piety and violence together, an unsettling presence
+- **Color anchors**: `#141210` `#6B3A2A` `#A8322D` `#E8DCC8` `#8B6B3A` `#2B3A4A`
+- **Failure points**: 1) writing dark alone is not enough — remedy: address that defect explicitly in the frame description; 2) ambient light is easily added automatically — remedy: address that defect explicitly in the frame description
+- **Related movements**: Baroque, Dutch Golden Age, Realism
 
 ---
 
-### 古典主义 · Classicism（持续（17–19世纪为高峰）｜欧洲）
+### Impressionism（1865–1885 | France）
 
-> 以古希腊罗马为永恒标准：比例、克制、清晰、理性。
+> Never mind what objects look like; record only what light is doing in that second.
 
-- **核心主张**：以古代为规范，追求普遍性与永恒性；构图清晰、轮廓明确、色彩克制；题材以神话、历史、寓意为主；与浪漫主义构成西方艺术史的长期对立面
-- **构图**：金字塔或水平带式，人物姿态源自古代雕塑
-- **光色**：色彩——克制的暖褐与灰蓝，肉色与织物色精致但不高调；光影——清晰均匀的布光，形体塑造明确但不戏剧化
-- **质感**：笔触——平滑、严谨，笔触服从形体；材质——布面油画、抛光表面、大理石雕塑
-- **情绪**：庄重、均衡、理性的高贵
-- **色锚**：`#8B6B4A` `#A8B0B8` `#D9B29A` `#7A1F2B` `#C9A227` `#E8DCC8`
-- **翻车点**：1）和新古典主义区分：新古典主义是一个历史时期（1760–1830），古典主义是贯穿性的态度；2）容易加戏剧光——对策：在画面描述中显式针对此缺陷
-- **关联流派**：新古典主义、文艺复兴、学院派艺术
-
----
-
-### 古典写实主义（当代） · Classical Realism（1970–今｜欧美 / 全球）
-
-> 当代画家重新学会 19 世纪的技法，但用现代的眼睛看现代的身体。
-
-- **核心主张**：当代艺术家系统地复兴古典写实技法；严格的比例、解剖与明暗训练；题材现代，技法古典；与照相写实不同：保留笔触与绘画性
-- **构图**：人物为中心，古典比例的构图，背景简化
-- **光色**：色彩——古典的有限调色板，肉色被精细处理；光影——经典的明暗对照，光源明确而柔和
-- **质感**：笔触——可见但有控制，不像照片那样消灭笔触；材质——布面油画、古典多层罩染、亚麻布
-- **情绪**：沉静、庄重、对技艺的敬意
-- **色锚**：`#8B6B4A` `#D9B29A` `#4A5A6B` `#7A1F2B` `#C9A227` `#E8DCC8`
-- **翻车点**：1）和照相写实区分：这里保留笔触和绘画性；2）只存描述，不收作品图
-- **关联流派**：学院派艺术、照相写实主义、文艺复兴
+- **Core claim**: plein-air painting, capturing momentary changes of light and color; shadows not black but complementary (violet, blue); brushwork broken, fast, visible, color mixed on the retina; contours dissolving, form giving way to the sensation of light
+- **Composition**: photographic random cropping, figures cut off by the frame, viewpoint raised or lowered
+- **Light and color**: color — high value, high brightness: pink-violet shadows, lemon-yellow sunlight, cobalt sky light; light — bright outdoor light, transparent colored shadows; almost no pure black
+- **Texture**: brushwork — short broken strokes, impasto, wet-in-wet; the brushstroke itself is the content; materials — coarse canvas, visible stacked strokes, thick paint
+- **Emotion**: lighthearted, immediate, pleasurable, everyday ease
+- **Color anchors**: `#E8D5A8` `#A8B8D8` `#C9A8C0` `#7A9E7E` `#E07B54` `#F2EDE4`
+- **Failure points**: 1) black shadows are the default — remedy: address that defect explicitly in the frame description; 2) it easily becomes a "blurred photograph" — remedy: stress brushstrokes, impasto, oil painting rather than blur; 3) over-realism loses Impressionism — remedy: address that defect explicitly in the frame description
+- **Related movements**: Realism, Post-Impressionism, Neo-Impressionism (Pointillism)
 
 ---
 
-### 后印象派 · Post-Impressionism（1885–1905｜法国）
+### Luminism（1850–1875 | United States）
 
-> 从印象派出发，但把光和色换成结构、象征和情绪。
+> Painting light itself as the protagonist: the frame is so still you can hear the air, and light almost has body.
 
-- **核心主张**：不再只画所见，开始画所感；色块化、平面化，牺牲立体感换表现力；笔触有方向性，成为情绪的语言；塞尚的结构、梵高的漩涡、高更的平涂，三条路
-- **构图**：平面化空间，多视点，装饰性边框，留白与色块并置
-- **光色**：色彩——高饱和、非自然：梵高的铬黄与钴蓝，高更的纯色平涂；光影——光被内化为色彩强度，不再依赖真实光源
-- **质感**：笔触——厚涂 + 明确方向：短促排列、漩涡、色块边界；材质——极厚 impasto，颜料堆成沟壑；或高更式的平坦哑光
-- **情绪**：强烈、主观、不安或神秘
-- **色锚**：`#F0C420` `#2B4C9B` `#1E7A5A` `#C1272D` `#6B3FA0` `#E8A33D`
-- **翻车点**：1）容易把后印象派做成普通厚涂——对策：按画面意图定制描述以避开；2）梵高风格容易被过度模板化——对策：加具体约束（短促方向性笔触 rather than 泛泛的 swirl）
-- **关联流派**：印象派、表现主义、象征主义
-
----
-
-### 哈德逊河派 · Hudson River School（1825–1875｜美国）
-
-> 美国第一场本土画派：用巨大的荒野风景表达国家天命与宗教敬畏。
-
-- **核心主张**：宏大风景，人极其渺小甚至缺席；发光主义（luminism）：光线从云缝或地平线射出；细致的植物与地质观察，兼具科学性与象征性；荒野作为神圣空间，暗含「昭昭天命」
-- **构图**：前景引导（岩石、树木）+ 中景水面 + 远景山脉的三段式
-- **光色**：色彩——清晨与黄昏的暖金、淡紫、灰绿；天空层次极丰富；光影——低角度阳光穿透云层，湿润大气产生光晕与无穷层次
-- **质感**：笔触——精细写实，局部细腻；晚年趋向大气与简化；材质——细纹布面油画、多层罩染、透明大气效果
-- **情绪**：崇高、宁静、敬畏、爱国式的壮阔
-- **色锚**：`#C9A227` `#8B9BB0` `#3E5A3A` `#D9A25A` `#6B5A7A` `#E8DCC8`
-- **翻车点**：1）容易只给「漂亮风景照」——对策：，按画面意图定制描述以避开；2）层次不够——对策：明确 three-part depth, atmospheric perspective
-- **关联流派**：浪漫主义、色调主义
+- **Core claim**: light becomes the sole subject, form giving way to atmosphere; brushwork deliberately hidden, the surface extremely smooth; horizontal composition, calm water, extreme stillness; sharing roots with the Hudson River School but more inward and more metaphysical
+- **Composition**: very wide horizontal composition, low horizon, large areas of sky and water
+- **Light and color**: color — cool blue, silver gray, pale gold; high value, low contrast; light — diffuse morning-mist light, horizontal bands of light, water reflections, almost no shadow
+- **Texture**: brushwork — completely hidden, polished smooth; this is its greatest difference from Impressionism; materials — fine-weave oil on canvas, many transparent glazes, smooth surface
+- **Emotion**: serene, ethereal, an almost religious meditation
+- **Color anchors**: `#A8C8D8` `#D9CFC0` `#E8D5A8` `#7FA8B8` `#4A6B7A` `#F2EDE4`
+- **Failure points**: 1) confusing it with the Hudson River School — remedy: Luminism is flatter, stiller, with brushwork entirely hidden; 2) dramatic clouds are easily added — remedy: customize the description to the frame's intent and avoid it
+- **Related movements**: Hudson River School, Tonalism, Romanticism
 
 ---
 
-### 哥特式艺术 · Gothic Art（1150–1450｜西欧）
+### Classicism（continuous (peak 17th–19th century) | Europe）
 
-> 让光穿过彩色玻璃，把石头变成骨架，让一切向上生长。
+> Taking Greece and Rome as the eternal standard: proportion, restraint, clarity, reason.
 
-- **核心主张**：垂直线条主导，一切向上升腾；彩色玻璃把光染成宝石色，是哥特真正的光源；从平面象征走向自然观察，逐渐出现体积与情感；国际哥特式的优雅曲线与华丽服饰
-- **构图**：垂直升腾、尖拱、玫瑰窗的放射对称
-- **光色**：色彩——宝石玻璃色：深蓝、猩红、金、翠绿；深底上的发光色块；光影——透过彩色玻璃的散射光，彩色光斑落在石地上
-- **质感**：笔触——手抄本为精细平涂 + 金箔；晚期面板画出现柔和体积；材质——彩绘玻璃、木板蛋彩、金箔、石雕、羊皮纸
-- **情绪**：神秘、虔敬、华丽、向上的渴望
-- **色锚**：`#1B3A6B` `#8E1B1B` `#C9A227` `#1E6B4F` `#4A3B6B` `#2B2B33`
-- **翻车点**：1）容易做成暗黑哥特亚文化——对策：，在画面描述中显式针对此缺陷；2）容易丢掉垂直性——对策：composition 里写 strong verticality, pointed arch
-- **关联流派**：拜占庭艺术、早期尼德兰绘画、罗马式艺术
-
----
-
-### 国际哥特式 · International Gothic（1375–1450｜欧洲宫廷）
-
-> 宫廷的最后一首华丽长诗：飘动的衣褶、金箔、细密到奢侈的装饰。
-
-- **核心主张**：跨国的宫廷风格，从巴黎到布拉格到米兰共享同一套优雅语言；极度精致的细密画与挂毯式构图；优雅拉长的人物与流动的 S 形衣褶；金箔与宝石色，装饰性压倒写实
-- **构图**：挂毯式平面构图、装饰性边框、人物沿弧线排列
-- **光色**：色彩——宝石般的金、深蓝、朱红、翠绿，配大面积金箔；光影——柔和均匀，无强光源；人物像发光体
-- **质感**：笔触——细密精致，几乎不见笔触；细节密度极高；材质——羊皮纸细密画、木板蛋彩、金箔、挂毯
-- **情绪**：优雅、梦幻、宫廷式的精致与轻微的忧郁
-- **色锚**：`#C9A227` `#1B3A6B` `#8E1B1B` `#1E6B4F` `#7A1F3A` `#E8DCC8`
-- **翻车点**：1）和哥特式混淆——对策：国际哥特式更华丽、更宫廷、金箔更多；2）容易降低细节密度——对策：，显式写出相反的画面特征
-- **关联流派**：哥特式艺术、早期文艺复兴、拜占庭艺术
+- **Core claim**: antiquity as the norm, pursuing universality and permanence; clear composition, distinct contours, restrained color; subjects mainly myth, history, allegory; forming the long-standing opposite of Romanticism in Western art history
+- **Composition**: pyramidal or horizontal band, poses drawn from antique sculpture
+- **Light and color**: color — restrained warm brown and gray-blue, flesh and drapery colors refined but not loud; light — clear even lighting, form modeled firmly but without drama
+- **Texture**: brushwork — smooth, disciplined, the stroke serving form; materials — oil on canvas, polished surface, marble sculpture
+- **Emotion**: grave, balanced, rational nobility
+- **Color anchors**: `#8B6B4A` `#A8B0B8` `#D9B29A` `#7A1F2B` `#C9A227` `#E8DCC8`
+- **Failure points**: 1) distinguishing it from Neoclassicism: Neoclassicism is a historical period (1760–1830), Classicism a continuous attitude; 2) dramatic light is easily added — remedy: address that defect explicitly in the frame description
+- **Related movements**: Neoclassicism, Renaissance, Academic Art
 
 ---
 
-### 墨西哥壁画运动 · Muralism（1920–1950｜墨西哥）
+### Classical Realism（1970–present | Europe and America / Global）
 
-> 把革命史画满整面墙：农民、工人、印第安人和机器，全部挤在一起。
+> Contemporary painters relearning nineteenth-century craft, but looking at modern bodies with modern eyes.
 
-- **核心主张**：公共壁画：艺术直接面向不识字的民众；宏大的历史叙事与政治宣传；融合前哥伦布艺术、民间艺术与欧洲现代主义；人物密集、场景叠加、时间线被打乱
-- **构图**：满墙铺陈、多场景叠加、人物密集、圆形与弧形分割
-- **光色**：色彩——浓烈的土色与矿物色：赭红、钴蓝、玉米黄、黑；光影——平涂为主，用色块与粗轮廓塑造形体
-- **质感**：笔触——壁画式的粗犷用笔，气势大于精微；材质——湿壁画、水泥墙、矿物颜料、马赛克
-- **情绪**：史诗、愤怒、民间生命力、政治激情
-- **色锚**：`#A8432A` `#1F5FA8` `#E8C020` `#2B2B33` `#5A8A4A` `#C98A4A`
-- **翻车点**：1）容易简化成少数人物——对策：，在画面描述中显式针对此缺陷；2）色彩容易不够浓——对策：明确 mineral palette, intense
-- **关联流派**：社会现实主义、社会主义现实主义、原生艺术
-
----
-
-### 威尼斯画派 · Venetian School（1500–1600｜威尼斯）
-
-> 不画线条，用颜色本身造形——油画史上第一次「色彩优先」。
-
-- **核心主张**：色建构形（colorito）对抗佛罗伦萨的素描优先（disegno）；温暖的威尼斯光，大气与湿度可见；感官性：丝绸、肌肤、水面的质感被极度珍视；松散的晚期笔触预示了印象派
-- **构图**：斜向与对角线，人物在开阔的风景或建筑中，空间感来自色彩而非线条
-- **光色**：色彩——温暖浓郁：威尼斯红、金褐、深绿、天青；饱和度高于同期佛罗伦萨；光影——柔和温暖的环境光，明暗过渡丰富，空气有湿度感
-- **质感**：笔触——早期柔和，晚期（提香、丁托列托）松弛奔放、可见笔痕；材质——粗纹亚麻布油画、暖色底子、厚涂与罩染并用
-- **情绪**：感官、丰饶、抒情、带着肉体的温度
-- **色锚**：`#A8322D` `#8B5E2A` `#1E4A3A` `#4A7C9E` `#D9B26A` `#2B2318`
-- **翻车点**：1）容易加硬轮廓线——对策：在画面描述中显式针对此缺陷；2）容易变成普通古典画——对策：强调 colorito, warm humid atmosphere
-- **关联流派**：文艺复兴、巴洛克、样式主义
+- **Core claim**: contemporary artists systematically reviving classical realist technique; rigorous training in proportion, anatomy, and chiaroscuro; modern subjects, classical technique; unlike Photorealism it keeps brushwork and painterliness
+- **Composition**: figure-centered, classically proportioned composition, simplified background
+- **Light and color**: color — a classical limited palette, flesh handled with great refinement; light — classic chiaroscuro, the source explicit and soft
+- **Texture**: brushwork — visible but controlled, not erased as in a photograph; materials — oil on canvas, classical layered glazing, linen
+- **Emotion**: quiet, grave, respect for craft
+- **Color anchors**: `#8B6B4A` `#D9B29A` `#4A5A6B` `#7A1F2B` `#C9A227` `#E8DCC8`
+- **Failure points**: 1) distinguishing it from Photorealism: here brushwork and painterliness are kept; 2) keep it descriptive only — no artwork images
+- **Related movements**: Academic Art, Photorealism, Renaissance
 
 ---
 
-### 媚俗艺术 · Kitsch（1930–今｜全球）
+### Post-Impressionism（1885–1905 | France）
 
-> 刻意的甜腻：太漂亮、太感伤、太讨喜，反而成了一种美学武器。
+> Setting out from Impressionism, but trading light and color for structure, symbol, and emotion.
 
-- **核心主张**：对大众趣味的过度迎合：甜、亮、无害；廉价复制品的美学（瓷盘、明信片、纪念品）；被现代艺术视为敌人，又被后现代重新启用；感伤、可爱、温馨到令人不适
-- **构图**：正面居中、对称、装饰性边框
-- **光色**：色彩——过度饱和的粉、金、天蓝、雪白；甜到发腻；光影——柔和的、理想化的、没有阴影的光
-- **质感**：笔触——商业插画式的光滑，或廉价印刷的网点；材质——瓷、亮片、塑料、廉价印刷品、金边
-- **情绪**：甜蜜、感伤、刻意廉价，看久了会不安
-- **色锚**：`#F2A8C8` `#E8C020` `#7FC8E8` `#FFFFFF` `#C1272D` `#8BC34A`
-- **翻车点**：1）容易被做成真的低级——对策：关键是「刻意的」，要，按画面意图定制描述以避开；2）只存描述，不收作品图
-- **关联流派**：波普艺术、新波普、超扁平、装饰艺术
-
----
-
-### 学院派艺术 · Academic Art（1750–1900｜法国 / 欧洲）
-
-> 沙龙的标准答案：完美素描、光滑表面、神话与历史的正确姿势。
-
-- **核心主张**：素描高于色彩（disegno 传统的延续）；光滑无笔触的「舔过」表面（licked finish）；历史画与神话题材，严格的构图与解剖规范；理想化的人体，绝不出现现实的不完美
-- **构图**：金字塔或舞台式排列，清晰的视觉引导线
-- **光色**：色彩——柔和协调的棕调体系，肉色与织物色精致过渡；光影——均匀的影棚式布光，形体圆润，阴影透明
-- **质感**：笔触——完全看不见笔触，表面如照片般光滑；材质——细纹亚麻布、多层罩染、抛光表面
-- **情绪**：端庄、理想化、叙事性、无可指摘的完美
-- **色锚**：`#8B6B4A` `#D9B29A` `#7A1F2B` `#1B3A6B` `#C9A227` `#E8DCC8`
-- **翻车点**：1）容易加厚涂——对策：明确 licked finish, invisible brushwork, polished surface；2）容易变得平庸——对策：，按画面意图定制描述以避开
-- **关联流派**：新古典主义、现实主义、拉斐尔前派
+- **Core claim**: no longer painting only what is seen, beginning to paint what is felt; color blocked in, flattened, sacrificing volume for expressiveness; directional brushwork becoming a language of emotion; Cézanne's structure, Van Gogh's swirl, Gauguin's flat fill — three paths
+- **Composition**: flattened space, multiple viewpoints, decorative borders, negative space juxtaposed with color blocks
+- **Light and color**: color — high-saturation, unnatural: Van Gogh's chrome yellow and cobalt, Gauguin's flat fill in pure color; light — light internalized as color intensity, no longer dependent on a real source
+- **Texture**: brushwork — impasto with clear direction: short aligned strokes, swirls, color-block boundaries; materials — extremely thick impasto ridged with paint, or Gauguin's flat matte
+- **Emotion**: intense, subjective, uneasy or mysterious
+- **Color anchors**: `#F0C420` `#2B4C9B` `#1E7A5A` `#C1272D` `#6B3FA0` `#E8A33D`
+- **Failure points**: 1) Post-Impressionism easily becomes ordinary impasto — remedy: customize the description to the frame's intent and avoid it; 2) the Van Gogh style is easily over-templated — remedy: add concrete constraints (short directional brushwork rather than a generic swirl)
+- **Related movements**: Impressionism, Expressionism, Symbolism
 
 ---
 
-### 工艺美术运动 · Arts and Crafts（1860–1910｜英国）
+### Hudson River School（1825–1875 | United States）
 
-> 反工业化：用手工、自然纹样和中世纪精神对抗机器生产。
+> America's first native school: vast wilderness expressing national destiny and religious awe.
 
-- **核心主张**：手工至上，反对机器量产（拉斯金、莫里斯）；自然纹样高度风格化：藤蔓、花卉、鸟类；中世纪与民间传统的复兴；装饰与实用合一：壁纸、织物、家具、书籍
-- **构图**：满版重复图案，或带边框的叙事性插图
-- **光色**：色彩——植物染色系的柔和色：苔绿、赭黄、砖红、靛蓝；光影——平面装饰为主，无立体塑造
-- **质感**：笔触——图案化的平涂线条，重复单元构成纹样；材质——手工印刷壁纸、木刻版画、羊毛织物、染色玻璃
-- **情绪**：温厚、自然、诚恳、带着道德感的朴素
-- **色锚**：`#5A7A4A` `#C9A227` `#A8322D` `#2B4C7A` `#8B6B4A` `#E8DCC8`
-- **翻车点**：1）和新艺术运动混淆——对策：工艺美术更朴素、更中世纪；新艺术更曲线化、更感官；2）容易加立体感——对策：在画面描述中显式针对此缺陷
-- **关联流派**：拉斐尔前派、新艺术运动、维也纳分离派
-
----
-
-### 巴洛克 · Baroque（1600–1750｜意大利 / 佛兰德斯 / 荷兰 / 西班牙）
-
-> 把光当成主角，用戏剧性明暗和动势制造情绪高潮。
-
-- **核心主张**：tenebrism：大面积黑，一束光劈开画面；对角线动势，构图永远在「正在发生」；织物质感极度华丽，褶皱是炫技战场；宗教与权力叙事，情绪压倒理性
-- **构图**：对角线 / S 形动势，画面被切出画外，观者被拉进场景
-- **光色**：色彩——深褐、沥青黑打底，暖金、猩红、深蓝点缀；高对比低饱和；光影——单一强光源从画外射入，暗部大面积吞没；烛光、天光、舞台光
-- **质感**：笔触——松弛、可见、有速度感；鲁本斯式肥厚笔触；材质——厚重亚麻布、天鹅绒、锦缎、大理石、镀金木
-- **情绪**：戏剧、激昂、感官、压迫感
-- **色锚**：`#1A1512` `#6B4423` `#C9A227` `#8E1B1B` `#1F3A5F` `#E8DCC0`
-- **翻车点**：1）写「dark」不够——对策：在画面描述中显式针对此缺陷；2）多光源会让画面变成普通暗调摄影；3）过饱和会变成奇幻插画而非巴洛克
-- **关联流派**：文艺复兴、洛可可
+- **Core claim**: grand landscape, humans tiny or absent; luminism: light streaming from cloud gaps or the horizon; detailed botanical and geological observation, both scientific and symbolic; wilderness as sacred space, implicitly invoking manifest destiny
+- **Composition**: three-part structure of foreground lead-in (rock, tree) + middle-ground water + distant mountains
+- **Light and color**: color — the warm gold, pale violet, gray-green of dawn and dusk; extremely rich sky gradations; light — low-angle sun through clouds, humid atmosphere producing halos and endless layering
+- **Texture**: brushwork — fine realism, delicate in passages; later work tending toward atmosphere and simplification; materials — fine-weave oil on canvas, layered glazing, transparent atmospheric effects
+- **Emotion**: sublime, serene, awe, patriotic grandeur
+- **Color anchors**: `#C9A227` `#8B9BB0` `#3E5A3A` `#D9A25A` `#6B5A7A` `#E8DCC8`
+- **Failure points**: 1) it easily gives only a "pretty landscape photo" — remedy: customize the description to the frame's intent and avoid it; 2) insufficient layering — remedy: specify three-part depth, atmospheric perspective
+- **Related movements**: Romanticism, Tonalism
 
 ---
 
-### 形而上绘画 · Metaphysical Art（1910–1920｜意大利）
+### Gothic Art（1150–1450 | Western Europe）
 
-> 空荡的意大利广场、拉长的影子、没有人的雕像——超现实主义的直接源头。
+> Letting light through stained glass, turning stone into skeleton, making everything grow upward.
 
-- **核心主张**：空旷的广场与拱廊，人极少或完全缺席；极度拉长的影子，暗示画面外的低垂太阳；日常物体的非逻辑并置（手套、球、雕像）；透视正确但空间感觉不对，像舞台布景
-- **构图**：空旷广场、拱廊透视、物体如静物般并置
-- **光色**：色彩——土黄、赭石、暗绿、灰蓝；温暖而陈旧；光影——低角度长影，黄昏感，光很硬但氛围很静
-- **质感**：笔触——平滑精确，几乎无笔触；材质——布面油画、平滑罩染、古典建筑元素
-- **情绪**：忧郁、悬置、时间停止的形而上学不安
-- **色锚**：`#C9A25A` `#8B6B4A` `#4A5A4A` `#6B8B9E` `#2B2B33` `#E8DCC8`
-- **翻车点**：1）和超现实主义混淆——对策：形而上绘画更早、更克制、更建筑化；2）容易填满场景——对策：显式，在画面描述中显式针对此缺陷
-- **关联流派**：超现实主义、魔幻现实主义（绘画）、古典主义
-
----
-
-### 拉斐尔前派 · Pre-Raphaelite（1848–1890｜英国）
-
-> 回到拉斐尔之前：超饱和的宝石色、密到窒息的细节、红发女主角。
-
-- **核心主张**：拒绝学院派的棕色调，用湿白底让颜色发光；极致细节：每片叶子、每根头发都画完；文学与神话题材，中世纪与亚瑟王传说；标志性的红发女性形象与忧郁气质
-- **构图**：平面化装饰构图 + 密集的自然细节背景；常有框景与纹样
-- **光色**：色彩——高饱和宝石色：翡翠绿、朱红、钴蓝、金褐；在暗底上发光；光影——均匀明亮的自然光，细节全开；阴影少而透
-- **质感**：笔触——极细、几乎无笔触，局部厚涂；表面如珐琅；材质——湿白底油画、细密笔触、珐琅般表面、织毯与刺绣纹样
-- **情绪**：浪漫、忧郁、感官、文学性、略带病态
-- **色锚**：`#1E6B4F` `#B02A2A` `#2B4C9B` `#8B5E2A` `#4A2B3A` `#E8D5B0`
-- **翻车点**：1）容易降低细节密度——对策：按画面意图定制描述以避开；2）容易变成现代奇幻插画——对策：加 19th century british, medieval revival, wet white ground
-- **关联流派**：浪漫主义、象征主义、新艺术运动
+- **Core claim**: vertical lines dominant, everything rising; stained glass dyeing light jewel-colored, the true light source of the Gothic; moving from flat symbolism toward natural observation, volume and emotion gradually appearing; the elegant curves and sumptuous dress of International Gothic
+- **Composition**: vertical ascent, pointed arch, radial symmetry of the rose window
+- **Light and color**: color — jewel glass color: deep blue, scarlet, gold, emerald; luminous blocks on a dark ground; light — scattered light through stained glass, colored patches falling on stone floor
+- **Texture**: brushwork — fine flat fill plus gold leaf in manuscripts; late panel painting showing soft volume; materials — stained glass, egg tempera on panel, gold leaf, stone carving, parchment
+- **Emotion**: mystical, devotional, sumptuous, an upward longing
+- **Color anchors**: `#1B3A6B` `#8E1B1B` `#C9A227` `#1E6B4F` `#4A3B6B` `#2B2B33`
+- **Failure points**: 1) it easily becomes dark Gothic subculture — remedy: address that defect explicitly in the frame description; 2) verticality is easily lost — remedy: write strong verticality, pointed arch in the composition
+- **Related movements**: Byzantine Art, Early Netherlandish, Romanesque
 
 ---
 
-### 拜占庭艺术 · Byzantine Art（330–1453｜东罗马 / 东正教世界）
+### International Gothic（1375–1450 | European courts）
 
-> 放弃写实，用金底和正面律把人间变成永恒的神圣空间。
+> The court's last sumptuous long poem: floating drapery, gold leaf, ornament fine to the point of extravagance.
 
-- **核心主张**：金色背景取代真实空间，人物悬浮而非站立；正面律（frontal）：圣像直视观者，不做透视缩短；严格的图像程序（iconography），姿势和手势都有固定含义；平面化、装饰化，拒绝自然主义解剖
-- **构图**：中轴对称、等级比例（重要的人物画得更大）、平面排列
-- **光色**：色彩——金箔底 + 朱红、群青、祖母绿；高纯度平涂，极少过渡；光影——无光源、无投影——光来自金色本身，是神性的而非物理的
-- **质感**：笔触——细腻平涂 + 硬边轮廓；镶嵌画则是马赛克颗粒的硬质闪烁；材质——金箔木板蛋彩、玻璃马赛克、湿壁画、象牙
-- **情绪**：庄严、超验、静穆、非人间的永恒感
-- **色锚**：`#C9A227` `#8E1B1B` `#1F3A8A` `#1E6B4F` `#6B3FA0` `#2B2B33`
-- **翻车点**：1）容易自动加透视和阴影——对策：按画面意图定制描述以避开；2）金底容易被做成黄色背景——对策：要写 gold leaf ground, luminous, mosaic
-- **关联流派**：哥特式艺术、早期尼德兰绘画
-
----
-
-### 文艺复兴 · Renaissance（1400–1600｜意大利 / 北欧）
-
-> 用解剖学、透视法和古典比例，把神请回人间。
-
-- **核心主张**：线性透视 + 空气透视，画面有可测量的纵深；人体解剖准确，姿态来自古典雕塑；金字塔式构图，主体稳定地坐在画面中心；明暗对照（chiaroscuro）取代中世纪平面化布光
-- **构图**：金字塔 / 三角构图，地平线压低，背景常有理想化风景或建筑
-- **光色**：色彩——赭石、土黄、暗红、赭绿为主；低饱和但层次厚，金箔点缀；光影——统一的单向光源，从侧上方来；暗部保留细节而非死黑，sfumato 让边缘雾化
-- **质感**：笔触——几乎看不见笔触，表面如釉；这是后世最容易被 AI 弄错的一点；材质——木板蛋彩 → 布面油画；亚麻纹理、清漆暖黄
-- **情绪**：庄严、克制、理性；神圣感来自秩序而不是夸张
-- **色锚**：`#8C6A3F` `#A8322D` `#2E3B2F` `#3B3630` `#D9C7A3` `#B08D2E`
-- **翻车点**：1）易默认给油画加厚涂笔触——对策：按画面意图定制描述以避开；2）现代人的脸和姿势——对策：，按画面意图定制描述以避开；3）色彩过艳——对策：明确 muted earth palette 并压低 saturation
-- **关联流派**：巴洛克、新古典主义
+- **Core claim**: a transnational court style, sharing one elegant language from Paris to Prague to Milan; extremely refined miniature painting and tapestry-like composition; elegantly elongated figures with flowing S-curve drapery; gold leaf and jewel color, decoration overriding realism
+- **Composition**: tapestry-like flat composition, decorative border, figures arranged along an arc
+- **Light and color**: color — jewel-like gold, deep blue, vermilion, emerald, with large areas of gold leaf; light — soft and even, no strong source; figures like luminous bodies
+- **Texture**: brushwork — fine and delicate, brushwork almost invisible; extremely high detail density; materials — parchment miniature, egg tempera on panel, gold leaf, tapestry
+- **Emotion**: elegant, dreamlike, courtly refinement with a slight melancholy
+- **Color anchors**: `#C9A227` `#1B3A6B` `#8E1B1B` `#1E6B4F` `#7A1F3A` `#E8DCC8`
+- **Failure points**: 1) confusing it with Gothic art — remedy: International Gothic is more sumptuous, more courtly, with more gold leaf; 2) detail density easily drops — remedy: state the opposite frame features explicitly
+- **Related movements**: Gothic Art, Early Renaissance, Byzantine Art
 
 ---
 
-### 新印象派（点彩） · Neo-Impressionism（1884–1900｜法国）
+### Muralism（1920–1950 | Mexico）
 
-> 把印象派的直觉变成科学：用纯色小点让眼睛自己调色。
+> Painting revolutionary history across an entire wall: peasants, workers, Indigenous peoples, and machines all crowded together.
 
-- **核心主张**：点彩法（pointillism）：细小纯色笔触并置，由视网膜混合；补色对比与光学理论（修拉、西涅克）；追求数学化的构图与黄金分割；画面因此极其稳定、静止，失去了印象派的即兴
-- **构图**：几何化、稳定、常带黄金分割与明确边框
-- **光色**：色彩——纯色小点并置：橙与蓝、黄与紫、红与绿成对出现；光影——均匀明亮的户外光，阴影也由彩色点构成
-- **质感**：笔触——统一大小的小圆点或短笔触，覆盖全画面，无一处随意；材质——细纹布面、平涂排列的纯色小点、哑光表面
-- **情绪**：静谧、理性、近乎数学的秩序感
-- **色锚**：`#E8A33D` `#2B4C9B` `#F0C420` `#6B3FA0` `#C1272D` `#5A8F6B`
-- **翻车点**：1）容易把点彩做成模糊噪点——对策：明确 uniform small dots, pure pigment, optical mixture；2）容易丢失稳定性——对策：强调 geometric stable composition, golden section
-- **关联流派**：印象派、后印象派
-
----
-
-### 新古典主义 · Neoclassicism（1760–1830｜法国 / 英国）
-
-> 用古希腊罗马的直线和硬边，给革命时代一个道德样板。
-
-- **核心主张**：轮廓清晰、边缘锐利，反洛可可的软；考古式准确：罗马服饰、柱式、器物；浅浮雕式构图，人物像舞台上的群像；理性、克制、说教，情绪被压到最低
-- **构图**：水平带状构图，人物横向排开，建筑背景作为舞台
-- **光色**：色彩——冷调、克制：大理石白、石灰灰、钢蓝、暗红点缀；光影——均匀的顶光 / 侧顶光，像石膏模型打光；阴影干净锐利
-- **质感**：笔触——高度抛光、几乎无笔触，追求雕塑感；材质——大理石、石膏、抛光油画、青铜
-- **情绪**：庄严、冷静、道德感、英雄主义
-- **色锚**：`#E4E2DC` `#9AA0A6` `#3E5C76` `#8A2B2B` `#B99C6B` `#2B2B2B`
-- **翻车点**：1）容易加软边和雾——对策：按画面意图定制描述以避开；2）容易和文艺复兴混淆：新古典更冷、更硬、更「像石膏」
-- **关联流派**：文艺复兴、浪漫主义
+- **Core claim**: public mural painting: art addressed directly to a largely illiterate public; grand historical narrative and political propaganda; fusing pre-Columbian art, folk art, and European modernism; dense figures, stacked scenes, a disrupted timeline
+- **Composition**: full-wall application, superimposed scenes, dense figures, circular and arc division
+- **Light and color**: color — intense earth and mineral color: ochre red, cobalt, corn yellow, black; light — mainly flat fill, form built with color blocks and coarse contours
+- **Texture**: brushwork — the rough handling of mural painting, force over finesse; materials — fresco, cement wall, mineral pigment, mosaic
+- **Emotion**: epic, angry, folk vitality, political passion
+- **Color anchors**: `#A8432A` `#1F5FA8` `#E8C020` `#2B2B33` `#5A8A4A` `#C98A4A`
+- **Failure points**: 1) it easily simplifies to a few figures — remedy: address that defect explicitly in the frame description; 2) color easily lacks intensity — remedy: specify mineral palette, intense
+- **Related movements**: Social Realism, Socialist Realism, Art Brut
 
 ---
 
-### 新客观主义 · New Objectivity（1920–1933｜德国）
+### Venetian School（1500–1600 | Venice）
 
-> 魏玛德国的冷眼：战争伤残、夜店、妓女与投机商，画得像外科手术。
+> Not drawing lines but building form with color itself — the first "color first" in the history of oil painting.
 
-- **核心主张**：对表现主义情绪化的反动，转向冷酷的写实；社会批判肖像：把丑与病如实画出；精确、锐利、干燥的技法；与魏玛共和国的社会危机直接对应
-- **构图**：正面肖像、拥挤的城市场景、对称而压迫
-- **光色**：色彩——干冷的色：灰绿、土黄、锌白、暗红；低饱和；光影——硬朗均匀的光，不留温情，细节清晰
-- **质感**：笔触——极精细的写实，笔触被彻底隐藏；材质——木板或布面油画、极细罩染
-- **情绪**：冷酷、讽刺、临床式的直视、被压抑的暴烈
-- **色锚**：`#6B7A6A` `#C9A25A` `#D9D5CC` `#8B1A2A` `#3A3A38` `#8B6B4A`
-- **翻车点**：1）和表现主义区分：新客观主义是冷写实，表现主义是热变形；2）容易加温情——对策：在画面描述中显式针对此缺陷
-- **关联流派**：表现主义、魔幻现实主义（绘画）、社会现实主义
-
----
-
-### 新浪漫主义 · Neo-Romanticism（1930–1955｜英国 / 欧洲）
-
-> 战后英国的忧郁风景：荒废的庄园、海岸、废墟，和一种温柔的绝望。
-
-- **核心主张**：浪漫主义情绪在 20 世纪的复现，但更内省、更破碎；荒凉风景、废墟、海岸、废弃建筑；人物孤独、背对观者、或完全缺席；诗意的忧郁取代了 19 世纪的崇高
-- **构图**：孤独的物体置于空旷风景中，人物渺小
-- **光色**：色彩——灰绿、暗蓝、沙褐、褪色的粉；低饱和；光影——阴天散射光、黄昏微光、湿润的空气
-- **质感**：笔触——柔和、有质感，介于写实与表现之间；材质——布面油画、坦培拉、素描
-- **情绪**：忧郁、孤独、诗意的荒凉、战后的疲倦
-- **色锚**：`#6B7A6A` `#4A5A6B` `#A89878` `#C9A8A0` `#3A3A38` `#D9CFC0`
-- **翻车点**：1）和浪漫主义区分：新浪漫主义更安静、更灰、没有崇高感；2）容易加戏剧性——对策：在画面描述中显式针对此缺陷
-- **关联流派**：浪漫主义、色调主义、象征主义
+- **Core claim**: colorito building form against Florentine disegno; warm Venetian light with visible atmosphere and humidity; sensuality: silk, skin, and water surfaces treasured; loose late brushwork anticipating Impressionism
+- **Composition**: oblique and diagonal, figures in open landscape or architecture, spatial depth coming from color rather than line
+- **Light and color**: color — warm and rich: Venetian red, golden brown, deep green, cerulean; higher saturation than contemporary Florence; light — soft warm ambient light, rich tonal transitions, air with a sense of humidity
+- **Texture**: brushwork — soft early on, loose and expansive in the late phase (Titian, Tintoretto), brush marks visible; materials — oil on coarse linen, warm ground, impasto and glazing together
+- **Emotion**: sensual, abundant, lyrical, with the warmth of the body
+- **Color anchors**: `#A8322D` `#8B5E2A` `#1E4A3A` `#4A7C9E` `#D9B26A` `#2B2318`
+- **Failure points**: 1) hard contour lines are easily added — remedy: address that defect explicitly in the frame description; 2) it easily becomes ordinary classical painting — remedy: stress colorito, warm humid atmosphere
+- **Related movements**: Renaissance, Baroque, Mannerism
 
 ---
 
-### 新艺术运动 · Art Nouveau（1890–1910｜法国 / 比利时 / 奥地利 / 西班牙）
+### Kitsch（1930–present | Global）
 
-> 把植物藤蔓变成设计语言：一切都是鞭线、曲线和装饰框。
+> Deliberate sweetness: too pretty, too sentimental, too pleasing — which becomes an aesthetic weapon in itself.
 
-- **核心主张**：鞭线（whiplash line）：S 形、鞭状的有机曲线；平面装饰 + 粗轮廓线，海报美学的源头；自然母题：藤蔓、百合、孔雀、蝴蝶、女性长发；艺术与工艺合一：绘画、建筑、家具同一套语言
-- **构图**：中央主体被装饰性圆环/拱形框住，纵向海报比例
-- **光色**：色彩——柔和而有装饰性：鼠尾草绿、芥末黄、暗金、藕荷、孔雀蓝；光影——平面化，几乎无体积光；靠色块和线条分隔
-- **质感**：笔触——平坦色块 + 粗细变化的装饰轮廓线（Mucha 式）；材质——石版画、海报纸、彩色玻璃、锻铁、木雕
-- **情绪**：优雅、繁复、感官、带有自然的神秘
-- **色锚**：`#8A9A5B` `#D4A82A` `#B08D57` `#B08BA8` `#2E6E7E` `#E8DCC8`
-- **翻车点**：1）容易把 Art Nouveau 和 Art Deco 混淆——对策：按画面意图定制描述以避开；2）不，按画面意图定制描述以避开
-- **关联流派**：象征主义、装饰艺术、拉斐尔前派
-
----
-
-### 日本主义 · Japonism（1860–1900｜法国 / 欧洲）
-
-> 浮世绘登陆巴黎：欧洲画家第一次学会用平面、留白和裁切来看世界。
-
-- **核心主张**：欧洲艺术家对日本美术的接受与再创造；非对称构图、大胆裁切、大面积留白；平面色块与装饰性轮廓线；扇面、屏风、浮世绘版画的格式被直接挪用
-- **构图**：斜向裁切、主体偏置、前景遮挡、留白当空气
-- **光色**：色彩——平涂的鲜明色块，靛蓝、朱红、草绿，不追求明暗过渡；光影——平面化，无立体塑造；靠色块与轮廓区分
-- **质感**：笔触——平涂 + 装饰性线条，或模仿版画的均匀色面；材质——油画、版画、装饰屏风、陶瓷
-- **情绪**：清新、装饰性、带着异国情调的现代感
-- **色锚**：`#1F3A6E` `#B03A2E` `#5A8A5A` `#C9A227` `#E8DCC0` `#2B2B2B`
-- **翻车点**：1）和浮世绘混淆——对策：日本主义是欧洲画家的再创造，媒介仍是油画；2）容易加透视——对策：按画面意图定制描述以避开
-- **关联流派**：浮世绘、印象派、新艺术运动
+- **Core claim**: over-catering to popular taste: sweet, bright, harmless; the aesthetic of cheap reproductions (porcelain plates, postcards, souvenirs); seen as the enemy by modern art, then re-enabled by postmodernism; sentimental, cute, warm to the point of discomfort
+- **Composition**: frontal and centered, symmetrical, decorative border
+- **Light and color**: color — over-saturated pink, gold, sky blue, snow white; sweet to cloying; light — soft, idealized, shadowless
+- **Texture**: brushwork — the smoothness of commercial illustration, or the halftone dots of cheap printing; materials — porcelain, sequin, plastic, cheap printed matter, gilded edge
+- **Emotion**: sweet, sentimental, deliberately cheap, unsettling after prolonged viewing
+- **Color anchors**: `#F2A8C8` `#E8C020` `#7FC8E8` `#FFFFFF` `#C1272D` `#8BC34A`
+- **Failure points**: 1) it easily comes out genuinely low-grade — remedy: the key is "deliberate"; customize the description to the frame's intent and avoid it; 2) keep it descriptive only — no artwork images
+- **Related movements**: Pop Art, Neo-Pop, Superflat, Art Deco
 
 ---
 
-### 早期尼德兰绘画 · Early Netherlandish（1420–1550｜佛兰德斯 / 荷兰）
+### Academic Art（1750–1900 | France / Europe）
 
-> 油画技术的发明者：用一层层透明釉把布料的每一根毛都画出来。
+> The salon's standard answer: flawless drawing, smooth surface, the correct poses of myth and history.
 
-- **核心主张**：油性媒介的早期掌握者，能画出前所未有的细节与光泽；微观写实：织物、金属、地板纹理全部精确；隐藏的象征物（disguised symbolism）布满日常场景；室内空间与镜子、窗户构成的复杂反射
-- **构图**：室内中景，人物居中，背景细节填满每个角落
-- **光色**：色彩——深沉的宝石色，红、绿、蓝都很厚；黑是真正的深黑；光影——细致的窗光与烛光，金属高光锐利，阴影通透
-- **质感**：笔触——几乎不可见——层层透明罩染（glaze），表面如镜；材质——橡木板油画、亚麻布、金箔、镜面与铅玻璃
-- **情绪**：冷静、精密、虔敬中带着世俗的富足
-- **色锚**：`#7A1F2B` `#1E4A3A` `#1B3A6B` `#C9A227` `#2B2B2B` `#E8DCC0`
-- **翻车点**：1）容易给油画加厚涂——对策：在画面描述中显式针对此缺陷；2）细节密度容易不足——对策：，在画面描述中显式针对此缺陷
-- **关联流派**：文艺复兴、哥特式艺术、荷兰黄金时代、流派总览
-
----
-
-### 早期文艺复兴 · Early Renaissance（1400–1490｜意大利）
-
-> 透视法刚被发明出来：画面第一次有了可以走进去的空间。
-
-- **核心主张**：线性透视作为新工具，建筑与地面线严格汇聚；人体解剖开始被真实研究，但仍带理想化；宗教题材里出现当代人物肖像；蛋彩仍是主流，油画刚传入
-- **构图**：严格的单点透视，建筑框住画面，人物成排
-- **光色**：色彩——清亮的蛋彩：粉红、天蓝、草绿、金；比盛期文艺复兴更明亮；光影——均匀柔和，形体靠线条与淡淡的明暗塑造
-- **质感**：笔触——细腻平涂，边缘清晰；可见蛋彩的粉质；材质——木板蛋彩、金箔、湿壁画
-- **情绪**：明朗、秩序感、虔敬中带着人间的亲切
-- **色锚**：`#E8A0A8` `#7FA8D8` `#7FA86B` `#C9A227` `#A8432A` `#E8DCC8`
-- **翻车点**：1）容易做成盛期文艺复兴的厚重感——对策：强调 tempera, bright, clear contours；2）透视容易不对——对策：，显式写出相反的画面特征
-- **关联流派**：文艺复兴、国际哥特式、哥特式艺术
+- **Core claim**: drawing above color (a continuation of the disegno tradition); the smooth, brushstroke-free "licked finish"; history painting and myth with strict rules of composition and anatomy; idealized bodies, never showing real imperfection
+- **Composition**: pyramidal or stage-like arrangement, clear leading lines
+- **Light and color**: color — a soft harmonious brown system, flesh and drapery colors finely graded; light — even studio lighting, rounded form, transparent shadows
+- **Texture**: brushwork — brushwork entirely invisible, the surface as smooth as a photograph; materials — fine linen, layered glazing, polished surface
+- **Emotion**: dignified, idealized, narrative, impeccable perfection
+- **Color anchors**: `#8B6B4A` `#D9B29A` `#7A1F2B` `#1B3A6B` `#C9A227` `#E8DCC8`
+- **Failure points**: 1) impasto is easily added — remedy: specify licked finish, invisible brushwork, polished surface; 2) it easily becomes bland — remedy: customize the description to the frame's intent and avoid it
+- **Related movements**: Neoclassicism, Realism, Pre-Raphaelite
 
 ---
 
-### 样式主义 · Mannerism（1520–1600｜意大利 / 欧洲宫廷）
+### Arts and Crafts（1860–1910 | United Kingdom）
 
-> 拉斐尔之后无路可走，于是把比例拉长、颜色变酸、姿态拧成螺旋。
+> Anti-industrial: handcraft, natural pattern, and medieval spirit against machine production.
 
-- **核心主张**：figura serpentinata：螺旋上升的扭曲姿态；比例刻意拉长，头小颈长手指细；色彩转向酸性的粉、绿、紫，不再自然；空间被压扁，人物堆叠在画面前沿
-- **构图**：拥挤的前景、压扁的空间、螺旋扭动的人体、不稳定的平衡
-- **光色**：色彩——酸性、不自然的粉绿紫橙并置；冷暖冲突强烈；光影——冷调的均匀光，形体如瓷器般光滑；阴影少而硬
-- **质感**：笔触——高度抛光、无笔触，追求优雅的表面；材质——抛光油画、冷色底子、青铜雕塑
-- **情绪**：优雅、不安、造作、智性的焦虑
-- **色锚**：`#C98BA5` `#8FA86B` `#6B4A8B` `#D98B4A` `#4A6B8B` `#E8DCC8`
-- **翻车点**：1）容易修正成正常比例——对策：按画面意图定制描述以避开；2）颜色容易被拉回自然——对策：明确 acid unnatural colour
-- **关联流派**：文艺复兴、威尼斯画派、巴洛克、流派总览
-
----
-
-### 毕德麦雅 · Biedermeier（1815–1848｜中欧（奥地利 / 德国））
-
-> 革命之后的欧洲把目光收回客厅：精确、安宁、务实的市民日常。
-
-- **核心主张**：家庭室内、手工、阅读、音乐是主要题材；轮廓精确干净，接近版画的清晰度；色彩明快柔和：奶油、淡粉、浅蓝、柔绿；刻意避开宏大叙事与戏剧冲突
-- **构图**：稳定的室内布局，人物在做安静的事，平面化排布
-- **光色**：色彩——奶油白、淡粉、浅蓝、柔绿；明度高、饱和度低；光影——窗光均匀铺满室内，几乎没有强阴影
-- **质感**：笔触——细腻平涂，边缘锐利，看不到明显笔触；材质——布面油画、水彩、素描、版画
-- **情绪**：安宁、务实、有节制的温情
-- **色锚**：`#EFE3D0` `#E3B7B0` `#A8C4D8` `#B7C9A8` `#C9A227` `#6B5B4A`
-- **翻车点**：1）容易自作主张加戏剧光——对策：在画面描述中显式针对此缺陷；2）容易被画成印象派——对策：强调 precise clean outlines, smooth finish
-- **关联流派**：现实主义、浪漫主义、荷兰黄金时代、色调主义
+- **Core claim**: handcraft above all, against machine mass production (Ruskin, Morris); highly stylized natural pattern: vine, flower, bird; revival of medieval and folk tradition; ornament joined with utility: wallpaper, textile, furniture, book
+- **Composition**: all-over repeating pattern, or narrative illustration within a border
+- **Light and color**: color — the soft colors of vegetable dye: moss green, ochre yellow, brick red, indigo; light — mainly flat decoration, no modeling
+- **Texture**: brushwork — patterned flat line, motifs built from repeated units; materials — hand-printed wallpaper, woodcut, woolen textile, stained glass
+- **Emotion**: warm, natural, sincere, a moral plainness
+- **Color anchors**: `#5A7A4A` `#C9A227` `#A8322D` `#2B4C7A` `#8B6B4A` `#E8DCC8`
+- **Failure points**: 1) confusing it with Art Nouveau — remedy: Arts and Crafts is plainer and more medieval; Art Nouveau is more curvilinear and more sensual; 2) volume is easily added — remedy: address that defect explicitly in the frame description
+- **Related movements**: Pre-Raphaelite, Art Nouveau, Vienna Secession
 
 ---
 
-### 洛可可 · Rococo（1730–1780｜法国 / 德意志）
+### Baroque（1600–1750 | Italy / Flanders / Netherlands / Spain）
 
-> 把巴洛克的重量换成糖霜：粉彩、曲线、享乐与轻浮。
+> Making light the protagonist, using dramatic chiaroscuro and movement to build an emotional climax.
 
-- **核心主张**：贝壳曲线（rocaille）与 C 形 S 形装饰主导；粉彩高明度配色，几乎没有真正的黑；主题是贵族休闲：宴饮、秋千、梳妆、花园；画面轻盈到飘起来，构图常偏心、不对称
-- **构图**：不对称、斜向、框景（树木/帷幕框住主体），人物小而环境大
-- **光色**：色彩——粉红、天青、薄荷绿、奶油白、浅金；高明度低对比；光影——柔和漫射光，近乎无影；像午后花园的散射光
-- **质感**：笔触——轻快、羽毛般的触感，笔触松但不厚；材质——丝绸、缎带、瓷器、镀金灰泥、花园绿植
-- **情绪**：愉悦、轻佻、亲密、无忧
-- **色锚**：`#F3C6D2` `#A8CFE0` `#BFD9C0` `#F5EBDC` `#D8B978` `#C98BA5`
-- **翻车点**：1）容易把 pastel 做成低饱和灰调——对策：强调 high key, low contrast, luminous；2）容易滑向巴洛克——对策：显式，在画面描述中显式针对此缺陷
-- **关联流派**：巴洛克、浪漫主义
-
----
-
-### 浪漫主义 · Romanticism（1800–1850｜法国 / 英国 / 德国）
-
-> 把渺小的人放进狂暴的自然里，用崇高感（sublime）压倒你。
-
-- **核心主张**：崇高（sublime）：自然的尺度让人战栗；强调个人情感、风暴、废墟、异域；大气透视与湿润空气，远景没入雾中；笔触奔放，色彩为情绪服务而非写实
-- **构图**：人小景大，垂直崇高感或斜向动势，地平线低
-- **光色**：色彩——暗调基底 + 炽热高光：落日橙、血红、铅灰、墨绿；光影——逆光与剪影，光源常在画面深处；光晕、丁达尔光
-- **质感**：笔触——明显、有速度、有方向；风暴感来自笔触运动；材质——粗亚麻布、厚涂、可见画布纹理
-- **情绪**：敬畏、孤独、激越、忧郁、向往
-- **色锚**：`#3A2E2A` `#C6552B` `#7A1F1F` `#2F4032` `#D9B26A` `#1B2430`
-- **翻车点**：1）容易只给「美丽日落」——对策：在画面描述中显式针对此缺陷；2）缺了大气透视会变成普通风景照——对策：，在画面描述中显式针对此缺陷
-- **关联流派**：新古典主义、现实主义、象征主义
+- **Core claim**: tenebrism: large areas of black, one shaft of light splitting the frame; diagonal movement, the composition always "happening"; fabric texture extremely sumptuous, drapery folds the arena for display of skill; religious and political narrative, emotion overriding reason
+- **Composition**: diagonal / S-curve movement, the frame cut open to the outside, the viewer drawn into the scene
+- **Light and color**: color — deep brown and bitumen black ground, warm gold, scarlet, deep blue accents; high contrast, low saturation; light — a single strong source from outside the frame, shadows swallowing large areas; candlelight, skylight, stage light
+- **Texture**: brushwork — loose, visible, with a sense of speed; Rubens's fat strokes; materials — heavy linen, velvet, brocade, marble, gilded wood
+- **Emotion**: dramatic, impassioned, sensual, oppressive
+- **Color anchors**: `#1A1512` `#6B4423` `#C9A227` `#8E1B1B` `#1F3A5F` `#E8DCC0`
+- **Failure points**: 1) writing "dark" is not enough — remedy: address that defect explicitly in the frame description; 2) multiple light sources turn it into ordinary low-key photography; 3) over-saturation turns it into fantasy illustration rather than Baroque
+- **Related movements**: Renaissance, Rococo
 
 ---
 
-### 现实主义 · Realism（1840–1880｜法国 / 俄罗斯）
+### Metaphysical Art（1910–1920 | Italy）
 
-> 不美化、不神化，把农民、工人和日常劳动搬上大画布。
+> Empty Italian squares, elongated shadows, statues with no people — the direct source of Surrealism.
 
-- **核心主张**：题材来自当下日常：劳作、市集、街巷；拒绝理想化，保留粗糙与不体面；色调偏暗、偏土，接近自然光下的真实；尺幅巨大但内容平凡，形成张力
-- **构图**：平视、无戏剧性；截取日常的一角，常有「未完成感」
-- **光色**：色彩——土色系：棕、灰、赭、暗绿；低饱和，几乎不用鲜艳色；光影——自然散射光，阴天/室内窗光；没有戏剧化打光
-- **质感**：笔触——克制、写实但不炫技；库尔贝式厚涂偶尔出现；材质——粗糙亚麻、厚涂、泥土质感
-- **情绪**：质朴、沉重、诚实、有社会批判性
-- **色锚**：`#5A4632` `#6E6A5E` `#3D3A33` `#8B6B4A` `#A89B7C` `#4A5A4A`
-- **翻车点**：1）易默认，在画面描述中显式针对此缺陷；2）容易变成「复古照片」——对策：强调 oil painting, visible canvas, brushwork
-- **关联流派**：浪漫主义、印象派
-
----
-
-### 社会主义现实主义 · Socialist Realism（1932–1980｜苏联 / 中国 / 东欧）
-
-> 宣传画的美学：劳动者昂首向前，阳光永远从未来照过来。
-
-- **核心主张**：国家规定的创作方法：歌颂革命与劳动；英雄化、理想化的工人农民形象；乐观、明亮、向上，永远指向光明的未来；中国版本融合年画的鲜艳与油画的写实
-- **构图**：仰视、金字塔式、人物指向前方或上方
-- **光色**：色彩——明快饱和：鲜红、金黄、天蓝、白；对比强烈且干净；光影——低角度阳光、逆光轮廓、英雄式打光
-- **质感**：笔触——光滑写实，去掉个人手迹；材质——布面油画、宣传海报、石版画
-- **情绪**：昂扬、集体主义、必胜的信念感（形式上极其有效）
-- **色锚**：`#C1272D` `#E8C020` `#2B6BB8` `#F2EDE4` `#4A7A3A` `#8B5E2A`
-- **翻车点**：1）和社会现实主义区分清楚，两者政治立场相反但技法同源；2）容易做得太阴沉——对策：强调 bright, optimistic, heroic light
-- **关联流派**：社会现实主义、墨西哥壁画运动、装饰艺术
+- **Core claim**: empty squares and arcades, humans very few or entirely absent; extremely elongated shadows implying a low sun outside the frame; illogical juxtaposition of everyday objects (glove, ball, statue); perspective correct but the space feels wrong, like a stage set
+- **Composition**: empty square, arcade perspective, objects juxtaposed like still life
+- **Light and color**: color — earth yellow, ochre, dark green, gray-blue; warm and aged; light — low-angle long shadows, a dusk feel, hard light but very still atmosphere
+- **Texture**: brushwork — smooth and precise, almost no brushwork; materials — oil on canvas, smooth glazing, classical architectural elements
+- **Emotion**: melancholy, suspension, the metaphysical unease of time stopped
+- **Color anchors**: `#C9A25A` `#8B6B4A` `#4A5A4A` `#6B8B9E` `#2B2B33` `#E8DCC8`
+- **Failure points**: 1) confusing it with Surrealism — remedy: Metaphysical Art is earlier, more restrained, more architectural; 2) the scene is easily filled up — remedy: address that defect explicitly in the frame description
+- **Related movements**: Surrealism, Magic Realism, Classicism
 
 ---
 
-### 社会现实主义 · Social Realism（1920–1950｜美国 / 欧洲）
+### Pre-Raphaelite（1848–1890 | United Kingdom）
 
-> 大萧条的眼睛：罢工、排队领面包、空荡的厂房与疲惫的脸。
+> Back to before Raphael: over-saturated jewel color, detail dense to the point of breathlessness, red-haired heroines.
 
-- **核心主张**：以社会批判为目的的写实绘画；聚焦工人、失业者、贫民窟与阶级冲突；与宣传性的社会主义现实主义不同，它批判本国；受摄影与新闻纪实影响，构图直接有力
-- **构图**：纪念碑式的人物特写、街景、工业场景
-- **光色**：色彩——灰褐、土黄、暗蓝，低饱和但结实有力；光影——硬朗的侧光或阴天散射，突出面部与手
-- **质感**：笔触——明确的写实笔触，有时偏干、偏硬；材质——布面油画、壁画、版画、素描
-- **情绪**：沉重、愤怒、同情、有尊严的抗争
-- **色锚**：`#6B5A4A` `#A89060` `#4A5A6B` `#A8432A` `#3A3A38` `#D9CFC0`
-- **翻车点**：1）和社会主义现实主义混淆——对策：社会现实主义批判本国，社会主义现实主义歌颂体制；2）容易加美颜——对策：按画面意图定制描述以避开
-- **关联流派**：现实主义、阿什坎学派、社会主义现实主义、墨西哥壁画运动
-
----
-
-### 稚拙艺术（原始主义） · Naïve Art (Primitivism)（1880–今｜全球）
-
-> 没受过训练反而自由：透视是错的、比例是怪的，但画面异常有生命力。
-
-- **核心主张**：未经学院训练的自学画家，或刻意模仿这种视角；透视、比例、解剖被有意无意地「弄错」；细节极其丰富且平均分配，不分主次；色彩鲜艳、轮廓清晰、充满叙事欲望
-- **构图**：俯视或平铺、细节铺满、多视点混杂
-- **光色**：色彩——鲜明饱和的平涂色，常不协调但生机勃勃；光影——几乎没有光影，物体是平面的
-- **质感**：笔触——细致、均匀、有耐心的描绘；笔触不表现情绪；材质——布面油画、平涂、清晰轮廓线
-- **情绪**：天真、好奇、充满细节的喜悦、偶尔不安
-- **色锚**：`#3E8A5A` `#E8C020` `#2B6BB8` `#C1272D` `#8B5E2A` `#F2EDE4`
-- **翻车点**：1）容易「修正」错误——对策：显式，在画面描述中显式针对此缺陷；2）细节容易不够密——对策：，显式写出相反的画面特征
-- **关联流派**：后印象派、原生艺术、域外艺术、魔幻现实主义（绘画）
+- **Core claim**: rejecting the academic brown palette, using a wet white ground so color glows; extreme detail: every leaf and every hair painted out; literary and mythological subjects, medieval and Arthurian legend; the signature red-haired female figure and melancholy temperament
+- **Composition**: flattened decorative composition plus a background of dense natural detail; often framing and pattern
+- **Light and color**: color — high-saturation jewel color: emerald, vermilion, cobalt, golden brown; glowing on a dark ground; light — even bright natural light, detail fully open; shadows few and transparent
+- **Texture**: brushwork — extremely fine, almost invisible, with local impasto; the surface like enamel; materials — oil on wet white ground, fine brushwork, enamel-like surface, tapestry and embroidery pattern
+- **Emotion**: romantic, melancholy, sensual, literary, slightly morbid
+- **Color anchors**: `#1E6B4F` `#B02A2A` `#2B4C9B` `#8B5E2A` `#4A2B3A` `#E8D5B0`
+- **Failure points**: 1) detail density easily drops — remedy: customize the description to the frame's intent and avoid it; 2) it easily becomes modern fantasy illustration — remedy: add 19th century british, medieval revival, wet white ground
+- **Related movements**: Romanticism, Symbolism, Art Nouveau
 
 ---
 
-### 精确主义 · Precisionism（1920–1940｜美国）
+### Byzantine Art（330–1453 | Eastern Roman / Orthodox world）
 
-> 把工厂和谷仓画成几何体：干净、锐利、没有人，像建筑渲染图。
+> Abandoning realism: a gold ground and frontality turn the human world into eternal sacred space.
 
-- **核心主张**：工业与农业建筑被还原为纯粹的几何形体；边缘锐利、表面光滑、细节被剔除；画面几乎无人，安静到不真实；美国本土的早期现代主义，介于写实与抽象之间
-- **构图**：低视角仰视建筑、强烈的几何切割、大面积空无
-- **光色**：色彩——干净的冷调：灰蓝、银白、砖红、深绿；平涂为主；光影——清晰锐利的光影，但形体被简化，几乎没有细节纹理
-- **质感**：笔触——平滑无笔触，硬边几何；材质——布面油画、平涂硬边、工业感表面
-- **情绪**：冷静、孤立、工业时代的清冷诗意
-- **色锚**：`#8B9BB0` `#D9CFC0` `#A8432A` `#3A4A3A` `#2B2B33` `#C9A227`
-- **翻车点**：1）和立体主义混淆——对策：精确主义仍是可辨识的写实，只是几何化；2）容易加人——对策：在画面描述中显式针对此缺陷
-- **关联流派**：立体主义、美国地域主义、装饰艺术
-
----
-
-### 纳比派 · Les Nabis（1888–1900｜法国）
-
-> 把画变成装饰：平面色块、粗轮廓、日常室内的一层温柔滤镜。
-
-- **核心主张**：平面化与装饰性，受浮世绘与高更影响；室内日常题材：餐桌、浴室、花园、孩子；柔和而饱和的色块，轮廓被弱化或消失；绘画与装饰艺术（屏风、壁纸、剧场）打通
-- **构图**：摄影式裁切、装饰性图案铺满、视点常被抬高
-- **光色**：色彩——柔和却饱满：赭黄、玫瑰、青绿、灰蓝；色块之间关系微妙；光影——光被主观化，没有明确光源，只有色块的明度差
-- **质感**：笔触——平涂为主，边缘模糊，偶有布料般的哑光肌理；材质——布面蛋彩或油画、哑光胶质表面、装饰屏风
-- **情绪**：亲密、温柔、日常的诗意、略带忧郁
-- **色锚**：`#D9A25A` `#C98BA5` `#5A8F7A` `#7A8FA8` `#B03A2E` `#E8DCC8`
-- **翻车点**：1）容易加写实光影——对策：显式，在画面描述中显式针对此缺陷；2）色彩容易过艳——对策：强调 matte, soft harmony, 装饰性而非刺激
-- **关联流派**：后印象派、象征主义、浮世绘
+- **Core claim**: a gold background replacing real space, figures floating rather than standing; frontality: icons looking straight at the viewer, no foreshortening; strict iconography, pose and gesture with fixed meanings; flat and decorative, rejecting naturalistic anatomy
+- **Composition**: axial symmetry, hierarchical scale (important figures painted larger), flat arrangement
+- **Light and color**: color — gold leaf ground plus vermilion, ultramarine, emerald; high-purity flat fill, very few transitions; light — no source, no cast shadow — light comes from the gold itself, divine rather than physical
+- **Texture**: brushwork — fine flat fill plus hard-edged contour; in mosaic, the hard glitter of tesserae; materials — gold leaf on panel with egg tempera, glass mosaic, fresco, ivory
+- **Emotion**: solemn, transcendent, still, an otherworldly eternity
+- **Color anchors**: `#C9A227` `#8E1B1B` `#1F3A8A` `#1E6B4F` `#6B3FA0` `#2B2B33`
+- **Failure points**: 1) perspective and shadow are automatically added — remedy: customize the description to the frame's intent and avoid it; 2) the gold ground easily becomes a yellow background — remedy: write gold leaf ground, luminous, mosaic
+- **Related movements**: Gothic Art, Early Netherlandish
 
 ---
 
-### 维也纳分离派 · Vienna Secession（1897–1918｜奥地利）
+### Renaissance（1400–1600 | Italy / Northern Europe）
 
-> 金箔、几何纹样与情欲：把世纪末维也纳的华丽与焦虑压进画面。
+> Using anatomy, perspective, and classical proportion to bring the divine back down to earth.
 
-- **核心主张**：装饰性金箔与几何图案大面积使用；人物与图案互相渗透，边界消失；情欲、死亡、女性身体作为核心母题；整体艺术（Gesamtkunstwerk）：绘画、建筑、设计同一语言
-- **构图**：垂直构图、方框套方框、图案填满背景
-- **光色**：色彩——金箔 + 深色底 + 局部鲜亮色块；装饰性极强；光影——平面化，人物像被压进图案；没有真实光源
-- **质感**：笔触——细腻平涂 + 马赛克式小色块；装饰线条精确；材质——金箔、油画、马赛克、彩色玻璃、金属装饰
-- **情绪**：华丽、感官、不安、濒死的绚烂
-- **色锚**：`#C9A227` `#1B3A4A` `#7A1F3A` `#2B2B33` `#D98B4A` `#E8DCC8`
-- **翻车点**：1）容易只做成「金色装饰画」——对策：，按画面意图定制描述以避开；2）和穆夏混淆——对策：克里姆特更几何、更暗、更情欲；穆夏更海报化
-- **关联流派**：象征主义、新艺术运动、表现主义
-
----
-
-### 罗马式艺术 · Romanesque（1000–1150｜西欧）
-
-> 厚重的墙、粗壮的比例、扭曲而有力的人物——为教堂服务的严肃艺术。
-
-- **核心主张**：形体厚重、比例拉长或扭曲，不为美服务而为表达服务；壁画与手抄本装饰以粗轮廓和强烈色块为主；叙事性图像程序：圣经故事按空间顺序铺满墙面；拒绝古典解剖，回到象征性的有力造型
-- **构图**：带状叙事排列、填满不留白、中轴象征性布局
-- **光色**：色彩——赭红、土黄、暗绿、群青；色块分明，颜料多为矿物；光影——几乎无立体塑造，只有轮廓和色块；光来自建筑本身
-- **质感**：笔触——粗犷、直接、有力；线条比调子重要；材质——湿壁画、木板蛋彩、彩绘手抄本羊皮纸、石雕
-- **情绪**：严肃、虔敬、有力、略带粗野
-- **色锚**：`#9C4A2A` `#C9A227` `#3E5A3A` `#2B3E6B` `#6B4A2A` `#E8DCC0`
-- **翻车点**：1）容易把它做成文艺复兴——对策：在画面描述中显式针对此缺陷；2）色彩容易过艳——对策：用矿物土色并压饱和
-- **关联流派**：拜占庭艺术、哥特式艺术
+- **Core claim**: linear perspective plus atmospheric perspective, the frame with measurable depth; accurate human anatomy, poses from classical sculpture; pyramidal composition, the subject stably seated at the center; chiaroscuro replacing medieval flat lighting
+- **Composition**: pyramidal / triangular composition, lowered horizon, background often idealized landscape or architecture
+- **Light and color**: color — mainly ochre, earth yellow, dark red, ochre green; low saturation but rich layering, gold leaf accents; light — a unified single source from the upper side; shadows retaining detail rather than dead black, sfumato misting the edges
+- **Texture**: brushwork — brushwork almost invisible, the surface like glaze; this is the point later generations most often get wrong; materials — egg tempera on panel → oil on canvas; linen texture, warm yellow varnish
+- **Emotion**: grave, restrained, rational; the sacred coming from order rather than exaggeration
+- **Color anchors**: `#8C6A3F` `#A8322D` `#2E3B2F` `#3B3630` `#D9C7A3` `#B08D2E`
+- **Failure points**: 1) impasto brushwork is the default for oil painting — remedy: customize the description to the frame's intent and avoid it; 2) modern faces and poses — remedy: customize the description to the frame's intent and avoid it; 3) color too vivid — remedy: specify muted earth palette and lower saturation
+- **Related movements**: Baroque, Neoclassicism
 
 ---
 
-### 美国地域主义 · Regionalism（1930–1945｜美国中西部）
+### Neo-Impressionism (Pointillism)（1884–1900 | France）
 
-> 美国心脏地带的自我画像：农田、教堂、小镇，带着怀疑与乡愁。
+> Turning Impressionist intuition into science: small dots of pure color so the eye mixes them itself.
 
-- **核心主张**：描绘美国中西部乡村生活，反对欧洲现代主义；写实但带有刻意的夸张与戏剧化；线条清晰、形体圆润，带插画感；常带有保守主义或社会讽刺的暧昧立场
-- **构图**：风景成为主角，人物渺小或姿态僵硬；常有不安的空白
-- **光色**：色彩——土黄、砖红、灰绿、暗蓝；温暖但克制；光影——戏剧化的斜射光，形体被清晰勾勒
-- **质感**：笔触——精确、干净、有插画式的明确边缘；材质——布面油画、蛋彩、壁画
-- **情绪**：乡愁与不安并存、孤立、隐晦的批判
-- **色锚**：`#C9A25A` `#A8432A` `#6B7A5A` `#4A5A6B` `#8B6B4A` `#D9CFC0`
-- **翻车点**：1）容易被当成普通田园画——对策：，按画面意图定制描述以避开；2）容易加浪漫光——对策：显式，在画面描述中显式针对此缺陷
-- **关联流派**：精确主义、社会现实主义、美国现实主义
-
----
-
-### 美国现实主义 · American Realism（1865–1930｜美国）
-
-> 霍默的海、埃金斯划船的下午：美国第一次用自己的眼睛看自己。
-
-- **核心主张**：摆脱欧洲学院传统，转向本土题材；户外生活、体育、航海、市井日常；以摄影般的精确与冷静观察；光线明亮、色彩清透，带外光写生感
-- **构图**：抓取动作的瞬间、横向展开的水面或田野
-- **光色**：色彩——清透的自然色：海蓝、草绿、白衬衫、木褐；光影——明亮的户外日光，清晰的明暗但不过度戏剧化
-- **质感**：笔触——写实、明确，有时偏干；不炫技；材质——布面油画、水彩、写实厚涂
-- **情绪**：清爽、务实、克制的观察、带一丝孤独
-- **色锚**：`#4A7C9E` `#7FA86B` `#E8E4DA` `#8B6B4A` `#C9A25A` `#3A4A5A`
-- **翻车点**：1）和现实主义混淆——对策：美国现实主义更亮、更户外、更本土；2）容易加象征意味——对策：在画面描述中显式针对此缺陷
-- **关联流派**：现实主义、阿什坎学派、自然主义
+- **Core claim**: pointillism: fine strokes of pure color juxtaposed, mixed by the retina; complementary contrast and optical theory (Seurat, Signac); seeking a mathematical composition and the golden section; the frame therefore extremely stable and static, losing Impressionism's spontaneity
+- **Composition**: geometric, stable, often with the golden section and an explicit border
+- **Light and color**: color — small dots of pure color juxtaposed: orange with blue, yellow with violet, red with green appearing in pairs; light — even bright outdoor light, shadows also built from colored dots
+- **Texture**: brushwork — small dots or short strokes of uniform size covering the whole frame, nothing left casual; materials — fine-weave canvas, pure-color dots laid in flat array, matte surface
+- **Emotion**: quiet, rational, an almost mathematical sense of order
+- **Color anchors**: `#E8A33D` `#2B4C9B` `#F0C420` `#6B3FA0` `#C1272D` `#5A8F6B`
+- **Failure points**: 1) pointillism easily becomes blurry noise — remedy: specify uniform small dots, pure pigment, optical mixture; 2) stability is easily lost — remedy: stress geometric stable composition, golden section
+- **Related movements**: Impressionism, Post-Impressionism
 
 ---
 
-### 自然主义 · Naturalism（1870–1900｜法国 / 欧洲）
+### Neoclassicism（1760–1830 | France / United Kingdom）
 
-> 比现实主义更冷：把人物当成生物来观察，环境决定命运。
+> Using the straight lines and hard edges of Greece and Rome to give the revolutionary age a moral model.
 
-- **核心主张**：受实证科学影响，用观察与记录的态度作画；强调环境、遗传、阶级对人的塑造；题材偏向底层与边缘，但不作道德评判；色彩比现实主义更明亮，接近外光写生
-- **构图**：平视、无戏剧性，像社会调查的现场记录
-- **光色**：色彩——明亮的自然色，户外光下的真实色调；比现实主义更亮；光影——真实的日光，包括刺眼的直射光，不美化
-- **质感**：笔触——写实但不炫技，有时带印象派的松弛；材质——布面油画、写实厚涂、外光写生
-- **情绪**：冷静、客观、带有生理学式的直视
-- **色锚**：`#8B6B4A` `#A8B86B` `#6B8B9E` `#A8432A` `#5A6B4A` `#E8DCC8`
-- **翻车点**：1）和现实主义混淆——对策：自然主义更亮、更冷、更强调环境决定论；2）容易加金色时光——对策：按画面意图定制描述以避开
-- **关联流派**：现实主义、印象派、社会现实主义
-
----
-
-### 色调主义 · Tonalism（1880–1915｜美国）
-
-> 把风景化成一种颜色气氛：黄昏、雾气、模糊边界与安静的忧郁。
-
-- **核心主张**：统一的色调笼罩全画（多为灰、褐、紫灰）；边界模糊，形体被氛围溶解；黄昏、月夜、雨雾是首选时刻；情绪高于细节，接近音乐性的氛围
-- **构图**：简约、留白多、地平线低、单一母题（一棵树、一片水）
-- **光色**：色彩——极窄的调色板：灰紫、褐绿、暗金、银灰；低饱和低对比；光影——漫射的暮光，没有明确光源，一切浸在雾里
-- **质感**：笔触——柔和、羽化、笔触之间互相渗透；wet-in-wet；材质——布面油画、薄涂多层、柔和的哑光表面
-- **情绪**：忧郁、静谧、冥想、时间停止的感觉
-- **色锚**：`#6B6B7A` `#5A6B5A` `#8B7A5A` `#A8A8B0` `#3A3A4A` `#D9CFC0`
-- **翻车点**：1）容易加对比和清晰度——对策：在画面描述中显式针对此缺陷；2）容易被当成「曝光不足」——对策：强调 intentional muted tonality, atmospheric
-- **关联流派**：哈德逊河派、浪漫主义、象征主义
+- **Core claim**: clear contours, sharp edges, against Rococo softness; archaeological accuracy: Roman dress, orders, objects; bas-relief composition, figures like a group on a stage; rational, restrained, didactic, emotion pressed to a minimum
+- **Composition**: horizontal band composition, figures spread laterally, architectural background as stage
+- **Light and color**: color — cool and restrained: marble white, limestone gray, steel blue, dark red accents; light — even top light / top-side light, like lighting a plaster cast; shadows clean and sharp
+- **Texture**: brushwork — highly polished, almost no brushwork, pursuing a sculptural quality; materials — marble, plaster, polished oil painting, bronze
+- **Emotion**: grave, cool, moral, heroic
+- **Color anchors**: `#E4E2DC` `#9AA0A6` `#3E5C76` `#8A2B2B` `#B99C6B` `#2B2B2B`
+- **Failure points**: 1) soft edges and haze are easily added — remedy: customize the description to the frame's intent and avoid it; 2) it is easily confused with the Renaissance: Neoclassicism is colder, harder, more "like plaster"
+- **Related movements**: Renaissance, Romanticism
 
 ---
 
-### 荷兰黄金时代 · Dutch Golden Age（1600–1680｜荷兰）
+### New Objectivity（1920–1933 | Germany）
 
-> 把光变成一种物质：从窗口斜进来的一束光，照亮整个日常世界。
+> Weimar Germany's cold eye: war injuries, nightclubs, prostitutes, and profiteers, painted like surgery.
 
-- **核心主张**：室内光作为绝对主角，光源明确来自左侧窗户；日常题材的尊严化：厨娘、账房、静物、街景；精密的材质再现：锡罐、面包、蕾丝、玻璃；暧昧的道德寓意藏在最平常的物品里
-- **构图**：室内一角，人物常侧身或背对，视线望向画外
-- **光色**：色彩——暖褐与铅灰为主，点缀朱红与钴蓝；克制的饱和度；光影——单一窗光，明确的明暗分区，暗部有细节，亮部有质感
-- **质感**：笔触——精微处几乎无笔触；伦勃朗式则是厚涂与刮刀并用；材质——细纹亚麻布、铅白底子、透明罩染
-- **情绪**：宁静、克制、日常的庄重、略带私密感
-- **色锚**：`#6B4A2A` `#8B8B85` `#A8322D` `#2B4C7A` `#C9A227` `#E8DCC8`
-- **翻车点**：1）容易给多光源——对策：明确 single window light from the left；2）容易做成普通静物照——对策：，显式写出相反的画面特征
-- **关联流派**：巴洛克、卡拉瓦乔主义、早期尼德兰绘画
-
----
-
-### 象征主义 · Symbolism（1885–1910｜法国 / 比利时 / 奥地利）
-
-> 不画世界的样子，画梦境、神话与欲望的隐喻。
-
-- **核心主张**：拒绝写实与自然光，转向内心与神秘；女性形象常被塑造成致命美人（femme fatale）；金箔、装饰纹样、平面化空间；暧昧多义的叙事，拒绝单一解读
-- **构图**：平面化、装饰性、对称或仪式感排列，常有框中之框
-- **光色**：色彩——宝石色与暗金：孔雀蓝、祖母绿、深紫、金箔；光影——非自然光，发光体自明；人物像从内部发光
-- **质感**：笔触——平滑装饰性笔触，或精细到接近插画；材质——金箔、蛋彩、哑光油画、装饰线条
-- **情绪**：神秘、迷醉、危险、忧郁的感官性
-- **色锚**：`#1B4D3E` `#1F6F8B` `#4B2E6B` `#C9A227` `#8B1A3A` `#2A2A35`
-- **翻车点**：1）容易做成奇幻插画——对策：，显式写出相反的画面特征；2）光要「不自然」：明确 no realistic light source
-- **关联流派**：浪漫主义、新艺术运动、超现实主义
+- **Core claim**: a reaction against Expressionist emotionalism, turning to cold realism; socially critical portraiture: ugliness and illness drawn truthfully; precise, sharp, dry technique; directly corresponding to the social crisis of the Weimar Republic
+- **Composition**: frontal portrait, crowded urban scene, symmetrical and oppressive
+- **Light and color**: color — dry cold color: gray-green, earth yellow, zinc white, dark red; low saturation; light — hard even light with no warmth, detail crisp
+- **Texture**: brushwork — extremely fine realism, brushwork thoroughly hidden; materials — oil on panel or canvas, very fine glazing
+- **Emotion**: cold, satirical, a clinical directness, repressed violence
+- **Color anchors**: `#6B7A6A` `#C9A25A` `#D9D5CC` `#8B1A2A` `#3A3A38` `#8B6B4A`
+- **Failure points**: 1) distinguishing it from Expressionism: New Objectivity is cold realism, Expressionism is hot distortion; 2) warmth is easily added — remedy: address that defect explicitly in the frame description
+- **Related movements**: Expressionism, Magic Realism, Social Realism
 
 ---
 
-### 阿什坎学派 · Ashcan School（1900–1915｜美国）
+### Neo-Romanticism（1930–1955 | United Kingdom / Europe）
 
-> 把镜头对准城市的脏乱：后巷、酒馆、拳击场和挤满人的街道。
+> Postwar Britain's melancholy landscape: ruined estates, coastlines, ruins, and a gentle despair.
 
-- **核心主张**：城市底层日常作为正当题材；快速、粗糙、有新闻速写感的笔触；暗调、泥泞的色彩，拒绝美化；群像与瞬间抓取，接近摄影纪实
-- **构图**：拥挤、裁切随意、视点来自街面
-- **光色**：色彩——暗沉的泥色：褐、灰、墨绿、脏白；饱和度低；光影——街灯的昏黄、阴天的灰光；对比不强烈但很脏
-- **质感**：笔触——粗放、快速、可见；干笔与刮擦并用；材质——布面油画、粗纹、厚薄不均的颜料层
-- **情绪**：粗粝、同情、活力与疲惫并存
-- **色锚**：`#5A4A3A` `#6B6B60` `#3E4A3A` `#C9A227` `#8B3A2A` `#D9CFC0`
-- **翻车点**：1）容易自动美化——对策：在画面描述中显式针对此缺陷；2）容易变成怀旧明信片——对策：，在画面描述中显式针对此缺陷
-- **关联流派**：现实主义、印象派、色调主义
+- **Core claim**: a twentieth-century recurrence of Romantic feeling, but more inward and more broken; desolate landscape, ruins, coast, abandoned buildings; figures solitary, turned away, or entirely absent; poetic melancholy replacing nineteenth-century sublimity
+- **Composition**: a solitary object in an open landscape, figures small
+- **Light and color**: color — gray-green, dark blue, sand brown, faded pink; low saturation; light — overcast diffuse light, dusk glow, humid air
+- **Texture**: brushwork — soft, textured, between realism and expression; materials — oil on canvas, tempera, drawing
+- **Emotion**: melancholy, solitude, poetic desolation, postwar fatigue
+- **Color anchors**: `#6B7A6A` `#4A5A6B` `#A89878` `#C9A8A0` `#3A3A38` `#D9CFC0`
+- **Failure points**: 1) distinguishing it from Romanticism: Neo-Romanticism is quieter, grayer, without the sublime; 2) drama is easily added — remedy: address that defect explicitly in the frame description
+- **Related movements**: Romanticism, Tonalism, Symbolism
 
 ---
 
-### 魔幻现实主义（绘画） · Magic Realism（1925–1955｜德国 / 美国 / 欧洲）
+### Art Nouveau（1890–1910 | France / Belgium / Austria / Spain）
 
-> 不画梦境，而是把现实画得太清晰，清晰到它自己变得陌生。
+> Turning plant tendrils into design language: everything is whiplash line, curve, and decorative frame.
 
-- **核心主张**：与超现实主义不同：不画潜意识，而是精确描绘现实中的奇异；极度清晰、冷静、甚至冷酷的写实技法；奇异感来自精确本身，而非拼贴或变形；安静的、静止的、时间凝固的场景
-- **构图**：静止的日常场景、人物僵住、精确的透视
-- **光色**：色彩——清晰准确但偏冷的色，色调克制而均匀；光影——锐利、干净、不自然清晰的光，像冷光摄影
-- **质感**：笔触——极其平滑精细，几乎看不见笔触；材质——布面油画或蛋彩、极精细的罩染
-- **情绪**：诡异、静默、被凝固的时间、温柔的不安
-- **色锚**：`#8B9B9B` `#4A5A6B` `#C9A25A` `#A8432A` `#3A4A3A` `#E8E4DA`
-- **翻车点**：1）和超现实主义混淆——对策：明确 not surrealist juxtaposition, no dream imagery；2）容易加梦魇元素——对策：按画面意图定制描述以避开
-- **关联流派**：超现实主义、形而上绘画、照相写实主义、稚拙艺术（原始主义）
+- **Core claim**: the whiplash line: S-shaped, whip-like organic curves; flat decoration plus coarse contour lines, the source of poster aesthetics; natural motifs: vine, lily, peacock, butterfly, women's long hair; art joined with craft: painting, architecture, furniture in one language
+- **Composition**: central subject framed by a decorative ring / arch, vertical poster proportion
+- **Light and color**: color — soft and decorative: sage green, mustard yellow, dark gold, mauve, peacock blue; light — flattened, almost no volumetric light; separated by color block and line
+- **Texture**: brushwork — flat color blocks plus decorative contours of varying weight (Mucha style); materials — lithograph, poster paper, stained glass, wrought iron, wood carving
+- **Emotion**: elegant, intricate, sensual, with a natural mystery
+- **Color anchors**: `#8A9A5B` `#D4A82A` `#B08D57` `#B08BA8` `#2E6E7E` `#E8DCC8`
+- **Failure points**: 1) Art Nouveau is easily confused with Art Deco — remedy: customize the description to the frame's intent and avoid it; 2) ornament is easily overdone — remedy: customize the description to the frame's intent and avoid it
+- **Related movements**: Symbolism, Art Deco, Pre-Raphaelite
+
+---
+
+### Japonism（1860–1900 | France / Europe）
+
+> Ukiyo-e lands in Paris: European painters learn for the first time to see the world through flatness, negative space, and cropping.
+
+- **Core claim**: European artists' reception and re-creation of Japanese art; asymmetrical composition, bold cropping, large areas of negative space; flat color blocks and decorative contours; the formats of fan, screen, and ukiyo-e print directly borrowed
+- **Composition**: oblique cropping, off-center subject, foreground occlusion, negative space as air
+- **Light and color**: color — flat vivid blocks, indigo, vermilion, grass green, with no pursuit of tonal transition; light — flattened, no modeling; distinction by color block and contour
+- **Texture**: brushwork — flat fill plus decorative line, or the even color planes of print; materials — oil painting, print, decorative screen, ceramic
+- **Emotion**: fresh, decorative, a modern feel with exotic flavor
+- **Color anchors**: `#1F3A6E` `#B03A2E` `#5A8A5A` `#C9A227` `#E8DCC0` `#2B2B2B`
+- **Failure points**: 1) confusing it with ukiyo-e — remedy: Japonism is a European painter's re-creation, the medium still oil painting; 2) perspective is easily added — remedy: customize the description to the frame's intent and avoid it
+- **Related movements**: Ukiyo-e, Impressionism, Art Nouveau
+
+---
+
+### Early Netherlandish（1420–1550 | Flanders / Netherlands）
+
+> The inventors of oil technique: layer upon layer of transparent glaze until every hair of the fabric is painted.
+
+- **Core claim**: early masters of the oil medium, capable of detail and luster never seen before; micro-realism: fabric, metal, floor texture all exact; disguised symbolism scattered through everyday scenes; complex reflections formed by interior space, mirrors, and windows
+- **Composition**: interior middle shot, figures centered, background detail filling every corner
+- **Light and color**: color — deep jewel color, red, green, and blue all thick; black is truly deep black; light — detailed window light and candlelight, metallic highlights sharp, shadows transparent
+- **Texture**: brushwork — almost invisible — layer upon layer of transparent glaze, the surface like a mirror; materials — oil on oak panel, linen, gold leaf, mirror and leaded glass
+- **Emotion**: cool, precise, devotional with worldly prosperity
+- **Color anchors**: `#7A1F2B` `#1E4A3A` `#1B3A6B` `#C9A227` `#2B2B2B` `#E8DCC0`
+- **Failure points**: 1) impasto is easily added to oil painting — remedy: address that defect explicitly in the frame description; 2) detail density easily falls short — remedy: address that defect explicitly in the frame description
+- **Related movements**: Renaissance, Gothic Art, Dutch Golden Age, movement overview
+
+---
+
+### Early Renaissance（1400–1490 | Italy）
+
+> Perspective has just been invented: for the first time the frame has a space you can walk into.
+
+- **Core claim**: linear perspective as a new tool, building and floor lines strictly converging; human anatomy beginning to be studied truly, still idealized; contemporary portraits appearing in religious subjects; tempera still dominant, oil just arriving
+- **Composition**: strict single-point perspective, architecture framing the frame, figures in rows
+- **Light and color**: color — bright tempera colors: pink, sky blue, grass green, gold; brighter than the High Renaissance; light — even and soft, form built by line and faint chiaroscuro
+- **Texture**: brushwork — fine flat fill, clear edges; the powdery quality of tempera visible; materials — egg tempera on panel, gold leaf, fresco
+- **Emotion**: bright, orderly, devotional with human warmth
+- **Color anchors**: `#E8A0A8` `#7FA8D8` `#7FA86B` `#C9A227` `#A8432A` `#E8DCC8`
+- **Failure points**: 1) the heavy feel of the High Renaissance is easily added — remedy: stress tempera, bright, clear contours; 2) perspective easily goes wrong — remedy: state the opposite frame features explicitly
+- **Related movements**: Renaissance, International Gothic, Gothic Art
+
+---
+
+### Mannerism（1520–1600 | Italy / European courts）
+
+> After Raphael there was no way forward, so proportions were stretched, color soured, poses twisted into spirals.
+
+- **Core claim**: figura serpentinata: spiraling, ascending twisted poses; proportions deliberately elongated, small head, long neck, slender fingers; color turning acid pink, green, violet, no longer natural; space flattened, figures stacked at the front of the frame
+- **Composition**: crowded foreground, compressed space, spiraling bodies, unstable balance
+- **Light and color**: color — acid, unnatural pink, green, violet, orange juxtaposed; strong warm-cool conflict; light — cool even light, form smooth as porcelain; shadows few and hard
+- **Texture**: brushwork — highly polished, no brushwork, pursuing an elegant surface; materials — polished oil painting, cool ground, bronze sculpture
+- **Emotion**: elegant, uneasy, artificial, intellectual anxiety
+- **Color anchors**: `#C98BA5` `#8FA86B` `#6B4A8B` `#D98B4A` `#4A6B8B` `#E8DCC8`
+- **Failure points**: 1) proportions are easily corrected back to normal — remedy: customize the description to the frame's intent and avoid it; 2) color is easily pulled back to natural — remedy: specify acid unnatural colour
+- **Related movements**: Renaissance, Venetian School, Baroque, movement overview
+
+---
+
+### Biedermeier（1815–1848 | Central Europe (Austria / Germany)）
+
+> Post-revolutionary Europe turns its gaze back to the parlor: precise, peaceful, practical bourgeois daily life.
+
+- **Core claim**: domestic interior, craft, reading, and music as main subjects; precise clean contours close to the clarity of print; bright soft color: cream, pale pink, light blue, soft green; deliberately avoiding grand narrative and dramatic conflict
+- **Composition**: stable interior layout, figures doing quiet things, flat arrangement
+- **Light and color**: color — cream white, pale pink, light blue, soft green; high value, low saturation; light — window light evenly filling the interior, almost no strong shadow
+- **Texture**: brushwork — fine flat fill, sharp edges, no visible brushwork; materials — oil on canvas, watercolor, drawing, print
+- **Emotion**: peaceful, practical, restrained warmth
+- **Color anchors**: `#EFE3D0` `#E3B7B0` `#A8C4D8` `#B7C9A8` `#C9A227` `#6B5B4A`
+- **Failure points**: 1) dramatic light is easily added on its own initiative — remedy: address that defect explicitly in the frame description; 2) it is easily painted as Impressionism — remedy: stress precise clean outlines, smooth finish
+- **Related movements**: Realism, Romanticism, Dutch Golden Age, Tonalism
+
+---
+
+### Rococo（1730–1780 | France / Germany）
+
+> Replacing Baroque's weight with icing: pastel, curve, pleasure, and frivolity.
+
+- **Core claim**: rocaille shell curves and C- and S-shaped ornament dominate; high-key pastel palette with almost no true black; subjects of aristocratic leisure: feasting, swings, dressing, gardens; the frame so light it floats, composition often off-center and asymmetrical
+- **Composition**: asymmetrical, oblique, framing (trees / drapery enclosing the subject), figures small and environment large
+- **Light and color**: color — pink, cerulean, mint green, cream white, pale gold; high value, low contrast; light — soft diffuse light, almost shadowless; like the scattered light of an afternoon garden
+- **Texture**: brushwork — light, feathery touch, the stroke loose but not thick; materials — silk, ribbon, porcelain, gilded stucco, garden greenery
+- **Emotion**: pleasurable, flirtatious, intimate, carefree
+- **Color anchors**: `#F3C6D2` `#A8CFE0` `#BFD9C0` `#F5EBDC` `#D8B978` `#C98BA5`
+- **Failure points**: 1) pastel easily turns into low-saturation gray — remedy: stress high key, low contrast, luminous; 2) it easily slides toward Baroque — remedy: address that defect explicitly in the frame description
+- **Related movements**: Baroque, Romanticism
+
+---
+
+### Romanticism（1800–1850 | France / United Kingdom / Germany）
+
+> Placing a tiny human in a violent nature, overwhelming you with the sublime.
+
+- **Core claim**: the sublime: nature's scale makes one tremble; stressing individual emotion, storm, ruin, the exotic; atmospheric perspective and humid air, distant views lost in mist; expansive brushwork, color serving emotion rather than realism
+- **Composition**: small figure, vast scene, vertical sublimity or diagonal movement, low horizon
+- **Light and color**: color — a dark base plus incandescent highlights: sunset orange, blood red, lead gray, dark green; light — backlight and silhouette, the source often deep in the frame; halos, Tyndall light
+- **Texture**: brushwork — visible, fast, directional; the sense of storm coming from the movement of the stroke; materials — coarse linen, impasto, visible canvas weave
+- **Emotion**: awe, solitude, agitation, melancholy, longing
+- **Color anchors**: `#3A2E2A` `#C6552B` `#7A1F1F` `#2F4032` `#D9B26A` `#1B2430`
+- **Failure points**: 1) it easily gives only a "beautiful sunset" — remedy: address that defect explicitly in the frame description; 2) without atmospheric perspective it becomes an ordinary landscape photo — remedy: address that defect explicitly in the frame description
+- **Related movements**: Neoclassicism, Realism, Symbolism
+
+---
+
+### Realism（1840–1880 | France / Russia）
+
+> No beautifying, no deifying: peasants, workers, and daily labor on a large canvas.
+
+- **Core claim**: subjects taken from present daily life: labor, market, street; refusing idealization, keeping roughness and the unrespectable; palette dark and earthy, close to truth under natural light; large scale with ordinary content, producing tension
+- **Composition**: eye level, no drama; a corner cut from daily life, often with a sense of the unfinished
+- **Light and color**: color — earth palette: brown, gray, ochre, dark green; low saturation, vivid color almost unused; light — natural diffuse light, overcast / interior window light; no dramatic lighting
+- **Texture**: brushwork — restrained, realistic without showing off; Courbet-style impasto occasionally appearing; materials — coarse linen, impasto, the texture of earth
+- **Emotion**: plain, weighty, honest, socially critical
+- **Color anchors**: `#5A4632` `#6E6A5E` `#3D3A33` `#8B6B4A` `#A89B7C` `#4A5A4A`
+- **Failure points**: 1) the palette easily drifts toward prettiness — remedy: address that defect explicitly in the frame description; 2) it easily becomes a "vintage photograph" — remedy: stress oil painting, visible canvas, brushwork
+- **Related movements**: Romanticism, Impressionism
+
+---
+
+### Socialist Realism（1932–1980 | Soviet Union / China / Eastern Europe）
+
+> The aesthetics of the propaganda poster: laborers stride forward, and sunlight always comes from the future.
+
+- **Core claim**: state-prescribed creative method: celebrating revolution and labor; heroic, idealized images of workers and peasants; optimistic, bright, upward, always pointing to a bright future; the Chinese version fusing the vividness of New Year prints with the realism of oil painting
+- **Composition**: low angle, pyramidal, figures pointing forward or upward
+- **Light and color**: color — bright and saturated: fresh red, golden yellow, sky blue, white; strong and clean contrast; light — low-angle sunlight, rim light, heroic lighting
+- **Texture**: brushwork — smooth realism, erasing the individual hand; materials — oil on canvas, propaganda poster, lithograph
+- **Emotion**: uplifting, collectivist, a conviction of certain victory (formally extremely effective)
+- **Color anchors**: `#C1272D` `#E8C020` `#2B6BB8` `#F2EDE4` `#4A7A3A` `#8B5E2A`
+- **Failure points**: 1) distinguish it clearly from Social Realism: the two have opposite political stances but share a technical lineage; 2) it easily comes out too gloomy — remedy: stress bright, optimistic, heroic light
+- **Related movements**: Social Realism, Muralism, Art Deco
+
+---
+
+### Social Realism（1920–1950 | United States / Europe）
+
+> The eye of the Great Depression: strikes, bread lines, empty factories, and tired faces.
+
+- **Core claim**: realist painting with social critique as its purpose; focusing on workers, the unemployed, slums, and class conflict; unlike propaganda-driven Socialist Realism, it critiques its own country; influenced by photography and news documentary, composition direct and forceful
+- **Composition**: monumental figure close-up, street scene, industrial setting
+- **Light and color**: color — gray-brown, earth yellow, dark blue, low saturation but solid and forceful; light — hard side light or overcast diffusion, stressing faces and hands
+- **Texture**: brushwork — clearly realist strokes, sometimes dry and hard; materials — oil on canvas, mural, print, drawing
+- **Emotion**: weighty, angry, sympathetic, dignified resistance
+- **Color anchors**: `#6B5A4A` `#A89060` `#4A5A6B` `#A8432A` `#3A3A38` `#D9CFC0`
+- **Failure points**: 1) confusing it with Socialist Realism — remedy: Social Realism critiques its own country; Socialist Realism praises the system; 2) beautification is easily added — remedy: customize the description to the frame's intent and avoid it
+- **Related movements**: Realism, Ashcan School, Socialist Realism, Muralism
+
+---
+
+### Naïve Art (Primitivism)（1880–present | Global）
+
+> Untrained and therefore free: perspective is wrong, proportion is strange, yet the frame has unusual vitality.
+
+- **Core claim**: self-taught painters without academic training, or a deliberate imitation of that viewpoint; perspective, proportion, and anatomy "got wrong" intentionally or not; detail extremely rich and evenly distributed, with no hierarchy; color vivid, contours clear, full of narrative appetite
+- **Composition**: top-down or flat spread, detail filling the frame, mixed viewpoints
+- **Light and color**: color — vivid saturated flat color, often discordant but alive; light — almost no light and shade, objects flat
+- **Texture**: brushwork — meticulous, even, patient depiction; the stroke expresses no emotion; materials — oil on canvas, flat fill, clear contour lines
+- **Emotion**: innocent, curious, delight in detail, occasionally uneasy
+- **Color anchors**: `#3E8A5A` `#E8C020` `#2B6BB8` `#C1272D` `#8B5E2A` `#F2EDE4`
+- **Failure points**: 1) the "errors" are easily corrected — remedy: address that defect explicitly in the frame description; 2) detail easily lacks density — remedy: state the opposite frame features explicitly
+- **Related movements**: Post-Impressionism, Art Brut, Outsider Art, Magic Realism
+
+---
+
+### Precisionism（1920–1940 | United States）
+
+> Painting factories and barns as geometric solids: clean, sharp, uninhabited, like an architectural rendering.
+
+- **Core claim**: industrial and agricultural buildings reduced to pure geometric form; sharp edges, smooth surfaces, detail removed; almost no people in the frame, quiet to the point of unreality; an early American modernism between realism and abstraction
+- **Composition**: low-angle view up at the building, strong geometric cutting, large areas of emptiness
+- **Light and color**: color — clean cool color: gray-blue, silver white, brick red, deep green; mainly flat fill; light — clear sharp light and shadow, but form simplified, almost no detail texture
+- **Texture**: brushwork — smooth, brushstroke-free, hard-edge geometry; materials — oil on canvas, flat hard-edge fill, industrial surface
+- **Emotion**: cool, isolated, the chilly poetry of the industrial age
+- **Color anchors**: `#8B9BB0` `#D9CFC0` `#A8432A` `#3A4A3A` `#2B2B33` `#C9A227`
+- **Failure points**: 1) confusing it with Cubism — remedy: Precisionism remains recognizable realism, only geometrized; 2) people are easily added — remedy: address that defect explicitly in the frame description
+- **Related movements**: Cubism, Regionalism, Art Deco
+
+---
+
+### Les Nabis（1888–1900 | France）
+
+> Turning the painting into decoration: flat color blocks, coarse contours, a soft filter over everyday interiors.
+
+- **Core claim**: flatness and decoration, influenced by ukiyo-e and Gauguin; everyday interior subjects: dining table, bath, garden, children; soft yet saturated color blocks, contours weakened or gone; painting joined with decorative art (screen, wallpaper, theater)
+- **Composition**: photographic cropping, decorative pattern filling the frame, viewpoint often raised
+- **Light and color**: color — soft yet full: ochre yellow, rose, teal, gray-blue; subtle relations between color blocks; light — light subjectivized, no explicit source, only value differences between blocks
+- **Texture**: brushwork — mainly flat fill, blurred edges, occasional cloth-like matte texture; materials — egg tempera or oil on canvas, matte glue surface, decorative screen
+- **Emotion**: intimate, tender, the poetry of the everyday, slightly melancholy
+- **Color anchors**: `#D9A25A` `#C98BA5` `#5A8F7A` `#7A8FA8` `#B03A2E` `#E8DCC8`
+- **Failure points**: 1) realist light and shade are easily added — remedy: address that defect explicitly in the frame description; 2) color easily too vivid — remedy: stress matte, soft harmony, decorative rather than stimulating
+- **Related movements**: Post-Impressionism, Symbolism, Ukiyo-e
+
+---
+
+### Vienna Secession（1897–1918 | Austria）
+
+> Gold leaf, geometric pattern, and eros: compressing fin-de-siècle Vienna's splendor and anxiety into the frame.
+
+- **Core claim**: decorative gold leaf and geometric pattern used in large areas; figures and pattern interpenetrating, boundaries dissolving; eros, death, and the female body as core motifs; Gesamtkunstwerk: painting, architecture, and design in one language
+- **Composition**: vertical composition, frame within frame, pattern filling the background
+- **Light and color**: color — gold leaf plus a dark ground plus local bright blocks; extremely decorative; light — flattened, figures as if pressed into the pattern; no real source
+- **Texture**: brushwork — fine flat fill plus mosaic-like small color blocks; decorative line precise; materials — gold leaf, oil painting, mosaic, stained glass, metal ornament
+- **Emotion**: sumptuous, sensual, uneasy, a splendor at the point of death
+- **Color anchors**: `#C9A227` `#1B3A4A` `#7A1F3A` `#2B2B33` `#D98B4A` `#E8DCC8`
+- **Failure points**: 1) it easily becomes only a "gold decorative painting" — remedy: customize the description to the frame's intent and avoid it; 2) confusing it with Mucha — remedy: Klimt is more geometric, darker, more erotic; Mucha is more poster-like
+- **Related movements**: Symbolism, Art Nouveau, Expressionism
+
+---
+
+### Romanesque（1000–1150 | Western Europe）
+
+> Thick walls, stout proportions, distorted yet forceful figures — a serious art in the service of the church.
+
+- **Core claim**: heavy form, elongated or distorted proportions, serving expression rather than beauty; mural and manuscript decoration dominated by coarse contours and strong color blocks; narrative iconographic program: biblical stories spread across the wall in spatial sequence; rejecting classical anatomy, returning to a symbolic forceful form
+- **Composition**: banded narrative arrangement, filling the surface with no blank, axial symbolic layout
+- **Light and color**: color — ochre red, earth yellow, dark green, ultramarine; distinct color blocks, pigment mostly mineral; light — almost no modeling, only contour and color block; light coming from the architecture itself
+- **Texture**: brushwork — rough, direct, forceful; line more important than tone; materials — fresco, egg tempera on panel, illuminated manuscript parchment, stone carving
+- **Emotion**: serious, devotional, forceful, slightly crude
+- **Color anchors**: `#9C4A2A` `#C9A227` `#3E5A3A` `#2B3E6B` `#6B4A2A` `#E8DCC0`
+- **Failure points**: 1) it easily comes out as the Renaissance — remedy: address that defect explicitly in the frame description; 2) color easily too vivid — remedy: use a muted mineral earth palette
+- **Related movements**: Byzantine Art, Gothic Art
+
+---
+
+### Regionalism（1930–1945 | American Midwest）
+
+> The American heartland's self-portrait: farmland, church, small town, with suspicion and nostalgia.
+
+- **Core claim**: depicting rural life in the American Midwest against European modernism; realistic but with deliberate exaggeration and dramatization; clear line and rounded form with an illustrative feel; often holding an ambiguous position of conservatism or social satire
+- **Composition**: landscape as protagonist, figures small or stiffly posed; often an uneasy blank
+- **Light and color**: color — earth yellow, brick red, gray-green, dark blue; warm but restrained; light — dramatic oblique light, form clearly outlined
+- **Texture**: brushwork — precise, clean, with the crisp edges of illustration; materials — oil on canvas, tempera, mural
+- **Emotion**: nostalgia and unease together, isolation, veiled critique
+- **Color anchors**: `#C9A25A` `#A8432A` `#6B7A5A` `#4A5A6B` `#8B6B4A` `#D9CFC0`
+- **Failure points**: 1) it is easily taken for an ordinary pastoral painting — remedy: customize the description to the frame's intent and avoid it; 2) romantic light is easily added — remedy: address that defect explicitly in the frame description
+- **Related movements**: Precisionism, Social Realism, American Realism
+
+---
+
+### American Realism（1865–1930 | United States）
+
+> Homer's sea, Eakins's rowing afternoon: America looking at itself with its own eyes for the first time.
+
+- **Core claim**: breaking from the European academic tradition toward native subjects; outdoor life, sport, sailing, everyday street life; observing with photographic precision and coolness; bright light, clear color, with a plein-air feel
+- **Composition**: the instant of an action caught, water or field spread horizontally
+- **Light and color**: color — clear natural color: sea blue, grass green, white shirt, wood brown; light — bright outdoor daylight, clear light and shade without over-dramatization
+- **Texture**: brushwork — realistic, definite, sometimes dry; no showing off; materials — oil on canvas, watercolor, realist impasto
+- **Emotion**: fresh, practical, restrained observation, a touch of solitude
+- **Color anchors**: `#4A7C9E` `#7FA86B` `#E8E4DA` `#8B6B4A` `#C9A25A` `#3A4A5A`
+- **Failure points**: 1) confusing it with Realism — remedy: American Realism is brighter, more outdoor, more native; 2) symbolic meaning is easily added — remedy: address that defect explicitly in the frame description
+- **Related movements**: Realism, Ashcan School, Naturalism
+
+---
+
+### Naturalism（1870–1900 | France / Europe）
+
+> Colder than Realism: observing people as organisms, with environment deciding fate.
+
+- **Core claim**: influenced by empirical science, painting in the attitude of observation and record; stressing how environment, heredity, and class shape people; subjects leaning toward the lower and marginal, without moral judgment; color brighter than Realism, closer to plein-air painting
+- **Composition**: eye level, no drama, like an on-site record of social investigation
+- **Light and color**: color — bright natural color, true tones under outdoor light; brighter than Realism; light — real daylight, including harsh direct sun, without beautification
+- **Texture**: brushwork — realistic without showing off, sometimes with Impressionist looseness; materials — oil on canvas, realist impasto, plein-air study
+- **Emotion**: cool, objective, a physiological directness
+- **Color anchors**: `#8B6B4A` `#A8B86B` `#6B8B9E` `#A8432A` `#5A6B4A` `#E8DCC8`
+- **Failure points**: 1) confusing it with Realism — remedy: Naturalism is brighter, colder, and more insistent on environmental determinism; 2) golden hour is easily added — remedy: customize the description to the frame's intent and avoid it
+- **Related movements**: Realism, Impressionism, Social Realism
+
+---
+
+### Tonalism（1880–1915 | United States）
+
+> Turning landscape into a single color atmosphere: dusk, mist, blurred boundaries, and quiet melancholy.
+
+- **Core claim**: a unified tone covering the whole painting (mostly gray, brown, violet-gray); boundaries blurred, form dissolved by atmosphere; dusk, moonlit night, rain and mist as preferred hours; emotion above detail, close to a musical atmosphere
+- **Composition**: simple, much negative space, low horizon, a single motif (one tree, one stretch of water)
+- **Light and color**: color — an extremely narrow palette: violet-gray, brown-green, dark gold, silver gray; low saturation and low contrast; light — diffuse twilight, no explicit source, everything steeped in mist
+- **Texture**: brushwork — soft, feathered, strokes interpenetrating; wet-in-wet; materials — oil on canvas, thin multiple layers, soft matte surface
+- **Emotion**: melancholy, stillness, meditation, the sense of time stopped
+- **Color anchors**: `#6B6B7A` `#5A6B5A` `#8B7A5A` `#A8A8B0` `#3A3A4A` `#D9CFC0`
+- **Failure points**: 1) contrast and clarity are easily added — remedy: address that defect explicitly in the frame description; 2) it is easily read as underexposure — remedy: stress intentional muted tonality, atmospheric
+- **Related movements**: Hudson River School, Romanticism, Symbolism
+
+---
+
+### Dutch Golden Age（1600–1680 | Netherlands）
+
+> Turning light into a substance: a shaft slanting in from the window, illuminating the whole everyday world.
+
+- **Core claim**: interior light as the absolute protagonist, the source explicitly a window on the left; dignifying everyday subjects: kitchen maid, counting house, still life, street view; precise reproduction of materials: pewter, bread, lace, glass; ambiguous moral meaning hidden in the most ordinary objects
+- **Composition**: a corner of an interior, figures often turned sideways or away, gaze directed out of the frame
+- **Light and color**: color — mainly warm brown and lead gray, with vermilion and cobalt accents; restrained saturation; light — a single window light, clear division of light and shade, detail kept in the darks, texture kept in the lights
+- **Texture**: brushwork — almost no brushwork in the finest passages; Rembrandt's manner combining impasto and palette knife; materials — fine-weave linen, lead white ground, transparent glazing
+- **Emotion**: serene, restrained, the dignity of the everyday, a slight intimacy
+- **Color anchors**: `#6B4A2A` `#8B8B85` `#A8322D` `#2B4C7A` `#C9A227` `#E8DCC8`
+- **Failure points**: 1) multiple light sources are easily added — remedy: specify single window light from the left; 2) it easily becomes an ordinary still-life photo — remedy: state the opposite frame features explicitly
+- **Related movements**: Baroque, Caravaggisti, Early Netherlandish
+
+---
+
+### Symbolism（1885–1910 | France / Belgium / Austria）
+
+> Not painting what the world looks like, but dream, myth, and the metaphor of desire.
+
+- **Core claim**: rejecting realism and natural light, turning inward and toward mystery; the female figure often cast as the femme fatale; gold leaf, ornamental pattern, flattened space; ambiguous, polysemous narrative refusing a single reading
+- **Composition**: flattened, decorative, symmetrical or ritual arrangement, often a frame within a frame
+- **Light and color**: color — jewel color and dark gold: peacock blue, emerald, deep violet, gold leaf; light — unnatural light, luminous bodies self-lit; figures as if glowing from within
+- **Texture**: brushwork — smooth decorative handling, or fine to the point of illustration; materials — gold leaf, tempera, matte oil painting, decorative line
+- **Emotion**: mysterious, intoxicating, dangerous, melancholy sensuality
+- **Color anchors**: `#1B4D3E` `#1F6F8B` `#4B2E6B` `#C9A227` `#8B1A3A` `#2A2A35`
+- **Failure points**: 1) it easily becomes fantasy illustration — remedy: state the opposite frame features explicitly; 2) light must be "unnatural": specify no realistic light source
+- **Related movements**: Romanticism, Art Nouveau, Surrealism
+
+---
+
+### Ashcan School（1900–1915 | United States）
+
+> Pointing the lens at the city's mess: back alleys, taverns, boxing rings, and crowded streets.
+
+- **Core claim**: the everyday life of the urban lower class as legitimate subject; fast, rough brushwork with the feel of a news sketch; dark, muddy color refusing beautification; group scenes and snatched moments, close to photographic documentary
+- **Composition**: crowded, casually cropped, viewpoint from street level
+- **Light and color**: color — dark muddy color: brown, gray, dark green, dirty white; low saturation; light — the yellow glow of street lamps, the gray light of overcast days; contrast not strong but very dirty
+- **Texture**: brushwork — coarse, fast, visible; dry brush and scraping together; materials — oil on canvas, coarse weave, uneven paint layers
+- **Emotion**: coarse, sympathetic, vitality and fatigue together
+- **Color anchors**: `#5A4A3A` `#6B6B60` `#3E4A3A` `#C9A227` `#8B3A2A` `#D9CFC0`
+- **Failure points**: 1) it is automatically beautified — remedy: address that defect explicitly in the frame description; 2) it easily becomes a nostalgic postcard — remedy: address that defect explicitly in the frame description
+- **Related movements**: Realism, Impressionism, Tonalism
+
+---
+
+### Magic Realism（1925–1955 | Germany / United States / Europe）
+
+> Not painting dreams, but painting reality so clearly that it becomes strange on its own.
+
+- **Core claim**: unlike Surrealism: not painting the unconscious but precisely depicting the strange within reality; extremely clear, cool, even clinical realism; the strangeness coming from precision itself rather than collage or distortion; quiet, still, time-frozen scenes
+- **Composition**: still everyday scene, figures frozen, precise perspective
+- **Light and color**: color — clear accurate but cool color, restrained and even tonality; light — sharp, clean, unnaturally clear light, like cold-light photography
+- **Texture**: brushwork — extremely smooth and fine, brushwork almost invisible; materials — oil on canvas or tempera, extremely fine glazing
+- **Emotion**: eerie, silent, time congealed, gentle unease
+- **Color anchors**: `#8B9B9B` `#4A5A6B` `#C9A25A` `#A8432A` `#3A4A3A` `#E8E4DA`
+- **Failure points**: 1) confusing it with Surrealism — remedy: specify not surrealist juxtaposition, no dream imagery; 2) nightmare elements are easily added — remedy: customize the description to the frame's intent and avoid it
+- **Related movements**: Surrealism, Metaphysical Art, Photorealism, Naïve Art (Primitivism)
