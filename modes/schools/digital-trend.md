@@ -1,64 +1,64 @@
-# 潮流数媒派（Digital Trend）
+# Digital Trend
 
-## 宣言
+## Manifesto
 
-1. 中位数是敌人：默认构图=没有作者。
-2. 平台有平台的眼睛：为竖屏、为缩略图、为三秒滑动而构图。
-3. 反 AI 味是一场主动战争：逐项核对默认值清单，逐项打破。
-4. 数字美学也有谱系：扁平、Y2K、蒸汽波、新拟态——都是可拆解的 DNA，不是潮流名词。
+1. The median is the enemy: default composition means no author.
+2. The platform has the platform's eye: compose for the vertical screen, for the thumbnail, for the three-second swipe.
+3. Fighting AI-slop is an active war: check the default list item by item, break it item by item.
+4. Digital aesthetics has lineages too: flat, Y2K, vaporwave, neumorphism — all decomposable DNA, not trend nouns.
 
-## 核心思维方式
+## Core thinking
 
-本派站在"生成式图像时代"的立场上工作：先假设画面会滑向统计中位数（居中/平视/中景/平光/全景深），再**主动偏移**。与其他流派的差异：多数流派默认画面是"被设计的"，本派默认画面是"会自己变平庸的"——设计的第一步是反平庸协议（D6/ai-defaults 预防六轴）。
+This school works from the standpoint of the generative-image era: assume first that the frame will slide toward the statistical median — centered, eye level, medium shot, flat light, full depth — then **offset it actively**. Difference from other schools: most assume the frame is designed; this school assumes the frame will make itself mediocre, so the first step of design is the anti-mediocrity protocol, the six prevention axes of D6/ai-defaults.
 
-同时，本派对平台语境敏感：竖屏时代的高度利用、缩略图时代的远距离可读、信息流时代的滑停争夺——构图要为"被看见的方式"优化。
+At the same time the school is sensitive to platform context: using height fully in the vertical era, staying readable at distance in the thumbnail era, winning the swipe in the feed era — composition optimized for the way it will be seen.
 
-## 技法库
+## Technique library
 
-1. **反默认六轴**：位置（不居中）/视角（非平视或有强理由）/景别（明确档位）/光（唯一主光+光比）/层（三层纵深）/不完美（至少一处）。见 D6/ai-defaults。
-2. **AI 味逐项核对**：十二特征清单扫描（居中呆照、无主光、塑感、灰平……）。诊断与预防两用。
-3. **竖屏纵向构图**：9:16 画幅的纵向三段法（上留白/中主体/下锚点），顶部界面上浮区避让。
-4. **缩略图优先设计**：先按拇指大小成立，再放大补充细节——信息流时代的倒置设计法。
-5. **三秒滑停设计**：第一帧必须有"视觉钩"（高对比/面孔/悬念构图）——钩子在前 1/3（时间维度映射到构图的显眼位）。
-6. **平台 DNA 拆解**：把流行视觉（扁平、Y2K、酸性设计、新中式）拆成构图/光色/质感三层 DNA 再使用——不抄名词抄结构。
-7. **色板签名**：跨内容统一的 3 色签名板（账号级视觉资产）。
-8. **微怪感注入**：合法的不协调一处（反常配色对/轻微错位/超现实小元素）——记忆点配方，一处即可。
-9. **系列锚点**：多图内容千变，锚点恒定（固定色板+固定机位习惯+固定留白签名）——账号一致性。
-10. **热榜解构**：对流行画面做六维评分+DNA 拆解，找"它能火而平庸图不能"的那个维度——学习流行而非复制流行。
+1. **Anti-default six axes**: position, not centered; viewpoint, not eye level or else a strong reason; shot size, an explicit grade; light, a single key plus a ratio; layers, three-layer depth; imperfection, at least one. See D6/ai-defaults.
+2. **AI-slop item check**: scan the twelve-feature list — dead-centered shot, no key light, plastic sheen, gray flatness, and so on. Useful for diagnosis and prevention alike.
+3. **Vertical composition**: the three-band method for 9:16 — top blank, central subject, bottom anchor — while avoiding the interface overlay zone at the top.
+4. **Thumbnail-first design**: hold at thumb size first, then enlarge and add detail — the inverted design method of the feed era.
+5. **Three-second swipe-stop design**: the first frame must carry a visual hook — high contrast, a face, a suspenseful composition — placed in the first third, the time dimension mapped onto the frame's prominence.
+6. **Platform DNA decomposition**: break a popular look — flat, Y2K, acid design, new Chinese — into three-layer DNA of composition, light and color, and texture before using it; copy structure, not nouns.
+7. **Palette signature**: a three-color signature palette unified across content, an account-level visual asset.
+8. **Micro-strangeness injection**: one legal dissonance — an unusual color pairing, a slight misalignment, a small surreal element — the memorability recipe; one is enough.
+9. **Series anchors**: content varies endlessly while anchors stay fixed — palette, camera-position habit, negative-space signature — producing account consistency.
+10. **Trend deconstruction**: run six-dimension scoring and DNA decomposition on a popular image to find the dimension that made it travel where a mediocre image cannot — learn the trend, never copy it.
 
-## 量化判据
+## Quantitative criteria
 
-- 反默认六轴：至少三轴显式偏移（全默认=本派失败）。
-- AI 味清单：命中 ≤1 项（两项以上即返工）。
-- 缩略图测试：拇指大小可读。
-- 钩子：第一注视点与钩子重合。
-- 色板签名：系列恒定 ≤4 色。
-- 微怪：恰好一处（零处=平庸，多处=混乱）。
+- Anti-default six axes: at least three axes explicitly offset; all defaults means this school has failed.
+- AI-slop list: at most 1 hit; two or more means rework.
+- Thumbnail test: readable at thumb size.
+- Hook: the first fixation coincides with the hook.
+- Palette signature: constant across the series, ≤4 colors.
+- Micro-strangeness: exactly one instance — zero is mediocrity, several is chaos.
 
-## 适用场景
+## Applicable scenes
 
-- 社媒内容、短视频封面、账号视觉体系、生成式图像的审美把关、潮流向品牌。
-- 诉求关键词：AI 味、流量、平台、爆款、年轻感、记忆点。
-- 组图角色：反平庸校验员（任何序列终检时的第二把尺）。
+- Social content, short-video covers, account visual systems, aesthetic control of generative images, trend-driven brands.
+- Keywords: AI-slop, traffic, platform, hit, youthfulness, memorability.
+- Role in a series: the anti-mediocrity auditor — the second ruler at every sequence's final check.
 
-## 与他派差异
+## Differences from other schools
 
-| 对照派 | 分界线 |
+| Compared school | Line |
 |---|---|
-| 摄影纪实派 | 同为反 AI 味：纪实用"平凡真实"（减法）；数媒派用"主动偏移"（加法）——真实感路线 vs 设计感路线 |
-| 观念反叛派 | 反叛派打破的是审美惯例本身（系统性的反）；数媒派打破的是统计默认（针对性的反）——反叛更激进，数媒更精准 |
-| 商业实战派 | 商业派服务平台规范（顺应）；数媒派在规范内反平庸（顺应平台+逆算法审美） |
+| Documentary Photography | Both fight AI-slop: documentary uses ordinary reality, subtraction; Digital Trend uses active offset, addition — realism route versus design route |
+| Conceptual Rebel | The Rebel breaks aesthetic convention itself, systematic opposition; Digital Trend breaks the statistical default, targeted opposition — the Rebel is more radical, Digital Trend more precise |
+| Commercial Practice | Commerce serves platform specification, compliance; Digital Trend fights mediocrity inside specification — complying with the platform while opposing algorithmic taste |
 
-## 反例与边界
+## Counterexamples and boundaries
 
-- 反例 1：为反默认而全轴偏移（斜构图+怪色+乱光全上）——从一种平庸（中位数）到另一种平庸（混乱均值）。三轴足矣。
-- 反例 2：追平台热词（"赛博""多巴胺"）不拆 DNA——名词堆砌。拆三层再使用。
-- 反例 3：微怪感放五处——记忆点稀释成精神污染。一处。
-- 边界：本派判据与平台审美强时效相关（今天的"钩子"明天失效）——判据框架（反默认协议/缩略图优先/签名板）长效，具体手法随平台演化更新。
+- Counterexample 1: offsetting on every axis to oppose defaults — diagonal plus odd colors plus messy light — moving from one mediocrity, the median, to another, chaos averaged. Three axes suffice.
+- Counterexample 2: chasing platform buzzwords — "cyber", "dopamine" — without DNA decomposition; noun stacking. Decompose three layers first.
+- Counterexample 3: five micro-strangeness points — memorability diluted into noise pollution. One.
+- Boundary: these criteria are tightly time-bound to platform taste, so today's hook fails tomorrow; the framework — anti-default protocol, thumbnail-first, signature palette — lasts, while concrete devices update as platforms evolve.
 
-## 连接
+## Connections
 
-- 反默认协议与味清单：D6/ai-defaults
-- 可信度的另一面：D6/authenticity
-- 序列与签名板：D3/palette-strategy、modes/function/sequence.md
-- 激进打破：modes/schools/conceptual-rebel.md
+- Anti-default protocol and slop list: D6/ai-defaults
+- The other face of credibility: D6/authenticity
+- Sequences and signature palette: D3/palette-strategy, modes/function/sequence.md
+- Radical breaking: modes/schools/conceptual-rebel.md

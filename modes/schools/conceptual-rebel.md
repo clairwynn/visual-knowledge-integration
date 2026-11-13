@@ -1,71 +1,71 @@
-# 观念反叛派（Conceptual Rebel）
+# Conceptual Rebel
 
-## 宣言
+## Manifesto
 
-1. 反美学即方法：故意用"错"的构图制造张力——错误是未分配的表现力。
-2. 服务难忘而非好看：pretty 是一轮游，unforgettable 才算数。
-3. 每一次"反"都要能说出"反的是什么"：反惯例是立场，乱来是事故。
-4. 打破之后要有新的秩序：破坏必须建立自己的语法，否则只是噪音。
+1. Anti-aesthetics as method: deliberately use the wrong composition to manufacture tension — error is unallocated expressive force.
+2. Serve the unforgettable, not the pretty: pretty is a one-round wonder; unforgettable counts.
+3. Every against must state what it is against: opposing convention is a position, messing around is an accident.
+4. After breaking there must be a new order: destruction must build its own grammar, or it is only noise.
 
-## 核心思维方式
+## Core thinking
 
-与所有操作流派的根本差异：他们把构图规则当"必须遵守或有意打破的东西"，本派把规则清单当**弹药房**——每个规则都是一发待发的反骨。思考流程：列出题材关联的人类视觉默认值（居中？完整？平衡？可读？）→ 选择反转项（≥3 项）→ 每项写明"人类会怎么做/我为什么反"→ 检查反转组合是否形成**新语法**（不是乱炖）→ 输出可执行方案。
+The root difference from every operational school: they treat composition rules as things to obey or deliberately break; this school treats the rule list as an **ammunition room** — every rule is a live round of rebellion. Thinking flow: list the human visual defaults bound to the subject — centered? whole? balanced? readable? → choose the inversions, at least three → state for each "what a human would do / why I invert it" → check whether the combination forms a **new grammar** rather than a stew → output an executable option.
 
-本派是野狗档的知识后盾（反美学协议的流派化），但比野狗档"清醒"：野狗以非人类感知工作，本派是清醒地选择反叛的人类立场。
+This school is the knowledge backing of the Wild Dog tier — the anti-aesthetic protocol turned into a school — but it is more lucid than the Wild Dog: the Wild Dog works from non-human perception, while this school is a human stance choosing rebellion with open eyes.
 
-工作方法是**破规则对照**：把每条构图惯例写成三列——**规则 / 何时反（触发条件）/ 反了得到什么（效果）**。反叛由此从口号变成条件判断：不是"我想反"，而是"这个意图恰好需要那条规则的反面"。例：居中惯例的反面在"主体孤立/对峙"时触发，得到的是夺目、权威或不安；留白惯例的反面在"要幽闭/亲密/信息过载"时触发，得到的是压迫与强度；水平线惯例的反面在"运动/迷失/抽象"时触发，得到的是能量与不稳。检验口诀：**更好，还是只是不同？**——反完显得呆滞而非权威，即未生效；显得有电荷、刻意、鲜活，才成立。
+The working method is **rule-breaking comparison**: write every composition convention in three columns — **rule / when to break it, the trigger condition / what breaking it gains, the effect**. Rebellion thus turns from slogan into conditional judgment: not "I want to rebel" but "this intent happens to need the reverse of that rule". For example: the reverse of centering triggers when the subject is isolated or confronting, and gains strikingness, authority, or unease; the reverse of negative space triggers when claustrophobia, intimacy, or information overload is wanted, and gains pressure and intensity; the reverse of the level horizon triggers on movement, disorientation, or abstraction, and gains energy and instability. The test phrase: **better, or merely different?** If the inversion reads dull rather than authoritative, it has not landed; if it reads charged, deliberate, and alive, it holds.
 
-## 技法库
+## Technique library
 
-1. **死中心宣言**：故意居中——用对称的过度稳定反"偏置教条"，庄重到令人不安（维式正面像、压迫性直视）。判据：直视镜头+对称构图+静止姿态三件套。
-2. **切半与截断**：切脸/切身/切物——"不完整"逼观众补全（闭合的暴力用法）。判据：切口处信息留悬念。
-3. **失衡压迫**：全部重量压一角/头重脚轻——生理性不安转译为情绪。判据：重量差 ≥3 档且全画面配套（比 D1/balance 的常规有意失衡 ≥2 档更极端——本派是宣言级失衡）。
-4. **视线封锁**：主体被遮挡/背对/失焦——拒绝交出"主角脸"。判据：替代焦点成立（环境/物件/空处）。
-5. **路径破坏**：引导线断头、指向空处、双路径打架——让观者在画面里迷路。判据：迷路处有"可看之物"（不是真空）。
-6. **纵深倒错**：前景最虚/背景最实/尺度错乱——空间秩序的翻转。
-7. **反物理光**：光源无出处/影子多向/局部反向——超现实合法性的光的版本（宣言级使用）。
-8. **密度冲突**：极密区贴极空区（密不透风贴四白落地）——密度断层即张力。
-9. **色彩冒犯**：唯一一处"刺眼"的配色对（按和谐体系属于禁忌的组合）——禁忌点即记忆点。判据：全画面其他部分守和谐（唯一冒犯）。
-10. **尺度挑衅**：微小主体+巨大环境（或反向）推到极端——崇高或荒诞。
-11. **日常物的陌生化**：日常物件放大/倒置/错位摆放——熟悉物的陌生视角。
-12. **序列反转**：组图中一帧完全反序列语法（全彩序列中的黑白帧）——帧即标点。
-13. **水线切割**：水面横切画面，水上与水下两个世界同框——一条线劈出两种物理规则，日常场景瞬间陌生（特殊取景词族见 D8/camera-lexicon 稀有档）。
-14. **关系异常**：双人/双物的非常规语法——倒置（一正一倒）、旋转对称（同构旋转一角呼应）、正反相对（朝向/姿态互为反面推到极端）。
-15. **图层错位**：背景呈现主体的放大版（尺度逻辑故意崩坏）、主体以投影方式出现在背景上——画面内部自相矛盾但边界清晰。
-16. **多视点同框**：同一主体的多个视角并存于一帧——时间与空间的平面并置，立体惯例的平面宣言。
+1. **Dead-center declaration**: center deliberately — use the excessive stability of symmetry against the dogma of offset, solemn to the point of unease, as in frontal iconic portraits and an oppressive direct gaze. Criterion: direct gaze + symmetrical composition + static posture, all three.
+2. **Halving and truncation**: cut the face, the body, or the object — incompleteness forces the viewer to complete it, the violent use of closure. Criterion: the cut leaves information in suspense.
+3. **Imbalance as pressure**: all weight pressed into one corner, top-heavy — physiological unease translated into emotion. Criterion: weight difference ≥3 steps with the whole frame supporting it; this is more extreme than the ≥2 steps of routine deliberate imbalance in D1/balance, because this school imbalances at declaration level.
+4. **Gaze blockade**: the subject occluded, turned away, or defocused — refusing to hand over the protagonist's face. Criterion: a substitute focus holds, whether environment, object, or emptiness.
+5. **Path destruction**: leading lines cut dead, pointing at emptiness, two paths fighting — let the viewer get lost inside the frame. Criterion: there is something to look at where they get lost, not a vacuum.
+6. **Depth inversion**: softest foreground, sharpest background, scrambled scale — the spatial order flipped.
+7. **Anti-physical light**: sourceless light, multi-directional shadows, locally reversed light — the light version of surreal legitimacy, used at declaration level.
+8. **Density conflict**: the densest zone pressed against the emptiest — no-wind density against four-white emptiness; a density fault line is tension.
+9. **Color offense**: one single glaring pairing, a combination forbidden under the harmony system — the forbidden point is the memory point. Criterion: everything else in the frame keeps harmony, so the offense is unique.
+10. **Scale provocation**: a tiny subject against an enormous environment, or the reverse, pushed to the extreme — sublime or absurd.
+11. **Defamiliarizing the everyday**: magnify, invert, or misplace a familiar object — a strange view of the familiar.
+12. **Sequence reversal**: one frame in a set completely against sequence grammar, such as a black-and-white frame inside a full-color sequence — the frame as punctuation.
+13. **Waterline cut**: a water surface cuts across the frame, two worlds above and below in one frame — one line splits two physical rules and makes an ordinary scene instantly strange; see the rare camera vocabulary in D8/camera-lexicon.
+14. **Relational anomaly**: unconventional grammar between two figures or two objects — inversion with one upright and one inverted, rotational symmetry echoing the same form turned a quarter, or direct opposition with facing or posture pushed to opposite extremes.
+15. **Layer dislocation**: the background presents an enlarged version of the subject, or the subject appears in the background as a projection — internal contradiction with clear boundaries.
+16. **Multi-viewpoint frame**: several views of the same subject coexist in one frame — time and space juxtaposed on the plane, a planar declaration against the three-dimensional convention.
 
-## 量化判据
+## Quantitative criteria
 
-- 反转项 ≥3 且每项可陈述（"反 X，因为 Y"）。
-- 反转组合形成新语法：画面仍可描述（说不出画面=失败）。
-- 可执行性：念给没见过的人，对方能在脑中画出这个"怪"画面。
-- 禁忌点唯一（色彩冒犯/微怪类技法）。
-- 张力可验证：六维评分中"独特性"≥4 且"情绪传达"≥3（独特无情绪=纯怪）。
+- Inversions ≥3, each statable as "inverting X because Y".
+- The combination forms a new grammar and the frame is still describable; if you cannot describe it, it failed.
+- Executability: read it to someone who has never seen it, and they can draw the strange frame in their head.
+- The forbidden point is unique, as with color offense and micro-strangeness techniques.
+- Tension is verifiable: in six-dimension scoring, distinctiveness ≥4 and emotional delivery ≥3; distinctiveness with no emotion is mere strangeness.
 
-## 适用场景
+## Applicable scenes
 
-- 观念摄影、艺术向创作、 campaign 的记忆点帧、突破创意僵局（用反叛帧撬动常规思路）。
-- 诉求关键词：先锋、观念、难忘、冲击、打破、当代艺术感。
-- 组图角色：反转帧（序列中的惊叹号）。
+- Conceptual photography, artistic creation, the memory-point frame of a campaign, breaking a creative deadlock by levering the conventional approach with a rebel frame.
+- Keywords: avant-garde, conceptual, unforgettable, impact, break, contemporary art feel.
+- Role in a series: the reversal frame — the exclamation mark in the sequence.
 
-## 与他派差异
+## Differences from other schools
 
-| 对照派 | 分界线 |
+| Compared school | Line |
 |---|---|
-| 经典学院派 | 互为镜像：学院派是规则的正典，本派是规则的反用法——学派的每条判据在本派都是潜在反转项 |
-| 潮流数媒派 | 数媒反"统计默认"（针对性的、平台语境的）；本派反"审美惯例"（系统性的、艺术立场的） |
-| 东方画理派 | 东方的空是留有余地（包容的）；本派的破坏是切断（攻击的）——同为反中庸，气质一收一放 |
+| Classical Academy | Mutual mirrors: the academy is the canon of rules, this school the counter-usage of rules — every academy criterion is a potential inversion here |
+| Digital Trend | Digital Trend fights the statistical default, targeted and platform-bound; this school fights aesthetic convention, systematic and art-positioned |
+| Eastern Painting | The Eastern void leaves room and is inclusive; this school's destruction cuts and is aggressive — both oppose the middle, one holds back, one lets go |
 
-## 反例与边界
+## Counterexamples and boundaries
 
-- 反例 1：为反而反、堆满全部反转项——从作品变成事故合集。三到五项，形成语法。
-- 反例 2："反"到不可执行（无法据此作画的抽象宣言）——本派产物仍是画面方案，不是哲学文本。
-- 反例 3：用"艺术"豁免技术事故（半截物、脏边、焦点糊成谜）——事故是事故，反转是反转；反也要反得干净。
-- 边界：反美学反的是视觉惯例，不触碰内容安全（违法、伤害性内容与本派无关）；商业交付场景慎用（反转帧是钩子不是常态，常态帧交给商业/学院）。
+- Counterexample 1: rebelling for rebellion's sake with every inversion stacked — the work becomes a collection of accidents. Three to five, forming a grammar.
+- Counterexample 2: rebelling into the non-executable, an abstract manifesto no one can draw from — this school's output is still a frame option, not a philosophical text.
+- Counterexample 3: using art to excuse technical accidents — half objects, dirty edges, focus blurred into a mystery — an accident is an accident and an inversion is an inversion; even rebellion must be clean.
+- Boundary: anti-aesthetics opposes visual convention and never touches content safety, since illegal or harmful content is unrelated to this school; use with caution in commercial delivery, because the reversal frame is a hook and not the norm, and normal frames go to Commercial or Classical.
 
-## 连接
+## Connections
 
-- 反美学协议（野狗档引擎）：modes/experience/wild-dog.md
-- 被反转的规则本体：D1–D7 全库（先懂规则才谈反转）
-- 记忆点评分：D6/aesthetic-criteria（独特性维）
-- 序列反转用法：modes/function/sequence.md
+- Anti-aesthetic protocol, the Wild Dog engine: modes/experience/wild-dog.md
+- The rules being inverted: the whole D1–D7 library — know the rule before discussing its reverse
+- Memory-point scoring: D6/aesthetic-criteria, the distinctiveness dimension
+- Sequence reversal usage: modes/function/sequence.md

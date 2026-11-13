@@ -1,63 +1,63 @@
-# 经典学院派（Classical Academy）
+# Classical Academy
 
-## 宣言
+## Manifesto
 
-1. 画面秩序是可计算的：三分、黄金、动态对称不是玄学，是可查表的几何。
-2. 平衡与和谐是构图的底座：先立稳，再谈风格。
-3. 古典不是保守：文艺复兴到摄影教材五百年验证过的落位，是效率最高的起点。
-4. 规则要先会再破：不知道规则在哪的"破"，是没做对，不是创新。
+1. Frame order is computable: thirds, golden section, and dynamic symmetry are not mysticism but geometry you can look up in a table.
+2. Balance and harmony are the base of composition: stand it up first, then talk about style.
+3. Classical is not conservative: placements validated from the Renaissance to photography textbooks across five hundred years are the most efficient starting point.
+4. Learn the rules before breaking them: a "break" that does not know where the rule sits is a mistake, not innovation.
 
-## 核心思维方式
+## Core thinking
 
-与直觉的差异：直觉把主体放中间（最省力），学院派把主体放在**计算过的偏置点**（最有张力）——张力来自"不对称的余量设计"。与其他流派的差异：学院派相信存在"正确答案的邻域"（黄金落位带），极简派认为答案在删减里，反叛派认为答案在打破里。
+Difference from intuition: intuition puts the subject in the middle (least effort); the academy puts the subject on a **calculated offset point** (maximum tension) — tension comes from asymmetrical margin design. Difference from other schools: the academy believes a neighborhood of the correct answer exists (the golden placement band); the Minimalists believe the answer lies in deletion; the Rebels believe it lies in breaking.
 
-思考流程：定画幅 → 选构图型（查谱系）→ 落位到分割结构 → 用平衡校验 → 用和谐收尾。每一步有表可查，整个过程像解题而不是等灵感。
+Thinking flow: fix the aspect ratio → choose the composition type (consult the lineage) → place it onto the division structure → verify with balance → close with harmony. Every step has a table, and the whole process is solving a problem rather than waiting for inspiration.
 
-## 技法库
+## Technique library
 
-1. **三分落位**：主体核心落力量点 5% 半径内；线性元素压线。操作见 D1/composition-types-1。效果：最通用的张力起点。适用：一切非对称宣言题材。
-2. **黄金分割落位**：62/38 处落主体，比三分更含蓄。适用：希望"自然不刻意"时。
-3. **黄金三角**：对角线+垂线分区，主体落焦心。适用：斜向动势（奔跑、楼梯、山脊）。
-4. **动态对称网格**：根矩形骨架+倒数线，主体落"矩形之眼"。适用：建筑、群像、复杂空间。注意：经验体系，网格密度高易僵。
-5. **巴洛克/险恶对角线选择**：上升动势用左下→右上，坠落感用反向。效果：动势方向与叙事同频。
-6. **正三角稳定法**：三重物构三角，底边水平。适用：群像、静物组合、纪念碑式题材。
-7. **S 曲线游走**：主引导结构作 S，让视线"游"不"冲"。适用：风景河流、体态、织物。
-8. **非对称配平**：小而重配大而轻（高对比小块 vs 灰面大块），杠杆原理操作。见 D1/balance。
-9. **明暗对照法（chiaroscuro）**：单源强光+深暗部，光比 8:1 级，戏剧与体积。见 D2/tonality。
-10. **框中框荣耀式**：拱门/廊柱内框主体，仪式性抬升。见 D1/framing。
-11. **和谐收敛**：邻近色系+统一色罩，让画面"服帖"。见 D3/harmony、palette-strategy。
-12. **视角学术**：正三角+对称中轴+水平地平线三件套=庄重宣言。适用：仪式、肖像正位。
+1. **Third placement**: the subject core falls within a 5% radius of a power point; linear elements sit on the lines. Operation in D1/composition-types-1. Effect: the most universal tension starting point. Use: any non-symmetrical declarative subject.
+2. **Golden-section placement**: place the subject at 62/38, more restrained than thirds. Use: when a natural, unforced feel is wanted.
+3. **Golden triangle**: a diagonal plus a perpendicular divides the frame; the subject lands on the focal heart. Use: diagonal momentum — running, stairs, a ridge.
+4. **Dynamic symmetry grid**: root-rectangle armature plus reciprocal lines; the subject lands in the eye of the rectangle. Use: architecture, group portraits, complex space. Note: this is an empirical system, and high grid density stiffens easily.
+5. **Baroque or sinister diagonal choice**: rising momentum runs lower-left → upper-right; falling uses the reverse. Effect: momentum direction in phase with the narrative.
+6. **Equilateral-triangle stabilization**: three masses form a triangle on a horizontal base. Use: group portraits, still-life sets, monumental subjects.
+7. **S-curve wander**: the main leading structure forms an S so the eye wanders instead of charging. Use: riverscapes, posture, fabric.
+8. **Asymmetric counterbalance**: small and heavy against large and light (a small high-contrast block against a large gray area), a lever-principle operation. See D1/balance.
+9. **Chiaroscuro**: a single strong source plus deep shadow at a ratio near 8:1, producing drama and volume. See D2/tonality.
+10. **Honorific frame within a frame**: an arch or colonnade frames the subject for ceremonial elevation. See D1/framing.
+11. **Harmonic convergence**: analogous palette plus a unified cast so the frame settles. See D3/harmony and palette-strategy.
+12. **Academic viewpoint**: equilateral triangle + symmetrical axis + level horizon — the trio of gravity. Use: ceremony, frontal portraits.
 
-## 量化判据
+## Quantitative criteria
 
-- 主体落位：力量点 5% 半径内（三分）/ 0.382–0.618 分割带（黄金）。
-- 平衡：两侧重量差 ≤1 档（稳）；有意失衡 ≥2 档且可陈述。
-- 光比：写实 2:1–4:1；戏剧 8:1 级。
-- 和声：邻近系主导（0.8 级和谐度）或单色+点缀。
-- 地平线：水平，压三分线；倾斜即转入导演派语言。
+- Subject placement: within a 5% radius of a power point (thirds), or within the 0.382–0.618 division band (golden).
+- Balance: weight difference between the two sides ≤1 step (stable); deliberate imbalance ≥2 steps and statable.
+- Lighting ratio: realistic 2:1–4:1; dramatic around 8:1.
+- Harmony: analogous dominant (0.8 harmony level) or monochrome plus accent.
+- Horizon: level, sitting on a third line; tilt transfers the frame into the Director's language.
 
-## 适用场景
+## Applicable scenes
 
-- 人物肖像、风景、历史/仪式题材、建筑、静物——一切需要"端正的高级感"的画面。
-- 用户诉求关键词：经典、耐看、正统、和谐、油画感、庄重。
-- 组图中的"稳态帧"：序列里由学院派帧承担定调。
+- Portraits, landscapes, historical or ceremonial subjects, architecture, still life — every frame that needs a proper high-end feel.
+- User keywords: classic, durable, orthodox, harmonious, painterly, solemn.
+- The stable frame in a series: the academy frame sets the key for the set.
 
-## 与他派差异
+## Differences from other schools
 
-| 对照派 | 分界线 |
+| Compared school | Line |
 |---|---|
-| 格式塔心理派 | 学院派给"怎么排"，格式塔解释"为什么这样排有效"——学院派排完可用格式塔校验 |
-| 极简减法派 | 学院派做加法秩序（骨架+配平）；极简做减法（删到剩主体）——元素多的画面归学院 |
-| 电影导演派 | 学院派求画面自身成立；导演派求单帧服务叙事——静态庄重归学院，动势叙事归导演 |
+| Gestalt Psychology | The academy gives how to arrange; Gestalt explains why that arrangement works — after arranging, the academy can verify through Gestalt |
+| Minimalist Subtraction | The academy builds additive order (armature plus counterbalance); the Minimalist subtracts (delete down to the subject) — element-rich frames belong to the academy |
+| Cinematic Director | The academy wants the frame to stand on its own; the Director wants the single frame to serve the narrative — static gravity to the academy, dynamic narrative to the Director |
 
-## 反例与边界
+## Counterexamples and boundaries
 
-- 反例 1：复杂街景硬套黄金螺旋——网格打架，画面僵。学院派骨架适合元素可控的画面；混乱生机场景交给纪实派。
-- 反例 2：把"遵守规则"当目的——落位满分但情绪空转。规则服务于表达，判定看情绪传达维度。
-- 反例 3：对称题材强行偏置（神像、建筑立面）——庄重感尽失。先判题材的"第一动势"再选型。
+- Counterexample 1: forcing a golden spiral onto a complex street scene — the grids fight and the frame stiffens. The academy armature suits frames with controllable elements; chaotic living scenes go to Documentary.
+- Counterexample 2: treating obedience to rules as the goal — perfect placement with empty emotion. Rules serve expression; judgement looks at the emotional-delivery dimension.
+- Counterexample 3: forcing a symmetric subject off-axis (a deity statue, a building facade) — gravity collapses. Judge the subject's first momentum before choosing a type.
 
-## 连接
+## Connections
 
-- 落位与平衡的技术底座：D1/composition-types-1、balance
-- 光色配方：D2/tonality、D3/harmony
-- 感知校验：modes/schools/gestalt-psychology.md
+- Technical base for placement and balance: D1/composition-types-1, balance
+- Light and color recipes: D2/tonality, D3/harmony
+- Perceptual verification: modes/schools/gestalt-psychology.md

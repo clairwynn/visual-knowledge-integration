@@ -1,65 +1,65 @@
-# 摄影光学派（Optics-Driven）
+# Photographic Optics
 
-## 宣言
+## Manifesto
 
-1. 构图是光学的产物：焦段、光圈、距离不是参数，是空间结构的决定者。
-2. 先有光学，后有构图：同一场景换一支镜头就是换一种构图哲学。
-3. 物理要自洽：虚化量、透视强度、畸变方向必须与光学逻辑一致。
-4. 约束即风格：光学限制（浅景深、压缩、畸变）不是缺点，是语言的方言。
+1. Composition is a product of optics: focal length, aperture, and distance are not parameters but deciders of spatial structure.
+2. Optics first, composition second: changing the lens on the same scene means changing the philosophy of composition.
+3. Physics must be self-consistent: defocus amount, perspective strength, and distortion direction must agree with optical logic.
+4. Constraint is style: optical limits — shallow depth of field, compression, distortion — are not flaws but dialects of the language.
 
-## 核心思维方式
+## Core thinking
 
-其他流派从"意图"推画面，本派从"光学事实"推画面——先问"这个空间关系用哪支镜头成立"，再让构图顺着光学特性生长。思考的单位是**光学链条**：焦段→视角→透视结构；光圈×距离×焦段→景深带；三者合成画面的空间性格。
+Other schools derive the frame from intent; this school derives it from optical fact — first ask which lens makes this spatial relation hold, then let the composition grow along the optical property. The unit of thought is the **optical chain**: focal length → angle of view → perspective structure; aperture × distance × focal length → the depth-of-field band. The three combine into the spatial personality of the frame.
 
-本派的价值：给"空间感不对/假"的画面提供物理层的诊断（很多"怪"其实是光学不自洽）。
+This school's value: providing a physical-layer diagnosis for frames where the sense of space is wrong or fake — much of what feels odd is optical inconsistency.
 
-## 技法库
+## Technique library
 
-1. **焦段定空间**：广角夸张纵深（近大远小戏剧）、长焦压缩层距（背景贴脸）。先选空间性格再选焦段。见 D4/focal-length。
-2. **三因子景深配方**：大光圈+近距+长焦=奶油虚；小光圈+远距+广角=全清晰。写配方就写全三个因子。
-3. **透视锚定**：广角画面必设近景尺度锚（人/门/桌），否则纵深失据。见 D4/focal-length。
-4. **压缩分层**：长焦压缩后用明度/色温分层补偿（防前后粘连）。见 D1/depth-layering。
-5. **畸变管理**：广角边缘拉伸与仰拍后仰是物理事实——要么用于宣言（戏剧广角），要么规避（退后+标准焦段）。
-6. **微距尺度消失**：极浅景深+1:1 放大让尺度不可读——微观世界的陌生感配方。
-7. **光圈语义**：f/1.4 的夜=孤立情绪；f/11 的群山=全知叙事。光圈值即景深宣言。
-8. **物距优先**：背景虚化量主要由"主体-背景距离"决定（比光圈更狠）——贴墙虚不动，人离墙三米自然化开。见 D4/dof。
-9. **焦平面 ballet**：多主体排进同一清晰带（前后小纵深站位），或牺牲次主体（虚化=承认主次）。
-10. **光学自洽检查**：影子方向×反光位置×虚化梯度×透视强度四方互证——一处矛盾即"假点"。见 D6/authenticity。
-11. **超焦距叙事**：深景深不是"全清晰"而是"从 X 到无穷都清晰"——深景深画面的清晰带也要设计（近锚+远景两头实，中景可虚的反常规用法慎用）。
-12. **焦外成像意识**：光斑形状、焦外过渡的质感（奶油/二线性）参与画面气质——夜灯焦外圆斑是氛围主角之一。
+1. **Focal length sets space**: wide angle exaggerates depth, near-large and far-small drama; a long lens compresses layer spacing, the background pressed against the subject. Choose the spatial personality before the focal length. See D4/focal-length.
+2. **Three-factor depth-of-field recipe**: large aperture + close distance + long lens = creamy blur; small aperture + far distance + wide angle = all sharp. A recipe states all three factors.
+3. **Perspective anchoring**: wide-angle frames must set a near-scale anchor — a person, a door, a table — or depth loses its footing. See D4/focal-length.
+4. **Compression layering**: after long-lens compression, separate the layers with value or color temperature to prevent front and back merging. See D1/depth-layering.
+5. **Distortion management**: wide-angle edge stretch and upward lean are physical facts — either use them as a statement, dramatic wide, or avoid them by stepping back and using a normal focal length.
+6. **Macro loss of scale**: extreme shallow depth of field plus 1:1 magnification makes scale unreadable — the recipe for the strangeness of the microcosm.
+7. **Aperture semantics**: f/1.4 at night means isolated emotion; f/11 over mountains means omniscient narrative. The aperture value is a declaration of depth of field.
+8. **Subject distance first**: background defocus is decided mainly by subject-to-background distance, which bites harder than aperture — against a wall the background will not blur; three meters away it opens naturally. See D4/dof.
+9. **Focal-plane ballet**: line multiple subjects into the same sharp band with shallow depth staging, or sacrifice a secondary subject — defocus means admitting hierarchy.
+10. **Optical consistency check**: shadow direction × reflection position × defocus gradient × perspective strength cross-verify one another; one contradiction is a fake point. See D6/authenticity.
+11. **Hyperfocal narrative**: deep depth of field does not mean everything sharp but sharp from X to infinity — the sharp band in a deep frame is designed too: near anchor and far field both sharp, with a soft midground as an unconventional device used sparingly.
+12. **Bokeh character**: highlight shape and the quality of the out-of-focus transition — creamy or double-lined — contribute to the mood; round night-lamp bokeh is one of the protagonists of atmosphere.
 
-## 量化判据
+## Quantitative criteria
 
-- 光学三元组可陈述：焦段+光圈+距离（缺一不可）。
-- 虚化梯度与距离逻辑一致（近更虚或远更虚，方向自洽）。
-- 广角画面有尺度锚。
-- 压缩画面有明度/色温分层。
-- 透视四错零命中（D4/perspective）。
-- 人像焦段纪律：面部特写不用广角贴脸（畸变）。
+- Optical triple statable: focal length + aperture + distance, none missing.
+- Defocus gradient consistent with distance logic — near softer or far softer, direction self-consistent.
+- Wide-angle frames carry a scale anchor.
+- Compressed frames carry value or color-temperature layering.
+- Perspective four errors: zero hits (D4/perspective).
+- Portrait focal discipline: no wide angle pressed against the face for a close-up, because of distortion.
 
-## 适用场景
+## Applicable scenes
 
-- 需要精确空间控制的一切画面；"空间感不对"的诊断；夜景、体育、微距、压缩风景等强光学题材。
-- 诉求关键词：镜头感、空间、景深、真实光学、呼吸感、压缩。
-- 组图角色：光学锚帧（空间关系最讲究的一帧）。
+- Any frame needing precise spatial control; the diagnosis of "the space feels wrong"; strongly optical subjects such as night scenes, sport, macro, and compressed landscapes.
+- Keywords: lens feel, space, depth of field, real optics, breathing, compression.
+- Role in a series: the optical anchor frame — the frame where spatial relations are most considered.
 
-## 与他派差异
+## Differences from other schools
 
-| 对照派 | 分界线 |
+| Compared school | Line |
 |---|---|
-| 电影导演派 | 导演从戏剧需要选机位；光学派从物理特性推构图——互为校验（导演的"羞辱机位"要过光学的畸变检查） |
-| 经典学院派 | 学院派的骨架是几何（三分/黄金）；本派的骨架是光学（焦段/景深）——几何管平面，光学管纵深 |
-| 纪实派 | 纪实信任现场光学（平视+环境光）；本派主动设计光学（为空间结构选镜） |
+| Cinematic Director | The Director chooses camera position from dramatic need; Optics derives composition from physical property — they verify each other, and the Director's humiliating angle must pass the Optics distortion check |
+| Classical Academy | The academy's armature is geometric, thirds and golden section; this school's armature is optical, focal length and depth of field — geometry manages the plane, optics manages depth |
+| Documentary | Documentary trusts the optics of the scene, eye level and ambient light; this school designs optics actively, choosing the lens for the spatial structure |
 
-## 反例与边界
+## Counterexamples and boundaries
 
-- 反例 1：广角浅景深"既要环境又要奶油虚"——物理矛盾，两头落空。选一头。
-- 反例 2：长焦压缩城市无分层——前后楼糊成一面墙。压缩必须配分层补偿。
-- 反例 3：为"参数好看"堆极端值（f/1.2+鱼眼+微距）——光学堆砌≠风格。一个光学宣言足够。
-- 边界：生成式画面的"焦段"是空间关系意图的声明（不绑定真实镜片）；本派判据全部以"空间结构是否自洽"为准，不校验具体参数实现。
+- Counterexample 1: wide angle with shallow depth of field, wanting environment and creamy blur at once — a physical contradiction, both lost. Pick one.
+- Counterexample 2: long-lens compression of a city with no layering — the buildings smear into one wall. Compression requires layering compensation.
+- Counterexample 3: stacking extreme values for pretty parameters — f/1.2 plus fisheye plus macro — optical piling is not style. One optical statement is enough.
+- Boundary: in generative frames, focal length is a declaration of spatial-relation intent and is not bound to real glass; every criterion here judges whether the spatial structure is self-consistent, not whether specific parameters are realized.
 
-## 连接
+## Connections
 
-- 光学全判据：D4/focal-length、dof、perspective
-- 空间自洽：D6/authenticity、ai-defaults
-- 分层补偿：D1/depth-layering
+- Complete optical criteria: D4/focal-length, dof, perspective
+- Spatial consistency: D6/authenticity, ai-defaults
+- Layering compensation: D1/depth-layering

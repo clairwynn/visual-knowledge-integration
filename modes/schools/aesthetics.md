@@ -1,62 +1,62 @@
-# 风格美学派（Style Aesthetics）
+# Style Aesthetics
 
-## 宣言
+## Manifesto
 
-1. 风格是可拆解的谱系：任何"好看"都能拆成参数组。
-2. 判断要给证据：每句"喜欢/不喜欢"都应能落到画面事实。
-3. 好看可以打分：多维加权让审美可比较、可改进。
-4. 谱系是地图：知道一幅画站在哪些传统的交点上，才算真正看懂它。
+1. Style is a decomposable lineage: any good-looking can be decomposed into parameter sets.
+2. Judgment carries evidence: every "I like it / I don't" can land on a fact of the frame.
+3. Beauty can be scored: multi-dimensional weighting makes aesthetics comparable and improvable.
+4. Lineage is a map: only when you know which traditions a picture stands at the intersection of have you really seen it.
 
-## 核心思维方式
+## Core thinking
 
-与直觉评判的差异：直觉说"这图好/差"，本派把判断拆成**六维评分+DNA 定位**——好在哪里（哪个维度高分）、像谁（哪条谱系）、缺什么（哪个维度短板）。思考流程：DNA 拆层（构图/光色/质感三层各像哪个流派）→ 六维打分（每分带证据）→ 定位坐标（在谱系地图上的位置）→ 改进方向（短板维+混搭建议）。
+Difference from intuitive judgment: intuition says good or bad; this school decomposes judgment into **six-dimension scoring plus DNA placement** — where it is good, which dimension scores high; whom it resembles, which lineage; what it lacks, which dimension is short. Thinking flow: DNA layering, comparing composition, light and color, and texture against school DNAs → six-dimension scoring with evidence on every score → coordinate placement on the lineage map → improvement direction, the short dimension plus a hybrid suggestion.
 
-## 技法库
+## Technique library
 
-1. **六维评分**：焦点/路径/平衡/纵深/情绪/独特，各 1–5 分+证据。见 D6/aesthetic-criteria。
-2. **权重配置**：按用途调权重（商业/艺术/组图三套起点配置），调权要声明。
-3. **DNA 拆层**：构图习惯/光色配方/质感笔触三层分别比对流派 DNA 卡。见 D6/art-movements。
-4. **谱系定位**：给画面找"最近的三位邻居"（两个流派+一个媒介习惯）——定位即理解。
-5. **混搭处方**：短板维从异流派借一层（"光色弱→借黑色电影的高光比"）。见 art-movements 混搭规则。
-6. **入门级特征扫描**：先查一票否决项（居中呆照/边缘事故/无主光）再谈分数。见 D6/aesthetic-criteria。
-7. **色板抽谱**：从画面抽取实际色板（按面积排序）对照策略色板——色板失守即风格漂移证据。
-8. **跨作品对比法**：同作者/同系列多图并排评——个体维度难以察觉的漂移在并排中现形。
-9. **风格签名提炼**：从作品集中归纳"可复用的三件套"（他总是 X 构图+Y 光色+Z 质感）——签名即风格的可执行定义。
-10. **反例对标**：拿"如果换 XX 派会怎样"做思想实验——对照中看清当前选择的得失。
+1. **Six-dimension scoring**: focus, path, balance, depth, emotion, distinctiveness — 1–5 each with evidence. See D6/aesthetic-criteria.
+2. **Weight configuration**: adjust weights by use, with three starting sets for commercial, artistic, and series; any change is declared.
+3. **DNA layering**: compare composition habit, light-color recipe, and texture stroke against school DNA cards. See D6/art-movements.
+4. **Lineage placement**: find the frame's three nearest neighbors — two schools plus one medium habit. Placement is understanding.
+5. **Hybrid prescription**: borrow one layer from a different school for the short dimension — weak light and color borrows film noir's high ratio. See the hybrid rules in art-movements.
+6. **Entry-level feature scan**: check the veto items first — dead-centered shot, edge accident, no key light — then discuss scores. See D6/aesthetic-criteria.
+7. **Palette sampling**: extract the actual palette from the frame ordered by area and compare it against the strategy palette; a palette breach is evidence of style drift.
+8. **Cross-work comparison**: judge several images by the same author or series side by side — drift invisible in a single frame shows up in juxtaposition.
+9. **Style signature extraction**: distill the reusable trio from a portfolio — "always X composition + Y light and color + Z texture" — the signature is the executable definition of style.
+10. **Counterfactual benchmarking**: run the thought experiment "what if we switched to school XX"; the comparison clarifies what the current choice gains and loses.
 
-## 量化判据
+## Quantitative criteria
 
-- 评分：每分必有画面事实证据（无证据评分无效）。
-- 总分线：≥4.0 强、3.0–3.9 可用、<3.0 返修（经验线）。
-- 一票否决：入门级特征任一命中→先修复再评分。
-- DNA：三层各自可归流派；异源 ≤1 层（混搭纪律）。
-- 色板：实际色板 ⊆ 策略色板（超板即漂移）。
+- Scoring: every score carries a fact of the frame; a score without evidence is void.
+- Total line: ≥4.0 strong, 3.0–3.9 usable, below 3.0 rework (empirical).
+- Veto: any entry-level feature hit means repair before scoring.
+- DNA: all three layers assignable to schools, with no more than one layer from a foreign source — the hybrid discipline.
+- Palette: the actual palette is a subset of the strategy palette; exceeding it means drift.
 
-## 适用场景
+## Applicable scenes
 
-- 多方案评审、作品复盘、风格咨询、艺术向委托的沟通（把"感觉"翻译成可讨论的语言）。
-- 诉求关键词：分析、为什么好看、风格、评审、打分、谱系。
-- 组图角色：评审帧的判定引擎（compare 功能的判据源）。
+- Multi-option review, portfolio retrospection, style consulting, communication on artistic commissions — translating feeling into discussable language.
+- Keywords: analysis, why it looks good, style, review, scoring, lineage.
+- Role in a series: the judgment engine for review frames — the criteria source of the compare function.
 
-## 与他派差异
+## Differences from other schools
 
-| 对照派 | 分界线 |
+| Compared school | Line |
 |---|---|
-| 格式塔心理派 | 格式塔判"读不读得懂"（可懂层）；本派评"好不好"（审美层）——可懂是审美的前置门 |
-| 商业实战派 | 商业以任务成败定优劣；本派以审美维度定优劣——任务图用商业门，作品图用本派尺 |
-| 观念反叛派 | 反叛派挑战审美惯例本身；本派在惯例谱系内做定位——反叛作品的评审需换权重（独特/情绪拉满） |
+| Gestalt Psychology | Gestalt judges readability, the intelligibility layer; this school evaluates quality, the aesthetic layer — intelligibility is the gate before aesthetics |
+| Commercial Practice | Commerce judges by task success; this school judges by aesthetic dimensions — task images use the commercial gate, artwork uses this school's ruler |
+| Conceptual Rebel | The Rebel challenges aesthetic convention itself; this school places work within the lineage of convention — reviewing rebel work requires different weights, with distinctiveness and emotion at maximum |
 
-## 反例与边界
+## Counterexamples and boundaries
 
-- 反例 1：评分无证据（"平衡 3 分"说不出哪里失衡）——伪评审。撤回重评。
-- 反例 2：用单一权重尺评一切（商业权重评观念艺术）——尺子错了。先选权重配置。
-- 反例 3：DNA 归属争论当真（"这到底算极简还是东方"）——DNA 卡是定位工具不是户口本；说得出"更像哪个+为什么"即达目的。
-- 边界：审美判断的最终裁决权在用户与语境；本派提供的是**可讨论的结构**，不是权威结论。分数是讨论起点。
+- Counterexample 1: scores without evidence — "balance 3" with no statement of where it fails — a pseudo-review. Withdraw and rescore.
+- Counterexample 2: one weight set judging everything, commercial weights on conceptual art — the wrong ruler. Choose the weight set first.
+- Counterexample 3: treating DNA attribution as a real dispute — "is this minimalism or Eastern" — DNA cards are a placement tool, not a registration document; saying "it is more like X, because…" achieves the goal.
+- Boundary: final aesthetic authority rests with the user and the context; this school provides a discussable structure, not an authoritative verdict. Scores are the starting point of discussion.
 
-## 连接
+## Connections
 
-- 评分体系：D6/aesthetic-criteria
-- 谱系卡：D6/art-movements
-- 流派全集库：references/D6-style/movement-library/（421 卡底册，_index 导航）
-- 评审流程：modes/function/compare.md、D7/protocol
-- 色板审计：D3/palette-strategy
+- Scoring system: D6/aesthetic-criteria
+- Lineage cards: D6/art-movements
+- Full school library: references/D6-style/movement-library/ — 421 cards, navigated by _index
+- Review flow: modes/function/compare.md, D7/protocol
+- Palette audit: D3/palette-strategy

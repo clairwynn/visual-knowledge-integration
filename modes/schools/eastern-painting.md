@@ -1,71 +1,71 @@
-# 东方画理派（Eastern Painting）
+# Eastern Painting
 
-## 宣言
+## Manifesto
 
-1. 计白当黑：空不是没画，空是画的主角之一。
-2. 一角取势：画面可以只有一角有物，势在物外。
-3. 散点游观：不学单点透视的"一窗看世界"，学移动视点的"边走边看"。
-4. 疏可走马，密不透风：密度对比本身就是构图。
-5. 意在笔先：先立意，后布局——布局是立意的痕迹。
+1. Treat blank space as substance: the empty is not unpainted; the empty is one of the protagonists of the painting.
+2. Take momentum from one corner: the frame may hold matter in a single corner, with the momentum lying beyond the matter.
+3. Scattered-point wandering view: do not learn single-point perspective's "view the world through one window"; learn the moving viewpoint's "look while walking".
+4. Sparse enough for a horse to pass, dense enough that no wind gets through: density contrast is itself composition.
+5. Intent precedes the brush: establish the intent first, then lay out the composition — the layout is the trace of the intent.
 
-## 核心思维方式
+## Core thinking
 
-与西方框架的根本差异：西方构图把画幅当"窗口"（框住一个视点看到的世界），东方画理把画幅当"天地"（物在天地间呼吸）。因此西方问"主体放哪"，东方问**"空放哪、留多少、空成什么"**——从空出发反推物的位置。深度也不靠灭点（几何纵深），靠层次与留白的推移（一重山、二重水、三重雾）。
+The root difference from Western frameworks: Western composition treats the frame as a window framing the world seen from one viewpoint; Eastern painting treats the frame as heaven-and-earth, in which things breathe. So the West asks "where does the subject go", while the East asks **"where does the emptiness go, how much of it, and what does it become"** — deriving the placement of things from emptiness. Depth also does not rely on vanishing points (geometric depth) but on the recession of layers and negative space: a first mountain range, a second stretch of water, a third band of mist.
 
-## 技法库
+## Technique library
 
-1. **一角取势**：主体压到画幅一角（常为下角或侧角），对角留大片天地。效果：物小境大，余韵在画外。适用：孤舟、独树、一人一亭。
-2. **计白当黑**：留白占比 50–80%，留白有形（云、水、雾、天）——空是"内容"。见 D1/spatial-allocation 质感化留白。
-3. **三段远法**：高远（仰视山势）/深远（层层推深）/平远（水平铺展）三选一组织纵深。效果：不靠灭点的空间节奏。
-4. **宾主朝揖**：多元素分宾主，主者立，宾者揖（朝向、大小、浓淡皆让主）。见 D1/multi-subject 权重序。
-5. **疏密对比**：密处密不透风（细节成团），疏处疏可走马（大片留白）。效果：密度对比即张力。判据：密疏面积比悬殊（经验值 ≥7:3）。
-6. **藏露法**：主体半藏（云掩山腰、帘后之人）——藏一半露一半，想象补全（闭合法则的画面版）。见 D5/gestalt 闭合。
-7. **折枝法**：只取对象一段入画（一枝梅、半竿竹），枝出画外——画外有画。效果：局部暗示整体。
-8. **墨分五色**：同色相内以浓淡干湿分层级——单色画面的层级技术。见 D3/harmony 单色系。
-9. **题款印章位**：留白处预埋"气口"（视觉落点），如题款位置——留白不是空的，是可落墨的。现代用法：海报字位预埋同构。
-10. **虚实相生**：实（浓墨主体）与虚（淡墨远物/留白）交替推进，虚处承担呼吸。见 D1/depth-layering 大气透视的写意版。
-11. **对角斜倚**：主枝/山势走对角，打破平板——东方框架里的动势语法（与西方对角构图同构但更含蓄，角度小）。
-12. **平远横卷**：横向展开的游观式构图（视线水平缓移，无中心焦点，多焦点等权）——横幅长卷特供。
-13. **以空为砝码（间/ma）**：留白不是剩余而是配重——空是"主动的轻"，小主体+大片空可以与重物达成均衡（emptiness as counterweight）。判定：空的位置永远对着画面的重侧。此为东方留白与西方平衡理论的接点。
-14. **留白定向**：留白的位置自带语义——主体**前方**留白=去向与速度；**上方**留白=精神升华（悬浮、超脱、神性）；**下方**留白=漂浮感、失重、不安。量之外先定位。
-15. **目光入空**：让画中人望向留白处——空成为"即将发生的事"，期待感与叙事张力从视线与留白的夹角中产生。
-16. **极空入抽象**：留白推至 85–90% 极端档，写实主体退化为优雅的抽象形——画面转向纯形状、剪影与纹理的阅读（抽象不是失误，是极档留白的合法产物）。
+1. **One-corner momentum**: press the subject into one corner (usually the lower or a side corner), leaving a large heaven-and-earth on the diagonal. Effect: a small thing, a vast circumstance; the aftertaste lies outside the frame. Use: a lone boat, a single tree, one figure and one pavilion.
+2. **Blank as substance**: negative space 50–80%, with the blank taking form (cloud, water, mist, sky) — the emptiness is content. See D1/spatial-allocation, textured negative space.
+3. **Three distances**: high distance (looking up at a mountain's momentum) / deep distance (receding layer upon layer) / level distance (spreading horizontally). Choose one to organize depth. Effect: spatial rhythm without vanishing points.
+4. **Host and guest salute**: multiple elements divide into host and guests; the host stands, the guests salute — facing, size, and density all yield to the host. See D1/multi-subject, weight order.
+5. **Sparse-dense contrast**: dense areas dense enough that no wind gets through (detail clustering), sparse areas sparse enough for a horse to pass (large blank). Effect: density contrast is tension. Criterion: a wide area ratio between dense and sparse (empirical ≥7:3).
+6. **Hide and reveal**: the subject half-hidden — a cloud masking a mountain's waist, a figure behind a curtain — half hidden and half revealed, with imagination completing it, the picture-book version of the closure law. See D5/gestalt, closure.
+7. **Broken branch**: take only one segment of the subject into the frame (one plum branch, half a bamboo stalk), the branch exiting the frame — there is a painting beyond the painting. Effect: the part implies the whole.
+8. **Ink in five colors**: within one hue, layer by density and wetness — the layering technique of a monochrome frame. See D3/harmony, monochromatic.
+9. **Inscription and seal position**: pre-set a breathing slot in the negative space as a visual landing point, like the position of an inscription — the blank is not empty but inkable. Modern usage: poster type positions are built on the same structure.
+10. **Solid and void generating each other**: solid (a dense-ink subject) and void (pale distant matter or blank) advance in alternation, the void carrying the breathing. See D1/depth-layering, the expressive version of atmospheric perspective.
+11. **Diagonal lean**: the main branch or mountain momentum runs on the diagonal, breaking flatness — the momentum grammar inside the Eastern frame, structurally the same as the Western diagonal but more restrained, with a smaller angle.
+12. **Level-distance handscroll**: a horizontal wandering composition — the gaze moves slowly level, with no central focus and multiple foci of equal weight. Made for the horizontal long scroll.
+13. **Emptiness as counterweight (ma)**: the blank is not surplus but ballast; emptiness as active lightness, so a small subject with a large blank can balance a heavy mass. Test: the emptiness always faces the heavy side of the frame. This is the joining point between Eastern blank space and Western balance theory.
+14. **Directional blank**: the position of the blank carries semantics — blank **in front** of the subject means direction and speed; blank **above** means spiritual elevation (suspension, transcendence, divinity); blank **below** means floating, weightlessness, unease. Position comes before quantity.
+15. **Gaze into the void**: let the figure look toward the blank, so the emptiness becomes "what is about to happen"; anticipation and narrative tension arise from the angle between the gaze and the blank.
+16. **Extreme blank into abstraction**: push the blank to the extreme band of 85–90%, the realistic subject degrading into an elegant abstract form — the frame turns to pure shape, silhouette, and texture reading. Abstraction is not an error but the legitimate product of extreme blank space.
 
-## 量化判据
+## Quantitative criteria
 
-- 留白：50% 起步，意境题材 60–80%；留白必须有质地（云/水/雾/光）。
-- 留白情绪 spine（与 D1/spatial-allocation 五档联动）：留白约 10%=强度力量 → 30%=亲密 → 50%=叙事平衡 → 70%=自由 → 90%=孤独沉思（经验值）——选留白即选情绪，也可由情绪反推留白档。
-- 密疏比：密部与疏部面积悬殊（≥7:3，经验值）。
-- 落位：主体压角或压边，重心偏但不倒（底边或侧边有"立得住"的支点）。
-- 层级：单色相内明度 ≥3 级（浓/次/淡）。
-- 边缘：主体可出画（折枝合法）——西方"边缘入侵"禁忌在此派不适用，但出画方向要有势（枝梢有走势）。
+- Negative space: starting at 50%, 60–80% for mood subjects; the blank must carry texture (cloud, water, mist, light).
+- Blank-space emotional spine, linked to the five grades in D1/spatial-allocation: about 10% = intense power → 30% = intimacy → 50% = narrative balance → 70% = freedom → 90% = solitary contemplation (empirical). Choosing blank space is choosing emotion, and emotion can also work backwards to the grade.
+- Dense-sparse ratio: a wide area difference between dense and sparse (≥7:3, empirical).
+- Placement: the subject pressed into a corner or edge; the center of gravity off but standing, with a supporting point at the base or side.
+- Hierarchy: ≥3 value levels within one hue (dense / secondary / pale).
+- Edges: the subject may leave the frame — the broken branch is legitimate. The Western prohibition on edge intrusion does not apply in this school, but the departing direction must carry momentum, with flow in the branch tip.
 
-## 适用场景
+## Applicable scenes
 
-- 山水、花鸟、禅意静物、茶器、庭院、雾景、雨景、孤舟独钓。
-- 诉求关键词：意境、留白、呼吸、禅、东方、空灵、余韵。
-- 现代混血：极简海报（东方留白+西方网格）、茶饮品牌、新中式。
+- Landscapes, flowers and birds, Zen still life, tea ware, courtyards, mist, rain, a lone boat fishing alone.
+- Keywords: mood, negative space, breathing, Zen, Eastern, ethereal, aftertaste.
+- Modern hybrids: minimal posters (Eastern blank plus Western grid), tea brands, new Chinese style.
 
-## 与他派差异
+## Differences from other schools
 
-| 对照派 | 分界线 |
+| Compared school | Line |
 |---|---|
-| 极简减法派 | 极简"删元素"（减法后剩一个物）；东方"经营空"（物可以不少，空要先立）——极简的重心在少，东方的重心在势 |
-| 经典学院派 | 学院派单点透视+框式构图；东方散点+出画合法——几何纵深 vs 层次留白纵深 |
-| 观念反叛派 | 东方的"不满"是留有余地的空；反叛的"满"是压到底的挤——同为反中位数，气质相反 |
+| Minimalist Subtraction | Minimalism deletes elements until one thing remains; the East manages emptiness — the objects may be many, but the blank must be established first. Minimalism's center of gravity is fewness; the East's is momentum |
+| Classical Academy | The academy uses single-point perspective and framed composition; the East uses scattered points and legal exit — geometric depth versus layered blank depth |
+| Conceptual Rebel | The Eastern "not full" is blank that leaves room; the Rebel's "full" is crowding pressed to the limit — both oppose the median, with opposite temperaments |
 
-## 反例与边界
+## Counterexamples and boundaries
 
-- 反例 1：留白 70% 却没有质地——不是意境，是没画完（计白当黑的前提是"白"可读作云水雾天）。
-- 反例 2：折枝出画但枝梢无走势——出画读作裁切事故而非画外有余。
-- 反例 3：散点用进了需要单视点的叙事画面（人物对峙）——游观与对峙的凝视逻辑冲突。叙事凝视归西方框架。
-- 边界：此派与"几何精确"互斥（透视校验、黄金网格在留白画面上无意义）；混搭时分区处理（主体物用西方控制，空间关系用东方经营）。
+- Counterexample 1: 70% blank with no texture — not mood, simply unfinished; the premise of blank-as-substance is that the blank reads as cloud, water, mist, or sky.
+- Counterexample 2: a broken branch exiting the frame with no momentum in the tip — the exit reads as a cropping accident rather than an implied beyond.
+- Counterexample 3: scattered points used in a narrative frame that needs a single viewpoint, such as two figures confronting each other — the wandering view conflicts with the gaze logic of confrontation. Narrative gaze belongs to the Western framework.
+- Boundary: this school is mutually exclusive with geometric precision — perspective checks and golden grids are meaningless on a blank-space frame. In hybrid work, treat the zones separately: control the subject with Western means, manage spatial relations with Eastern means.
 
-## 连接
+## Connections
 
-- 留白的量化与质感：D1/spatial-allocation
-- 层次与虚实：D1/depth-layering
-- 闭合与藏露的机理：D5/gestalt
-- 单色层级：D3/harmony
-- 去除测试与计白当黑互证：D5/tests
-- 以空为砝码的平衡机理：D1/balance（以空配密）、D5/visual-weight
+- Quantified blank space and texture: D1/spatial-allocation
+- Layers, solid and void: D1/depth-layering
+- Mechanism of closure and concealment: D5/gestalt
+- Monochrome hierarchy: D3/harmony
+- Removal test corroborating blank-as-substance: D5/tests
+- Balance mechanism of emptiness as counterweight: D1/balance, D5/visual-weight

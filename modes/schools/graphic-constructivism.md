@@ -1,65 +1,65 @@
-# 平面构成派（Graphic Constructivism）
+# Graphic Constructivism
 
-## 宣言
+## Manifesto
 
-1. 版面即结构：网格先于装饰，构成先于美化。
-2. 对齐是一种道德：每个元素都该有它对齐的对象。
-3. 层级是设计的骨架：一眼分出标题/正文/注脚的画面才成立。
-4. 留白是元素，不是剩余：空也是网格的一部分。
+1. Layout is structure: grid before decoration, construction before beautification.
+2. Alignment is a moral: every element should have something to align to.
+3. Hierarchy is the skeleton of design: a frame that separates title, body, and footnote at a glance holds.
+4. Negative space is an element, not a leftover: emptiness is part of the grid.
 
-## 核心思维方式
+## Core thinking
 
-与绘画性流派的差异：本派把画面当**版面**思考——元素是"块"（block）而非"物"（object），先排块面关系（大小/位置/对齐/密度），再谈块内内容。源自包豪斯与瑞士网格传统：设计是解决问题的秩序，不是抒情。
+Difference from painterly schools: this school thinks of the frame as a **layout** — elements are blocks, not objects. Arrange the block relations first (size / position / alignment / density), then discuss the content inside the blocks. Rooted in the Bauhaus and Swiss grid tradition: design is the order that solves a problem, not lyricism.
 
-思考流程：内容清单化 → 定层级（一级/二级/三级）→ 选网格（几栏/什么比例）→ 块面对位 → 密度与留白分配 → 层级校验（眯眼看块面）。
+Thinking flow: inventory the content → fix hierarchy (levels 1/2/3) → choose the grid (how many columns, what ratio) → align the blocks → allocate density and negative space → verify hierarchy by squinting at the blocks.
 
-## 技法库
+## Technique library
 
-1. **网格法**：先立网格（2/3/4/6/12 栏），元素对齐网格线。效果：秩序自动成立。判据：任何元素都能说出对齐对象。
-2. **八点/模数间距**：间距取模数（如 8 的倍数，经验值）——间距体系化，防"差不多对齐"。
-3. **层级三件**：一级（主标题/主视觉）唯一且最大；二级（副题/次视觉）减 1–2 档；三级（注脚）最小。判据：眯眼测试仍可分三档。
-4. **栏式分读**：多信息按栏分组（双栏对比/三栏并列）——栏即分组（格式塔接近法则的网格化）。
-5. **角点布点**：四角与边中点是版面的"重力点"——关键元素落点优先选角点系统（F/Z/古腾堡动线配合）。见 D5/eye-movement。
-6. **打破网格**：主视觉跨栏/出血/旋转——秩序中的一次破格=焦点（破格要有且唯一）。
-7. **块面密度节奏**：密块与空块交替（密-空-密）——版面的呼吸曲线。判据：连续密块 ≤2。
-8. **负空间通道**：块间的空做出"通道"（阅读路径），通道宽度一致。
-9. **字号阶梯**：相邻层级字号比 ≥1.4（经验值）——差距小于此读不出层级。
-10. **对齐系统**：全画面只用 1–2 种对齐（左对齐+中轴）——三种以上对齐=失控。
-11. **色块分区**：用色块（而非线）划分区域——块的分割比线更现代。
-12. **模数重复**：同尺寸块重复（bento 格）——秩序感+信息公平感。
+1. **Grid method**: establish the grid first (2/3/4/6/12 columns), then align elements to its lines. Effect: order holds automatically. Criterion: every element can name what it aligns to.
+2. **Eight-point / modular spacing**: spacing takes a modulus, such as multiples of 8 (empirical) — systematized spacing prevents "roughly aligned".
+3. **Hierarchy triad**: level 1 — main title or key visual — unique and largest; level 2 — subtitle or secondary visual — 1–2 steps down; level 3 — footnote — smallest. Criterion: the squint test still separates three grades.
+4. **Column reading**: group multiple pieces of information by column — two-column comparison, three-column parallel. A column is a group: the proximity law turned into a grid.
+5. **Corner-point placement**: the four corners and edge midpoints are the layout's gravity points, so key elements land there preferentially, paired with F / Z / Gutenberg paths. See D5/eye-movement.
+6. **Breaking the grid**: the key visual spans columns, bleeds, or rotates — one breach inside order equals the focus. The breach must exist and be unique.
+7. **Block-density rhythm**: dense blocks alternate with empty blocks, dense-empty-dense — the layout's breathing curve. Criterion: no more than 2 consecutive dense blocks.
+8. **Negative-space channels**: the gaps between blocks form channels that carry the reading path, at consistent width.
+9. **Type-size ladder**: adjacent levels differ by ≥1.4 in size (empirical); below that, hierarchy is unreadable.
+10. **Alignment system**: use only 1–2 alignments across the frame, such as left alignment plus central axis. Three or more means loss of control.
+11. **Color-block zoning**: divide areas with color blocks rather than lines; blocks divide more modernly than lines.
+12. **Modular repetition**: repeat blocks of equal size, as in a bento grid, producing a sense of order and of informational fairness.
 
-## 量化判据
+## Quantitative criteria
 
-- 对齐：全部元素有对齐对象；对齐系统 ≤2 种。
-- 层级：≥3 档可辨（眯眼测试）；相邻档字号/块面比 ≥1.4。
-- 间距：模数化；同类间距一致（误差 ≤1 模数单位）。
-- 密度：密块连排 ≤2；全版留白 ≥25%（经验值）。
-- 破格：0 或 1 处。
+- Alignment: every element has an alignment target; alignment systems ≤2.
+- Hierarchy: ≥3 distinguishable grades under the squint test; adjacent grades differ in type size or block area by ≥1.4.
+- Spacing: modular; same-class spacing consistent, error ≤1 modular unit.
+- Density: no more than 2 consecutive dense blocks; overall negative space ≥25% (empirical).
+- Breach: 0 or 1.
 
-## 适用场景
+## Applicable scenes
 
-- 海报、信息图、卡片、Banner、PPT/版式、多图排布、图文混排、UI 视觉。
-- 诉求关键词：版式、排版、设计感、现代、瑞士、网格、bento。
-- 组图角色：版式统一的多帧系列（网格是序列一致性的骨架）。
+- Posters, infographics, cards, banners, slide and page layout, multi-image arrangement, mixed image and text, UI visuals.
+- Keywords: layout, typography, design feel, modern, Swiss, grid, bento.
+- Role in a series: layout-unified multi-frame sets, where the grid is the skeleton of sequence consistency.
 
-## 与他派差异
+## Differences from other schools
 
-| 对照派 | 分界线 |
+| Compared school | Line |
 |---|---|
-| 格式塔心理派 | 本派从作者侧立秩序（网格），格式塔从读者侧验感知（分组）——先立网再验组 |
-| 极简减法派 | 元素多到需要组织时归本派；删到无需组织时归极简——网格是本派的下限工具 |
-| 商业实战派 | 商业派以转化目标定层级；本派以信息结构定层级——商业是本派的用途化分支 |
+| Gestalt Psychology | This school establishes order on the author's side, the grid; Gestalt verifies perception on the reader's side, the grouping — build the grid, then verify the groups |
+| Minimalist Subtraction | When there are enough elements to need organizing, this school applies; when deletion removes the need for organizing, minimalism applies — the grid is this school's floor tool |
+| Commercial Practice | Commerce sets hierarchy from the conversion goal; this school sets hierarchy from information structure — commerce is this school's use-case branch |
 
-## 反例与边界
+## Counterexamples and boundaries
 
-- 反例 1：网格用死（一切对齐零破格）——秩序变呆板。留一个破格点给主视觉。
-- 反例 2：为"设计感"叠五种对齐——失控。对齐系统 ≤2。
-- 反例 3：把照片当"物"硬塞网格（裁切不齐、重心不查）——块面思维要求照片也做"块"处理（统一裁切比与重心方向）。
-- 边界：绘画性/叙事性画面（意境、电影帧）不适用网格逻辑——网格服务信息，不强加于抒情。
+- Counterexample 1: using the grid to death, everything aligned and zero breach — order turns rigid. Leave one breach point for the key visual.
+- Counterexample 2: stacking five alignments for a design feel — loss of control. Alignment systems ≤2.
+- Counterexample 3: forcing photographs into the grid as objects, with uneven crops and unchecked centers of gravity — block thinking requires photographs to be treated as blocks too, with unified crop ratios and center-of-gravity directions.
+- Boundary: painterly or narrative frames, such as a mood piece or a film frame, do not take grid logic — the grid serves information and is never imposed on lyricism.
 
-## 连接
+## Connections
 
-- 感知分组校验：modes/schools/gestalt-psychology.md、D5/gestalt
-- 动线配合：D5/eye-movement
-- 色块与配比：D3/proportions、palette-strategy
-- 层级判据：D6/aesthetic-criteria
+- Perceptual grouping check: modes/schools/gestalt-psychology.md, D5/gestalt
+- Scan-path pairing: D5/eye-movement
+- Color blocks and proportion: D3/proportions, palette-strategy
+- Hierarchy criteria: D6/aesthetic-criteria

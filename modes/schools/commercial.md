@@ -1,68 +1,68 @@
-# 商业实战派（Commercial Pragmatic）
+# Commercial Practice
 
-## 宣言
+## Manifesto
 
-1. 图片是拿来用的：用不上的美等于没有。
-2. 量化判据优先：占比、位置、规范都是可检查的数字，不靠感觉。
-3. 转化友好压倒艺术野心：先保证"信息一秒读对"，再谈风格。
-4. 规范不是天花板：合规之上仍可有设计感（规规矩矩的好看）。
+1. The image is meant to be used: beauty that cannot be used does not exist.
+2. Quantified criteria first: share, position, and specification are checkable numbers, never feelings.
+3. Conversion-friendliness outranks artistic ambition: guarantee that the information is read correctly in one second before discussing style.
+4. Specification is not a ceiling: design quality can live above compliance — the good-looking that behaves.
 
-## 核心思维方式
+## Core thinking
 
-其他流派问"怎样好看"，本派问"**这张图要完成什么任务**"——卖货、传信息、建认知、防误读。所有构图决策从任务倒推：电商主图要三秒读懂产品+卖点；社交卡片要拇指可读+品牌一致；封面要在缩略图里赢。
+Other schools ask how a frame looks good; this school asks **what task the image must complete** — sell, inform, build recognition, prevent misreading. Every composition decision is derived backwards from the task: an e-commerce hero image must make the product and its selling point readable in three seconds; a social card must be thumb-readable and brand-consistent; a cover must win at thumbnail scale.
 
-任务→判据→画面的顺序，判据全部量化（占比带、安全区、可读线），验收走通过线（review-gates 的门禁思想源此）。
+The order is task → criteria → frame, and every criterion is quantified — share bands, safe areas, readability lines — with acceptance running through the review gates; the gatekeeping idea in review-gates originates here.
 
-## 技法库
+## Technique library
 
-1. **任务定义先行**：写一句话任务书（"3 秒内让用户读出 X"）——一切判据的锚。
-2. **主体占比规范**：产品主图 40–60% 居中+底部着陆影；人像头图面部 60–70%。见 D1/spatial-allocation。
-3. **居中规范**：电商主图/身份照用居中对称（此场景居中不是呆，是规范——学院派"偏置优先"在此让位）。见 D1/composition-types-2。
-4. **中央安全区**：多平台投放图的关键元素收进中央 60–80%。见 D1/aspect-ratio。
-5. **白底/无彩底纪律**：产品图无彩底（白/浅灰渐变）+单光源+接地影——干净即专业。
-6. **场景图分工**：主图（白底规范）+场景图（生活方式语境）分列，各司其职不混。
-7. **九宫格/多图序列**：统一色板+变化矩阵（构图/机位/景别/重心/光向逐图变）。见 modes/function/sequence.md。
-8. **文字压图规范**：文字区底部暗化带/渐变压底保可读（文字权重最高）。见 D5/figure-ground。
-9. **拇指测试**：一切封面/卡片图先过缩略图测试——缩略图输=全输。见 D5/tests。
-10. **行业机位表**：美食俯拍 90°/45° 分工（图案感 vs 用餐感）+ 诱食三件套（暖侧光+蒸汽热气+油润高光，经验值）；建筑一点透视端正；地产广角防畸变（垂直线守恒）；身份照规范（居中+平视+均匀柔光）。见 D4/angle、perspective、D2/direction-quality。
-11. **卖点视觉化**：卖点不写字就画出来（对比、放大、场景化演示）——视觉直给。
-12. **一致性审计**：系列图的色板/字体域/影调统一检查（品牌资产视角）。见 D3/palette-strategy 序列一致性。
-13. **竖版卡片四横带**：竖版社交卡片按四横带自检——顶部标题带（字位预留）/主视觉带/信息辅助带/底部呼吸带，各带职能单一、互不侵入；与中央安全区、底部避让带配合使用（经验值）。
+1. **Task definition first**: write a one-line brief ("within 3 seconds the viewer reads X") — the anchor of every criterion.
+2. **Subject share specification**: product hero 40–60% centered with a landing shadow at the base; portrait avatar face 60–70%. See D1/spatial-allocation.
+3. **Centering specification**: e-commerce hero images and identity photos use centered symmetry — in this context centering is not dullness but specification, and the academy's offset-first rule yields here. See D1/composition-types-2.
+4. **Central safe area**: for multi-platform delivery, keep key elements inside the central 60–80%. See D1/aspect-ratio.
+5. **White or achromatic ground discipline**: product shots use an achromatic ground — white or light-gray gradient — plus a single source plus a contact shadow; clean is professional.
+6. **Scene-shot division of labor**: hero image under the white-ground specification and lifestyle scene image are separate deliverables, each doing its own job, never mixed.
+7. **Nine-grid or multi-image sequence**: unified palette plus a variation matrix — composition, camera position, shot size, center of gravity, and light direction changing frame by frame. See modes/function/sequence.md.
+8. **Text-over-image specification**: the text area sits on a darkened band or a gradient bed to keep readability, with text carrying the highest weight. See D5/figure-ground.
+9. **Thumb test**: every cover or card passes the thumbnail test first — losing at thumbnail scale means losing entirely. See D5/tests.
+10. **Industry camera-position table**: food shot top-down at 90° versus 45°, for pattern feel versus dining feel, plus the appetizing trio — warm side light, steam and heat, glossy highlights (empirical); architecture in one-point perspective, squared up; real-estate wide angle with distortion control, verticals preserved; identity photos specified as centered, eye level, even soft light. See D4/angle, perspective, D2/direction-quality.
+11. **Selling-point visualization**: if a selling point is not written, draw it — comparison, magnification, scene demonstration; deliver it visually.
+12. **Consistency audit**: check series images for unified palette, type family, and tonality from a brand-asset viewpoint. See D3/palette-strategy, sequence consistency.
+13. **Vertical card four-band check**: vertical social cards self-check against four horizontal bands — a top title band with reserved type space, a key-visual band, a supporting-information band, and a bottom breathing band. Each band has a single function and never invades another; use together with the central safe area and the bottom avoidance band (empirical).
 
-## 量化判据
+## Quantitative criteria
 
-- 任务书：存在且一句话。
-- 主体占比：按题材规范带（见上）。
-- 安全区：关键元素在中央 60–80%。
-- 缩略图测试：通过（硬门）。
-- 色板：≤4 色相+品牌色锚定。
-- 多图：相邻帧 ≥2 维变化、全序同型 ≤1 次。
-- 可读线：文字与底的最小明度差 ≥2 档。
+- Brief: exists and fits in one line.
+- Subject share: within the subject-specific band above.
+- Safe area: key elements inside the central 60–80%.
+- Thumbnail test: passed — a hard gate.
+- Palette: ≤4 hues with the brand color anchored.
+- Multi-image: adjacent frames vary in ≥2 dimensions; the same composition type appears at most once.
+- Readability line: minimum tonal difference between text and ground ≥2 stops.
 
-## 适用场景
+## Applicable scenes
 
-- 电商（主图/详情/海报）、社交卡片、公众号封面、信息流广告、产品九图、企业物料。
-- 诉求关键词：转化、卖货、规范、平台、统一、清晰。
-- 组图角色：序列的主力功能帧。
+- E-commerce (hero, detail page, poster), social cards, official-account covers, feed ads, nine-image product sets, corporate collateral.
+- Keywords: conversion, selling, specification, platform, consistency, clarity.
+- Role in a series: the workhorse functional frame.
 
-## 与他派差异
+## Differences from other schools
 
-| 对照派 | 分界线 |
+| Compared school | Line |
 |---|---|
-| 平面构成派 | 构成派管版面美学；商业派管任务达成——构成是商业的排Grammar，任务是商业的灵魂 |
-| 极简减法派 | 极简为认知效率删信息；商业为信息效率保信息（该有的卖点一个不能少） |
-| 风格美学派 | 美学派可接受"小众的好看"；商业派的可读性门禁不可谈判 |
+| Graphic Constructivism | Constructivism manages layout aesthetics; Commercial manages task completion — construction is the syntax of commerce, the task is its soul |
+| Minimalist Subtraction | Minimalism deletes information for cognitive efficiency; commerce keeps information for information efficiency — not one selling point may be missing |
+| Style Aesthetics | Aesthetics may accept niche beauty; the readability gate of commerce is non-negotiable |
 
-## 反例与边界
+## Counterexamples and boundaries
 
-- 反例 1：主图艺术化（斜角+暗调+大留白）——点击率语言错乱（主图是货架，不是画廊）。艺术诉求放品牌页/详情页。
-- 反例 2：规范压死一切（全序列居中白底）——规范之上仍要有变化矩阵，多图重样=流量浪费。
-- 反例 3：卖点堆砌（一张图五个卖点）——任务书失效。一图一主卖点。
-- 边界：本派判据与平台规范强相关，平台规则变化时以最新规范为准（本库给通用判据层）；艺术向委托（约稿、创作）不适用本派门禁。
+- Counterexample 1: an artistic hero image — diagonal, dark tonality, large blank — breaks the click-through language; the hero image is a shelf, not a gallery. Put artistic intent on the brand page or detail page.
+- Counterexample 2: specification crushing everything, every frame centered on white — variation is still required above specification; repeated images waste traffic.
+- Counterexample 3: piling selling points, five in one image — the brief fails. One key selling point per image.
+- Boundary: these criteria are tightly coupled to platform rules, so the latest specification governs when rules change; this library supplies the general criterion layer. Artistic commissions are not subject to this school's gates.
 
-## 连接
+## Connections
 
-- 占比与安全区：D1/spatial-allocation、aspect-ratio
-- 序列变化矩阵：modes/function/sequence.md
-- 门禁思想：D7/review-gates
-- 版面技术：modes/schools/graphic-constructivism.md
+- Share and safe area: D1/spatial-allocation, aspect-ratio
+- Sequence variation matrix: modes/function/sequence.md
+- Gatekeeping idea: D7/review-gates
+- Layout technique: modes/schools/graphic-constructivism.md

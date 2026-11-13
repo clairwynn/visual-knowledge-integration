@@ -1,62 +1,62 @@
-# 格式塔心理派（Gestalt Psychology）
+# Gestalt Psychology
 
-## 宣言
+## Manifesto
 
-1. 观众的眼睛先于作者的意图：画面成立与否由感知规律裁决。
-2. 整体先于部分：元素的意义来自分组关系，不来自元素本身。
-3. 构图的全部技巧，最后都要通过"感知是否读得懂"这一关。
-4. 乱与整不是审美分歧，是分组成功与失败的客观差异。
+1. The viewer's eye precedes the author's intent: whether the frame holds is judged by perceptual law.
+2. The whole precedes the parts: the meaning of an element comes from grouping relations, not from the element itself.
+3. Every compositional technique must finally pass the gate of "can perception read it".
+4. Messy versus coherent is not an aesthetic disagreement but the objective difference between successful and failed grouping.
 
-## 核心思维方式
+## Core thinking
 
-其他流派教"怎么排"，本派回答"**为什么这样排会被这样看见**"——它是所有操作流派的机理层。思考时把画面翻译成感知事件：第一分组是什么？几组？组界在哪？哪条感知线在读？异常（融合、误组、断裂）就是感知事故。
+Other schools teach how to arrange; this school answers **why this arrangement will be seen this way** — it is the mechanism layer beneath every operational school. Think of the frame as a set of perceptual events: what is the first grouping? How many groups? Where are the group boundaries? Which perceptual line is reading? Anomalies — fusion, mis-grouping, fracture — are perceptual accidents.
 
-思考流程：列出画面元素 → 预测分组（按接近/相似/连续/闭合）→ 检查分组与意图是否一致 → 不一致处修关系（距离/相似度/朝向）。
+Thinking flow: list the frame elements → predict groupings (by proximity / similarity / continuity / closure) → check whether the grouping matches intent → repair the relations where it does not (distance / similarity / facing).
 
-## 技法库
+## Technique library
 
-1. **接近成组**：相关元素间距 < 组间距 1/2。效果：信息自动分块。适用：多物件、图文、序列卡。
-2. **相似归类**：同类元素统一（色/形/大小），异类明确差异。效果：类别可读。防误用：主角与背景道具相似=被吞（需破相似）。
-3. **连续牵线**：让元素沿一条可预测走向排列。效果：引导线的感知基础。见 D1/visual-path。
-4. **闭合造形**：留缺口让观者补全（残形、负形、半露主体）。效果：参与感+记忆度。判据：缺口 ≤1/3（经验值），过大闭合失败。
-5. **图底操盘**：控制"浮起/沉底"的五线索（轮廓/在前/清晰/致密/面积）。见 D5/figure-ground。
-6. **共同命运**：同向元素读作一体（队列、鸟群、光斑群）。效果：群体整感。
-7. **感知组数管理**：画面感知组 3–5 组为清晰区。>7 组做减法或再分组；1 组做层级。
-8. **异质孤立**：同类海中唯一异类（破格）自动成焦点。见 D5/attention 孤立效应。判据：异类唯一。
-9. **良好形优先**：简单、对称、规则的形先被看见——主体轮廓宜简洁（复杂轮廓输给背景简单形）。
-10. **误导拆除**：找出"会读错"的分组（不相关物太近/同类差异太小）并拆掉——负向设计法。
+1. **Proximity grouping**: related elements are spaced less than half the group gap. Effect: information chunks automatically. Use: multiple objects, image with text, series cards.
+2. **Similarity classification**: similar elements unified (color / shape / size), dissimilar ones clearly differentiated. Effect: categories become readable. Misuse warning: making the protagonist similar to background props means it gets swallowed, so the similarity must be broken.
+3. **Continuity threading**: arrange elements along a predictable direction. Effect: the perceptual basis of leading lines. See D1/visual-path.
+4. **Closure forming**: leave a gap for the viewer to complete — fragment shape, negative form, half-revealed subject. Effect: participation and memorability. Criterion: gap ≤1/3 of the perimeter (empirical); larger and closure fails.
+5. **Figure-ground operation**: control the five cues of floating versus sinking (outline / in front / sharp / dense / area). See D5/figure-ground.
+6. **Common fate**: elements moving in the same direction read as one body — queues, flocks, clusters of bokeh. Effect: group coherence.
+7. **Group-count management**: 3–5 perceptual groups is the clear zone. Above 7 groups, subtract or regroup; with 1 group, build hierarchy.
+8. **Heterogeneous isolation**: the single odd item in a sea of similars — the breach — becomes the focus automatically. See D5/attention, Von Restorff effect. Criterion: the odd item is unique.
+9. **Good form first**: simple, symmetrical, regular shapes are seen first, so keep the subject outline simple; a complex outline loses to a simple background shape.
+10. **Mis-reading removal**: find the groupings that will be read wrong — unrelated objects too close, differences within a class too small — and dismantle them. This is negative design.
 
-## 量化判据
+## Quantitative criteria
 
-- 组间距 ≥ 组内间距 ×2（分组成立的最低差）。
-- 感知组数 3–5（清晰区）。
-- 闭合缺口 ≤1/3 周长。
-- 图底线索 ≥3 条同向（主体成立）。
-- 破格点唯一。
+- Group gap ≥ in-group gap ×2, the minimum difference for grouping to hold.
+- Perceptual groups 3–5, the clear zone.
+- Closure gap ≤1/3 of the perimeter.
+- Figure-ground cues ≥3 in the same direction for the subject to hold.
+- Breach point unique.
 
-## 适用场景
+## Applicable scenes
 
-- 信息密集画面（图文、信息图、货架、九宫格）的整感设计。
-- 诊断"乱/说不清哪不对"——本派是诊断的语言学。
-- 极简与负空间的理论支撑（图底、闭合）。
-- 诉求关键词：为什么、机理、整体感、可读性。
+- Coherence design for information-dense frames: image and text, infographics, shelves, nine-grid.
+- Diagnosing "messy / can't say what is wrong" — this school is the linguistics of diagnosis.
+- Theoretical support for minimalism and negative space: figure-ground, closure.
+- Keywords: why, mechanism, overall coherence, readability.
 
-## 与他派差异
+## Differences from other schools
 
-| 对照派 | 分界线 |
+| Compared school | Line |
 |---|---|
-| 经典学院派 | 学院派是操作规则库；本派是机理解释器——"三分法为什么有效"的答案在本派（力量点=眼动停留位） |
-| 平面构成派 | 构成派管版面网格（作者侧秩序）；本派管感知分组（读者侧秩序）——同一画面两把尺 |
-| 风格美学派 | 美学派评"好不好"，本派判"读不读得懂"——可懂性先于美 |
+| Classical Academy | The academy is an operational rule library; this school is a mechanism explainer — the answer to "why does the rule of thirds work" lives here, where power points are eye resting positions |
+| Graphic Constructivism | Constructivism manages the layout grid, order on the author's side; this school manages perceptual grouping, order on the reader's side — two rulers on the same frame |
+| Style Aesthetics | Aesthetics asks "is it good"; this school asks "is it readable" — intelligibility precedes beauty |
 
-## 反例与边界
+## Counterexamples and boundaries
 
-- 反例 1：把全部元素等距铺开"求整齐"——均匀=无分组=信息平权=读不出重点。整齐≠整。
-- 反例 2：闭合玩过头（主体只露 5%）——闭合失败成谜题（除非谜题即意图）。
-- 反例 3：用机理否定风格（"这画面违反接近法则所以差"）——风格宣言可豁免分组常规，但要自觉。边界：本派判"可读性"，最终审美裁决权在六维评分与用户意图。
+- Counterexample 1: spreading every element at equal spacing "for tidiness" — uniformity means no grouping, which means flat information and no point. Tidy is not coherent.
+- Counterexample 2: overplaying closure, subject only 5% revealed — closure fails into a puzzle, unless a puzzle is the intent.
+- Counterexample 3: using mechanism to deny style ("this frame violates proximity, so it is bad") — a style manifesto may be exempt from grouping convention, but it must be self-aware. Boundary: this school judges readability; final aesthetic authority rests with the six-dimension scoring and the user's intent.
 
-## 连接
+## Connections
 
-- 机理全文：D5/gestalt、figure-ground、attention
-- 操作层：D1/multi-subject、visual-path
-- 感知测试：D5/tests
+- Full mechanism: D5/gestalt, figure-ground, attention
+- Operational layer: D1/multi-subject, visual-path
+- Perceptual tests: D5/tests

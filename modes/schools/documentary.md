@@ -1,66 +1,66 @@
-# 摄影纪实派（Photographic Documentary）
+# Documentary Photography
 
-## 宣言
+## Manifesto
 
-1. 真实瞬间优先：可信度高于漂亮，在场感高于精致。
-2. 不摆布：构图是发现的框架，不是导演的舞台。
-3. 平凡的光是真实的光：不追"摄影棚完美"。
-4. 画面里有"没准备好"的部分：偶然性是纪实的签名。
+1. The real moment first: credibility above prettiness, presence above refinement.
+2. No arranging: composition is the frame of discovery, not the director's stage.
+3. Ordinary light is real light: do not chase studio perfection.
+4. The frame contains something unprepared: accident is the signature of documentary.
 
-## 核心思维方式
+## Core thinking
 
-与导演派的根本分歧：导演派调度一切，本派**等待与截取**——构图能力体现为"在混乱中认出即将成立的画面并框住它"。思考重心从"安排元素"变为"选择时机与机位"：什么在发生、从哪看最诚实、哪一瞬间信息最完整。
+The root divergence from the Director's school: the Director blocks everything, while this school **waits and frames** — compositional ability shows as recognizing, inside chaos, the frame that is about to hold, and framing it. The center of thought moves from arranging elements to choosing the moment and the position: what is happening, from where it is most honest, and in which instant the information is most complete.
 
-可信度是本派的宪法（D6/authenticity）：平凡光、微不完美、物理一致、偶然元素——四源齐才"在场"。
+Credibility is this school's constitution, per D6/authenticity: ordinary light, controlled imperfection, physical consistency, and accidental elements — all four sources together produce presence.
 
-## 技法库
+## Technique library
 
-1. **平视中立**：默认平视+全景深倾向——不做视觉决定，尊重现场。判据：镜头"不存在"感。
-2. **环境肖像**：主体+工作环境+道具痕迹（人是环境里的人）。见 D1/spatial-allocation 环境人像带。
-3. **决定性瞬间法**：等"形态/关系/光"三点交汇的瞬间——画面内各元素达成的几何平衡。判据：晚一秒早一秒都散。
-4. **前景虚锚**：人群/物体虚化前景做"现场感框"——观者"挤在人群中看"。见 D1/depth-layering。
-5. **偶接入画**：路人局部、飞虫、风吹物——保留一两个不可控元素（真实感签名）。判据：偶接不抢主锚。
-6. **平凡光优先**：阴天、屋灯、窗光——光有平凡出处（D2/direction-quality 动机检查从严执行）。
-7. **微倾斜容忍**：≤5° 的自然倾斜保留（赶拍的真实痕迹）——刻意大于 5° 转导演派语言。
-8. **层次让位于瞬间**：需要时牺牲"标准构图"（切半个人、歪地平线）保瞬间——瞬间价值高于形式完整。判据：牺牲处说得出为什么。
-9. **系列并列**：多帧并列呈现一个现场的多面（不编排因果顺序）——并列即叙事。
-10. **手作感介质**：适度颗粒、自然暗角——相机在场感。见 D6/texture 成像质感。
-11. **静默场景**：无事件画面的纪实（空街、闲置工具）——"人刚离开"的余温叙事。
-12. **克制分离**：少用大虚化（虚化=介入判断）；用明度/层次分离替代。见 D4/dof 边界。
+1. **Neutral eye level**: default eye level with a tendency toward full depth — make no visual decisions, respect the scene. Criterion: the lens feels absent.
+2. **Environmental portrait**: subject plus work environment plus traces of use; a person is a person inside an environment. See D1/spatial-allocation, environmental portrait band.
+3. **Decisive-moment method**: wait for the instant where form, relation, and light converge — the geometric balance of all elements in the frame. Criterion: a second earlier or later and it scatters.
+4. **Defocused foreground anchor**: a crowd or object defocused in the foreground as a presence frame — the viewer crowded in the crowd, looking. See D1/depth-layering.
+5. **Accidental inclusion**: a passerby's fragment, an insect, something moved by wind — keep one or two uncontrollable elements, the signature of realism. Criterion: the accident does not steal the main anchor.
+6. **Ordinary light first**: overcast, house lamps, window light — light with an ordinary source, and motivation checks per D2/direction-quality run strictly.
+7. **Micro-tilt tolerance**: keep a natural tilt of ≤5°, the trace of shooting in a hurry; a deliberate tilt above 5° transfers to the Director's language.
+8. **Layers yield to the moment**: sacrifice standard composition when needed — half a person cut, a tilted horizon — to keep the moment. The moment outranks formal completeness. Criterion: you can say why the sacrifice was worth it.
+9. **Series juxtaposition**: present several facets of one scene side by side, with no causal ordering; juxtaposition is the narrative.
+10. **Handmade medium**: moderate grain, natural vignetting — the camera's presence. See D6/texture, imaging texture.
+11. **Silent scene**: documentary without an event — an empty street, an idle tool — the residual warmth of someone who just left.
+12. **Restrained separation**: avoid heavy defocus, because defocus means intervening with a judgment; separate with value and layers instead. See D4/dof, boundaries.
 
-## 量化判据
+## Quantitative criteria
 
-- 可信度来源 ≥3 项（D6/authenticity 清单）。
-- 拒绝判据命中 0（无影光、瓷面、物理矛盾等）。
-- 机位：平视为主（≥70% 帧数，经验值）。
-- 虚化：克制（背景可辨语境优于奶油虚）。
-- 偶然元素 1–2 个/帧。
-- 倾斜 ≤5°（超出即宣言需配套）。
+- Credibility sources ≥3, per the D6/authenticity list.
+- Rejection criteria hits 0: no shadowless light, no porcelain skin, no physical contradiction, and so on.
+- Camera position: eye level dominant, ≥70% of frames (empirical).
+- Defocus: restrained; a recognizable background beats creamy blur.
+- Accidental elements 1–2 per frame.
+- Tilt ≤5°; beyond that it is a declaration and needs support.
 
-## 适用场景
+## Applicable scenes
 
-- 纪实摄影向、街头、生活方式、新闻感插画、纪录片帧、"真实感"商业图（生活方式营销）。
-- 诉求关键词：真实、自然、抓拍感、生活、在场、质感。
-- 组图角色：真实感锚帧（序列里的"现场"）。
+- Documentary photography, street, lifestyle, news-feeling illustration, documentary frames, realism-driven commercial images such as lifestyle marketing.
+- Keywords: real, natural, candid, life, presence, texture.
+- Role in a series: the realism anchor frame — the scene inside the sequence.
 
-## 与他派差异
+## Differences from other schools
 
-| 对照派 | 分界线 |
+| Compared school | Line |
 |---|---|
-| 电影导演派 | 导演摆布一切 vs 纪实等待截取——同是"叙事"，控制谱两端 |
-| 潮流数媒派 | 数媒派打破 AI 平庸用"激进手段"；纪实用"平凡手段"（真实本身就是反 AI 味） |
-| 经典学院派 | 学院派形式完整优先；纪实允许为瞬间牺牲形式——"决定性瞬间"常常不是标准构图 |
+| Cinematic Director | The Director arranges everything; documentary waits and frames — both are narrative, at opposite ends of the control spectrum |
+| Digital Trend | Digital Trend breaks AI mediocrity with radical means; documentary uses ordinary means, because reality itself is anti-AI-slop |
+| Classical Academy | The academy prioritizes formal completeness; documentary will sacrifice form for the moment — the decisive moment is often not standard composition |
 
-## 反例与边界
+## Counterexamples and boundaries
 
-- 反例 1：摆拍却装纪实（调度痕迹+完美光+完美构图）——两头不靠，最假。摆布就转导演派并承认。
-- 反例 2："脏乱差=真实"——不完美是纪律不是懈怠（构图仍须成立，边缘事故仍是事故）。
-- 反例 3：大虚化+黄金时刻+仰拍英雄角的"纪实"——滤镜化的假纪实。可信度四源逐一检查。
-- 边界：涉及真实人物/事件的表现需遵守内容伦理（不伪造新闻性、不冒充实拍）——本派是视觉语言，不是真实性声明。
+- Counterexample 1: staged work pretending to be documentary, with blocking traces plus perfect light plus perfect composition — neither here nor there, and the falsest option. If you block, switch to the Director's school and admit it.
+- Counterexample 2: treating dirty and messy as real — imperfection is discipline, not neglect. Composition must still hold, and an edge accident is still an accident.
+- Counterexample 3: heavy defocus plus golden hour plus heroic low angle sold as documentary — filter-faked reality. Check the four credibility sources one by one.
+- Boundary: depictions involving real people or events must follow content ethics — no fabricated news, no pretending to be an actual photograph. This school is a visual language, not a claim of truth.
 
-## 连接
+## Connections
 
-- 可信度宪法：D6/authenticity、texture
-- 平凡光与动机：D2/direction-quality
-- 环境与层次：D1/depth-layering、spatial-allocation
-- 反 AI 味的另一个方向：modes/schools/digital-trend.md
+- Credibility constitution: D6/authenticity, texture
+- Ordinary light and motivation: D2/direction-quality
+- Environment and layers: D1/depth-layering, spatial-allocation
+- The other direction away from AI-slop: modes/schools/digital-trend.md

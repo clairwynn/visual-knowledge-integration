@@ -1,61 +1,61 @@
-# 流派导航（Schools Index）
+# Schools Index
 
-> 本文件管：12 个设计思路流派的导航与选择决策树。
-> 怎么用：构思（ideate）与评审对比（compare）任务的**必读第一站**——SKILL.md 第三步硬路由的落点：先在此走决策树选主派，再读所选派文件的"核心思维方式＋技法库＋量化判据"三节；用户点名流派时直接进入对应文件。
+> This file manages the navigation and selection decision tree for twelve design schools.
+> How to use: the mandatory first stop for ideate and compare tasks — the landing point of the Step 3 hard routing in `SKILL.md`. Run the decision tree here to choose the primary school, then read the "core thinking + technique library + quantitative criteria" sections of the chosen file. When the user names a school, go directly to its file.
 
-## 十二派一句话清单
+## The twelve schools, one line each
 
-| 流派 | 文件 | 一句话思想 |
+| School | File | One-line idea |
 |---|---|---|
-| 经典学院派 | classical-academy.md | 三分、黄金、平衡与和谐是可计算的秩序 |
-| 东方画理派 | eastern-painting.md | 计白当黑：空的地方才是画 |
-| 电影导演派 | cinematic-director.md | 画面是叙事的一格：机位即态度，光影即台词 |
-| 格式塔心理派 | gestalt-psychology.md | 观众的眼睛如何完形，决定画面被如何感知 |
-| 极简减法派 | minimalist.md | 画面是减出来的：删到不能再删 |
-| 平面构成派 | graphic-constructivism.md | 版面即结构：网格、层级、构成先于装饰 |
-| 摄影纪实派 | documentary.md | 真实瞬间优先：可信度高于漂亮 |
-| 商业实战派 | commercial.md | 图片是拿来用的：量化判据、转化友好 |
-| 摄影光学派 | optics.md | 构图是光学的产物：焦段与景深决定空间 |
-| 风格美学派 | aesthetics.md | 风格是可拆解的谱系：好看可以打分 |
-| 潮流数媒派 | digital-trend.md | 识别中位数默认值，主动打破数字平庸 |
-| 观念反叛派 | conceptual-rebel.md | 反美学即方法：错的构图制造张力 |
+| Classical Academy | classical-academy.md | Thirds, golden section, balance and harmony as computable order |
+| Eastern Painting | eastern-painting.md | Treat blank space as substance: the empty place is the painting |
+| Cinematic Director | cinematic-director.md | The frame is one cell of the narrative: camera position is attitude, light is dialogue |
+| Gestalt Psychology | gestalt-psychology.md | How the viewer's eye groups decides how the frame is perceived |
+| Minimalist Subtraction | minimalist.md | The frame is subtracted: delete until nothing more can go |
+| Graphic Constructivism | graphic-constructivism.md | Layout is structure: grid, hierarchy, and construction before decoration |
+| Documentary Photography | documentary.md | The real moment first: credibility above prettiness |
+| Commercial Practice | commercial.md | The image is meant to be used: quantified criteria, conversion-friendly |
+| Photographic Optics | optics.md | Composition is a product of optics: focal length and depth of field decide space |
+| Style Aesthetics | aesthetics.md | Style is a decomposable lineage: beauty can be scored |
+| Digital Trend | digital-trend.md | Recognize the median default and break digital mediocrity |
+| Conceptual Rebel | conceptual-rebel.md | Anti-aesthetics as method: the wrong composition manufactures tension |
 
-## 选择决策树
+## Selection decision tree
 
 ```
-画面任务是什么性质？
-├─ 有明确用途/平台/转化目标（电商、封面、卡片、海报）
-│   ├─ 需要可信可读 → 商业实战派
-│   └─ 需要版面感/文字配合 → 平面构成派
-├─ 有情绪/叙事目标
-│   ├─ 讲一个瞬间/故事 → 电影导演派
-│   ├─ 宁静/意境/呼吸 → 东方画理派
-│   ├─ 孤独/崇高/极简 → 极简减法派
-│   └─ 真实感/在场感 → 摄影纪实派
-├─ 有"为什么这样排"的求知需求
-│   ├─ 解释感知机制 → 格式塔心理派
-│   └─ 解释空间结构 → 摄影光学派
-├─ 有形式正统/经典美诉求 → 经典学院派
-├─ 有"好看但说不出"的分析需求 → 风格美学派
-├─ 有"AI 味/平庸感"的困扰 → 潮流数媒派
-└─ 有"打破/刺激/难忘"的诉求 → 观念反叛派（野狗档知识后盾）
+What is the nature of the frame task?
+├─ Clear use / platform / conversion goal (e-commerce, cover, card, poster)
+│   ├─ Needs credibility and readability → Commercial Practice
+│   └─ Needs layout sense / text accommodation → Graphic Constructivism
+├─ Emotional or narrative goal
+│   ├─ Tell a moment / a story → Cinematic Director
+│   ├─ Serenity / mood / breathing → Eastern Painting
+│   ├─ Solitude / sublime / minimal → Minimalist Subtraction
+│   └─ Realism / presence → Documentary Photography
+├─ Wants to know "why arranged this way"
+│   ├─ Explain perceptual mechanism → Gestalt Psychology
+│   └─ Explain spatial structure → Photographic Optics
+├─ Formal orthodoxy / classical beauty → Classical Academy
+├─ "It looks good but I can't say why" analysis → Style Aesthetics
+├─ Troubled by "AI-slop / mediocrity" → Digital Trend
+└─ Wants "break / provoke / unforgettable" → Conceptual Rebel (knowledge backing of the Wild Dog tier)
 ```
 
-## 主备搭配惯例（经验值）
+## Primary-secondary pairing conventions (empirical)
 
-- 默认双派制：主派定结构，备派供校验。常用组合：
-  - 学院派（主）+ 格式塔（校验感知）
-  - 导演派（主）+ 光学派（校验物理）
-  - 极简派（主）+ 东方画理（留白深化）
-  - 商业派（主）+ 平面构成（版面）
-  - 数媒派（主）+ 观念反叛（打破默认）
-- 混派纪律：一次最多两派（多了没有立场）；两派冲突时主派说了算。
+- Default dual-school rule: the primary school fixes structure, the secondary school provides verification. Common combinations:
+  - Classical (primary) + Gestalt (verify perception)
+  - Director (primary) + Optics (verify physics)
+  - Minimalist (primary) + Eastern Painting (deepen negative space)
+  - Commercial (primary) + Graphic Constructivism (layout)
+  - Digital Trend (primary) + Conceptual Rebel (break the default)
+- Mixing discipline: at most two schools at a time — more and there is no position; on conflict the primary school decides.
 
-## 与体验档的联动
+## Interaction with the experience tiers
 
-- 专家档：点名为主，VKI 建议需给理由。
-- 经理档：VKI 自动推荐主+备并说明理由（本文件决策树是推荐引擎）。
-- 甲方档：自动选派，用生活语言转述，不出现派名。
-- 野狗档：强制观念反叛派+随机杂交一派。
+- Expert: naming dominates; VKI suggestions must carry reasons.
+- Manager: VKI auto-recommends a primary plus a secondary and states the reason (this decision tree is the recommendation engine).
+- Client: auto-selection, restated in everyday language, school names never appear.
+- Wild Dog: Conceptual Rebel mandatory plus one randomly hybridized school.
 
-各流派文件的统一结构：宣言 / 核心思维方式 / 技法库 / 量化判据 / 适用场景 / 与他派差异 / 反例与边界。
+Uniform structure of every school file: manifesto / core thinking / technique library / quantitative criteria / applicable scenes / differences from other schools / counterexamples and boundaries.

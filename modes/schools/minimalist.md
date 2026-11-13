@@ -1,66 +1,66 @@
-# 极简减法派（Minimalist Subtraction）
+# Minimalist Subtraction
 
-## 宣言
+## Manifesto
 
-1. 画面是减出来的：每加一个元素都要辩论，每删一个元素都是进步。
-2. 少不是目的，清楚才是：减到"一个主体+一片有质地的空"为止。
-3. 极简的难点不是空，是空得有内容。
-4. 主体越少，主体的每寸质量要求越高。
+1. The frame is subtracted: every added element must be argued for, every deleted element is progress.
+2. Less is not the goal; clarity is: subtract until one subject plus one textured emptiness remains.
+3. The difficulty of minimalism is not the emptiness but making the emptiness carry content.
+4. The fewer the subjects, the higher the quality demanded of every inch of the subject.
 
-## 核心思维方式
+## Core thinking
 
-与其他流派的根本差异：多数流派做"组织"（怎么安排一堆元素），本派做"淘汰"（哪些元素没资格在）。思考顺序倒置：先想"最少需要什么才能说出这句话"，再想"删掉谁"——设计即减法的记录。
+The root difference from other schools: most schools organize (how to arrange a pile of elements); this school eliminates (which elements have no right to be here). The thinking order is inverted: first ask what is the minimum needed to say this sentence, then ask whom to delete — design is the record of subtraction.
 
-判定的终局问题："还能再删吗？"答案连续三次为"不能"，画面成立。
+The final question of judgement: "can anything else go?" When the answer is "no" three times in a row, the frame holds.
 
-## 技法库
+## Technique library
 
-1. **一画一意**：单幅只表达一个意念；第二个念头另开一张。判据：画面意图能写成一句话且无"和/也"。
-2. **去除测试循环**：逐元素做去除测试（D5/tests），删掉"删了更好"的一切。循环至无元素可删。
-3. **负空间主体化**：留白 ≥60% 且质感化（雾/纯色渐变/水面）——空是第二主体。见 D1/spatial-allocation。
-4. **日之丸**：单团块居中+均匀空——极简的仪式形态。适用：圆形/紧凑主体。
-5. **极简三分**：不删到只剩中心，而是"主体+一条必要的线"（地平线/墙线）——线是第二元素，提供空间坐标。
-6. **色彩减法**：色板 2–3 色（常为无彩底+单强调）。见 D3/palette-strategy 双色系。
-7. **剪影提纯**：删细节留轮廓——形状即全部信息。判据：轮廓独特可辨。
-8. **大面积单光**：均匀光+微方向（避免戏剧阴影——阴影是额外信息）。见 D2/light-fundamentals。
-9. **微纹理防塑料**：极简≠无质感——留白区有纸纹/颗粒/渐变，主体有材质。见 D6/texture。
-10. **负形设计**：让空读出形（闭合+计白当黑）。见 D5/gestalt。
-11. **单点运动**：唯一动势元素（一只飞鸟/一缕烟）给静态画面注入时间。判据：动势元素唯一。
-12. **字位预埋**：海报类极简为文字预留"气口"（留白设计时就定字位）。
+1. **One frame, one idea**: a single image expresses one idea; a second thought starts a second image. Criterion: the frame's intent fits into one sentence with no "and" or "also".
+2. **Removal-test loop**: run the removal test on every element (D5/tests) and delete everything that improves when removed. Loop until nothing more can go.
+3. **Negative space as subject**: negative space ≥60% and textured (mist, solid gradient, water surface) — the emptiness is the second subject. See D1/spatial-allocation.
+4. **Sun-disc**: a single mass centered with even emptiness — the ritual form of minimalism. Use: round or compact subjects.
+5. **Minimal thirds**: do not delete down to the center only; keep "subject plus one necessary line" (horizon or wall line) — the line is the second element providing spatial coordinates.
+6. **Color subtraction**: a palette of 2–3 colors, usually an achromatic ground plus a single accent. See D3/palette-strategy, two-color system.
+7. **Silhouette purification**: delete detail, keep contour — shape becomes the whole information. Criterion: a distinctive, recognizable outline.
+8. **Large-area single light**: even light with slight direction (avoid dramatic shadows, which are extra information). See D2/light-fundamentals.
+9. **Micro-texture against plastic**: minimalism is not absence of texture — the empty area carries paper grain, grain, or gradient, and the subject carries material. See D6/texture.
+10. **Negative-form design**: let the emptiness read as a shape (closure plus blank-as-substance). See D5/gestalt.
+11. **Single-point motion**: one moving element (a bird in flight, a wisp of smoke) injects time into a static frame. Criterion: the moving element is unique.
+12. **Pre-set type position**: poster-style minimalism reserves a breathing slot for the text — the type position is fixed when the negative space is designed.
 
-## 量化判据
+## Quantitative criteria
 
-- 元素数：主体 1（+至多 1 个次级元素：线/点/影）。
-- 留白 50–90%，质感化，方向设计。
-- 色板 ≤3 色相。
-- 主体占比 10–35%。
-- 三次"还能删吗"测试全为否。
-- 明度层级 ≥3 级（防灰平）。
+- Element count: 1 subject, plus at most 1 secondary element (a line, a point, a shadow).
+- Negative space 50–90%, textured, directionally designed.
+- Palette ≤3 hues.
+- Subject share 10–35%.
+- Three rounds of "can anything else go" all answered no.
+- Value hierarchy ≥3 levels (against gray flatness).
 
-## 适用场景
+## Applicable scenes
 
-- 海报、封面、奢侈品、科技公司视觉、头像、图标级画面、情绪单曲（孤独/平静/崇高）。
-- 诉求关键词：高级、干净、呼吸、安静、极简、性冷淡风。
-- 组图角色：序列中的"呼吸帧"（信息帧之间的留白帧）。
+- Posters, covers, luxury goods, technology-company visuals, avatars, icon-level frames, single-mood pieces (solitude, calm, sublime).
+- Keywords: high-end, clean, breathing, quiet, minimal, cool.
+- Role in a series: the breathing frame, the interval of emptiness between information frames.
 
-## 与他派差异
+## Differences from other schools
 
-| 对照派 | 分界线 |
+| Compared school | Line |
 |---|---|
-| 东方画理派 | 极简删到"少"；东方经营"势"——极简的空是减法结果，东方的空是构图起点（物可以不少） |
-| 平面构成派 | 构成派用网格组织多元素；极简删到不需要网格——元素 ≥4 归构成派 |
-| 商业实战派 | 商业要信息效率（该有的都有）；极简要认知效率（能没有的都没有）——转化页归商业，品牌帧归极简 |
+| Eastern Painting | Minimalism deletes down to "few"; Eastern Painting manages "momentum" — the minimalist void is the result of subtraction, the Eastern void is the starting point of composition (the objects need not be few) |
+| Graphic Constructivism | Constructivism organizes many elements with a grid; minimalism deletes until no grid is needed — four or more elements go to Constructivism |
+| Commercial Practice | Commerce wants information efficiency (everything necessary is there); minimalism wants cognitive efficiency (everything unnecessary is gone) — conversion pages to commerce, brand frames to minimalism |
 
-## 反例与边界
+## Counterexamples and boundaries
 
-- 反例 1：空而无物（纯色背景+小主体但空无质感无方向）——极简变偷懒。空必须"是什么"。
-- 反例 2：极简+高饱和大色块对撞——那已是构成主义的游戏，不是极简。
-- 反例 3：主体平庸还极简——减法放大主体的一切缺点（没有元素分散注意了）。极简对主体质量要求最高。
-- 边界：信息密集需求（说明书、促销页）不适用本派——删无可删还嫌多时，换平面构成派。
+- Counterexample 1: emptiness with nothing in it (a solid background plus a small subject, no texture and no direction) — minimalism becomes laziness. The emptiness must be something.
+- Counterexample 2: minimalism plus clashing high-saturation blocks — that is already a Constructivist game, not minimalism.
+- Counterexample 3: minimalism applied to a mediocre subject — subtraction magnifies every flaw in the subject, because nothing else shares the attention. Minimalism demands the highest subject quality.
+- Boundary: information-dense needs (manuals, promotional pages) are outside this school — when you have deleted everything deletable and it is still too much, switch to Graphic Constructivism.
 
-## 连接
+## Connections
 
-- 占比与留白：D1/spatial-allocation
-- 图底与孤立：D5/figure-ground、attention
-- 色彩减法：D3/palette-strategy
-- 质感防塑料：D6/texture
+- Share and negative space: D1/spatial-allocation
+- Figure-ground and isolation: D5/figure-ground, attention
+- Color subtraction: D3/palette-strategy
+- Texture against plastic: D6/texture
