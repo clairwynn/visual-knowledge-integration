@@ -1,77 +1,77 @@
-# D1 · 画幅学（Aspect Ratio）
+# D1 · Aspect Ratio
 
-> 本文件管：画幅比例的选择逻辑、画幅×题材映射、画幅与构图型的匹配、裁切安全区。
-> 怎么用：任何画面任务的**第一步**先查本文件定画幅，再进入构图型选择（见 composition-types）。画幅未定之前，其余一切构图决策都不应展开。
+> This file covers: the logic of choosing an aspect ratio, the aspect-ratio-to-subject mapping, the matching of aspect ratio to composition type, and the cropping safe area.
+> How to use: the **first step** of any frame task — check this file to fix the aspect ratio, then move to composition-type selection (see composition-types). Until the aspect ratio is settled, no other composition decision should be opened.
 
-## 定义
+## Definition
 
-画幅（aspect ratio）＝画面的长宽比例与方向，是画面的第一骨架。它决定内容如何延展、视线如何流动、主体如何呼吸，先于构图型、机位、光色存在。
+Aspect ratio = the width-to-height proportion and orientation of the frame, the first skeleton of the image. It decides how content extends, how the eye travels, and how the subject breathes; it exists before composition type, camera position, light, and color.
 
-**画幅先定原则（硬规则）**：一切画面决策从画幅开始。画幅职责未明时做的构图设计，会在最后一步被迫推翻。
+**Aspect ratio first (hard rule)**: every frame decision begins with the aspect ratio. Composition designed while the ratio's role is still unclear will be forced to collapse at the final step.
 
-## 机制
+## Mechanism
 
-画幅是"取景器的形状"，它预设了三类信息：
+The aspect ratio is "the shape of the viewfinder". It presets three kinds of information:
 
-1. **延展方向**：横幅把注意力导向左右（环境、并置、运动），竖幅导向上下（纵深、高度、单主体），方幅向中心收拢（静观、对称）。
-2. **呼吸空间**：同等内容在竖幅中天然获得更多上下留白，在横幅中获得更多左右延展——这直接改变负空间结构（见 spatial-allocation）。
-3. **观看场景**：画幅常由观看媒介倒推（手机竖屏、影院横幕、正方卡片），媒介即画幅的第一约束。
+1. **Direction of extension**: a horizontal frame channels attention left-right (environment, juxtaposition, movement); a vertical frame channels it up-down (depth, height, single subject); a square frame gathers toward the center (contemplation, symmetry).
+2. **Breathing room**: the same content naturally gains more top-bottom space in a vertical frame and more left-right extension in a horizontal one — which directly changes the negative-space structure (see spatial-allocation).
+3. **Viewing context**: the aspect ratio is often derived backwards from the viewing medium (phone portrait screen, cinema screen, square card); the medium is the ratio's first constraint.
 
-## 判据
+## Criteria
 
-### 常用画幅职责表
+### Common aspect-ratio roles
 
-| 画幅 | 方向 | 擅长 | 典型题材 |
+| Ratio | Orientation | Good at | Typical subjects |
 |---|---|---|---|
-| 1:1 | 方 | 居中对称、静物、头像、图案化 | 社交卡片、产品图、图标 |
-| 4:3 / 3:2 | 横 | 通用环境叙事、风景、双人对话 | 摄影、插画场景 |
-| 16:9 | 宽横 | 电影感、全景、多人物并置 | 影视帧、横幅封面 |
-| 21:9 | 超宽 | 史诗全景、水平线条、孤独感 | 电影海报内页、桌面壁纸 |
-| 3:4 / 2:3 | 竖 | 全身人像、纵向引导（塔/树/楼梯） | 海报、封面、人像 |
-| 9:16 | 长竖 | 移动端全屏、单主体特写、纵深感 | 短视频帧、手机壁纸、故事卡 |
+| 1:1 | Square | Centered symmetry, still life, headshots, pattern | Social cards, product shots, icons |
+| 4:3 / 3:2 | Horizontal | General environmental narrative, landscape, two-person dialogue | Photography, illustration scenes |
+| 16:9 | Wide horizontal | Cinematic feel, panorama, multi-figure juxtaposition | Film frames, banner covers |
+| 21:9 | Ultra-wide | Epic panorama, horizontal lines, solitude | Film-poster interiors, desktop wallpapers |
+| 3:4 / 2:3 | Vertical | Full-body portrait, vertical leading (towers / trees / stairs) | Posters, covers, portraits |
+| 9:16 | Tall vertical | Mobile full screen, single-subject close-up, depth | Short-video frames, phone wallpapers, story cards |
 
-### 题材×画幅映射（经验值）
+### Subject × aspect ratio mapping (rules of thumb)
 
-| 题材 | 首选 | 次选 | 理由 |
+| Subject | First choice | Second choice | Reason |
 |---|---|---|---|
-| 单人全身像 | 2:3 / 3:4 | 9:16 | 纵向容纳身形+脚下留白 |
-| 面部特写 | 1:1 / 4:5 | 3:4 | 面孔在方幅中张力最稳 |
-| 风景全景 | 16:9 / 21:9 | 3:2 | 水平延展容纳地平线 |
-| 建筑/塔楼 | 2:3 | 9:16 | 纵向强调高度 |
-| 美食俯拍 | 1:1 / 4:5 | 3:4 | 桌面几何与方幅同构 |
-| 双人对话 | 3:2 / 16:9 | 4:3 | 横向容纳对峙/交流轴线 |
-| 多物件平铺 | 1:1 / 4:3 | — | 网格化排布需要规整边框 |
-| 产品主图 | 1:1 | 3:4 | 平台规范+居中聚焦 |
+| Single full-body portrait | 2:3 / 3:4 | 9:16 | Vertical room for the figure plus space under the feet |
+| Facial close-up | 1:1 / 4:5 | 3:4 | A face holds its steadiest tension in a square frame |
+| Landscape panorama | 16:9 / 21:9 | 3:2 | Horizontal extension carries the horizon |
+| Architecture / towers | 2:3 | 9:16 | Vertical emphasis on height |
+| Food shot from above | 1:1 / 4:5 | 3:4 | Tabletop geometry is isomorphic with a square frame |
+| Two-person dialogue | 3:2 / 16:9 | 4:3 | Horizontal room for the confrontation or exchange axis |
+| Multiple objects laid flat | 1:1 / 4:3 | — | Grid layout needs a regular border |
+| Product hero shot | 1:1 | 3:4 | Platform convention plus centered focus |
 
-### 画幅与构图型匹配
+### Aspect ratio and composition-type matching
 
-- 竖幅＋水平构图型（全景横陈）＝互相打架，画面两侧大量死空。
-- 横幅＋强纵向构图型（单塔直立）＝塔被画幅裁断或两侧死空；改用竖幅或改为横向群组。
-- 方幅最适配：居中对称、日之丸、图案重复、单静物。
-- 超宽幅天然要求引导线（道路/河流/光带）把左右串起来，否则成为两个画面。
+- Vertical frame plus a horizontal composition type (panorama laid across) = mutual conflict; large dead areas on both sides.
+- Horizontal frame plus a strongly vertical composition type (a single tower standing) = the tower is cut by the frame or dead space opens on both sides; switch to vertical or convert to a horizontal group.
+- The square frame suits best: centered symmetry, sun-disc, pattern repetition, a single still object.
+- The ultra-wide frame inherently demands leading lines (road / river / band of light) to thread left and right together, or it becomes two images.
 
-## 裁切安全区
+## Cropping safe area
 
-- **中央安全区**：当下游裁切方式不可预知（平台自动裁切、多尺寸投放）时，主体关键信息与文字放入中央 60–80% 区域，边缘 10–20% 视为可牺牲带。
-- **底部避让带**：面向视频帧/弹幕场景的画面，底部约 15–20%（经验值）不放关键视觉元素，留给字幕与界面。
-- **头部留白**：竖幅人像顶部预留 5–10% 缓冲，防平台顶部裁切（详见 D4/framing-room）。
+- **Central safe area**: when downstream cropping cannot be predicted (platform auto-crop, multi-size delivery), keep the subject's key information and any text inside the central 60–80%, and treat the outer 10–20% as a sacrifice band.
+- **Bottom avoidance band**: for frames aimed at video frames or comment-overlay contexts, keep roughly the bottom 15–20% (rule of thumb) free of key visual elements, reserved for subtitles and interface.
+- **Headroom**: leave 5–10% buffer at the top of a vertical portrait to survive platform top-cropping (details in D4/framing-room).
 
-## 边界
+## Boundaries
 
-- 画幅由媒介硬约束时（平台规定尺寸），设计自由度转移到构图型与空间分配；此时更要用足"画幅职责"，不要与画幅对着干。
-- 竖幅画面中避免以横向思维构图（全景横陈、wide 类语言），横幅中同理——画幅与语言方向不一致是"画面别扭"的隐性根因。
-- 1:1 不是"哪边都不亏"的万能解：它在需要方向性叙事时两头不靠。
+- When the aspect ratio is hard-constrained by the medium (platform-mandated size), design freedom shifts to composition type and spatial allocation; in that case use the ratio's "role" fully rather than fighting it.
+- In a vertical frame avoid composing with horizontal thinking (panorama laid across, "wide" language); the same in reverse — a mismatch between the frame and the language's direction is the hidden root cause of a frame that "feels wrong".
+- 1:1 is not the universal "nothing lost either way" answer: when directional narrative is needed it satisfies neither side.
 
-## 反例
+## Counterexamples
 
-- 反例 1：16:9 横幅里画一根独株大树居中——左右两半沦为装饰性空白，主体孤悬。修法：改 2:3 竖幅让树撑满纵向，或横幅中把树偏置并加地平线延展。
-- 反例 2：9:16 手机壁纸塞入群像——人脸缩到不可辨。多人物要么横幅，要么改为单人+暗示物。
-- 反例 3：封面图把标题字放在顶部 10%——平台裁切直接吃掉。修法：入中央安全区。
+- Counterexample 1: a single tall tree centered in a 16:9 horizontal frame — the left and right halves become decorative emptiness and the subject hangs isolated. Fix: switch to 2:3 vertical so the tree fills the height, or offset the tree in the horizontal frame and extend the horizon.
+- Counterexample 2: a group portrait crammed into a 9:16 phone wallpaper — faces shrink beyond recognition. Multiple figures need a horizontal frame, or a change to one figure plus an implied crowd.
+- Counterexample 3: a cover image with the title placed in the top 10% — platform cropping eats it. Fix: bring it into the central safe area.
 
-## 与其他文件的连接
+## Connections to other files
 
-- 画幅定完→构图型选择：见 composition-types-1/2
-- 画幅内的空间分配与留白：见 spatial-allocation
-- 画幅内的取景缓冲（headroom/lead room）：见 D4/framing-room
-- 多图序列的画幅一致性决策：见 modes/function/sequence.md
-- 底部避让带的判图检查：见 D7/fault-library（边缘事故类）
+- After the ratio is fixed → composition-type selection: see composition-types-1/2
+- Spatial allocation and negative space inside the ratio: see spatial-allocation
+- Framing buffers inside the ratio (headroom / lead room): see D4/framing-room
+- Aspect-ratio consistency across an image sequence: see modes/function/sequence.md
+- Review check of the bottom avoidance band: see D7/fault-library (edge-accident family)
